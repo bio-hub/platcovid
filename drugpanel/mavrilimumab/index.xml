@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/mavrilimumab/</link>
+      <atom:link href="/drugpanel/mavrilimumab/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/mavrilimumab/</link>
+    </image>
+    
+    <item>
+      <title>MAVRILIMUMAB</title>
+      <link>/drugpanel/mavrilimumab/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/mavrilimumab/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db12534&#39; target=&#39;_blank&#39;&gt;db12534&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=mavrilimumab&#34; target=&#34;_blank&#34;&gt;mavrilimumab&lt;/a&gt; &lt;br&gt;
+Synonymous :cam-3001
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;mavrilimumab&lt;/em&gt; gene in 9 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32719685&#34; target=&#34;_blank&#34;&gt;32719685&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Initial findings from patients with COVID-19 treated with a single intravenous dose of mavrilimumab, a monoclonal antibody binding GM-CSF receptor α, showed oxygenation improvement and shorter hospitalization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32835256&#34; target=&#34;_blank&#34;&gt;32835256&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We aimed to examine whether mavrilimumab, an anti-granulocyte-macrophage colony-stimulating factor receptor-α monoclonal antibody, added to standard management, improves clinical outcomes in patients with COVID-19 pneumonia and systemic hyperinflammation. […] Patients received a single intravenous dose (6 mg/kg) of mavrilimumab added to standard care given by the hospital at the time. […] Between March 17 and April 15, 2020, 13 non-mechanically ventilated patients (median age 57 years [IQR 52-58], 12 [92%] men) received mavrilimumab and 26 patients (median age 60 [IQR 53-67], 17 [65%] men) in the control group received standard care. […] During the 28-day follow-up, no patients in the mavrilimumab group died, and seven (27%) patients in the control group died (p=0·086). […] At day 28, all patients in the mavrilimumab group and 17 (65%) patients in the control group showed clinical improvement (p=0·030), with earlier improvement in the mavrilimumab than in the control group (mean time to improvement 8 days [IQR 5 to 11] vs 19 days [11 to &amp;gt;28], p=0·0001). […] By day 28, one (8%) patient in the mavrilimumab group progressed to mechanical ventilation compared with nine (35%) patients in the control group who progressed to mechanical ventilation or died (p=0·14). […] By day 14, fever resolved in ten (91%) of 11 febrile patients in the mavrilimumab group, compared with 11 (61%) of 18 febrile patients in the control group (p=0·18); fever resolution was faster in mavrilimumab recipients versus controls (median time to resolution 1 day [IQR 1 to 2] vs 7 days [3 to &amp;gt;14], p=0·0093). […] Mavrilimumab was well tolerated, with no infusion reactions. […] Mavrilimumab treatment was associated with improved clinical outcomes compared with standard care in non-mechanically ventilated patients with severe COVID-19 pneumonia and systemic hyperinflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

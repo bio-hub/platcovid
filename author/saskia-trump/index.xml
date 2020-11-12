@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saskia Trump | PlatCOVID</title>
+    <link>/author/saskia-trump/</link>
+      <atom:link href="/author/saskia-trump/index.xml" rel="self" type="application/rss+xml" />
+    <description>Saskia Trump</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Saskia Trump</title>
+      <link>/author/saskia-trump/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 severity correlates with airway epithelium-immune cell interactions identified by single-cell analysis.</title>
+      <link>/publication/32591762/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32591762/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

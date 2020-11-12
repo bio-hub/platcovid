@@ -33,7 +33,7 @@ Synonymous :atazanavir | atazanavirum | atz
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;atazanavir&lt;/em&gt; gene in 5 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;atazanavir&lt;/em&gt; gene in 17 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -77,6 +77,110 @@ Interaction with SARS-CoV-2 helicase, approved drugs, vapreotide (affinity: -12.
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Hydroxychloroquine, chloroquine, mefloquine, atazanavir (ritonavir-boosted), tipranavir (ritonavir-boosted), ivermectin, azithromycin and lopinavir (ritonavir-boosted) were all predicted to achieve lung concentrations over 10-fold higher than their reported EC&lt;sub&gt;50&lt;/sub&gt; .
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32612804&#34; target=&#34;_blank&#34;&gt;32612804&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A preliminary search identified the following drugs as being used to treat COVID-19 symptoms: atazanavir (ATV), azithromycin (AZI), chloroquine (CLQ)/hydroxychloroquine (HCLQ), dipyridamole, famotidine (FAM), favipiravir, lopinavir/ritonavir (LPV/r), nitazoxanide, remdesivir, ribavirin and tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32659126&#34; target=&#34;_blank&#34;&gt;32659126&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Dose modification/avoidance should be considered for chloroquine, atazanavir, oseltamivir, ribavirin, anakinra, and Janus associated kinase inhibitors in patients with organ function impairment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32661006&#34; target=&#34;_blank&#34;&gt;32661006&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Forty-two patients in the interferon group received IFN β-1a in addition to the national protocol medications (hydroxychloroquine plus lopinavir-ritonavir or atazanavir-ritonavir).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32669846&#34; target=&#34;_blank&#34;&gt;32669846&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most dangerous PDDIs were interaction of lopinavir/ritonavir or atazanavir with clopidogrel, prasugrel, and new oral anticoagulants (NOACs).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32698440&#34; target=&#34;_blank&#34;&gt;32698440&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We previously predicted antivirals (atazanavir, remdesivir and lopinavir/ritonavir) and non-antiviral drugs (tiotropium and rapamycin) that may inhibit the replication complex of SARS-CoV-2 using our molecular transformer-drug target interaction (MT-DTI) deep-learning-based drug-target affinity prediction model.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32759267&#34; target=&#34;_blank&#34;&gt;32759267&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Extensive use of atazanavir (ATV) as antiretroviral and previous evidence suggesting its bioavailability within the respiratory tract prompted us to study this molecule against SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32837113&#34; target=&#34;_blank&#34;&gt;32837113&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A few promising leads with dual inhibition potential were identified among FDA approved antiviral drugs which include DB13879 (Glecaprevir), DB09102 (Daclatasvir), molecule DB09297 (Paritaprevir) and DB01072 (Atazanavir).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32853604&#34; target=&#34;_blank&#34;&gt;32853604&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We found that Teicoplanin is about 10-20 fold more potent in inhibiting protease activity than other drugs in use, such as lopinavir, hydroxychloroquine, chloroquine, azithromycin, atazanavir etc.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32857301&#34; target=&#34;_blank&#34;&gt;32857301&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study the efficacy and safety of hydroxychloroquine plus atazanavir/ritonavir was compared in patients with moderate and severe COVID-19. […] The patients received the national treatment protocol containing hydroxychloroquine (400 mg BD in first day and then 200 mg BD) plus atazanavir/ritonavir (300/100 mg daily) for 7 days. […] Our study did not support the use of hydroxychloroquine plus atazanavir/ritonavir in patients who had SpO2 &amp;lt; 90% at the time of hospital admission. […] SpO2 was the only predictor of clinical outcomes (duration of hospital stay, discharge from the hospital and mortality) in patients treated with hydroxychloroquine plus atazanavir/ritonavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32862111&#34; target=&#34;_blank&#34;&gt;32862111&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients in the IFN group received IFN β-1b (250 mcg subcutaneously every other day for two consecutive weeks) along with the national protocol medications while in the control group, patients received only the national protocol medications (lopinavir/ritonavir or atazanavir/ritonavir plus hydroxychloroquine for 7-10 days).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32876224&#34; target=&#34;_blank&#34;&gt;32876224&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The therapeutic agents evaluated were chloroquine/hydroxychloroquine, lopinavir/ritonavir, tocilizumab, oseltamivir, interferon, atazanavir and anti SARS-CoV-2 serum.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32924827&#34; target=&#34;_blank&#34;&gt;32924827&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other drugs such as Indinavir and Atazanavir also showed favourable binding with Cathepsin B/L that helped viral fusion with the host cell membrane. […] These results suggest that protease inhibitors particularly Ritonavir, either alone or in combination with other drugs such as Atazanavir, have the potential to treat COVID 19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33015628&#34; target=&#34;_blank&#34;&gt;33015628&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Classification of eight drug molecules (atazanavir, darunavir, fosamprenavir (amprenavir-metabolised product), saquinavir, lopinavir, ritonavir, nelfinavir, and indinavir) based on their molecular structures was completed and reported. […] The binding scores of the drugs on protease followed the order saquinavir &amp;gt; nelfinavir &amp;gt; lopinavir = indinavir &amp;gt; darunavir &amp;gt; amprenavir &amp;gt; ritonavir &amp;gt; atazanavir.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

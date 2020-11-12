@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/acetylcysteine/</link>
+      <atom:link href="/drugpanel/acetylcysteine/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/acetylcysteine/</link>
+    </image>
+    
+    <item>
+      <title>ACETYLCYSTEINE</title>
+      <link>/drugpanel/acetylcysteine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/acetylcysteine/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db06151&#39; target=&#39;_blank&#39;&gt;db06151&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=acetylcysteine&#34; target=&#34;_blank&#34;&gt;acetylcysteine&lt;/a&gt; &lt;br&gt;
+Synonymous :(2r)-2-acetylamino-3-sulfanylpropanoic acid | (r)-2-acetylamino-3-mercaptopropanoic acid | (r)-mercapturic acid | acetilcisteina | acetylcysteine | acetylcysteinum | l-acetylcysteine | l-α-acetamido-β-mercaptopropionic acid | mercapturic acid | n-acetyl-l-(+)-cysteine | n-acetyl-l-cysteine | n-acetylcysteine | nac
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;acetylcysteine&lt;/em&gt; gene in 5 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32503814&#34; target=&#34;_blank&#34;&gt;32503814&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results support the combination of copper, N-acetylcysteine (NAC), colchicine and nitric oxide (NO) with candidate antiviral agents, remdesivir or EIDD-2801, as a treatment for patients positive for SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32504923&#34; target=&#34;_blank&#34;&gt;32504923&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In vivo, in vitro, and human clinical trials have demonstrated N-acetylcysteine (NAC) as an effective method of improving redox status, especially when under oxidative stress.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32513807&#34; target=&#34;_blank&#34;&gt;32513807&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Because of their potential to influence immune response, ascorbic acid (vitamin C), zinc, vitamin D, and &lt;i&gt;N&lt;/i&gt;-acetylcysteine have been hypothesized to be useful for prevention or treatment of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32560665&#34; target=&#34;_blank&#34;&gt;32560665&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These strategies include nebulized heparin, N-acetylcysteine, plasma exchange and/or fresh frozen plasma, plasma derivatives to increase the level of endogenous anticoagulants (tissue factor pathway inhibitor, activated protein C, thrombomodulin, antithrombin), dipyridamole, complement blockers, different types of stem cells, and extracellular vesicles.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32607398&#34; target=&#34;_blank&#34;&gt;32607398&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therefore, to avoid the increment of OS, we suggest using Leucomethylene Blue through the following protocol: The IV cocktail contains 50 mg MB (1mg/kg, 50-kg weight), 1000-2000 mg vitamin C, 500-1000 mg N-Acetylcysteine (or glutathione or cysteine or α-lipoic acid) and 10-20 gr urea (optional) in 100 ml dextrose 5%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32650197&#34; target=&#34;_blank&#34;&gt;32650197&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Concurrent use of certain nutraceuticals - yeast beta-glucan, zinc, vitamin D, spirulina, phase 2 inducers, N-acetylcysteine, glucosamine, quercetin, and magnesium - might also improve therapeutic outcomes in COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32707089&#34; target=&#34;_blank&#34;&gt;32707089&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, glutathione depletion is reversible by N-acetylcysteine (NAC) administration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32758904&#34; target=&#34;_blank&#34;&gt;32758904&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+N-acetylcysteine is one such drug with potency to scavenge Reactive Oxygen Species, least side effects, and an effective precursor of glutathione. […] Consequently we hypothesize that N-acetylcysteine along with the conventional treatment may be treated as a potential therapeutic solution in cases of COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32764275&#34; target=&#34;_blank&#34;&gt;32764275&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Selected agents were immune transfer factor (oligo- and polypeptides from porcine spleen, ultrafiltered at &amp;lt;10 kDa; Imuno TF®), anti-inflammatory natural blend (Uncaria tomentosa, Endopleura uchi and Haematoccocus pluvialis; Miodesin®), zinc, selenium, ascorbic acid, cholecalciferol, ferulic acid, spirulina, N-acetylcysteine, glucosamine sulfate potassium hydrochloride, trans-resveratrol, and maltodextrin-stabilized orthosilicic acid (SiliciuMax®).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32886632&#34; target=&#34;_blank&#34;&gt;32886632&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other therapies tested until now, like mesna, acetylcysteine, or hypertonic saline solution, are valid alternatives, although they have not shown great efficacy for this specific procedure in the past.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32964918&#34; target=&#34;_blank&#34;&gt;32964918&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We hypothesized that N-acetylcysteine (NAC) administration could restore this redox homeostasis and suppress unfavorable evolution in Covid-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33006138&#34; target=&#34;_blank&#34;&gt;33006138&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here we present two cases of suspected remdesivir-associated acute liver failure (ALF) in which the liver failure improved following continuous infusion acetylcysteine and withdrawal of remdesivir. […] After initiation of continuous infusion acetylcysteine, the transaminases of both patients rapidly improved. […] Additionally, the data for the use of acetylcysteine to manage non-acetaminophen-induced ALF is limited. […] It is important to consider the risk of remdesivir-associated ALF when weighing the risk vs. benefits of use, and acetylcysteine may have a role in its management.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

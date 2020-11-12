@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giuseppe Di Pasquale | PlatCOVID</title>
+    <link>/author/giuseppe-di-pasquale/</link>
+      <atom:link href="/author/giuseppe-di-pasquale/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giuseppe Di Pasquale</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Giuseppe Di Pasquale</title>
+      <link>/author/giuseppe-di-pasquale/</link>
+    </image>
+    
+    <item>
+      <title>[Antithrombotic treatments in patients with SARS-CoV-2 infection: from current evidence to reasonable recommendations - A position paper from the Italian Working Group on Atherosclerosis, Thrombosis and Vascular Biology].</title>
+      <link>/publication/32555564/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32555564/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/3-methyladenine/</link>
+      <atom:link href="/drugpanel/3-methyladenine/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/3-methyladenine/</link>
+    </image>
+    
+    <item>
+      <title>3-METHYLADENINE</title>
+      <link>/drugpanel/3-methyladenine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/3-methyladenine/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db04104&#39; target=&#39;_blank&#39;&gt;db04104&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=3-methyladenine&#34; target=&#34;_blank&#34;&gt;3-methyladenine&lt;/a&gt; &lt;br&gt;
+Synonymous :3-methyl-3h-adenine | 3-methyladenine | 6-amino-3-methylpurine
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;3-methyladenine&lt;/em&gt; gene in 1 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32964796&#34; target=&#34;_blank&#34;&gt;32964796&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Abbreviations: 3-MA: 3-methyladenine (autophagy inhibitor); AKT/protein kinase B: AKT serine/threonine kinase; ATG: autophagy related; ATPase: adenosine triphosphatase; BMM: bone marrow macrophage; CGAS: cyclic GMP-AMP synthase; CHO: Chinese hamster ovary/cell line; CoV: coronaviruses; COVID-19: Coronavirus disease 2019; DMV: double-membrane vesicle; EAV: equine arteritis virus; EDEM1: ER degradation enhancing alpha-mannosidase like protein 1; ER: endoplasmic reticulum; ERAD: ER-associated degradation; GFP: green fluorescent protein; HCoV: human coronavirus; HIV: human immunodeficiency virus; HSV: herpes simplex virus; IBV: infectious bronchitis virus; IFN: interferon; LAMP1: lysosomal associated membrane protein 1; MAP1LC3/LC3: microtubule associated protein 1 light chain 3; MCoV: mouse coronavirus; MERS-CoV: Middle East respiratory syndrome coronavirus; MHV: mouse hepatitis virus; NBR1: NBR1 autophagy cargo receptor; CALCOCO2/NDP52: calcium binding and coiled-coil domain 2 (autophagy receptor that directs cargo to phagophores); nsp: non-structural protein; OS9: OS9 endoplasmic reticulum lectin; PEDV: porcine epidemic diarrhea virus; PtdIns3K: class III phosphatidylinositol 3-kinase; PLP: papain-like protease; pMEF: primary mouse embryonic fibroblasts; SARS-CoV: severe acute respiratory syndrome coronavirus; SKP2: S-phase kinase associated protein 2; SQSTM1: sequestosome 1; STING1: stimulator of interferon response cGAMP interactor 1; ULK1: unc-51 like autophagy activating kinase 1; Vps: vacuolar protein sorting.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

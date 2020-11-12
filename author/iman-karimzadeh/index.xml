@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iman Karimzadeh | PlatCOVID</title>
+    <link>/author/iman-karimzadeh/</link>
+      <atom:link href="/author/iman-karimzadeh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iman Karimzadeh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Iman Karimzadeh</title>
+      <link>/author/iman-karimzadeh/</link>
+    </image>
+    
+    <item>
+      <title>Pharmacotherapy for reducing saliva and droplet production in airborne procedures may help to decrease the COVID-19 transmission: A hypothesis.</title>
+      <link>/publication/32535455/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32535455/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

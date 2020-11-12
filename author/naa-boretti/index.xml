@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAA Boretti | PlatCOVID</title>
+    <link>/author/naa-boretti/</link>
+      <atom:link href="/author/naa-boretti/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAA Boretti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAA Boretti</title>
+      <link>/author/naa-boretti/</link>
+    </image>
+    
+    <item>
+      <title>Covid19 pandemic as a further driver of water scarcity in Africa.</title>
+      <link>/publication/32863544/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32863544/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>After Less Than 2 Months, the Simulations That Drove the World to Strict Lockdown Appear to be Wrong, the Same of the Policies They Generated.</title>
+      <link>/publication/32596417/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32596417/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

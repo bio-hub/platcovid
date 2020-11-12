@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Segalés, M Puig, J Rodon, et al. | PlatCOVID</title>
+    <link>/author/j-segales-m-puig-j-rodon-et-al./</link>
+      <atom:link href="/author/j-segales-m-puig-j-rodon-et-al./index.xml" rel="self" type="application/rss+xml" />
+    <description>J Segalés, M Puig, J Rodon, et al.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>J Segalés, M Puig, J Rodon, et al.</title>
+      <link>/author/j-segales-m-puig-j-rodon-et-al./</link>
+    </image>
+    
+    <item>
+      <title>Detection of SARS-CoV-2 in a cat owned by a COVID-19-affected patient in Spain.</title>
+      <link>/publication/32948692/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32948692/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

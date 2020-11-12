@@ -5,12 +5,20 @@
     <link>/author/renfei-lu/</link>
       <atom:link href="/author/renfei-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Renfei Lu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Renfei Lu</title>
       <link>/author/renfei-lu/</link>
     </image>
+    
+    <item>
+      <title>Epidemiological and clinical characteristics of COVID-19 patients in Nantong, China.</title>
+      <link>/publication/32525828/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32525828/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Novel Reverse Transcription Loop-Mediated Isothermal Amplification Method for Rapid Detection of SARS-CoV-2.</title>

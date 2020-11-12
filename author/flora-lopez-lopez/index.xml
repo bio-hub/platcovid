@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flora López-López | PlatCOVID</title>
+    <link>/author/flora-lopez-lopez/</link>
+      <atom:link href="/author/flora-lopez-lopez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Flora López-López</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Flora López-López</title>
+      <link>/author/flora-lopez-lopez/</link>
+    </image>
+    
+    <item>
+      <title>SARS-CoV-2 infection in cancer patients undergoing active treatment: analysis of clinical features and predictive factors for severe respiratory failure and death.</title>
+      <link>/publication/32586724/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32586724/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

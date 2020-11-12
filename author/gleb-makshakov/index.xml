@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gleb Makshakov | PlatCOVID</title>
+    <link>/author/gleb-makshakov/</link>
+      <atom:link href="/author/gleb-makshakov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gleb Makshakov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Gleb Makshakov</title>
+      <link>/author/gleb-makshakov/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 Immunopathology and the Central Nervous System: Implication for Multiple Sclerosis and Other Autoimmune Diseases with Associated Demyelination.</title>
+      <link>/publication/32512702/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32512702/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

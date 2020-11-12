@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/genepanel/4314/</link>
+      <atom:link href="/genepanel/4314/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/genepanel/4314/</link>
+    </image>
+    
+    <item>
+      <title>MMP3</title>
+      <link>/genepanel/4314/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/4314/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;matrix metallopeptidase 3&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/4314&#34; target=&#34;_blank&#34;&gt;4314&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=4314&#34; target=&#34;_blank&#34;&gt; 11q22.2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/618681&#39; target=&#39;_blank&#39;&gt;618681&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/614401&#39; target=&#39;_blank&#39;&gt;614401&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/164785&#39; target=&#39;_blank&#39;&gt;164785&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;Proteins of the matrix metalloproteinase (MMP) family are involved in the breakdown of extracellular matrix in normal physiological processes, such as embryonic development, reproduction, and tissue remodeling, as well as in disease processes, such as arthritis and metastasis. Most MMP’s are secreted as inactive proproteins which are activated when cleaved by extracellular proteinases. This gene encodes an enzyme which degrades fibronectin, laminin, collagens III, IV, IX, and X, and cartilage proteoglycans. The enzyme is thought to be involved in wound repair, progression of atherosclerosis, and tumor initiation. The gene is part of a cluster of MMP genes which localize to chromosome 11q22.3. [provided by RefSeq, Jul 2008] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MMP3</title>
+      <link>/genepanel/4314/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/4314/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;matrix metallopeptidase 3&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; MMP3 expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000149968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000149968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000149968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000149968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000149968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000149968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+58.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000149968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000149968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000149968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000149968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000149968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000149968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000149968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000149968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000149968
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MMP3</title>
+      <link>/genepanel/4314/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/4314/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;matrix metallopeptidase 3&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of MMP3 gene in 1 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32603484&#34; target=&#34;_blank&#34;&gt;32603484&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The situation of the coronavirus disease 2019 (COVID-19) continues to evolve, our study explored the significance of serum levels of matrix metalloproteinase 3 (MMP3) as a marker for patients with COVID-19. […] Approximately every 5 days, sera from 20 cases were collected and analyzed three times, using an automatic biochemical analyzer, to detect serum MMP3 concentrations. […] Correlation was analyzed between MMP3 and other proinflammatory cytokines. […] Following normality tests, differences in serum MMP3 levels between the infected and noninfected group were analyzed via SPSS (version 25.0) software, using the Wilcoxon rank sum test. […] The MMP3 concentration was 44.44 (23.46 ~ 72.12) ng/mL in the infected group and 32.42 (28.16 ~ 41.21) ng/mL in the noninfected group. […] A positive correlation was found between MMP3 and interleukin 1β (IL-1β; r = .681, P = .000 &amp;lt; .05), and IL-6 (r = .529, P = .002 &amp;lt; .05). […] Serum MMP3 concentration, measured over three separate time points, were 55.98 (30.80 ~ 75.97) ng/mL, 34.84 (0.00 ~ 51.84) ng/mL, and 5.71 (0.00 ~ 40.46) ng/mL, respectively. […] Detection of serum MMP3 levels may play an important role in the development of therapeutic approaches for COVID-19 and may indicate the severity of disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MMP3</title>
+      <link>/genepanel/4314/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/4314/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;matrix metallopeptidase 3&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MMP3</title>
+      <link>/genepanel/4314/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/4314/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;matrix metallopeptidase 3&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

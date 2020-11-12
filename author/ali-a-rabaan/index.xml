@@ -5,12 +5,20 @@
     <link>/author/ali-a-rabaan/</link>
       <atom:link href="/author/ali-a-rabaan/index.xml" rel="self" type="application/rss+xml" />
     <description>Ali A Rabaan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Ali A Rabaan</title>
       <link>/author/ali-a-rabaan/</link>
     </image>
+    
+    <item>
+      <title>An update on SARS-CoV-2/COVID-19 with particular reference to its clinical pathology, pathogenesis, immunopathology and mitigation strategies.</title>
+      <link>/publication/32479816/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32479816/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Prediction of the COVID-19 Pandemic for the Top 15 Affected Countries: Advanced Autoregressive Integrated Moving Average (ARIMA) Model.</title>

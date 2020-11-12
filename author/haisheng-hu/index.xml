@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haisheng Hu | PlatCOVID</title>
+    <link>/author/haisheng-hu/</link>
+      <atom:link href="/author/haisheng-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haisheng Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Haisheng Hu</title>
+      <link>/author/haisheng-hu/</link>
+    </image>
+    
+    <item>
+      <title>Exploration and correlation analysis of changes in Krebs von den Lungen-6 levels in COVID-19 patients with different types in China.</title>
+      <link>/publication/32565512/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32565512/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

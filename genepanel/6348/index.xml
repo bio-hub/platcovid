@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>CCL3</title>
+      <title>CCL11</title>
       <link>/genepanel/6348/info/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/6348/info/</guid>
@@ -21,23 +21,23 @@
 
 
 &lt;hr /&gt;
-&lt;p&gt;C-C motif chemokine ligand 3&lt;/p&gt;
+&lt;p&gt;C-C motif chemokine ligand 11&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/6348&#34; target=&#34;_blank&#34;&gt;6348&lt;/a&gt; | Type: Protein Coding |
-Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=6348&#34; target=&#34;_blank&#34;&gt; 17q12&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/609423&#39; target=&#39;_blank&#39;&gt;609423&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/182283&#39; target=&#39;_blank&#39;&gt;182283&lt;/a&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/6356&#34; target=&#34;_blank&#34;&gt;6356&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=6356&#34; target=&#34;_blank&#34;&gt; 17q12&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/602283&#39; target=&#39;_blank&#39;&gt;602283&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This locus represents a small inducible cytokine. The encoded protein, also known as macrophage inflammatory protein 1 alpha, plays a role in inflammatory responses through binding to the receptors CCR1, CCR4 and CCR5. Polymorphisms at this locus may be associated with both resistance and susceptibility to infection by human immunodeficiency virus type 1.[provided by RefSeq, Sep 2010] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This antimicrobial gene is one of several chemokine genes clustered on the q-arm of chromosome 17. Chemokines form a superfamily of secreted proteins involved in immunoregulatory and inflammatory processes. The superfamily is divided into four subfamilies based on the arrangement of the N-terminal cysteine residues of the mature peptide. This chemokine, a member of the CC subfamily, displays chemotactic activity for eosinophils, but not mononuclear cells or neutrophils. This eosinophil-specific chemokine is thought to be involved in eosinophilic inflammatory diseases such as atopic dermatitis, allergic rhinitis, asthma and parasitic infections. [provided by RefSeq, Sep 2014] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
     </item>
     
     <item>
-      <title>CCL3</title>
+      <title>CCL11</title>
       <link>/genepanel/6348/gene_expression/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/6348/gene_expression/</guid>
@@ -46,13 +46,13 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/609423&#39; target=&#39;_blank&#39;
 
 
 &lt;hr /&gt;
-&lt;p&gt;C-C motif chemokine ligand 3&lt;/p&gt;
+&lt;p&gt;C-C motif chemokine ligand 11&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Expression&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; CCL3 expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;strong&gt;Table 1.&lt;/strong&gt; CCL11 expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -74,21 +74,7 @@ mRNA
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-adipose tissue
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-12.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 adrenal gland
@@ -97,12 +83,12 @@ adrenal gland
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-11.1
+1.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 appendix
@@ -111,57 +97,43 @@ appendix
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-7.1
+39.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-bone marrow
+colon
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-50.2
+21.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-breast
+duodenum
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-3.6
+30.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-cerebral cortex
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-12.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-cervix, uterine
+endometrium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -172,49 +144,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-colon
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-duodenum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-endometrium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 esophagus
@@ -223,57 +153,15 @@ esophagus
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.5
+12.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-fallopian tube
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 gallbladder
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-11.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-kidney
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-liver
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
@@ -284,7 +172,35 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000172156
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 lung
@@ -293,26 +209,12 @@ lung
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-6.6
+3.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-lymph node
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-6.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 parathyroid gland
@@ -321,26 +223,12 @@ parathyroid gland
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-6.1
+1.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-placenta
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-7.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 prostate
@@ -349,12 +237,12 @@ prostate
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2.4
+1.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 rectum
@@ -363,12 +251,12 @@ rectum
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2.5
+15.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 seminal vesicle
@@ -382,7 +270,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 small intestine
@@ -391,12 +279,12 @@ small intestine
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.7
+37.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 smooth muscle
@@ -405,12 +293,12 @@ smooth muscle
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-3.8
+26.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 spleen
@@ -419,12 +307,12 @@ spleen
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-8.1
+3.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 stomach
@@ -433,40 +321,12 @@ stomach
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.0
+30.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-thyroid gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-3.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-tonsil
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000277632
+ENSG00000172156
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 urinary bladder
@@ -475,7 +335,7 @@ urinary bladder
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-3.7
+18.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -485,7 +345,7 @@ NA
     </item>
     
     <item>
-      <title>CCL3</title>
+      <title>CCL11</title>
       <link>/genepanel/6348/gene_context/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/6348/gene_context/</guid>
@@ -494,13 +354,13 @@ NA
 
 
 &lt;hr /&gt;
-&lt;p&gt;C-C motif chemokine ligand 3&lt;/p&gt;
+&lt;p&gt;C-C motif chemokine ligand 11&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CCL3 gene in 3 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CCL11 gene in 1 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -516,26 +376,10 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32228226&#34; target=&#34;_blank&#34;&gt;32228226&lt;/a&gt;
+&lt;a href=&#34;/publication/32923679&#34; target=&#34;_blank&#34;&gt;32923679&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Our results reveal distinct host inflammatory cytokine profiles to SARS-CoV-2 infection in patients, and highlight the association between COVID-19 pathogenesis and excessive cytokine release such as CCL2/MCP-1, CXCL10/IP-10, CCL3/MIP-1A, and CCL4/MIP1B.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32364527&#34; target=&#34;_blank&#34;&gt;32364527&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-We have demonstrated that genes coding interleukins (Il-1α, Il-1β, Il-6, Il-10), chemokine (Ccl2, Ccl3, Ccl5, Ccl10), and interferon (Ifn-α2, Ifn-β1, Ifn2) upsurge significantly which in line with the elevated infiltration of T cells, NK cells and monocytes in SARS-Cov treated group at 24 hours.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32591762&#34; target=&#34;_blank&#34;&gt;32591762&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Compared to moderate cases, critical cases exhibited stronger interactions between epithelial and immune cells, as indicated by ligand-receptor expression profiles, and activated immune cells, including inflammatory macrophages expressing CCL2, CCL3, CCL20, CXCL1, CXCL3, CXCL10, IL8, IL1B and TNF.
+Our results showed upregulation of chemotactic factors, including CCL4, CCL8, and CCL11, that all shared CCR5 as their receptor, as a common derangement observed in both diseases; RA and COVID-19.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -546,7 +390,7 @@ Compared to moderate cases, critical cases exhibited stronger interactions betwe
     </item>
     
     <item>
-      <title>CCL3</title>
+      <title>CCL11</title>
       <link>/genepanel/6348/clinvar/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/6348/clinvar/</guid>
@@ -554,7 +398,7 @@ Compared to moderate cases, critical cases exhibited stronger interactions betwe
 
 
 &lt;hr /&gt;
-&lt;p&gt;C-C motif chemokine ligand 3&lt;/p&gt;
+&lt;p&gt;C-C motif chemokine ligand 11&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;ClinVar Summary&lt;/h2&gt;
@@ -568,7 +412,7 @@ Under development
     </item>
     
     <item>
-      <title>CCL3</title>
+      <title>CCL11</title>
       <link>/genepanel/6348/geo/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/6348/geo/</guid>
@@ -576,7 +420,7 @@ Under development
 
 
 &lt;hr /&gt;
-&lt;p&gt;C-C motif chemokine ligand 3&lt;/p&gt;
+&lt;p&gt;C-C motif chemokine ligand 11&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;GEO dataset Summary&lt;/h2&gt;

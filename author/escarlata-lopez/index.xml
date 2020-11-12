@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Escarlata Lopez | PlatCOVID</title>
+    <link>/author/escarlata-lopez/</link>
+      <atom:link href="/author/escarlata-lopez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Escarlata Lopez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Escarlata Lopez</title>
+      <link>/author/escarlata-lopez/</link>
+    </image>
+    
+    <item>
+      <title>Spanish risk management framework across 17 radiation oncology centers during COVID-19 pandemic.</title>
+      <link>/publication/32479777/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32479777/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

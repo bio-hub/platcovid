@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/pembrolizumab/</link>
+      <atom:link href="/drugpanel/pembrolizumab/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/pembrolizumab/</link>
+    </image>
+    
+    <item>
+      <title>PEMBROLIZUMAB</title>
+      <link>/drugpanel/pembrolizumab/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/pembrolizumab/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db09037&#39; target=&#39;_blank&#39;&gt;db09037&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=pembrolizumab&#34; target=&#34;_blank&#34;&gt;pembrolizumab&lt;/a&gt; &lt;br&gt;
+Synonymous :lambrolizumab
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;pembrolizumab&lt;/em&gt; gene in 1 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32669298&#34; target=&#34;_blank&#34;&gt;32669298&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The main treatment choice in fit, favourable risk patients outside the pandemic is pembrolizumab/axitinib for 53%, avelumab/axitinib, sunitinib or pazopanib for 13% of experts each.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32714874&#34; target=&#34;_blank&#34;&gt;32714874&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Food and Drug Administration (FDA) granted accelerated approval for extended-interval strategy of pembrolizumab at a dose of 400 mg every 6 weeks for all already approved oncologic indications.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32788235&#34; target=&#34;_blank&#34;&gt;32788235&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From a total of 14 MSI-H metastatic prostate cancer patients at participating centers, nine patients with mCRPC with 56% bone, 33% nodal, 11% liver and 11% soft-tissue metastases and a median PSA of 29.3 ng/dL, were treated with pembrolizumab after 2 lines of therapy for CRPC. […] The estimated median time on pembrolizumab was 9.9 (95% CI 1.0 to 18.8) months. […] At time of cut-off, four patients were still on pembrolizumab while four patients discontinued therapy due to progressive disease and one due to COVID-19 infection. […] The robust activity of pembrolizumab in selected patients supports the generalized testing for MSI-H.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32900245&#34; target=&#34;_blank&#34;&gt;32900245&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here we describe a metastatic Merkel cell carcinoma patient with a severe acute respiratory syndrome coronavirus 2 infection while receiving pembrolizumab. […] Case presentation: A 66-year-old man, with a metastatic Merkel cell carcinoma receiving pembrolizumab, presented with fever.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

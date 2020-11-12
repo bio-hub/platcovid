@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/10561&#34; target=&#34;_blank&#34;&gt;10561&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=10561&#34; target=&#34;_blank&#34;&gt; 1p31.1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/610468&#39; target=&#39;_blank&#39;&gt;610468&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/616580&#39; target=&#39;_blank&#39;&gt;616580&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/600712&#39; target=&#39;_blank&#39;&gt;600712&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -878,7 +878,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of IFI44 gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of IFI44 gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -898,6 +898,14 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The upregulated pro-viral factors such as &lt;i&gt;TYMP&lt;/i&gt;, &lt;i&gt;PTGS2&lt;/i&gt;, &lt;i&gt;C1S&lt;/i&gt;, &lt;i&gt;CFB&lt;/i&gt;, &lt;i&gt;IFI44&lt;/i&gt;, &lt;i&gt;XAF1&lt;/i&gt;, &lt;i&gt;CXCL2&lt;/i&gt;, and &lt;i&gt;CXCL3&lt;/i&gt; were identified in early infection models of SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32646047&#34; target=&#34;_blank&#34;&gt;32646047&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several interferon (IFN) responsive gene targets (IRF9, IFIT1, IFIT2, IFIT3, IFITM1, MX1, OAS2, OAS3, IFI44 and IFI44L) were highly upregulated in SARS-CoV-2 infected NBHE cell, implying activation of antiviral IFN innate response.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

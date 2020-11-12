@@ -5,12 +5,20 @@
     <link>/author/loai-alanagreh/</link>
       <atom:link href="/author/loai-alanagreh/index.xml" rel="self" type="application/rss+xml" />
     <description>Lo&#39;ai Alanagreh</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Lo&#39;ai Alanagreh</title>
       <link>/author/loai-alanagreh/</link>
     </image>
+    
+    <item>
+      <title>Risk of using hydroxychloroquine as a treatment of COVID-19.</title>
+      <link>/publication/32474476/</link>
+      <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32474476/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Coronavirus drugs: Using plasma from recovered patients as a treatment for COVID-19.</title>

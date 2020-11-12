@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maurizio Battino | PlatCOVID</title>
+    <link>/author/maurizio-battino/</link>
+      <atom:link href="/author/maurizio-battino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maurizio Battino</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Maurizio Battino</title>
+      <link>/author/maurizio-battino/</link>
+    </image>
+    
+    <item>
+      <title>The Strategic Alliance between Clinical and Molecular Science in the War against SARS-CoV-2, with the Rapid-Diagnostics Test as an Indispensable Weapon for Front Line Doctors.</title>
+      <link>/publication/32580529/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32580529/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

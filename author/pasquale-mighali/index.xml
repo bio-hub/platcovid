@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pasquale Mighali | PlatCOVID</title>
+    <link>/author/pasquale-mighali/</link>
+      <atom:link href="/author/pasquale-mighali/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pasquale Mighali</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Pasquale Mighali</title>
+      <link>/author/pasquale-mighali/</link>
+    </image>
+    
+    <item>
+      <title>Randomised controlled trial comparing efficacy and safety of high versus low Low-Molecular Weight Heparin dosages in hospitalized patients with severe COVID-19 pneumonia and coagulopathy not requiring invasive mechanical ventilation (COVID-19 HD): a structured summary of a study protocol.</title>
+      <link>/publication/32586394/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32586394/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

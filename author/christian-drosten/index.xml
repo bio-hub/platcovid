@@ -5,12 +5,44 @@
     <link>/author/christian-drosten/</link>
       <atom:link href="/author/christian-drosten/index.xml" rel="self" type="application/rss+xml" />
     <description>Christian Drosten</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Christian Drosten</title>
       <link>/author/christian-drosten/</link>
     </image>
+    
+    <item>
+      <title>COVID-19 severity correlates with airway epithelium-immune cell interactions identified by single-cell analysis.</title>
+      <link>/publication/32591762/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32591762/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inhibition of SARS-CoV-2 by type I and type III interferons.</title>
+      <link>/publication/32587093/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32587093/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicentre comparison of quantitative PCR-based assays to detect SARS-CoV-2, Germany, March 2020.</title>
+      <link>/publication/32583765/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32583765/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studying the pathophysiology of coronavirus disease 2019: a protocol for the Berlin prospective COVID-19 patient cohort (Pa-COVID-19).</title>
+      <link>/publication/32535877/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32535877/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparative pathogenesis of COVID-19, MERS, and SARS in a nonhuman primate model.</title>

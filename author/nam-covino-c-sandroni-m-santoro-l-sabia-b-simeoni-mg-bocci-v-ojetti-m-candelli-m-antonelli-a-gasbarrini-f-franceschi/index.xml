@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAM Covino, C Sandroni, M Santoro, L Sabia, B Simeoni, MG Bocci, V Ojetti, M Candelli, M Antonelli, A Gasbarrini, F Franceschi | PlatCOVID</title>
+    <link>/author/nam-covino-c-sandroni-m-santoro-l-sabia-b-simeoni-mg-bocci-v-ojetti-m-candelli-m-antonelli-a-gasbarrini-f-franceschi/</link>
+      <atom:link href="/author/nam-covino-c-sandroni-m-santoro-l-sabia-b-simeoni-mg-bocci-v-ojetti-m-candelli-m-antonelli-a-gasbarrini-f-franceschi/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAM Covino, C Sandroni, M Santoro, L Sabia, B Simeoni, MG Bocci, V Ojetti, M Candelli, M Antonelli, A Gasbarrini, F Franceschi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAM Covino, C Sandroni, M Santoro, L Sabia, B Simeoni, MG Bocci, V Ojetti, M Candelli, M Antonelli, A Gasbarrini, F Franceschi</title>
+      <link>/author/nam-covino-c-sandroni-m-santoro-l-sabia-b-simeoni-mg-bocci-v-ojetti-m-candelli-m-antonelli-a-gasbarrini-f-franceschi/</link>
+    </image>
+    
+    <item>
+      <title>Predicting intensive care unit admission and death for COVID-19 patients in the emergency department using early warning scores.</title>
+      <link>/publication/32918985/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32918985/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

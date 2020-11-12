@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francesco Selvaggi | PlatCOVID</title>
+    <link>/author/francesco-selvaggi/</link>
+      <atom:link href="/author/francesco-selvaggi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francesco Selvaggi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Francesco Selvaggi</title>
+      <link>/author/francesco-selvaggi/</link>
+    </image>
+    
+    <item>
+      <title>From high volume to zero proctology: Italian experience in the COVID era.</title>
+      <link>/publication/32468103/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32468103/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

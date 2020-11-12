@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/5624&#34; target=&#34;_blank&#34;&gt;5624&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=5624&#34; target=&#34;_blank&#34;&gt; 2q14.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/609819&#39; target=&#39;_blank&#39;&gt;609819&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/600400&#39; target=&#39;_blank&#39;&gt;600400&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -206,7 +206,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of PROC gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of PROC gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -226,6 +226,14 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Weight less than 40 Kg.Participant with any immunosuppressive condition or hematological disease.Treatment with drugs that may prolong QT in the last month before randomization for more than 7 days including: azithromycin, chlorpromazine, cisapride, clarithromycin, domperidone, droperidol, erythromycin, halofantrine, haloperidol, lumefantrine, mefloquine, methadone, pentamidine, procainamide, quinidine, quinine, sotalol, sparfloxacin, thioridazine, amiodarone.Hereditary intolerance to galactose, Lapp lactase deficiency or glucose or galactose malabsorption.Treatment with fluvoxamine.Treatment with benzodiazepines or benzodiazepine analogues such as zolpidem, zopiclone or zaleplon.Pregnancy.Breastfeeding.History of potentially immune derived diseases such as: lupus, Crohn’s disease, ulcerative colitis, vasculitis or rheumatoid arthritis.Insulin-dependent diabetes mellitus.Known history of hypersensitivity to the study drug or any of its components.Patients that should not be included in the study at the judgment of the research team. […] The randomisation sequence was created using SAS version 9.4 statistical software (procedure ‘PROC PLAN’) with a 1:1 allocation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32938496&#34; target=&#34;_blank&#34;&gt;32938496&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Randomization codes were produced by means of the PROC PLAN of the SAS system, with a 1:1 assignment ratio, stratifying by centre and using blocks multiple of 2 elements.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

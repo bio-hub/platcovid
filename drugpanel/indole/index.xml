@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/indole/</link>
+      <atom:link href="/drugpanel/indole/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/indole/</link>
+    </image>
+    
+    <item>
+      <title>INDOLE</title>
+      <link>/drugpanel/indole/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/indole/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db04532&#39; target=&#39;_blank&#39;&gt;db04532&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=indole&#34; target=&#34;_blank&#34;&gt;indole&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;indole&lt;/em&gt; gene in 2 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32768503&#34; target=&#34;_blank&#34;&gt;32768503&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Flavonoids exist in many diets as well as in traditional medicine, and their modern subset, indole-chalcones, are effective in fighting various diseases. […] Hence, these flavonoids and structurally similar indole chalcones derivatives were studied in silico for their pharmacokinetic properties including absorption, distribution, metabolism, excretion, toxicity (ADMET) and anti-SARS-CoV-2 properties against their proteins, namely, RNA dependent RNA polymerase (rdrp), main protease (Mpro) and Spike (S) protein via homology modelling and docking. […] Functional/structural roles of amino acid residues of SARS-CoV-2 proteins and, the effect of flavonoid and indole chalcone interactions which may cause disease suppression are discussed. […] The results reveal that out of 23 natural flavonoids and 25 synthetic indole chalcones, 30 compounds are capable of Mpro deactivation as well as potentially lowering the efficiency of Mpro function. […] These results suggest flavonoids and their modern pharmaceutical cousins, indole chalcones are capable of fighting SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32820005&#34; target=&#34;_blank&#34;&gt;32820005&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we show that two indole-chloropyridinyl-ester derivatives, GRL-0820 and GRL-0920, exerted potent activity against SARS-CoV-2 in cell-based assays performed using VeroE6 cells and TMPRSS2-overexpressing VeroE6 cells. […] Structural modeling shows that indole and chloropyridinyl of the derivatives interact with two catalytic dyad residues of Mpro, Cys145 and His41, resulting in covalent bonding, which was verified using high-performance liquid chromatography-mass spectrometry (HPLC/MS), suggesting that the indole moiety is critical for the anti-SARS-CoV-2 activity of the derivatives. […] GRL-0920 might serve as a potential therapeutic for coronavirus disease 2019 (COVID-19) and might be optimized to generate more-potent anti-SARS-CoV-2 compounds.IMPORTANCE Targeting the main protease (Mpro) of SARS-CoV-2, we identified two indole-chloropyridinyl-ester derivatives, GRL-0820 and GRL-0920, active against SARS-CoV-2, employing RNA-qPCR and immunocytochemistry and show that the two compounds exerted potent activity against SARS-CoV-2. […] Structural modeling showed that indole and chloropyridinyl of the derivatives interacted with two catalytic dyad residues of Mpro, Cys145 and His41, resulting in covalent bonding, which was verified using HPLC/MS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

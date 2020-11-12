@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAV Mergen, A Kobe, C Blüthgen, A Euler, T Flohr, T Frauenfelder, H Alkadhi, M Eberhard | PlatCOVID</title>
+    <link>/author/nav-mergen-a-kobe-c-bluthgen-a-euler-t-flohr-t-frauenfelder-h-alkadhi-m-eberhard/</link>
+      <atom:link href="/author/nav-mergen-a-kobe-c-bluthgen-a-euler-t-flohr-t-frauenfelder-h-alkadhi-m-eberhard/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAV Mergen, A Kobe, C Blüthgen, A Euler, T Flohr, T Frauenfelder, H Alkadhi, M Eberhard</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAV Mergen, A Kobe, C Blüthgen, A Euler, T Flohr, T Frauenfelder, H Alkadhi, M Eberhard</title>
+      <link>/author/nav-mergen-a-kobe-c-bluthgen-a-euler-t-flohr-t-frauenfelder-h-alkadhi-m-eberhard/</link>
+    </image>
+    
+    <item>
+      <title>Deep learning for automatic quantification of lung abnormalities in COVID-19 patients: First experience and correlation with clinical parameters.</title>
+      <link>/publication/33043101/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/33043101/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

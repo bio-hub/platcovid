@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/4335&#34; target=&#34;_blank&#34;&gt;4335&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=4335&#34; target=&#34;_blank&#34;&gt; 17p13.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/603039&#39; target=&#39;_blank&#39;&gt;603039&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/614466&#39; target=&#39;_blank&#39;&gt;614466&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/185250&#39; target=&#39;_blank&#39;&gt;185250&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -612,7 +612,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of MNT gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of MNT gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -632,6 +632,30 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 We compared the performance of six commercial immunoassays for the detection of SARS-COV-2 IgG, IgA and IgM antibodies, including four automated assays [Abbott SARS-COV-2 IgG (CE marked), Diasorin Liaison® SARS-COV-2 S1/S2 IgG (research use only, RUO), and Euroimmun SARS-COV-2 IgG and IgA (CE marked)], and two rapid lateral flow (immunocromatographic) tests [Acro Biotech 2019-nCoV IgG/IgM (CE marked) and Xiamen Biotime Biotechnology SARS-COV-2 IgG/IgM (CE marked)] with a microneutralisation test (MNT). […] The MNT was carried out for all COVID-19 samples (70 serum samples, 62 individuals) and for 53 samples from the negative panel. […] Forty-one out of 62 COVID-19 patients showed neutralising antibodies.The specificity and sensitivity values of the commercial tests against MNT, respectively, were as follows: 95.1 %/80.5 % (Abbott Architect SARS-CoV-2 IgG), 94.9 %/43.8 % (Diasorin Liaison SARS-CoV-2 IgG; RUO), 68.3 %/87.8 % (Euroimmun SARS-CoV-2 IgA), 86.6 %/70.7 % (Euroimmun SARS-CoV-2 IgG), 74.4 %/56.1 % (Acro 2019-nCoV IgG), 69.5 %/46.3 % (Acro 2019-nCoV IgM), 97.5 %/71.9 % (Xiamen Biotime SARS-CoV-2 IgG), and 88.8 %/81.3 % (Xiamen Biotime SARS-CoV-2 IgM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32611915&#34; target=&#34;_blank&#34;&gt;32611915&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A total of 513 blood samples (131 positive, 382 negative for SARS-CoV-2) were collected and tested by microneutralization test (MNT).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32859866&#34; target=&#34;_blank&#34;&gt;32859866&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To understand the NAb response in COVID-19 patients, we compared the findings of microneutralization test (MNT) and plaque reduction neutralization test (PRNT) for the SARS-CoV-2. […] A total of 343 blood samples (89 positive, 58 negative for SARS-CoV-2 and 17 cross-reactive and 179 serum from healthy individuals) were collected and tested by MNT and PRNT. […] The intra-class correlation was calculated to assess the correlation between MNT and PRNT. […] The analysis of MNT and PRNT quantitative results indicated that the intra-class correlation was 0.520. […] The results of MNT and PRNT were specific with no cross-reactivity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32929316&#34; target=&#34;_blank&#34;&gt;32929316&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The first-line management is MNT and life style modifications.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

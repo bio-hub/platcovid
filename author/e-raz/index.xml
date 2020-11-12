@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E Raz | PlatCOVID</title>
+    <link>/author/e-raz/</link>
+      <atom:link href="/author/e-raz/index.xml" rel="self" type="application/rss+xml" />
+    <description>E Raz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>E Raz</title>
+      <link>/author/e-raz/</link>
+    </image>
+    
+    <item>
+      <title>Cerebral Venous Thrombosis Associated with COVID-19.</title>
+      <link>/publication/32554424/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32554424/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surprise Diagnosis of COVID-19 following Neuroimaging Evaluation for Unrelated Reasons during the Pandemic in Hot Spots.</title>
+      <link>/publication/32467189/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32467189/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -33,7 +33,7 @@ Synonymous :3-[[6-o-(6-deoxy-alpha-l-mannopyranosyl)-beta-d-glucopyranosyl]oxy]-
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;rutin&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;rutin&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,38 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 All the studied molecules could bind to the active site of the SARS-CoV-2 protease (PDB: 6Y84), out of which rutin (a natural compound) has the highest inhibitor efficiency among the 33 molecules studied, followed by ritonavir (control drug), emetine (anti-protozoal), hesperidin (a natural compound), lopinavir (control drug) and indinavir (anti-viral drug).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32640381&#34; target=&#34;_blank&#34;&gt;32640381&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The present study identified rutin, a bioflavonoid and the antibiotic, doxycycline, as the most potent inhibitor of SARS-CoV-2 envelope protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32705952&#34; target=&#34;_blank&#34;&gt;32705952&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In-Silico Docking showed that major phytochemicals of Calendula officinals i.e. rutin, isorhamnetin-3-O-β-D, calendoflaside, narcissin, calendulaglycoside B, calenduloside, calendoflavoside have better binding energy than the native ligand (inhibitor N3). […] Overall, rutin and caledoflaside showed better stability, compactness, and flexibility. […] Our in silico (Virtual molecular docking and Molecular dynamics simulation) studies pointed out that flavonoid based phytochemicals of calendula (rutin, isorhamnetin-3-O-β-D, calendoflaside) may be highly effective for inhibiting Mpro which is the main protease for SARS-CoV-2 causing the deadly disease COVID-19. […] Rutin is already used as a drug and the other two compounds can be made available for future use.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32897178&#34; target=&#34;_blank&#34;&gt;32897178&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The compounds theaflavin-3-3’-digallate, rutin, hypericin, robustaflavone, and (-)-solenolide A with respective binding energy of -12.41 (Ki = 794.96 pM); -11.33 (Ki = 4.98 nM); -11.17 (Ki = 6.54 nM); -10.92 (Ki = 9.85 nM); and -10.82 kcal/mol (Ki = 11.88 nM) were ranked top as Coronavirus Disease - 2019 (COVID-19) Mpro inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33027419&#34; target=&#34;_blank&#34;&gt;33027419&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using a molecular docking approach, the interactions and the binding affinity with SARS-CoV-2 3CLpro and RdRp were predicted for quercetin-3-O-rutinoside (rutin), kaempferol-3-O-rutinoside (nicotiflorin) and some of their glucuronide and sulfate derivatives. […] Docking analysis, based on the crystal structure of 3CLpro and RdRp, indicated rutin, nicotiflorin, and their glucuronide and sulfate derivatives as potential inhibitors for both proteins.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

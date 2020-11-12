@@ -33,7 +33,7 @@ Synonymous :1,3,8-trihydroxy-6-methyl-9,10-anthracenedione | 1,3,8-trihydroxy-6-
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;emodin&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;emodin&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,30 @@ We further identify three potential drug combinations (e.g., sirolimus plus dact
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 However compounds like emodin that inhibit SARS entry, apparently by binding ACE2, might also have functions at several different human protein binding sites.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32851912&#34; target=&#34;_blank&#34;&gt;32851912&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Molecular dynamic simulation of the best three protein- ligand complexes (alizarin, aloe-emodin and anthrarufin) was performed to study the interaction stability. […] We found that, among 100 phytocompounds, emodin, aloe-emodin, anthrarufin, alizarine, and dantron of Rheum emodi showed good binding affinity at all the three active sites of RNA binding domain of nucleocapsid phosphoprotein of COVID-19. […] The binding energies of emodin, aloe-emodin, anthrarufin, alizarine, and dantron were -8.299, -8.508, -8.456, -8.441, and -8.322 Kcal mol-1 respectively (site A), -7.714, -6.433, -6.354, -6.598, and -6.99 Kcal mol-1 respectively (site B), and -8.299, 8.508, 8.538, 8.841, and 8.322 Kcal mol-1 respectively (site C). […] From MD simulation data, we found that all three complexes of 6VYO with alizarin, aloe-emodin and anthrarufin were stable up to 50 ns.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32985017&#34; target=&#34;_blank&#34;&gt;32985017&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Natural products can inhibit different coronavirus targets such as S protein (emodin, baicalin) and viral enzymes replication such as 3CLpro (Iguesterin), PLpro (Cryptotanshinone), helicase (Silvestrol), and RdRp (Sotetsuflavone).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33037698&#34; target=&#34;_blank&#34;&gt;33037698&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several molecules, including acacetin, amentoflavone, allicin, blancoxanthone, curcumin, daidzein, diosmin, epigallocatechin-gallate, emodin, hesperidin, herbacetin, hirsutenone, iguesterin, jubanine G, kaempferol, lycorine, pectolinarin, phloroeckol, silvestrol, tanshinone I, taxifolin, rhoifolin, xanthoangelol E, zingerol etc. isolated from plants could also be potential drug candidates against COVID-19.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

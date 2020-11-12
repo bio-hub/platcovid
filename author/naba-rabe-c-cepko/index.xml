@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NABA Rabe, C Cepko | PlatCOVID</title>
+    <link>/author/naba-rabe-c-cepko/</link>
+      <atom:link href="/author/naba-rabe-c-cepko/index.xml" rel="self" type="application/rss+xml" />
+    <description>NABA Rabe, C Cepko</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NABA Rabe, C Cepko</title>
+      <link>/author/naba-rabe-c-cepko/</link>
+    </image>
+    
+    <item>
+      <title>SARS-CoV-2 detection using isothermal amplification and a rapid, inexpensive protocol for sample inactivation and purification.</title>
+      <link>/publication/32900935/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32900935/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -26,11 +26,11 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/64135&#34; target=&#34;_blank&#34;&gt;64135&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=64135&#34; target=&#34;_blank&#34;&gt; 2q24.2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/615846&#39; target=&#39;_blank&#39;&gt;615846&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/606951&#39; target=&#39;_blank&#39;&gt;606951&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/182250&#39; target=&#39;_blank&#39;&gt;182250&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/614164&#39; target=&#39;_blank&#39;&gt;614164&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/138320&#39; target=&#39;_blank&#39;&gt;138320&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;DEAD box proteins, characterized by the conserved motif Asp-Glu-Ala-Asp (DEAD), are putative RNA helicases. They are implicated in a number of cellular processes involving alteration of RNA secondary structure such as translation initiation, nuclear and mitochondrial splicing, and ribosome and spliceosome assembly. Based on their distribution patterns, some members of this family are believed to be involved in embryogenesis, spermatogenesis, and cellular growth and division. This gene encodes a DEAD box protein that is upregulated in response to treatment with beta-interferon and a protein kinase C-activating compound, mezerein. Irreversible reprogramming of melanomas can be achieved by treatment with both these agents; treatment with either agent alone only achieves reversible differentiation. Genetic variation in this gene is associated with diabetes mellitus insulin-dependent type 19. [provided by RefSeq, Jul 2012] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;IFIH1 encodes MDA5 which is an intracellular sensor of viral RNA that triggers the innate immune response. Sensing RNA length and secondary structure, MDA5 binds dsRNA oligonucleotides with a modified DExD/H-box helicase core and a C-terminal domain, thus leading to a proinflammatory response that includes interferons. It has been shown that Coronaviruses (CoVs) as well as various other virus families, are capable of evading the MDA5-dependent interferon response, thus impeding the activation of the innate immune response to infection. MDA5 has also been shown to play an important role in enhancing natural killer cell function in malaria infection. In addition to its protective role in antiviral responses, MDA5 has been implicated in autoimmune and autoinflammatory diseases such as type 1 diabetes, systemic lupus erythematosus, and Aicardi-Goutieres syndrome[provided by RefSeq, Jul 2020] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
@@ -906,7 +906,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of IFIH1 gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of IFIH1 gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -926,6 +926,14 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Previous research has shown that infection with coronaviruses activates an innate immune response upon sensing of viral RNA by interferon-induced with helicase C domain 1 (IFIH1), also known as MDA5. […] By contrast, IFIH1 a sensor of intracellular double-stranded RNA, has been inactivated by mutations in pangolins. […] We put forward the hypothesis that loss of IFIH1 and ZBP1 provided an evolutionary advantage by reducing inflammation-induced damage to host tissues and thereby contributed to a switch from resistance to tolerance of viral infections in pangolins.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32737579&#34; target=&#34;_blank&#34;&gt;32737579&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+IFIH1 is a pattern recognition receptor that senses coronavirus RNA and triggers interferon production as a first line of viral immune defense. […] The role of IFIH1 polymorphism, rs1990760 (C&amp;gt;T; aaA946T) in the epidemiology of viral infection is well studied, and the minor allele T resists viral infection. […] Knock-in mice with mutated IFIH1 protein (946T) for this allele have enhanced interferon production and protection from lethal viral infection.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/genepanel/387/</link>
+      <atom:link href="/genepanel/387/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/genepanel/387/</link>
+    </image>
+    
+    <item>
+      <title>RHOA</title>
+      <link>/genepanel/387/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/387/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;ras homolog family member A&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/387&#34; target=&#34;_blank&#34;&gt;387&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=387&#34; target=&#34;_blank&#34;&gt; 3p21.31&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/613731&#39; target=&#39;_blank&#39;&gt;613731&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/610445&#39; target=&#39;_blank&#39;&gt;610445&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/180380&#39; target=&#39;_blank&#39;&gt;180380&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/136880&#39; target=&#39;_blank&#39;&gt;136880&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a member of the Rho family of small GTPases, which cycle between inactive GDP-bound and active GTP-bound states and function as molecular switches in signal transduction cascades. Rho proteins promote reorganization of the actin cytoskeleton and regulate cell shape, attachment, and motility. Overexpression of this gene is associated with tumor cell proliferation and metastasis. Multiple alternatively spliced variants have been identified. [provided by RefSeq, Sep 2015] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RHOA</title>
+      <link>/genepanel/387/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/387/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;ras homolog family member A&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; RHOA expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bronchus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebellum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+nasopharynx
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+54.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+483.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+282.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+339.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bronchus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebellum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+316.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+423.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+337.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+431.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+319.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+392.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+379.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+161.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+282.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+592.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+420.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+337.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+294.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+521.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+361.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+79.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+395.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skeletal muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+123.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+301.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+541.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spleen
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+426.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+273.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+370.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+27.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+25.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spleen
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+54.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+339.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+423.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+361.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+128.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+268.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebellum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+27.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+25.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+384.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+339.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+caudate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebellum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+316.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+273.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+hippocampus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+592.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+420.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+nasopharynx
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+521.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+363.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+268.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+270.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+273.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+489.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+370.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+368.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000134042
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000067560
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+489.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RHOA</title>
+      <link>/genepanel/387/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/387/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;ras homolog family member A&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of RHOA gene in 2 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32763844&#34; target=&#34;_blank&#34;&gt;32763844&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These drugs, through the inhibition of the RhoA/actin-dependent expression of virus receptors in the macrophages and macrophage recruitment to the lungs, have the potential to inhibit cytokine storm of lung macrophages, reduce or eliminate ARDS and improve the outcome of COVID-19 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32934806&#34; target=&#34;_blank&#34;&gt;32934806&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All 12 pathways are targeted in COL-3 treated HCC515 cells, in which genes such as RHOA, RAC2, FAS, CDC42 have reduced expression. […] CGP-60474 shares 11 of 12 pathways with COL-3 and common target genes such as RHOA.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RHOA</title>
+      <link>/genepanel/387/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/387/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;ras homolog family member A&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RHOA</title>
+      <link>/genepanel/387/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/387/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;ras homolog family member A&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

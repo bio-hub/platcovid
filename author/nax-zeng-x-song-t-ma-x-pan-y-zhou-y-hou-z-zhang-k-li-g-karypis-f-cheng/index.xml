@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAX Zeng, X Song, T Ma, X Pan, Y Zhou, Y Hou, Z Zhang, K Li, G Karypis, F Cheng | PlatCOVID</title>
+    <link>/author/nax-zeng-x-song-t-ma-x-pan-y-zhou-y-hou-z-zhang-k-li-g-karypis-f-cheng/</link>
+      <atom:link href="/author/nax-zeng-x-song-t-ma-x-pan-y-zhou-y-hou-z-zhang-k-li-g-karypis-f-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAX Zeng, X Song, T Ma, X Pan, Y Zhou, Y Hou, Z Zhang, K Li, G Karypis, F Cheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAX Zeng, X Song, T Ma, X Pan, Y Zhou, Y Hou, Z Zhang, K Li, G Karypis, F Cheng</title>
+      <link>/author/nax-zeng-x-song-t-ma-x-pan-y-zhou-y-hou-z-zhang-k-li-g-karypis-f-cheng/</link>
+    </image>
+    
+    <item>
+      <title>Repurpose Open Data to Discover Therapeutics for COVID-19 Using Deep Learning.</title>
+      <link>/publication/32654489/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32654489/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

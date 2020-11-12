@@ -33,7 +33,7 @@ Synonymous :1,1-dimethylbiguanide | dimethylbiguanid | metformin | metformina | 
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;metformin&lt;/em&gt; gene in 9 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;metformin&lt;/em&gt; gene in 23 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -109,6 +109,126 @@ A recent experimental study has suggested an increased toxicity of hydroxychloro
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Metformin, as a strong base, a potential regulator of Vacuolar ATPase (V-ATPase) and endosomal Na+/H+ exchangers (eNHEs), additionally a regenerative agent for lung fibrosis, seems to be beneficial for patients in acute, chronic and recovery phases of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32413342&#34; target=&#34;_blank&#34;&gt;32413342&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Metformin and SGLT2 inhibitors should be discontinued in patients with severe forms of COVID-19 owing to the risks of lactic acidosis and ketoacidosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32668399&#34; target=&#34;_blank&#34;&gt;32668399&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A combination of Metformin and Sulfonylureas (SU) was most commonly associated with the risk of hypoglycemia (65.75%) followed by insulin (33.56%). […] Subjects who received insulin reported a lower blood glucose value (50.75 ± 8.20 mg/dL) as compared to those receiving a combination of metformin and SU (60.95 ± 7.10 mg/dl).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32685191&#34; target=&#34;_blank&#34;&gt;32685191&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There are many common compounds that can increase the expression of the ACE2 receptor including Vitamin C, Metformin, Resveratrol, Vitamin B3 and Vitamin D.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32750451&#34; target=&#34;_blank&#34;&gt;32750451&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Metformin remains the first-line pharmacological choice for the management of hyperglycaemia in T2DM. […] Because metformin exerts various effects beyond its glucose-lowering action, among which are anti-inflammatory effects, it may be speculated that this biguanide might positively influence the prognosis of patients with T2DM hospitalized for COVID-19. […] The present concise review summarizes the available data from observational retrospective studies that have shown a reduction in mortality in metformin users compared with non-users, and briefly discusses the potential underlying mechanisms that might perhaps explain this favourable impact.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32758336&#34; target=&#34;_blank&#34;&gt;32758336&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As the diabetic MODY-5 patient (mutation of HNF1B, Val2Leu) was on low dose Riomet® while eliminating insulin gradually, a simple analytical method for metformin assay was recommended to ensure its concentration before use as it is not approved yet by the Egyptian QC labs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32808185&#34; target=&#34;_blank&#34;&gt;32808185&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The expression level of TMPRSS2 was increased noticeably with a number of medications such as metformin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32818905&#34; target=&#34;_blank&#34;&gt;32818905&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Metformin is a widely available anti-diabetic agent that has an excellent safety profile, and clinical and preclinical data suggest metformin may offer cardiopulmonary protection in COVID-19 via enhanced ACE2 expression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32838195&#34; target=&#34;_blank&#34;&gt;32838195&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Firstly, AMPK mediated phosphorylation of ACE-2 by metformin as well as the drug’s alkaline properties may interrupt the natural disease progression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32844132&#34; target=&#34;_blank&#34;&gt;32844132&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Metformin is one of the drugs which is most commonly used for the treatment of diabetes patients. […] This study aims to analyze the potential benefit of metformin use in reducing the mortality rate from COVID-19 infection. […] All articles published on COVID-19 and metformin were retrieved. […] Our meta-analysis showed that metformin use is associated with reduction in mortality rate from COVID-19 infections [RR 0.54 (95% CI 0.32-0.90), p = 0.02, I2 = 54%, random-effect modelling]. […] Metformin has shown benefits in reducing the mortality rate from COVID-19 infections. […] Patients with diabetes should be advised to continue taking metformin drugs despite COVID-19 infection status.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32861268&#34; target=&#34;_blank&#34;&gt;32861268&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Metformin is the most commonly prescribed first-line medication for T2D, but its impact on the outcomes of individuals with COVID-19 and T2D remains to be clarified. […] Our current retrospective study in a cohort of 1,213 hospitalized individuals with COVID-19 and pre-existing T2D indicated that metformin use was significantly associated with a higher incidence of acidosis, particularly in cases with severe COVID-19, but not with 28-day COVID-19-related mortality. […] Furthermore, metformin use was significantly associated with reduced heart failure and inflammation. […] Our findings provide clinical evidence in support of continuing metformin treatment in individuals with COVID-19 and pre-existing T2D, but acidosis and kidney function should be carefully monitored in individuals with severe COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32900588&#34; target=&#34;_blank&#34;&gt;32900588&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The present narrative review discusses the potential anti-inflammatory properties of certain antidiabetic drugs (i.e. metformin, pioglitazone, sitagliptin, linagliptin, vildagliptin, alogliptin, saxagliptin, liraglutide, dulaglutide, exenatide, lixisenatide, semaglutide, empagliflozin, dapagliflozin, canagliflozin), with a focus on CRP, IL-6 and ferritin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32902818&#34; target=&#34;_blank&#34;&gt;32902818&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We review the possibility of this approach by examining available evidence in metformin: a generic drug with a proven safety record that will be used in a large-scale multicenter clinical trial. […] Though rigorous translational research and clinical trials are needed to test this empirically, metformin may improve host immune defenses and confer protection against long-term health consequences of infectious disease, age-related chronic diseases, and geriatric syndromes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32933031&#34; target=&#34;_blank&#34;&gt;32933031&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In combination with or independent of the latest tested approaches, we propose the evaluation, in the short term, of treatments with DNase-1, with the anti-diabetic Metformin, or with drugs targeting elastase (i.e., Silvelestat).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32955785&#34; target=&#34;_blank&#34;&gt;32955785&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although metformin has been recommended as a host-directed therapy for COVID-19, there are some opposite views. […] The effects of metformin on the disease severity of patients with COVID-19 with diabetes during hospitalization remains unclear. […] This study aimed to determine the effect of metformin on disease severity. […] We enrolled 110 hospitalized patients with COVID-19 with diabetes prescribed either metformin or non-metformin hypoglycemic treatment for a case-control study. […] Blood glucose and lactate dehydrogenase levels of the metformin group were higher than those of the non-metformin group at admission. […] Strikingly, the percentage of patients who experienced life-threatening complications was significantly higher in the metformin group (28.6% (16/56) vs. […] Antidiabetic therapy with metformin was associated with a higher risk of disease progression in patients with COVID-19 with diabetes during hospitalization (adjusted odds ratio = 3.964, 95% confidence interval 1.034-15.194, P = 0.045). […] This retrospective analysis suggested a potential safety signal for metformin, the use of which was associated with a higher risk of severe COVID-19. […] We propose that metformin withdrawal in patients with COVID-19 be considered to prevent disease progression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32973814&#34; target=&#34;_blank&#34;&gt;32973814&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Metformin, a widely used drug to treat type 2 diabetes (T2D) mellitus and metabolic syndrome, has immunomodulatory activity that reduces the production of proinflammatory cytokines using macrophages and causes the formation of neutrophil extracellular traps (NETs). […] Metformin also inhibits the cytokine production of pathogenic Th1 and Th17 cells. […] Importantly, treatment with metformin alleviates various lung injuries in preclinical animal models. […] In addition, a recent proteomic study revealed that metformin has the potential to directly inhibit SARS-CoV-2 infection. […] Furthermore, retrospective clinical studies have revealed that metformin treatment reduces the mortality of T2D with COVID-19. […] Therefore, metformin has the potential to be repurposed to treat patients with COVID-19 at risk of developing severe illness. […] This review summarizes the immune pathogenesis of SARS-CoV-2 and addresses the effects of metformin on inhibiting cytokine storms and preventing SARS-CoV-2 infection, as well as its side effects.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

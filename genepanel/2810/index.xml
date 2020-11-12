@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/genepanel/2810/</link>
+      <atom:link href="/genepanel/2810/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/genepanel/2810/</link>
+    </image>
+    
+    <item>
+      <title>SFN</title>
+      <link>/genepanel/2810/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/2810/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;stratifin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/2810&#34; target=&#34;_blank&#34;&gt;2810&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=2810&#34; target=&#34;_blank&#34;&gt; 1p36.11&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/130135&#39; target=&#39;_blank&#39;&gt;130135&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a cell cycle checkpoint protein. The encoded protein binds to translation and initiation factors and functions as a regulator of mitotic translation. In response to DNA damage this protein plays a role in preventing DNA errors during mitosis. [provided by RefSeq, Aug 2017] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SFN</title>
+      <link>/genepanel/2810/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/2810/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;stratifin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; SFN expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+23.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1090.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1156.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+132.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+vagina
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+40.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+67.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1156.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+23.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+84.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+48.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+40.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skeletal muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1156.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+50.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+132.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+55.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+caudate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+oral mucosa
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175793
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SFN</title>
+      <link>/genepanel/2810/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/2810/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;stratifin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of SFN gene in 1 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32984564&#34; target=&#34;_blank&#34;&gt;32984564&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This report describes a post COVID-19 patient who developed chronic fatigue, orthostatic dizziness and brain fog consistent with orthostatic hypoperfusion syndrome (OCHOS), a form of orthostatic intolerance, and painful small fiber neuropathy (SFN). […] OCHOS (detected by the tilt test with transcranial Doppler monitoring) and SFN (confirmed by skin biopsy), and both OCHOS/SFN were attributed to Post Treatment Lyme Disease Syndrome of presumed autoimmune etiology. […] COVID-19 triggered exacerbation of OCHOS/SFN responded to immunotherapy with intravenous immunoglobulins. […] This case suggests that post COVID-19 syndrome may present as an autoimmune OCHOS/SFN and that early immunotherapy may be effective. […] Further studies are necessary to confirm the link between OCHOS/SFN and COVID-19 disease as well as to confirm the benefit of immunotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SFN</title>
+      <link>/genepanel/2810/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/2810/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;stratifin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SFN</title>
+      <link>/genepanel/2810/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/2810/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;stratifin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

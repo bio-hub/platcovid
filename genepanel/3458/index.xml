@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/3458&#34; target=&#34;_blank&#34;&gt;3458&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=3458&#34; target=&#34;_blank&#34;&gt; 12q15&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/613254&#39; target=&#39;_blank&#39;&gt;613254&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/609532&#39; target=&#39;_blank&#39;&gt;609532&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/609423&#39; target=&#39;_blank&#39;&gt;609423&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/609135&#39; target=&#39;_blank&#39;&gt;609135&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/607948&#39; target=&#39;_blank&#39;&gt;607948&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/147570&#39; target=&#39;_blank&#39;&gt;147570&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/604456&#39; target=&#39;_blank&#39;&gt;604456&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -570,7 +570,7 @@ Medium
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of IFNG gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of IFNG gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -590,6 +590,14 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Strikingly, we also identified the key pro-inflammatory signals TNF, NFKβ and IFNG as upstream regulators of the transcriptional profile of ACE2&lt;sup&gt;+&lt;/sup&gt;TMPRSS2&lt;sup&gt;+&lt;/sup&gt; cells in the superficial conjunctival epithelium, suggesting that SARS-CoV-2 may utilise inflammatory driven upregulation of ACE2 and TMPRSS2 expression to enhance infection in ocular surface.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33025599&#34; target=&#34;_blank&#34;&gt;33025599&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After a series of bioinformatics assays, seven kernel targets were obtained, including TNF, IL6, IFNG, IL1B, IL10, IL4, and TLR9.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

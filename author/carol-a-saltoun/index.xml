@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carol A Saltoun | PlatCOVID</title>
+    <link>/author/carol-a-saltoun/</link>
+      <atom:link href="/author/carol-a-saltoun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carol A Saltoun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Carol A Saltoun</title>
+      <link>/author/carol-a-saltoun/</link>
+    </image>
+    
+    <item>
+      <title>Prevalence and characterization of asthma in hospitalized and non-hospitalized patients with COVID-19.</title>
+      <link>/publication/32554082/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32554082/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

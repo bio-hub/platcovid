@@ -33,7 +33,7 @@ Synonymous :(s)-6-chloro-4-(cyclopropylethynyl)-1,4-dihydro-(s)-6-chloro-4-(cycl
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;efavirenz&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;efavirenz&lt;/em&gt; gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,14 @@ The result showed that atazanavir, an antiretroviral medication used to treat an
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 A 34 year old HIV-positive female on antiretroviral therapy (tenofovir disoproxil fumarate, lamivudine and efavirenz) for 5 years, tested positive for SARS-CoV-2, the causative agent for coronavirus disease 19 (COVID-19).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32802982&#34; target=&#34;_blank&#34;&gt;32802982&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Efavirenz, a non-nucleoside reverse transcriptase inhibitor (NNRTI), is one of the most potent chemical compounds proposed to treat COVID-19 infection. […] We, therefore, performed virtual screening on FDA approved drugs that are similar to the efavirenz moiety.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

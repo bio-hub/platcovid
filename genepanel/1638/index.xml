@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/1638&#34; target=&#34;_blank&#34;&gt;1638&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=1638&#34; target=&#34;_blank&#34;&gt; 13q32.1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/191275&#39; target=&#39;_blank&#39;&gt;191275&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/602421&#39; target=&#39;_blank&#39;&gt;602421&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/277180&#39; target=&#39;_blank&#39;&gt;277180&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/219700&#39; target=&#39;_blank&#39;&gt;219700&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/211400&#39; target=&#39;_blank&#39;&gt;211400&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/167800&#39; target=&#39;_blank&#39;&gt;167800&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -192,7 +192,7 @@ Medium
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of DCT gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of DCT gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -212,6 +212,30 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Second, we sought to identify FDA approved drugs that could attenuate the gene expression patterns induced by coronaviruses, using our Disease Cancelling Technology (DCT) platform. […] DCT was run on an animal model of SARS-CoV, and ranked compounds by their ability to induce gene expression signals that counteract disease-associated signals.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32793981&#34; target=&#34;_blank&#34;&gt;32793981&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Then, some features are extracted like a discrete Fourier transform (DFT), discrete cosine transform (DCT) and the seven moment invariants to two different classifiers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32834386&#34; target=&#34;_blank&#34;&gt;32834386&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several countries in Africa have either deployed or considering using digital contact-tracing (DCT) as part of their Covid-19 containment strategy, amidst calls for the use of technology to improve the efficiency of traditional contact-tracing. […] We discuss some of the complexities entailed in using DCT in Africa. […] Adopting a socio-technical perspective, we argue that if DCT design and deployment are not well thought out, it can lead to unintended consequences, particularly in a continent like Africa with disproportionate levels of digital divides and other structural inequalities. […] We suggest that any adoption of DCT by African countries must take account of their compatibility with local resources, values, social structure, and domestic political factors. […] Accordingly, we propose a process of translation whereby DCT adaptation is made to accommodate the unique institutional and technological characteristics of African countries by leveraging local practices learned from previous pandemics like Ebola to develop a blended epidemiological approach to (digital) contact-tracing.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32954610&#34; target=&#34;_blank&#34;&gt;32954610&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this commentary, we discuss the short-term and long-term implications of COVID-19 on postgraduate dental training in the UK, specifically Dental Core Training (DCT) and Specialty Training.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/genepanel/7450/</link>
+      <atom:link href="/genepanel/7450/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/genepanel/7450/</link>
+    </image>
+    
+    <item>
+      <title>VWF</title>
+      <link>/genepanel/7450/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/7450/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;von Willebrand factor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/7450&#34; target=&#34;_blank&#34;&gt;7450&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=7450&#34; target=&#34;_blank&#34;&gt; 12p13.31&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/613554&#39; target=&#39;_blank&#39;&gt;613554&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/613160&#39; target=&#39;_blank&#39;&gt;613160&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/277480&#39; target=&#39;_blank&#39;&gt;277480&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/193400&#39; target=&#39;_blank&#39;&gt;193400&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a glycoprotein involved in hemostasis. The encoded preproprotein is proteolytically processed following assembly into large multimeric complexes. These complexes function in the adhesion of platelets to sites of vascular injury and the transport of various proteins in the blood. Mutations in this gene result in von Willebrand disease, an inherited bleeding disorder. An unprocessed pseudogene has been found on chromosome 22. [provided by RefSeq, Oct 2015] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VWF</title>
+      <link>/genepanel/7450/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/7450/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;von Willebrand factor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; VWF expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+19.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+29.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+33.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+46.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+52.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+115.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+53.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+105.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skeletal muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+20.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+63.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spleen
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+55.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+19.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+45.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000110799
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+155.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VWF</title>
+      <link>/genepanel/7450/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/7450/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;von Willebrand factor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of VWF gene in 12 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32367170&#34; target=&#34;_blank&#34;&gt;32367170&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Von Willebrand (vWF) activity, vWF antigen and FVIII were considerably increased, and 50/57 tested patients (87.7%) had positive lupus anticoagulant.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32619411&#34; target=&#34;_blank&#34;&gt;32619411&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We assessed markers of endothelial cell and platelet activation, including von Willebrand Factor (VWF) antigen, soluble thrombomodulin, soluble P-selectin, and soluble CD40 ligand, as well as coagulation factors, endogenous anticoagulants, and fibrinolytic enzymes. […] Markers of endothelial cell and platelet activation were significantly elevated in ICU patients compared with non-ICU patients, including VWF antigen (mean 565% [SD 199] in ICU patients vs 278% [133] in non-ICU patients; p&amp;lt;0·0001) and soluble P-selectin (15·9 ng/mL [4·8] vs 11·2 ng/mL [3·1]; p=0·0014). […] VWF antigen concentrations were also elevated above the normal range in 16 (80%) of 20 non-ICU patients. […] We found mortality to be significantly correlated with VWF antigen (r = 0·38; p=0·0022) and soluble thrombomodulin (r = 0·38; p=0·0078) among all patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32676882&#34; target=&#34;_blank&#34;&gt;32676882&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Even if much more data are needed to ascertain the real thrombotic risk of haemophilia A in COVID-19 patients, it’s clear that the FVIII and vWF should be strictly monitored in order to promptly establish an adequate treatment and avoid the onset of thromboembolic events, even fatal, causing many deaths in COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32694169&#34; target=&#34;_blank&#34;&gt;32694169&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Clinical observations have also highlighted that these patients have elevated von Willebrand factor (vWF) and factor VIIIc. 24 consecutive COVID-19 positive patients were selected from the intensive care unit (ICU) or the high acuity ward of Brighton and Sussex University Hospitals NHS Trust. […] Factor VIIIc and von vWF antigen levels were both extremely elevated at 279 (148) u/dL and 350 (131) % respectively, which are comparable to levels seen in ICU patients with severe sepsis. vWF levels were significantly higher in patients that died (p=0.017) and showed a positive correlation with age. […] Very high levels of vWF and factor VIIIc are common in COVID-19 patients, comparable to levels in severely septic non-COVID ICU patients. […] Further studies are needed to evaluate the use of vWF for stratifying thrombotic risk in COVID-19 and to determine if elevated vWF is contributing to disease pathogenesis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32708334&#34; target=&#34;_blank&#34;&gt;32708334&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Of particular interest are the various circulating inflammatory coagulation biomarkers involved directly in clotting, with specific focus on fibrin(ogen), D-dimer, P-selectin and von Willebrand Factor (VWF). […] Most significant is that patients need to be treated early in the disease progression, when high levels of VWF, P-selectin and fibrinogen are present, with normal or slightly increased levels of D-dimer (however, D-dimer levels will rapidly increase as the disease progresses). […] Progression to VWF and fibrinogen depletion with high D-dimer levels and even higher P-selectin levels, followed by the cytokine storm, will be indicative of a poor prognosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32731277&#34; target=&#34;_blank&#34;&gt;32731277&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In laboratory chemistry, the D-dimer, fibrinogen but also vWF and FVIII are significantly increased.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32838472&#34; target=&#34;_blank&#34;&gt;32838472&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cumulative findings of microvascular thrombosis has raised question if the endothelium and microvasculature should be a point of investigative focus. von Willebrand factor (VWF) and its protease, a disintegrin and metalloproteinase with a thrombospondin type 1 motif, member 13 (ADAMTS-13), play important role in the maintenance of microvascular hemostasis. […] In inflammatory conditions, imbalanced VWF-ADAMTS-13 characterized by elevated VWF levels and inhibited and/or reduced activity of ADAMTS-13 has been reported. […] Also, an imbalance between ADAMTS-13 activity and VWF antigen is associated with organ dysfunction and death in patients with systemic inflammation. […] A thorough understanding of VWF-ADAMTS-13 interactions during early and advanced phases of COVID-19 could help better define the pathophysiology, guide thromboprophylaxis and treatment, and improve clinical prognosis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32846033&#34; target=&#34;_blank&#34;&gt;32846033&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We read with interest the recent publication by Rauche et al. and congratulate them on highlighting the potentially significant role VWF may play in the progression and prognosis of COVID19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32881285&#34; target=&#34;_blank&#34;&gt;32881285&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is long established that von Willebrand factor (VWF) is central to hemostasis and thrombosis. […] Endothelial VWF is stored in cell-specific secretory granules, Weibel-Palade bodies (WPBs), organelles generated in a wide range of lengths (0.5-5.0 µm). […] WPB size responds to physiological cues and pharmacological treatment, and VWF secretion from shortened WPBs dramatically reduces platelet and plasma VWF adhesion to an endothelial surface. […] In vitro assays of two selected compounds confirm that they inhibit the pro-hemostatic activity of secreted VWF.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32881304&#34; target=&#34;_blank&#34;&gt;32881304&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We assessed whether coagulation biomarkers, including FVIII and VWF levels, measured at time of admission were predictive of COVID-19 adverse outcomes irrespective of age and major comorbidities associated with metabolic syndrome. […] Blood was sampled at admission in 243 adult COVID-19 patients for analysis of coagulation biomarkers including FVIII and VWF on platelet-poor plasma. […] The association between baseline CRP, aPTT ratio, PT ratio, D-dimers, fibrinogen, FVIII, VWF:Ag and FVIII/VWF:Ag ratio levels and adverse outcomes (increased oxygen requirements, thrombosis and death at day-30) was assessed by regression analysis after adjustment on age, sex, body mass index, diabetes and hypertension. […] In univariable regression analysis increased CRP (SHR, 1.68; 95%CI, 1.26 to 2.23), increased fibrinogen (SHR, 1.32; 95% CI, 1.04 to 1.68) and decreased FVIII/VWF:Ag ratio (SHR, 0.70 ; 95% CI, 0.52-0.96) levels at admission were significantly associated with the risk of increased oxygen requirement during follow-up.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32891904&#34; target=&#34;_blank&#34;&gt;32891904&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Further, these patients presented with elevated antigen and activity levels of von-Willebrand-Factor (VWF). […] COVID-19 patients presented with higher coagulatory potential (shortened global clotting tests, increased viscoelastic and VWF parameters), while DIC scores were lower.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32945096&#34; target=&#34;_blank&#34;&gt;32945096&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We thank Bhogal and colleagues for their positive comments on our manuscript and their perspective on VWF being a potential driver of COVID-19 microvascular thrombosis rather than a mere biomarker of endotheliopathy. […] It is well-known that VWF promotes neutrophil recruitment to endothelial surfaces under low-shear conditions and supports neutrophil extravasation towards inflamed tissues1 . […] This pro-inflammatory role of VWF involves two distinct pathways: (1) a direct interaction of neutrophil receptors (PSGL1 and β2-integrins) with VWF, and (2) an indirect interaction in which neutrophils adhere to VWF-bound platelets.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VWF</title>
+      <link>/genepanel/7450/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/7450/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;von Willebrand factor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VWF</title>
+      <link>/genepanel/7450/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/7450/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;von Willebrand factor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>/author/amos-lal/</link>
       <atom:link href="/author/amos-lal/index.xml" rel="self" type="application/rss+xml" />
     <description>Amos Lal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Amos Lal</title>
       <link>/author/amos-lal/</link>
     </image>
+    
+    <item>
+      <title>Cerebrovascular events in COVID-19 patients.</title>
+      <link>/publication/32527073/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32527073/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comprehensive update on current outbreak of novel coronavirus infection (2019-nCoV).</title>

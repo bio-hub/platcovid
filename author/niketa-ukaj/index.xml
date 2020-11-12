@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niketa Ukaj | PlatCOVID</title>
+    <link>/author/niketa-ukaj/</link>
+      <atom:link href="/author/niketa-ukaj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Niketa Ukaj</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Niketa Ukaj</title>
+      <link>/author/niketa-ukaj/</link>
+    </image>
+    
+    <item>
+      <title>Mathematical modeling of COVID-19 fatality trends: Death kinetics law versus infection-to-death delay rule.</title>
+      <link>/publication/32508398/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32508398/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

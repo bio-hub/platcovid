@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/oat/</link>
+      <atom:link href="/drugpanel/oat/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/oat/</link>
+    </image>
+    
+    <item>
+      <title>OAT</title>
+      <link>/drugpanel/oat/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/oat/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db10546&#39; target=&#39;_blank&#39;&gt;db10546&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=oat&#34; target=&#34;_blank&#34;&gt;oat&lt;/a&gt; &lt;br&gt;
+Synonymous :oats | oats preparation
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;oat&lt;/em&gt; gene in 8 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32633418&#34; target=&#34;_blank&#34;&gt;32633418&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study aimed to investigate whether the use of oral antithrombotic therapy (OAT) was associated with a lower mortality in NH residents with COVID-19. […] The association between age, sex, comorbidity, OAT, and mortality was assessed using logistic regression analysis. […] OAT was associated with a lower mortality in NH residents with COVID-19 in the univariable analysis (odds ratio (OR) = 0.89; 95% confidence interval (CI) = 0.41-1.95). […] We did not find evidence for any protection against mortality by OAT, necessitating further research into strategies to mitigate poor outcome of COVID-19 in vulnerable NH populations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32680520&#34; target=&#34;_blank&#34;&gt;32680520&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Increasing access to safe and effective opioid agonist treatment (OAT) and other harm reduction services during this pandemic is critical to reduce risk. […] In response to COVID-19, healthcare is increasingly being delivered by telephone and video consultation, and this report describes the development of a national model of remote care to eliminate waiting lists and increase access to OAT in Ireland. […] The purpose of this initiative is to provide easy access to OAT by developing a model of remote assessment and ongoing care and eliminate existing national waiting lists. […] The Irish College of General Practitioners in conjunction with the National Health Service Executive office for Social Inclusion agreed a set of protocols to enable a system of remote consultation but still delivering OAT locally to people who use drugs. […] This model was targeted at OAT services with existing waiting lists due to a shortage of specialist medical staff. […] The development of a remote model of healthcare delivery allows for the reduction in transmission risks associated with COVID-19, increases access to OAT, reduces waiting times and minimises barriers to services. […] Fast adaptation of OAT delivery is critical to ensure access to and continuity of service delivery and minimise risk to our staff, patients and community.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32868681&#34; target=&#34;_blank&#34;&gt;32868681&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To describe how the novel coronavirus (COVID-19) pandemic has affected opioid agonist treatment (OAT) programs in jails and prisons. […] Ten out of 16 systems reported downsizing their OAT programs. […] In 13 out of 16 systems some OAT program participants were released early due to COVID-19 infection risk. […] Jails and prisons with existing OAT programs have curtailed their operations in the context of the COVID-19 pandemic. […] Given the robust evidence base around OAT for treating opioid use disorder and averting overdose deaths, guidance is needed on maintaining and ramping up medication access as carceral facilities grapple with implementing COVID-19 mitigation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32870435&#34; target=&#34;_blank&#34;&gt;32870435&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results showed that wheat-derived alpha/beta-gliadin, oat-derived avenin, and ribulose bisphosphate carboxylase small chain of different origin could be good protein source in generating potent binders to SARS-CoV-2 spike RBD.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

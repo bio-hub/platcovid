@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/imipenem/</link>
+      <atom:link href="/drugpanel/imipenem/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/imipenem/</link>
+    </image>
+    
+    <item>
+      <title>IMIPENEM</title>
+      <link>/drugpanel/imipenem/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/imipenem/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db01598&#39; target=&#39;_blank&#39;&gt;db01598&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=imipenem&#34; target=&#34;_blank&#34;&gt;imipenem&lt;/a&gt; &lt;br&gt;
+Synonymous :(5r,6s)-3-((2-(formimidoylamino)ethyl)thio)-6-((r)-1-hydroxyethyl)-7-oxo-1-azabicyclo(3.2.0)hept-2-ene-2-carboxylic acid | (5r,6s)-3-(2-formimidoylamino-ethylsulfanyl)-6-((r)-1-hydroxy-ethyl)-7-oxo-1-aza-bicyclo[3.2.0]hept-2-ene-2-carboxylic acid | (5r,6s)-6-((r)-1-hydroxyethyl)-3-(2-(iminomethylamino)ethylthio)-7-oxo-1-azabicyclo(3.2.0)hept-2-ene-2-carbonsaeure | imipenem | imipenem anhydrous | imipenemum | n-formimidoyl thienamycin | n-formimidoylthienamycin
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;imipenem&lt;/em&gt; gene in 3 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32846329&#34; target=&#34;_blank&#34;&gt;32846329&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+With the purpose to find effective and low-toxic drugs to mitigate CSS, entecavir and imipenem were identified to reduce TNF-α using a LPS-induced macrophage model from the anti-infective drug library. […] Entecavir and imipenem efficiently suppressed the release of inflammatory cytokines by partly intervention of NF-κB activity. […] In addition, entecavir and imipenem inhibited the release of TNF-α and IL-10 in human peripheral blood mononuclear cells (hPBMCs). […] Collectively, we proposed that entecavir and imipenem might be candidates for the treatment of CSS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32963099&#34; target=&#34;_blank&#34;&gt;32963099&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among the 2,625 FDA-approved small molecules, chloramphenicol succinate, imipenem, and imidurea turned out to be the molecules that bound the best at the fusion peptide hydrophobic pocket.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

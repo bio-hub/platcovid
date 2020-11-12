@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chenxi Li | PlatCOVID</title>
+    <link>/author/chenxi-li/</link>
+      <atom:link href="/author/chenxi-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chenxi Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Chenxi Li</title>
+      <link>/author/chenxi-li/</link>
+    </image>
+    
+    <item>
+      <title>Comparative analysis of laboratory indexes of severe and non-severe patients infected with COVID-19.</title>
+      <link>/publication/32511971/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32511971/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chest CT study of fifteen COVID-19 patients with positive RT-PCR retest results after discharge.</title>
+      <link>/publication/32550140/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32550140/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A 3-month-old child with COVID-19: A case report.</title>
+      <link>/publication/32502054/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32502054/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

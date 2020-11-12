@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simone Busoni | PlatCOVID</title>
+    <link>/author/simone-busoni/</link>
+      <atom:link href="/author/simone-busoni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simone Busoni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Simone Busoni</title>
+      <link>/author/simone-busoni/</link>
+    </image>
+    
+    <item>
+      <title>Chest X-ray in new Coronavirus Disease 2019 (COVID-19) infection: findings and correlation with clinical outcome.</title>
+      <link>/publication/32519256/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32519256/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

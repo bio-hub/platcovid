@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Esther Babady | PlatCOVID</title>
+    <link>/author/n-esther-babady/</link>
+      <atom:link href="/author/n-esther-babady/index.xml" rel="self" type="application/rss+xml" />
+    <description>N Esther Babady</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>N Esther Babady</title>
+      <link>/author/n-esther-babady/</link>
+    </image>
+    
+    <item>
+      <title>Responding to the Challenges of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2): Perspectives from the Association for Molecular Pathology Infectious Disease Subdivision Leadership.</title>
+      <link>/publication/32565306/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32565306/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determinants of COVID-19 disease severity in patients with cancer.</title>
+      <link>/publication/32581323/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32581323/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

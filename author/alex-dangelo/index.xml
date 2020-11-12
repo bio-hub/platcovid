@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex D&#39;Angelo | PlatCOVID</title>
+    <link>/author/alex-dangelo/</link>
+      <atom:link href="/author/alex-dangelo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alex D&#39;Angelo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Alex D&#39;Angelo</title>
+      <link>/author/alex-dangelo/</link>
+    </image>
+    
+    <item>
+      <title>The Rapid Transformation of Cardiac Surgery Practice in the Coronavirus Disease 2019 (COVID-19) Pandemic: Insights and Clinical Strategies From a Center at the Epicenter.</title>
+      <link>/publication/32591132/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32591132/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The rapid transformation of cardiac surgery practice in the coronavirus disease 2019 (COVID-19) pandemic: insights and clinical strategies from a centre at the epicentre.</title>
+      <link>/publication/32573737/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32573737/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

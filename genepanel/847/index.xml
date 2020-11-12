@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/genepanel/847/</link>
+      <atom:link href="/genepanel/847/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/genepanel/847/</link>
+    </image>
+    
+    <item>
+      <title>CAT</title>
+      <link>/genepanel/847/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/847/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;catalase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/847&#34; target=&#34;_blank&#34;&gt;847&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=847&#34; target=&#34;_blank&#34;&gt; 11p13&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/610102&#39; target=&#39;_blank&#39;&gt;610102&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/217070&#39; target=&#39;_blank&#39;&gt;217070&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes catalase, a key antioxidant enzyme in the bodies defense against oxidative stress. Catalase is a heme enzyme that is present in the peroxisome of nearly all aerobic cells. Catalase converts the reactive oxygen species hydrogen peroxide to water and oxygen and thereby mitigates the toxic effects of hydrogen peroxide. Oxidative stress is hypothesized to play a role in the development of many chronic or late-onset diseases such as diabetes, asthma, Alzheimer’s disease, systemic lupus erythematosus, rheumatoid arthritis, and cancers. Polymorphisms in this gene have been associated with decreases in catalase activity but, to date, acatalasemia is the only disease known to be caused by this gene. [provided by RefSeq, Oct 2009] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CAT</title>
+      <link>/genepanel/847/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/847/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;catalase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; CAT expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+625.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+151.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+258.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+243.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+91.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+150.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+69.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+105.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+47.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+125.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+82.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+90.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+44.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+94.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+310.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+625.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+243.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+66.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+58.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+69.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+111.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+78.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+34.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skeletal muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+31.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+75.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+88.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spleen
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+108.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+69.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+205.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+52.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+111.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+146.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+140.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+310.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+109.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000121691
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+298.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CAT</title>
+      <link>/genepanel/847/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/847/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;catalase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CAT gene in 25 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32201080&#34; target=&#34;_blank&#34;&gt;32201080&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We found that most of the selected mammals including pets (dog and cat), pangolin and Circetidae mammals remained the most of key residues for association with S protein from SARS-CoV and SARS-CoV-2. […] The interaction interface between cat/dog/pangolin/Chinese hamster ACE2 and SARS-CoV/SARS-CoV-2 S protein was simulated through homology modeling.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32388138&#34; target=&#34;_blank&#34;&gt;32388138&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+When mice are infected they demonstrate a fearlessness toward cats, thus increasing their chances of being eaten. […] Recent studies have shown that exposure to toxoplasmosis in humans (e.g., through cat feces) has also been associated with behavioral changes that are predicted to enhance the spread of the pathogen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32500944&#34; target=&#34;_blank&#34;&gt;32500944&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we investigated the putative infection by SARS-CoV-2 in 22 cats and 11 dogs from owners previously infected or suspected of being infected by SARS-CoV-2. […] One cat was tested positive by RT-qPCR on rectal swab. […] This cat showed mild respiratory and digestive signs. […] Genome sequence analysis revealed that the cat SARS-CoV-2 belongs to the phylogenetic clade A2a like most of the French human SARS-CoV-2. […] This study reports for the first time the natural infection of a cat in France (near Paris) probably through their owners. […] There is currently no evidence that cats can spread COVID-19 and owners should not abandon their pets or compromise their welfare.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32513515&#34; target=&#34;_blank&#34;&gt;32513515&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Symptoms are examined using the COPD assessment test (CAT) score, and dyspnea grade are examined using a modified MRC from GOLD guidelines. […] When mild, the care includes self-management education, smoking cessation, lifestyle modifications, vaccination, and short-acting bronchodilators. […] Self-management education involves inhaler device training, breathing technique, early recognition of acute exacerbations and writing action plans. […] Other implications of this pandemic for COPD patients include the health risk in case of infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32701015&#34; target=&#34;_blank&#34;&gt;32701015&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this study was to capture the experience of such a lockdown in Australians living alone, with and without a dog or a cat. […] For participants who owned a dog or a cat, a measure of dog/cat interactions was also administered as well as two open-ended questions about how being a pet owner affected their experience of COVID-19 and how COVID-19 affected their pet. […] Contrary to expectations, cat owners were found to be less mindful than non-owners and pet interactions did not account for levels of loneliness or levels of mindfulness.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32778178&#34; target=&#34;_blank&#34;&gt;32778178&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent evidence raised the question about the possibility that cats may be a domestic host for SARS-CoV-2 with unknown implications in disease dissemination. […] Based on the fact that the domestic cat flea, Ctenocephalides felis, are abundant ectoparasites infesting humans, companion animals and wildlife and that coronavirus-like agents have been identified in the ectoparasite tick vector, Ixodes uriae of seabirds, herein we considered the presence of coronaviruses in general and SARS-CoV-2 in particular in C. felis. […] Although current evidence suggests that pets are probably dead-end-hosts with small risk of transmission to humans, our results suggested that cat flea may act as biological and/or mechanical vectors of SARS-CoV. […] Although preliminary, these results indicate a possibility of ectoparasites acting as reservoirs and vectors of SARS-CoV and related beta-coronavirus although with little disease risk due to systemic transmission route, low viremia, virus attenuation or other unknown factors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32788033&#34; target=&#34;_blank&#34;&gt;32788033&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In March 2020, a severe respiratory syndrome developed in a cat, 1 week after its owner received positive test results for severe acute respiratory syndrome coronavirus 2. […] Viral RNA was detected in the cat’s nasopharyngeal swab samples and vomitus or feces; immunoglobulin against the virus was found in convalescent-phase serum. […] Human-to-cat transmission is suspected.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32805728&#34; target=&#34;_blank&#34;&gt;32805728&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Bioinformatics findings indicate that the mechanisms of action of VA against SARS-CoV-2 include enrichment of immunoreaction, inhibition of inflammatory reaction, and biological processes related to reactive oxygen species. […] Furthermore, seven core targets of VA against COVID-19, including MAPK1, IL10, EGFR, ICAM1, MAPK14, CAT, and PRKCB were identified.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32810370&#34; target=&#34;_blank&#34;&gt;32810370&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From 23 pets, an asymptomatic cat showed positive RT-qPCRs results from oropharyngeal swab (negative rectal swab). […] This suggests that cats can contract the virus from their infected owners and may act as potential hosts for SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32835326&#34; target=&#34;_blank&#34;&gt;32835326&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We systematically investigated the cellular susceptibility, species tropism, replication kinetics, and cell damage of SARS-CoV-2 and compared findings with those for SARS-CoV. […] We compared SARS-CoV-2 and SARS-CoV replication in different cell lines with one-way ANOVA. […] For the area under the curve comparison between SARS-CoV-2 and SARS-CoV replication in Calu3 (pulmonary) and Caco2 (intestinal) cells, we used Student’s t test. […] SARS-CoV-2 infected and replicated to comparable levels in human Caco2 cells and Calu3 cells over a period of 120 h (p=0·52). […] By contrast, SARS-CoV infected and replicated more efficiently in Caco2 cells than in Calu3 cells under the same multiplicity of infection (p=0·0098). […] SARS-CoV-2, but not SARS-CoV, replicated modestly in U251 (neuronal) cells (p=0·036). […] For animal species cell tropism, both SARS-CoV and SARS-CoV-2 replicated in non-human primate, cat, rabbit, and pig cells. […] SARS-CoV, but not SARS-CoV-2, infected and replicated in Rhinolophus sinicus bat kidney cells. […] As far as we know, our study presents the first quantitative data for tropism, replication kinetics, and cell damage of SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32837934&#34; target=&#34;_blank&#34;&gt;32837934&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+County officials are tasked with extractive planning decisions that have wide-ranging implications. […] In this Viewpoint article, we analyze proposals for enhanced extraction at the Cat Canyon oilfield in Santa Barbara County.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32837985&#34; target=&#34;_blank&#34;&gt;32837985&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cathepsin (Cat)B/L inhibitor E-64d could significantly block SARS-CoV-2 pseudovirus infection in 293T-ACE2 cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32867625&#34; target=&#34;_blank&#34;&gt;32867625&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cat is susceptible to SARS-CoV-2. […] However, the prevalence of SARS-CoV-2 in cats remains largely unknown. […] Here, we investigated the infection of SARS-CoV-2 in cats during COVID-19 outbreak in Wuhan by serological detection methods. […] A cohort of serum samples were collected from cats in Wuhan, including 102 sampled after COVID-19 outbreak, and 39 prior to the outbreak. […] In addition, we continuously monitored serum antibody dynamics of two positive cats every 10 days over 130 days. […] Our data demonstrated that SARS-CoV-2 has infected cats in Wuhan during the outbreak and described serum antibody dynamics in cats, providing an important reference for clinical treatment and prevention of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32903561&#34; target=&#34;_blank&#34;&gt;32903561&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of the present study was to investigate the expression of ACE2 in the gastrointestinal tract of domestic (cat) and wild (tiger) felines. […] Samples of the pylorus, duodenum, and distal colon were collected from six cats and one tiger. […] Angiotensin-converting enzyme 2 was widely expressed in the gastrointestinal mucosa of the cats and the tiger. […] In the cats, ACE2-IR was also expressed by the smooth muscle cells of the blood vessels and the tunica muscularis. […] Although the evidence of ACE2-IR in the feline GIT does not necessarily indicate the possibility of viral replication and SARS-CoV-2 spread with stool, the findings in the present study could serve as an anatomical basis for additional studies considering the risk of the SARS-CoV-2 fecal-oral transmission between cats/felids, and between cats/felids and humans.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32921279&#34; target=&#34;_blank&#34;&gt;32921279&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The first ever case of SARS-CoV-2 transmission from a human owner to a domestic cat was confirmed on March 27, 2020. […] One of the most conserved peptides is represented by the peptide &amp;quot;353-KGDFR-357 (H. sapiens ACE2 residue numbering), which is located on the surface of the ACE2 molecule and participates in the binding of SARS-CoV-2 spike receptor binding domain (RBD). […] ACE2 works as a receptor for the SARS-CoV-2 spike glycoprotein between humans, dogs, cats, tigers, minks, and other animals, except for snakes. […] The multiple sequence alignments of the ACE2 proteins shows high homology and complete conservation of the five amino acid residues: 353-KGDFR-357 with humans, dogs, cats, tigers, minks, and other animals, except for snakes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32932800&#34; target=&#34;_blank&#34;&gt;32932800&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, a domestic cat with clear clinical signs of pneumonia, confirmed by Rx imaging, was found to be infected by SARS-CoV-2 using quantitative RT-qPCR from a nasal swab. […] An important question remains unanswered: did the cat actually die due to SARS-CoV-2 infection?
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32938527&#34; target=&#34;_blank&#34;&gt;32938527&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We tested 50 cats from coronavirus disease households or close contacts in Hong Kong, China, for severe acute respiratory syndrome coronavirus 2 RNA in respiratory and fecal samples. […] We found 6 cases of apparent human-to-feline transmission involving healthy cats. […] Virus genomes sequenced from 1 cat and its owner were identical.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32948692&#34; target=&#34;_blank&#34;&gt;32948692&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Few reports indicate that pets may be exposed to the virus. […] The present report describes a cat suffering from severe respiratory distress and thrombocytopenia living with a family with several members affected by COVID-19. […] Clinical signs of the cat prompted humanitarian euthanasia and a detailed postmortem investigation to assess whether a COVID-19-like disease was causing the condition. […] The cat seroconverted against SARS-CoV-2, further evidencing a productive infection in this animal.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32957995&#34; target=&#34;_blank&#34;&gt;32957995&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition to the considerable COVID-19 cases, hospitalizations, and deaths in humans, several cases of SARS-CoV-2 infections in animal hosts (dog, cat, tiger, lion, and mink) have been reported.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32981508&#34; target=&#34;_blank&#34;&gt;32981508&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The severe atypical lung CAT scan images alerted all countries, including the poorest, to purchase lacking sophisticated ventilators. […] COVID-19 signs and symptoms indicate a progressive and irreversible failure in the oxygen transport system, secondary to pneumolysis produced by SARS-Cov-2’s alveolar-capillary membrane “attack”.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32985513&#34; target=&#34;_blank&#34;&gt;32985513&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To facilitate the development of medical approaches and novel treatments, we compared the ACE2 receptor, and TMPRSS2 and Furin proteases usage of the SARS-CoV-2 Spike glycoprotein in human and in a panel of animal models, i.e. guinea pig, dog, cat, rat, rabbit, ferret, mouse, hamster and macaque. […] Computational analysis of binding modes and protein contacts indicates that macaque, ferrets and hamster are the most suitable models for the study of inhibitory antibodies and small molecules targeting the SARS-CoV-2 Spike protein interaction with ACE2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33020722&#34; target=&#34;_blank&#34;&gt;33020722&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We further resolved the cryo-electron microscopy (cryo-EM) structure of the cat ACE2 (cACE2) in complex with the SARS-CoV-2 RBD at a resolution of 3 Å, revealing similar binding mode as hACE2 to the SARS-CoV-2 RBD.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33029165&#34; target=&#34;_blank&#34;&gt;33029165&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A multilevel computational study was carried out to evaluate the potential antiviral properties of the components of the medicinal herb Uncaria tomentosa (Cat’s claw), focusing on the inhibition of Mpro. […] The in silico approach starts with protein-ligand docking of 26 Cat’s claw key components, followed by ligand pathway calculations, molecular dynamics simulations, and MM-GBSA calculation of the free energy of binding for the best docked candidates. […] The structural bioinformatics approaches led to identification of three bioactive compounds of Uncaria tomentosa (speciophylline, cadambine, and proanthocyanidin B2) with potential therapeutic effects by strong interaction with 3CLpro. […] Our findings suggest the potential effectiveness of Cat’s claw as complementary and/or alternative medicine for COVID-19 treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33034151&#34; target=&#34;_blank&#34;&gt;33034151&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Carnivores, including domestic cats, ferrets and minks, appear to be particularly susceptible to SARS-CoV-2 in contrast to poultry and other animals reared as livestock such as cattle and swine. […] Airborne transmission of SARS-CoV-2 between experimentally infected cats additionally substantiates the possibility of cat-to-human transmission. […] To evaluate the COVID-19 risk represented by domestic and farmed carnivores, experimental assessments should include surveillance and health assessment of domestic and farmed carnivores, characterization of the immune interplay between SARS-CoV-2 and carnivore coronaviruses, determination of the SARS-CoV-2 host range beyond carnivores and identification of human risk groups such as veterinarians and farm workers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33042151&#34; target=&#34;_blank&#34;&gt;33042151&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, interspecies comparisons indicate that ACE2 proteins of man and cat are far closer than dog, ferret, mouse, and rat with significant differences in binding-affinity between Spike and ACE2 proteins.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CAT</title>
+      <link>/genepanel/847/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/847/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;catalase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CAT</title>
+      <link>/genepanel/847/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/847/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;catalase&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

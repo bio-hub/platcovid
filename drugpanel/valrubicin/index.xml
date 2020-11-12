@@ -33,7 +33,7 @@ Synonymous :(8s, 10s)-8-glycoloyl-7,8,9,10-tetrahydro-6,8,11-trihydroxy-1-methox
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;valrubicin&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;valrubicin&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,22 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Several promising known drugs stand out as potential inhibitors of SARS-CoV-2 main protease, including carfilzomib, eravacycline, valrubicin, lopinavir, and elbasvir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32621718&#34; target=&#34;_blank&#34;&gt;32621718&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Shape-based Machine learning reported remdesivir, valrubicin, aprepitant, and fulvestrant as the best therapeutic agents with the highest affinity for the target protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32827400&#34; target=&#34;_blank&#34;&gt;32827400&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Repurposing of drugs from different pharmacological groups including antivirals like remdesivir, lopinavir, ritonavir, arbidol, oseltamivir, penciclovir, favipiravir, ganciclovir, and ribavirin; other antibiotics like azithromycin, ivermectin, eravacycline, valrubicin, streptomycin, nitazoxanide, teicoplanin, caspofungin, and colistin; and other agents like hydroxychloroquine, chloroquine, tocilizumab, camostat, nafamostat, carfilzomib, interferon, aprepitant, and dexamethasone can be considered for COVID-19 therapy.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

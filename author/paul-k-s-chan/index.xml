@@ -5,12 +5,28 @@
     <link>/author/paul-k-s-chan/</link>
       <atom:link href="/author/paul-k-s-chan/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul K S Chan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Paul K S Chan</title>
       <link>/author/paul-k-s-chan/</link>
     </image>
+    
+    <item>
+      <title>Detection of SARS-CoV-2 RNA in fecal specimens of patients with confirmed COVID-19: A meta-analysis.</title>
+      <link>/publication/32535156/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32535156/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 RNA Detection on Disposable Wooden Chopsticks, Hong Kong.</title>
+      <link>/publication/32491982/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32491982/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Critically ill patients with COVID-19 in Hong Kong: a multicentre retrospective observational cohort study</title>

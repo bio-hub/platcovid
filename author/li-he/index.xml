@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Li He | PlatCOVID</title>
+    <link>/author/li-he/</link>
+      <atom:link href="/author/li-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Li He</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Li He</title>
+      <link>/author/li-he/</link>
+    </image>
+    
+    <item>
+      <title>New onset neurologic events in people with COVID-19 infection in three regions in China.</title>
+      <link>/publication/32554771/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32554771/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Clinical characteristics and risk factors of acute kidney injury in coronavirus disease 2019].</title>
+      <link>/publication/32527342/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32527342/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

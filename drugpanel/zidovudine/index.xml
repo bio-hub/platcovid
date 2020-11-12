@@ -33,7 +33,7 @@ Synonymous :azidothymidine | azt | zdv | zidovudina | zidovudine | zidovudinum
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;zidovudine&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;zidovudine&lt;/em&gt; gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,14 @@ We previously demonstrated that five nucleotide analogues inhibit the SARS-CoV-2
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The third drug, Zidovudine, is from PubChem database with docking scores of -9.75 with its binding free energies (Δ&lt;i&gt;G&lt;/i&gt; bind) of -59.43 on Site 3. […] Zidovudine shows a very stable interaction with fluctuation starting at 2.4 Å on 2 ns and remained stable at 3 Å from 13 to 50 ns.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32745502&#34; target=&#34;_blank&#34;&gt;32745502&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For the first time, we found that zidovudine may be effective clues of treatment of COVID-19.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

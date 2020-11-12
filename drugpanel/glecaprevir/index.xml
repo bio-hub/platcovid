@@ -33,7 +33,7 @@ Synonymous :glécaprévir | glecaprevir | glecaprevirum
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;glecaprevir&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;glecaprevir&lt;/em&gt; gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,30 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Using well-defined computational methods, we identified Glecaprevir and Maraviroc as the best inhibitors CoV-2 Mpro. […] Glecaprevir and Maraviroc bind to the conserved substrate-binding pocket of SARS-CoV-2 Mpro. […] This work provides sufficient evidence for the use of Glecaprevir and Maraviroc for the therapeutic management of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32748740&#34; target=&#34;_blank&#34;&gt;32748740&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results suggest the effectiveness of Beclabuvir, Nilotinib, Tirilazad, Trametinib and Glecaprevir as potent drugs against SARS-CoV-2 since they tightly bind to its main protease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32837113&#34; target=&#34;_blank&#34;&gt;32837113&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A few promising leads with dual inhibition potential were identified among FDA approved antiviral drugs which include DB13879 (Glecaprevir), DB09102 (Daclatasvir), molecule DB09297 (Paritaprevir) and DB01072 (Atazanavir).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32837954&#34; target=&#34;_blank&#34;&gt;32837954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to the results, glecaprevir, paritaprevir, simeprevir, ledipasvir, glycyrrhizic acid, TMC-310911, and hesperidin showed highly favorably free binding energies with all tested target proteins.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

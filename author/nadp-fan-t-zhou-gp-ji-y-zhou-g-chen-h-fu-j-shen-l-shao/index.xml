@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NADP Fan, T Zhou, GP Ji, Y Zhou, G Chen, H Fu, J Shen, L Shao | PlatCOVID</title>
+    <link>/author/nadp-fan-t-zhou-gp-ji-y-zhou-g-chen-h-fu-j-shen-l-shao/</link>
+      <atom:link href="/author/nadp-fan-t-zhou-gp-ji-y-zhou-g-chen-h-fu-j-shen-l-shao/index.xml" rel="self" type="application/rss+xml" />
+    <description>NADP Fan, T Zhou, GP Ji, Y Zhou, G Chen, H Fu, J Shen, L Shao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NADP Fan, T Zhou, GP Ji, Y Zhou, G Chen, H Fu, J Shen, L Shao</title>
+      <link>/author/nadp-fan-t-zhou-gp-ji-y-zhou-g-chen-h-fu-j-shen-l-shao/</link>
+    </image>
+    
+    <item>
+      <title>Inf-Net: Automatic COVID-19 Lung Infection Segmentation From CT Images.</title>
+      <link>/publication/32730213/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32730213/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

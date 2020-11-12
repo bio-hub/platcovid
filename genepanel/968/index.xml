@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/968&#34; target=&#34;_blank&#34;&gt;968&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=968&#34; target=&#34;_blank&#34;&gt; 17p13.1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/153634&#39; target=&#39;_blank&#39;&gt;153634&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/606843&#39; target=&#39;_blank&#39;&gt;606843&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/109535&#39; target=&#39;_blank&#39;&gt;109535&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -682,7 +682,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CD68 gene in 3 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CD68 gene in 7 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -718,6 +718,38 @@ Tissues were assessed with use of haematoxylin and eosin staining, immunohistoch
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Immunohistochemical analysis of nasal biopsy revealed the presence of infiltrative CD68&lt;sup&gt;+&lt;/sup&gt; macrophages harboring severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) antigen in the stroma. […] Mucosal infiltration by CD68&lt;sup&gt;+&lt;/sup&gt; macrophages expressing SARS-CoV-2 viral antigen may contribute to COVID-19-related OD.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32615987&#34; target=&#34;_blank&#34;&gt;32615987&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Immunohistochemistry demonstrates an endothelial overexpression of medium-size vessels (anti-CD31), while not in micro-vessels, with a remarkable activity of macrophages (anti-CD68) and T helper lymphocytes (anti-CD4) against gallbladder vessels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32718282&#34; target=&#34;_blank&#34;&gt;32718282&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Inflammation severity was assessed by the Disease Activity Index (DAI) score and ex vivo histological CD68 staining of samples taken from different parts of the intestine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32725927&#34; target=&#34;_blank&#34;&gt;32725927&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The stroma contained a large number of CD11c, CD68, and CD3 positive cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32730555&#34; target=&#34;_blank&#34;&gt;32730555&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Incidence of SARS-CoV-2 positivity in cardiac tissue as well as CD3+, CD45+, and CD68+ cells in the myocardium and gene expression of tumor necrosis growth factor α, interferon γ, chemokine ligand 5, as well as interleukin-6, -8, and -18.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

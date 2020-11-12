@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/ravulizumab/</link>
+      <atom:link href="/drugpanel/ravulizumab/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/ravulizumab/</link>
+    </image>
+    
+    <item>
+      <title>RAVULIZUMAB</title>
+      <link>/drugpanel/ravulizumab/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/ravulizumab/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db11580&#39; target=&#39;_blank&#39;&gt;db11580&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ravulizumab&#34; target=&#34;_blank&#34;&gt;ravulizumab&lt;/a&gt; &lt;br&gt;
+Synonymous :ravulizumab | ravulizumab-cwvz
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ravulizumab&lt;/em&gt; gene in 3 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32641154&#34; target=&#34;_blank&#34;&gt;32641154&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The initial active arms comprise baricitinib and ravulizumab. […] Ravulizumab will be administered intravenously once according to the licensed weight-based dosing regimen (see Additional file 1).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32660611&#34; target=&#34;_blank&#34;&gt;32660611&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Primary Objective • To evaluate the effect of ravulizumab, a long-acting complement (C5) inhibitor plus best supportive care (BSC) compared with BSC alone on the survival of patients with COVID-19. […] PK/PD/Immunogenicity • Change in serum ravulizumab concentrations over time • Change in serum free and total C5 concentrations over time • Incidence and titer of anti-ALXN1210 antibodies Biomarkers • Change in absolute level of soluble biomarkers in blood associated with complement activation, inflammatory processes, and hypercoagulable states over time Exploratory • Incidence of progression to renal failure requiring dialysis at Day 29 • Time to clinical improvement (based on a modified 6-point ordinal scale) over 29 days • SF-12 Physical Component Summary (PCS) and Mental Component Summary (MCS) scores at Day 29 (or discharge), Day 60, and Day 90 • EuroQol 5-dimension 5-level (EQ-5D-5L) scores at Day 29 (or discharge), Day 60, and Day 90 TRIAL DESIGN: This is a multicenter Phase 3, open-label, randomized, controlled, study. […] For patients randomized to ravulizumab plus BSC, a weight-based dose of ravulizumab (≥40 to &amp;lt; 60 kg/2400 mg, 60 to &amp;lt; 100 kg/2700 mg, ≥ 100 kg/3000 mg) will be administered on Day 1. […] On Day 5 and Day 10, additional doses of 600 mg (≥40 to &amp;lt;60 kg) or 900 mg (&amp;gt;60 kg) ravulizumab will be administered and on Day 15 patients will receive 900 mg ravulizumab. […] Patients will be randomized in a 2:1 ratio (ravulizumab plus BSC:BSC alone). […] Numbers to be randomised (sample size): Approximately 270 patients will be randomly assigned in a 2:1 ratio to ravulizumab plus BSC (n=180) or BSC alone (n=90).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32917848&#34; target=&#34;_blank&#34;&gt;32917848&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CASE REPORT Case 1 is a 39-year-old woman with an approximately 20-year history of paroxysmal nocturnal hemoglobinuria (PNH), who had recently been switched from treatment with eculizumab to ravulizumab prior to SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

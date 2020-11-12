@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karren Prost | PlatCOVID</title>
+    <link>/author/karren-prost/</link>
+      <atom:link href="/author/karren-prost/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karren Prost</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Karren Prost</title>
+      <link>/author/karren-prost/</link>
+    </image>
+    
+    <item>
+      <title>Sensitivity of nasopharyngeal swabs and saliva for the detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).</title>
+      <link>/publication/32584972/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32584972/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

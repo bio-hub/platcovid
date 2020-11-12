@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jillian Oft | PlatCOVID</title>
+    <link>/author/jillian-oft/</link>
+      <atom:link href="/author/jillian-oft/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jillian Oft</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Jillian Oft</title>
+      <link>/author/jillian-oft/</link>
+    </image>
+    
+    <item>
+      <title>Compassionate Use of Tocilizumab for Treatment of SARS-CoV-2 Pneumonia.</title>
+      <link>/publication/32575124/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32575124/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 and androgen targeted therapy for prostate cancer patients.</title>
+      <link>/publication/32508311/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32508311/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -32,7 +32,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;sojourn&lt;/em&gt; gene in 4 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;sojourn&lt;/em&gt; gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -68,6 +68,22 @@ The model incorporates an Erlang distribution of times of sojourn in incubating,
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 148 (44.4%) cases once had contact with confirmed cases before onset, while 103 (30.9%) cases had never contacted confirmed cases but they had a sojourn history in Wuhan.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32781984&#34; target=&#34;_blank&#34;&gt;32781984&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These estimates can then be used to quantify average sojourn times of clinically important states such as intensive care and invasive ventilation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32796810&#34; target=&#34;_blank&#34;&gt;32796810&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nineteen cases (27.5%) had a history of sojourn in Hubei Province, and none of the cases reported after February 6, 2020 had a history of exposure in Hubei Province.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

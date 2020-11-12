@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NASH Yoo, H Geng, TL Chiu, SK Yu, DC Cho, J Heo, MS Choi, IH Choi, C Cung Van, NV Nhung, BJ Min, H Lee | PlatCOVID</title>
+    <link>/author/nash-yoo-h-geng-tl-chiu-sk-yu-dc-cho-j-heo-ms-choi-ih-choi-c-cung-van-nv-nhung-bj-min-h-lee/</link>
+      <atom:link href="/author/nash-yoo-h-geng-tl-chiu-sk-yu-dc-cho-j-heo-ms-choi-ih-choi-c-cung-van-nv-nhung-bj-min-h-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>NASH Yoo, H Geng, TL Chiu, SK Yu, DC Cho, J Heo, MS Choi, IH Choi, C Cung Van, NV Nhung, BJ Min, H Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NASH Yoo, H Geng, TL Chiu, SK Yu, DC Cho, J Heo, MS Choi, IH Choi, C Cung Van, NV Nhung, BJ Min, H Lee</title>
+      <link>/author/nash-yoo-h-geng-tl-chiu-sk-yu-dc-cho-j-heo-ms-choi-ih-choi-c-cung-van-nv-nhung-bj-min-h-lee/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning-Based Decision-Tree Classifier for COVID-19 Diagnosis From Chest X-ray Imaging.</title>
+      <link>/publication/32760732/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32760732/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

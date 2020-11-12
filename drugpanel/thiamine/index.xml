@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/thiamine/</link>
+      <atom:link href="/drugpanel/thiamine/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/thiamine/</link>
+    </image>
+    
+    <item>
+      <title>THIAMINE</title>
+      <link>/drugpanel/thiamine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/thiamine/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00152&#39; target=&#39;_blank&#39;&gt;db00152&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=thiamine&#34; target=&#34;_blank&#34;&gt;thiamine&lt;/a&gt; &lt;br&gt;
+Synonymous :aneurin | antiberiberi factor | thiamin | thiamine | thiamine(1+) | thiamine(1+) ion | thiaminium | thiaminum | tiamina | vitamin b1
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;thiamine&lt;/em&gt; gene in 3 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32631405&#34; target=&#34;_blank&#34;&gt;32631405&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Duration of intervention: 7 days from randomization Intervention in the treatment group: Vitamin A 25,000 IU daily Vitamin D 600,000 IU once during study Vitamin E 300 IU twice daily Vitamin C is taken four times per day B vitamins are taken as a daily Soluvit [which included thiamine nitrate 3.1 mg, sodium riboflavin phosphate 4.9 mg (corresponding to vitamin B2 3.6 mg), nicotinamide 40 mg, pyridoxine hydrochloride 4.9 mg (corresponding to vitamin B6 4.0 mg), sodium pantothenate 16.5 mg (corresponding to pantothenic acid 15 mg), sodium ascorbate 113 mg (corresponding to vitamin C 100 mg), biotin 60 μg, folic acid 400 μg, and cyanocobalamin 5 μg] The control group will not receive any supplements or placebo.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32809870&#34; target=&#34;_blank&#34;&gt;32809870&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The core treatment strategy to manage the pulmonary phase includes the combination of methylprednisolone, ascorbic acid, thiamine, and heparin (MATH+ protocol). […] While there is no single ‘Silver Bullet’ to cure COVID-19, we believe that the severely disturbed pathological processes leading to respiratory failure in patients with COVID-19 organizing pneumonia will respond to the combination of Methylprednisone, Ascorbic acid, Thiamine, and full anticoagulation with Heparin (MATH+ protocol).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32842513&#34; target=&#34;_blank&#34;&gt;32842513&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Level 1 and 2 evidence supports the use of thiamine, vitamin C, and vitamin D in COVID-like respiratory diseases, ARDS, and sepsis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

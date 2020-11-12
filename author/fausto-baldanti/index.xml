@@ -5,12 +5,36 @@
     <link>/author/fausto-baldanti/</link>
       <atom:link href="/author/fausto-baldanti/index.xml" rel="self" type="application/rss+xml" />
     <description>Fausto Baldanti</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Fausto Baldanti</title>
       <link>/author/fausto-baldanti/</link>
     </image>
+    
+    <item>
+      <title>Clinical And Analytical Performance Of An Automated Serological Test That Identifies S1/S2 Neutralizing IgG In COVID-19 Patients Semiquantitatively.</title>
+      <link>/publication/32580948/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32580948/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevalence of SARS-CoV-2 specific neutralising antibodies in blood donors from the Lodi Red Zone in Lombardy, Italy, as at 06 April 2020.</title>
+      <link>/publication/32583766/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32583766/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plasma from donors recovered from the new Coronavirus 2019 as therapy for critical patients with COVID-19 (COVID-19 plasma study): a multicentre study protocol.</title>
+      <link>/publication/32468508/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32468508/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Rapid and sensitive detection of SARS-CoV-2 RNA using the Simplexa™ COVID-19 direct assay.</title>

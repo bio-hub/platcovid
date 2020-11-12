@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAW Chen | PlatCOVID</title>
+    <link>/author/naw-chen/</link>
+      <atom:link href="/author/naw-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAW Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAW Chen</title>
+      <link>/author/naw-chen/</link>
+    </image>
+    
+    <item>
+      <title>Promise and challenges in the development of COVID-19 vaccines.</title>
+      <link>/publication/32703069/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32703069/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

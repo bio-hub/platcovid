@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/5741&#34; target=&#34;_blank&#34;&gt;5741&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=5741&#34; target=&#34;_blank&#34;&gt; 11p15.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/168450&#39; target=&#39;_blank&#39;&gt;168450&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/146200&#39; target=&#39;_blank&#39;&gt;146200&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/600262&#39; target=&#39;_blank&#39;&gt;600262&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -108,7 +108,7 @@ High
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of PTH gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of PTH gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -128,6 +128,22 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The median serum calcium levels were 2.12 (IQR, 2.04-2.20) mmol/L, median parathyroid hormone (PTH) levels were 55.27 (IQR, 42.73-73.15) pg/mL, and median 25-hydroxy-vitamin D (VD) levels were 10.20 (IQR, 8.20-12.65) ng/mL. […] The serum calcium levels were significantly positively correlated with VD levels (&lt;i&gt;P&lt;/i&gt; =0.004) but negatively correlated with PTH levels (&lt;i&gt;P&lt;/i&gt; =0.048). […] Hypocalcemia may be associated with imbalanced VD and PTH levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32932831&#34; target=&#34;_blank&#34;&gt;32932831&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eight weeks after the onset of COVID-19, a high proportion of patients presented with impaired VITD metabolism and elevated parathyroid hormone (PTH) levels. […] PTH concentrations were increased in patients who needed intensive care unit (ICU) treatment, while VITD levels were not significantly different between disease severity groups.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33005518&#34; target=&#34;_blank&#34;&gt;33005518&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+He was incidentally found to have hyperphosphatemia and low parathyroid hormone (PTH) levels. […] His PTH levels were found to be at 8 pg/mL. […] Parathyroid hormone-related peptide (PTHrP) level was low at 10.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

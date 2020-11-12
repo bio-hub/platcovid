@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NALE Miller, R Bhattacharyya, AL Miller | PlatCOVID</title>
+    <link>/author/nale-miller-r-bhattacharyya-al-miller/</link>
+      <atom:link href="/author/nale-miller-r-bhattacharyya-al-miller/index.xml" rel="self" type="application/rss+xml" />
+    <description>NALE Miller, R Bhattacharyya, AL Miller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NALE Miller, R Bhattacharyya, AL Miller</title>
+      <link>/author/nale-miller-r-bhattacharyya-al-miller/</link>
+    </image>
+    
+    <item>
+      <title>Diabetes mellitus increases the risk of hospital mortality in patients with Covid-19: Systematic review with meta-analysis.</title>
+      <link>/publication/33019426/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/33019426/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data regarding country-specific variability in Covid-19 prevalence, incidence, and case fatality rate.</title>
+      <link>/publication/32984469/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32984469/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

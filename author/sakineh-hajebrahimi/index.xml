@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sakineh Hajebrahimi | PlatCOVID</title>
+    <link>/author/sakineh-hajebrahimi/</link>
+      <atom:link href="/author/sakineh-hajebrahimi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sakineh Hajebrahimi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Sakineh Hajebrahimi</title>
+      <link>/author/sakineh-hajebrahimi/</link>
+    </image>
+    
+    <item>
+      <title>Management of Female and Functional Urology Patients During the COVID Pandemic.</title>
+      <link>/publication/32540267/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32540267/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bradykinin as a Probable Aspect in SARS-Cov-2 Scenarios: Is Bradykinin Sneaking out of Our Sight?</title>
+      <link>/publication/32534506/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32534506/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

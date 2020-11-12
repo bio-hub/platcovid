@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vijay Jain | PlatCOVID</title>
+    <link>/author/vijay-jain/</link>
+      <atom:link href="/author/vijay-jain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vijay Jain</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Vijay Jain</title>
+      <link>/author/vijay-jain/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 and applications of smartphone technology in the current pandemic.</title>
+      <link>/publication/32497963/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32497963/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

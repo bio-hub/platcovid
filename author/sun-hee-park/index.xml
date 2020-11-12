@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sun-Hee Park | PlatCOVID</title>
+    <link>/author/sun-hee-park/</link>
+      <atom:link href="/author/sun-hee-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sun-Hee Park</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Sun-Hee Park</title>
+      <link>/author/sun-hee-park/</link>
+    </image>
+    
+    <item>
+      <title>Fatal Outcomes of COVID-19 in Patients with Severe Acute Kidney Injury.</title>
+      <link>/publication/32503180/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32503180/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outcomes of COVID-19 among Patients on In-Center Hemodialysis: An Experience from the Epicenter in South Korea.</title>
+      <link>/publication/32498262/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32498262/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hemodialysis with Cohort Isolation to Prevent Secondary Transmission during a COVID-19 Outbreak in Korea.</title>
+      <link>/publication/32482688/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32482688/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

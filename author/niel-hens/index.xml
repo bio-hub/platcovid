@@ -5,12 +5,28 @@
     <link>/author/niel-hens/</link>
       <atom:link href="/author/niel-hens/index.xml" rel="self" type="application/rss+xml" />
     <description>Niel Hens</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Niel Hens</title>
       <link>/author/niel-hens/</link>
     </image>
+    
+    <item>
+      <title>A prospect on the use of antiviral drugs to control local outbreaks of COVID-19.</title>
+      <link>/publication/32586336/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32586336/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOCRATES: an online tool leveraging a social contact data sharing initiative to assess mitigation strategies for COVID-19.</title>
+      <link>/publication/32546245/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32546245/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The COVID-19 epidemic, its mortality, and the role of non-pharmaceutical interventions.</title>

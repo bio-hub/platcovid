@@ -5,12 +5,28 @@
     <link>/author/florian-krammer/</link>
       <atom:link href="/author/florian-krammer/index.xml" rel="self" type="application/rss+xml" />
     <description>Florian Krammer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Florian Krammer</title>
       <link>/author/florian-krammer/</link>
     </image>
+    
+    <item>
+      <title>A Potently Neutralizing Antibody Protects Mice against SARS-CoV-2 Infection.</title>
+      <link>/publication/32591393/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32591393/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syrian hamsters as a small animal model for SARS-CoV-2 infection and countermeasure development.</title>
+      <link>/publication/32571934/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32571934/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Serology assays to manage COVID-19.</title>

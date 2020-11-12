@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAA Sakagianni, G Feretzakis, D Kalles, C Koufopoulou, V Kaldis | PlatCOVID</title>
+    <link>/author/naa-sakagianni-g-feretzakis-d-kalles-c-koufopoulou-v-kaldis/</link>
+      <atom:link href="/author/naa-sakagianni-g-feretzakis-d-kalles-c-koufopoulou-v-kaldis/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAA Sakagianni, G Feretzakis, D Kalles, C Koufopoulou, V Kaldis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAA Sakagianni, G Feretzakis, D Kalles, C Koufopoulou, V Kaldis</title>
+      <link>/author/naa-sakagianni-g-feretzakis-d-kalles-c-koufopoulou-v-kaldis/</link>
+    </image>
+    
+    <item>
+      <title>Setting up an Easy-to-Use Machine Learning Pipeline for Medical Decision Support: A Case Study for COVID-19 Diagnosis Based on Deep Learning with CT Scans.</title>
+      <link>/publication/32604588/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32604588/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

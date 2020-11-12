@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jong-Hun Kim | PlatCOVID</title>
+    <link>/author/jong-hun-kim/</link>
+      <atom:link href="/author/jong-hun-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jong-Hun Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Jong-Hun Kim</title>
+      <link>/author/jong-hun-kim/</link>
+    </image>
+    
+    <item>
+      <title>Intervention effects in the transmission of COVID-19 depending on the detection rate and extent of isolation.</title>
+      <link>/publication/32580532/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32580532/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

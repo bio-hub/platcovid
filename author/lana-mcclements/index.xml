@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lana McClements | PlatCOVID</title>
+    <link>/author/lana-mcclements/</link>
+      <atom:link href="/author/lana-mcclements/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lana McClements</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Lana McClements</title>
+      <link>/author/lana-mcclements/</link>
+    </image>
+    
+    <item>
+      <title>Can Stem Cells Beat COVID-19: Advancing Stem Cells and Extracellular Vesicles Toward Mainstream Medicine for Lung Injuries Associated With SARS-CoV-2 Infections.</title>
+      <link>/publication/32574317/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32574317/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

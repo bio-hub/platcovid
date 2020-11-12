@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heng Zhang | PlatCOVID</title>
+    <link>/author/heng-zhang/</link>
+      <atom:link href="/author/heng-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heng Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Heng Zhang</title>
+      <link>/author/heng-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Alveolar macrophage dysfunction and cytokine storm in the pathogenesis of two severe COVID-19 patients.</title>
+      <link>/publication/32574956/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32574956/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical characteristics of coronavirus disease (COVID-19) patients with gastrointestinal symptoms: A report of 164 cases.</title>
+      <link>/publication/32507692/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32507692/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

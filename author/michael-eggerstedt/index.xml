@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Eggerstedt | PlatCOVID</title>
+    <link>/author/michael-eggerstedt/</link>
+      <atom:link href="/author/michael-eggerstedt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Eggerstedt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Michael Eggerstedt</title>
+      <link>/author/michael-eggerstedt/</link>
+    </image>
+    
+    <item>
+      <title>Rapid implementation of COVID-19 tracheostomy simulation training to increase surgeon safety and confidence.</title>
+      <link>/publication/32505992/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32505992/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

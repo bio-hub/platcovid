@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAA Talukder | PlatCOVID</title>
+    <link>/author/naa-talukder/</link>
+      <atom:link href="/author/naa-talukder/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAA Talukder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAA Talukder</title>
+      <link>/author/naa-talukder/</link>
+    </image>
+    
+    <item>
+      <title>Susceptible-Infectious-Recovered (SIR) model based forecasting of COVID-19 outbreak in Bangladesh.</title>
+      <link>/publication/32761995/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32761995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Age on Death Due to Coronavirus Disease 2019 (COVID-19): Application of Poisson Regression Model.</title>
+      <link>/publication/32757345/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32757345/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

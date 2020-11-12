@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N Fernandez-Hidalgo | PlatCOVID</title>
+    <link>/author/n-fernandez-hidalgo/</link>
+      <atom:link href="/author/n-fernandez-hidalgo/index.xml" rel="self" type="application/rss+xml" />
+    <description>N Fernandez-Hidalgo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>N Fernandez-Hidalgo</title>
+      <link>/author/n-fernandez-hidalgo/</link>
+    </image>
+    
+    <item>
+      <title>Pre-eclampsia-like syndrome induced by severe COVID-19: a prospective observational study.</title>
+      <link>/publication/32479682/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32479682/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

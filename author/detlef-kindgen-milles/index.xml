@@ -5,12 +5,28 @@
     <link>/author/detlef-kindgen-milles/</link>
       <atom:link href="/author/detlef-kindgen-milles/index.xml" rel="self" type="application/rss+xml" />
     <description>Detlef Kindgen-Milles</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Detlef Kindgen-Milles</title>
       <link>/author/detlef-kindgen-milles/</link>
     </image>
+    
+    <item>
+      <title>CytoResc - CytoSorb Rescue for critically ill patients undergoing the COVID-19 Cytokine Storm: A structured summary of a study protocol for a randomized controlled trial.</title>
+      <link>/publication/32586396/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32586396/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The history and value of face masks.</title>
+      <link>/publication/32576263/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32576263/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The role of passive immunization in the age of SARS-CoV-2: an update.</title>

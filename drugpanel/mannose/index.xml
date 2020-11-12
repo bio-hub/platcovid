@@ -33,7 +33,7 @@ Synonymous :d-mannose
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;mannose&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;mannose&lt;/em&gt; gene in 1 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -69,6 +69,22 @@ We propose here the first model, explaining how the outcome of first, crucial 10
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 This study reveals that Isothymol, a major component of this plant, gives the best docking scores, compared to, the co-crystallized inhibitor β-D-mannose of the enzyme ACE2, to Captropil drug as good ACE2 inhibitor and to Chloroquine antiviral drug also involved in other mechanisms as inhibition of ACE2 cellular receptor. &lt;i&gt;In silico&lt;/i&gt; (ADME), drug-likeness, PASS &amp;amp; P450 site of metabolism prediction, pharmacophore Mapper showed that the compound Isothymol has given a good tests results compared to the β-D-mannose co-crystallized inhibitor, to Captopril and Chloroquine drugs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32850977&#34; target=&#34;_blank&#34;&gt;32850977&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, our review mainly focuses on the most state-of-the-art therapeutic approach mediated by “Mannose-binding lectin (MBL).”
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32871607&#34; target=&#34;_blank&#34;&gt;32871607&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mannose-binding lectin (MBL), a pattern recognition molecule that initiates the lectin pathway of complement activation, has been suggested as a potential amplifier of blood coagulation during thromboinflammation.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

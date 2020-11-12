@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/rice/</link>
+      <atom:link href="/drugpanel/rice/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/rice/</link>
+    </image>
+    
+    <item>
+      <title>RICE</title>
+      <link>/drugpanel/rice/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/rice/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db10563&#39; target=&#39;_blank&#39;&gt;db10563&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=rice&#34; target=&#34;_blank&#34;&gt;rice&lt;/a&gt; &lt;br&gt;
+Synonymous :brown rice | brown rice preparation | rice allergenic extract
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;rice&lt;/em&gt; gene in 9 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32691697&#34; target=&#34;_blank&#34;&gt;32691697&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several in silico studies on natural derivatives, especially that present in daily refreshments (tea and fruit juices), staple food (black rice, red onions, soy beans etc) and traditional medicines (extracts of herbs, leaves and flowers) have been identified as potential drug candidates that bind efficiently with the key viral proteins.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32834377&#34; target=&#34;_blank&#34;&gt;32834377&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Poor air quality already imposes a highly significant public health burden in Northwest India, with pollution levels spiking to hazardous levels in November and early December when rice crop residues are burned.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32834379&#34; target=&#34;_blank&#34;&gt;32834379&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the decade since the 2008 global food crisis, West African countries have made efforts to raise domestic rice production and to make the region self-sufficient. […] Today, West Africa produces nearly two-thirds of Africa’s rice. […] The region’s rice import dependency has fallen from nearly half of local consumption in 2010 to about 30%. […] In spite of this improvement, the region remains the world’s second largest rice importer. […] The situation of Benin, Burkina Fasso, Gambia and Niger remains challenging with rice import dependency still exceeding 70%. […] In addition, closure of frontiers and temporary trade disruption in major Asian rice exporters has led to increase in rice prices in the international market. […] In late April, rice futures rose to reach a level not surpassed since 2011. […] West African countries will need to enhance public spending on agriculture with a greater focus on measures aimed at improving rice productivity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32834396&#34; target=&#34;_blank&#34;&gt;32834396&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Demand for rice consumption in Africa has outstripped the current local production capacities. […] During the COVID-19 pandemic, rice production in both Asia and Africa is likely to be reduced. […] It is also likely that the major Asian rice exporting countries will resort to stockpiling of their local production, and restrict volumes of (or ban) rice exportation. […] Such measures could affect demand-supply dynamics and trigger a price crisis in African rice markets.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32834953&#34; target=&#34;_blank&#34;&gt;32834953&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Rice plays a strategic role in food security in West Africa. […] However, the region increasingly relies on rice imports due to a growing and structural deficit, and domestic value chains face constraints in technology, finance and coordination. […] We build on evidence of the current state of domestic rice value chain upgrading in West Africa to anticipate the impacts of the COVID-19 pandemic on rice value chains’ resilience and their capacity to sustain food security in the region.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32972485&#34; target=&#34;_blank&#34;&gt;32972485&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 1 unit increase in FCV-19S scores affected 1.04 times of increased consumption of yoghurt, kefir, cheese, nuts-seeds, fruit (dry) and rice-pasta. […] A 1 unit increase in GAD-7 scores affected 1.03 times of increased consumption of egg and fruit (fresh), 1.04 times of increased consumption of cheese and other vegetables, 1.05 times of increased consumption of milk, meat, poultry, fish, legume, nuts-seeds, fruit (dry), cake-cookies and tea, 1.07 times of increased consumption of rice-pasta and coffee, 1.08 times of increased consumption of bread and dessert.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32982021&#34; target=&#34;_blank&#34;&gt;32982021&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The timing of rice transplanting at the beginning of the summer monsoon season has a cascading influence on productivity of the entire rice-wheat cropping system. […] To assess the potential for COVID-related reductions in the agriculture workforce to disrupt production of the dominant rice-wheat cropping pattern in these states, we use a spatial ex ante modelling framework to evaluate four scenarios representing a range of plausible labor constraints on the timing of rice transplanting. […] Averaged over both states, results suggest that rice productivity losses under all delay scenarios would be low as compare to those for wheat, with total system productivity loss estimates ranging from 9%, to 21%, equivalent to economic losses of USD $674 m to $1.48 billion. […] Late rice transplanting and harvesting can also aggravate winter air pollution with concomitant health risks. […] Technological options such as direct seeded rice, staggered nursery transplanting, and crop diversification away from rice can help address these challenges but require new approaches to policy and incentives for change.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33020694&#34; target=&#34;_blank&#34;&gt;33020694&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The real price of rice triplicating for the consumers, which was alarming for nations in this pandemic situation. […] The authorized government agency needs to revise the policy formulation where Malaysia needs to set stages to revolutionize and modernize the rice farming to address the problem faced by the paddy sector in this pandemic situation to adopt GF.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33045618&#34; target=&#34;_blank&#34;&gt;33045618&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pubmed, Google scholar and Web of Science were searched extensively for articles using search terms: SARS-CoV-2, COVID-19, coronavirus, Lipids, Statin, Fibrates, Ezetimibe, PCSK9 monoclonal antibodies, nicotinic acid, bile acid sequestrants, nutraceuticals, red yeast rice, Omega-3-Fatty acids, Lomitapide, hypercholesterolaemia, dyslipidaemia and Volanesorsen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

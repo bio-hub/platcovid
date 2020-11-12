@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Brackenier | PlatCOVID</title>
+    <link>/author/a-brackenier/</link>
+      <atom:link href="/author/a-brackenier/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Brackenier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>A Brackenier</title>
+      <link>/author/a-brackenier/</link>
+    </image>
+    
+    <item>
+      <title>Diagnostic performance of seven rapid IgG/IgM antibody tests and the Euroimmun IgA/IgG ELISA in COVID-19 patients.</title>
+      <link>/publication/32473953/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32473953/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

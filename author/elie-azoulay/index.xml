@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elie Azoulay | PlatCOVID</title>
+    <link>/author/elie-azoulay/</link>
+      <atom:link href="/author/elie-azoulay/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elie Azoulay</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Elie Azoulay</title>
+      <link>/author/elie-azoulay/</link>
+    </image>
+    
+    <item>
+      <title>Review of influenza-associated pulmonary aspergillosis in ICU patients and proposal for a case definition: an expert opinion.</title>
+      <link>/publication/32572532/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32572532/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethical dilemmas due to the Covid-19 pandemic.</title>
+      <link>/publication/32556826/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32556826/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The vascular endothelium: the cornerstone of organ dysfunction in severe SARS-CoV-2 infection.</title>
+      <link>/publication/32546188/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32546188/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In response to the letter of Montagud-Marrahi et al.</title>
+      <link>/publication/32515045/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32515045/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acute kidney injury in critically ill patients with COVID-19.</title>
+      <link>/publication/32533197/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32533197/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing ICU surge during the COVID-19 crisis: rapid guidelines.</title>
+      <link>/publication/32514598/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32514598/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

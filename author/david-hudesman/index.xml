@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Hudesman | PlatCOVID</title>
+    <link>/author/david-hudesman/</link>
+      <atom:link href="/author/david-hudesman/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Hudesman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>David Hudesman</title>
+      <link>/author/david-hudesman/</link>
+    </image>
+    
+    <item>
+      <title>From the American Epicenter: Coronavirus Disease 2019 in Patients with Inflammatory Bowel Disease in the New York City Metropolitan Area.</title>
+      <link>/publication/32578843/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32578843/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

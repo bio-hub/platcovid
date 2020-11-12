@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/ambroxol/</link>
+      <atom:link href="/drugpanel/ambroxol/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/ambroxol/</link>
+    </image>
+    
+    <item>
+      <title>AMBROXOL</title>
+      <link>/drugpanel/ambroxol/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/ambroxol/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db06742&#39; target=&#39;_blank&#39;&gt;db06742&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=ambroxol&#34; target=&#34;_blank&#34;&gt;ambroxol&lt;/a&gt; &lt;br&gt;
+Synonymous :ambroxolum | bisolvon metabolite viii | bromhexine metabolite viii | bromhexine-metabolite viii | cyclohexanol, 4-((2-amino-3,5-dibromobenzyl)amino)- (e)- | n-(2-amino-3,4-dibromociclohexil)-trans-4-aminociclohexanol | n-(2-amino-3,4-dibromocyclohexyl)-trans-4-aminocyclohexanol | trans-4-((2-amino-3,5-dibromobencil)amino)ciclohexanol | trans-4-((2-amino-3,5-dibromobenzyl)amine)cyclohexanol | trans-4-((2-amino-3,5-dibromobenzyl)amino)cyclohexanol
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ambroxol&lt;/em&gt; gene in 3 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32741259&#34; target=&#34;_blank&#34;&gt;32741259&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on better dock score, binding-free energy and binding interactions compared to the control molecules, six molecules (Neohesperidin, Myricitrin, Quercitrin, Naringin, Icariin, and Ambroxol) were found to be promising against the TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33045350&#34; target=&#34;_blank&#34;&gt;33045350&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This paper highlights the potential of azithromycin and ambroxol to treat COVID-19. […] Azithromycin and ambroxol share lysosomotropic characteristics, i.e. they penetrate and accumulate inside the late endosomes and lysosomes and may possibly interfere with multiplication of the virus inside cells. […] Ambroxol has a proven antiviral effect and a unique stimulatory action on the secretion of surfactant by alveolar type II cells, the main target of SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

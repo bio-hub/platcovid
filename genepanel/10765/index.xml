@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/10765&#34; target=&#34;_blank&#34;&gt;10765&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=10765&#34; target=&#34;_blank&#34;&gt; 1q32.1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/165160&#39; target=&#39;_blank&#39;&gt;165160&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/609695&#39; target=&#39;_blank&#39;&gt;609695&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/276710&#39; target=&#39;_blank&#39;&gt;276710&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/140350&#39; target=&#39;_blank&#39;&gt;140350&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -836,7 +836,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of KDM5B gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of KDM5B gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -856,6 +856,22 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Correlation and network analyses revealed many potential regulators of ACE2 in the human lung, including genes related to histone modifications, such as HAT1, HDAC2, and KDM5B.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32593740&#34; target=&#34;_blank&#34;&gt;32593740&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2 is regulated in the human cells by different genes associated with increased (TLR3, HAT1, HDAC2, KDM5B, SIRT1, RAB1A, FURIN and ADAM10) or decreased (TRIB3) virus replication.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32726325&#34; target=&#34;_blank&#34;&gt;32726325&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In particular, we found that lysine-specific demethylase 5B (JARID1B), encoded by the KDM5B gene, can indirectly affect ACE2 / TMPRSS2 expression by repressing transcription of hsa-let-7e / hsa-mir-125a and hsa-mir-141 / hsa-miR-200 miRNA families which are targeting these genes.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

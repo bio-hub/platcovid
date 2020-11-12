@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anelisa K Coutinho | PlatCOVID</title>
+    <link>/author/anelisa-k-coutinho/</link>
+      <atom:link href="/author/anelisa-k-coutinho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anelisa K Coutinho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Anelisa K Coutinho</title>
+      <link>/author/anelisa-k-coutinho/</link>
+    </image>
+    
+    <item>
+      <title>Evidence-based recommendations for gastrointestinal cancers during the COVID-19 pandemic by the Brazilian Gastrointestinal Tumours Group.</title>
+      <link>/publication/32565901/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32565901/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oncology practice during COVID-19 pandemic: a fast response is the best response.</title>
+      <link>/publication/32520155/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32520155/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

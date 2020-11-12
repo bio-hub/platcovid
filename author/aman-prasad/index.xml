@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aman Prasad | PlatCOVID</title>
+    <link>/author/aman-prasad/</link>
+      <atom:link href="/author/aman-prasad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aman Prasad</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Aman Prasad</title>
+      <link>/author/aman-prasad/</link>
+    </image>
+    
+    <item>
+      <title>Mental health among otolaryngology resident and attending physicians during the COVID-19 pandemic: National study.</title>
+      <link>/publication/32496637/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32496637/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telemedicine for head and neck ambulatory visits during COVID-19: Evaluating usability and patient satisfaction.</title>
+      <link>/publication/32476228/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32476228/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

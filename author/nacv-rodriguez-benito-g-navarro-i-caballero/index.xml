@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NACV Rodríguez-Benito, G Navarro, I Caballero | PlatCOVID</title>
+    <link>/author/nacv-rodriguez-benito-g-navarro-i-caballero/</link>
+      <atom:link href="/author/nacv-rodriguez-benito-g-navarro-i-caballero/index.xml" rel="self" type="application/rss+xml" />
+    <description>NACV Rodríguez-Benito, G Navarro, I Caballero</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NACV Rodríguez-Benito, G Navarro, I Caballero</title>
+      <link>/author/nacv-rodriguez-benito-g-navarro-i-caballero/</link>
+    </image>
+    
+    <item>
+      <title>Using Copernicus Sentinel-2 and Sentinel-3 data to monitor harmful algal blooms in Southern Chile during the COVID-19 lockdown.</title>
+      <link>/publication/33039790/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/33039790/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

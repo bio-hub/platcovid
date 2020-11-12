@@ -33,7 +33,7 @@ Synonymous :ruxolitinib
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ruxolitinib&lt;/em&gt; gene in 24 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ruxolitinib&lt;/em&gt; gene in 28 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -157,6 +157,118 @@ We present the case of a 53-year-old haematopoetic stem cell transplant recipien
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Here, we report a compelling case of a 55-yo patient with proven COVID-19 pneumonia, who was taking the JAK1/2 inhibitor ruxolitinib in-label for co-existing primary myelofibrosis for 15 months prior to coronavirus infection. […] Since abrupt discontinuation of ruxolitinib may cause fatal cytokine storm and ARDS, ruxolitinib treatment was continued and was well tolerated, and the patient´s condition remained stable, without the need for mechanical ventilation or vasopressors. […] In conclusion, our report provides clinical evidence that ruxolitinib treatment is feasible and can be beneficial in patients with COVID-19 pneumonia, preventing cytokine storm and ARDS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32619669&#34; target=&#34;_blank&#34;&gt;32619669&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this context, this study aimed to evaluate in silico the molecular interactions of drugs with therapeutic indications for treatment of COVID-19 (Azithromycin, Baricitinib and Hydroxychloroquine) and drugs with similar structures (Chloroquine, Quinacrine and Ruxolitinib) in docking models from the SARS-CoV-2 main protease (M-pro) protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32629531&#34; target=&#34;_blank&#34;&gt;32629531&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The selective JAK1/2 inhibitor ruxolitinib has shown promising results in the context of GVHD, and different trials are currently underway in patients with severe COVID-19; nevertheless, no clinical observation of safety or efficacy of treatment with ruxolitinib in this context has been published yet. […] We describe a first case of severe COVID-19 developed after hematopoietic stem cell transplantation in a patient with a concomitant chronic GVHD (cGVHD), in which a treatment with ruxolitinib was administered with good tolerance and positive outcome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32636055&#34; target=&#34;_blank&#34;&gt;32636055&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ruxolitinib is the first approved JAK1 and JAK2 inhibitor, and is known to interfere with the JAK / STAT signaling pathway, one of the critical cellular signaling pathways involved in the inflammatory response. […] This review presents an overview of SARS-CoV-2 and the COVID-19 pandemic, and then focuses on the potential efficacy of ruxolitinib in this infection. […] The potential targets of ruxolitinib were determined by using genetic alterations that have been reported in COVID-19 patients. […] The potential effectiveness of ruxolitinib is suggested by evaluating the interactions of these potential targets with ruxolitinib or JAK/STAT pathway.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32676080&#34; target=&#34;_blank&#34;&gt;32676080&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These pathways were further enhanced by IL-17A deficiency and significantly down-regulated in mice lacking IFN-γ. (v) Ruxolitinib, a selective JAK-1/2 inhibitor, attenuated SAg-induced T cell activation, cytokine production, and small bowel pathology, thereby completely protecting from lethal CRS in both WT and IL-17A deficient HLA-DR3 mice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32696108&#34; target=&#34;_blank&#34;&gt;32696108&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Specific immune modulators include anti-cytokines such as interleukin (IL)-1 and IL-6 receptor antagonists (e.g. anakinra, tocilizumab, sarilumab, siltuximab), Janus kinase (JAK) inhibitors (e.g. baricitinib, ruxolitinib), anti-tumor necrosis factor-α (e.g. adalimumab, infliximab), granulocyte-macrophage colony-stimulating factors (e.g. gimsilumab, lenzilumab, namilumab), and convalescent plasma, with promising to negative trials and other data.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32726783&#34; target=&#34;_blank&#34;&gt;32726783&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we report 3 severe COVID-19 cases, which achieved rapid and sustained improvement in outcome with the use of ruxolitinib, a JAK/STAT pathway inhibitor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32727701&#34; target=&#34;_blank&#34;&gt;32727701&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report a mild and attenuated SARS CoV-2 infection in a patient who is 17 months post stem cell transplantation and maintained on the JAK/STAT inhibitor ruxolitinib, a proposed novel therapy for SARS CoV-2 pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32735768&#34; target=&#34;_blank&#34;&gt;32735768&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Supportive care and management of the complications that are caused mainly by inflammation might be the key to greater survival rates and shorter hospitalization (e.g., the use of remdesivir, lopinavir, ritonavir, umifenovir (arbidol), oseltamivir, ganciclovir, favipiravir, darunavir, hydroxychloroquine, chloroquine, colchicine, azithromycin, anakinra, canakinumab, tocilizumab, siltuximab, sarilumab, Type 1 interferon, interferon β-1a, interferon α- 2b, baricitinib, ruxolitinib, fedratinib, methylprednisolone and dexamethasone).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32789663&#34; target=&#34;_blank&#34;&gt;32789663&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ruxolitinib, a tyrosine kinase inhibitor selective for JAK1, 2, blocks many pro- and anti-inflammatory cytokines including IL6. […] Ruxolitinib has favorable pharmacodynamics and an acceptable safety profile.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32814839&#34; target=&#34;_blank&#34;&gt;32814839&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ruxolitinib is a JAK1/JAK2 inhibitor with potent anti-inflammatory properties. […] We report on a prospective, observational study in 34 patients with COVID-19 who received ruxolitinib on a compassionate-use protocol. […] Median exposure time to ruxolitinib was 13 days, median dose intensity was 20 mg/day. […] In this prospective cohort of aged and high-risk comorbidity patients with severe COVID-19, compassionate-use ruxolitinib was safe and was associated with improvement of pulmonary function and discharge home in 85.3%. […] Controlled clinical trials are necessary to establish efficacy of ruxolitinib in COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32844302&#34; target=&#34;_blank&#34;&gt;32844302&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Potential newer agents (e.g., Janus kinase inhibitor such as ruxolitinib, baricitinib, fedratinib) are likely to be investigated in clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32850921&#34; target=&#34;_blank&#34;&gt;32850921&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Methods: Ruxolitinib, a JAK1 and JAK2 inhibitor, has been successfully used to treat severe immune-mediated diseases, such as graft vs. host disease and Hemophagocytic lymphohistiocytosis. […] We used ruxolitinib in 18 patients with clinically progressive COVID-19 related acute respiratory distress syndrome, with a primary endpoint to rapidly reduce the degree of respiratory impairment and as a secondary endpoint to rapidly restore the PaO2/FiO2 ratio, as an evaluation of clinical status, and monitoring of drug related Adverse Events. […] The treatment plan was ruxolitinib 20 mg bid for the first 48 h and subsequent two-step de-escalation at 10 mg bid and 5 mg bid for a maximum of 14 days of treatment. […] Already after 48 h of ruxolitinib treatment 16/18 patients showed evident clinical improvement, and after 7 days of treatment 11/18 patients showed fully recovered respiratory function (pO2 &amp;gt; 98% in spontaneous breathing), 4/18 patients had minimal oxygen requirement (2-4 L/m), 1/18 patient showed stable disease, and 2/18 patient showed progressive disease. […] Compliance to ruxolitinib planned treatment was 100% and no serious adverse event was recorded. […] In our case series of 18 critically ill patients with COVID-19 and ARDS, administration of ruxolitinib resulted in a clinical improvement that concurred to modify the standard course of disease. […] Ruxolitinib can be a therapeutic option for patients with respiratory insufficiency in COVID-19 related ARDS. […] RESPIRE Study (Ruxolitinib for the treatment of acute rESPIratory distREss syndrome, ClinicalTrials.gov Identifier: NCT04361903).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32864162&#34; target=&#34;_blank&#34;&gt;32864162&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this review, we summarized the pharmacogenomic literature available for COVID-19 drug therapies including hydroxychloroquine, chloroquine, azithromycin, remdesivir, favipiravir, ribavirin, lopinavir/ritonavir, darunavir/cobicistat, interferon beta-1b, tocilizumab, ruxolitinib, baricitinib, and corticosteroids.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32904710&#34; target=&#34;_blank&#34;&gt;32904710&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Baricitinib and ruxolitinib have the additive immunosuppressive effect.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

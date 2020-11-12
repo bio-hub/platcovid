@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NATB Chandra, K Verma, BK Singh, D Jain, SS Netam | PlatCOVID</title>
+    <link>/author/natb-chandra-k-verma-bk-singh-d-jain-ss-netam/</link>
+      <atom:link href="/author/natb-chandra-k-verma-bk-singh-d-jain-ss-netam/index.xml" rel="self" type="application/rss+xml" />
+    <description>NATB Chandra, K Verma, BK Singh, D Jain, SS Netam</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NATB Chandra, K Verma, BK Singh, D Jain, SS Netam</title>
+      <link>/author/natb-chandra-k-verma-bk-singh-d-jain-ss-netam/</link>
+    </image>
+    
+    <item>
+      <title>Coronavirus disease (COVID-19) detection in Chest X-Ray images using majority voting based classifier ensemble.</title>
+      <link>/publication/32868966/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32868966/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

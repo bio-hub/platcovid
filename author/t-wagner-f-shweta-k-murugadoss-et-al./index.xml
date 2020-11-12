@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T Wagner, F Shweta, K Murugadoss, et al. | PlatCOVID</title>
+    <link>/author/t-wagner-f-shweta-k-murugadoss-et-al./</link>
+      <atom:link href="/author/t-wagner-f-shweta-k-murugadoss-et-al./index.xml" rel="self" type="application/rss+xml" />
+    <description>T Wagner, F Shweta, K Murugadoss, et al.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>T Wagner, F Shweta, K Murugadoss, et al.</title>
+      <link>/author/t-wagner-f-shweta-k-murugadoss-et-al./</link>
+    </image>
+    
+    <item>
+      <title>Augmented curation of clinical notes from a massive EHR system reveals symptoms of impending COVID-19 diagnosis.</title>
+      <link>/publication/32633720/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32633720/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

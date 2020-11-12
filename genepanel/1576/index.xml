@@ -30,7 +30,7 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/124010&#39; target=&#39;_blank&#39;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a member of the cytochrome P450 superfamily of enzymes. The cytochrome P450 proteins are monooxygenases that catalyze many reactions involved in drug metabolism and synthesis of cholesterol, steroids and other lipids. This protein localizes to the endoplasmic reticulum and its expression is induced by glucocorticoids and some pharmacological agents. This enzyme is involved in the metabolism of approximately half the drugs in use today, including acetaminophen, codeine, cyclosporin A, diazepam and erythromycin. The enzyme also metabolizes some steroids and carcinogens. This gene is part of a cluster of cytochrome P450 genes on chromosome 7q21.1. Previously another CYP3A gene, CYP3A3, was thought to exist; however, it is now thought that this sequence represents a transcript variant of CYP3A4. Alternatively spliced transcript variants encoding different isoforms have been identified. [provided by RefSeq, Feb 2011] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a member of the cytochrome P450 superfamily of enzymes. The cytochrome P450 proteins are monooxygenases that catalyze many reactions involved in drug metabolism and synthesis of cholesterol, steroids and other lipids. This protein localizes to the endoplasmic reticulum and its expression is induced by glucocorticoids and some pharmacological agents. This enzyme is involved in the metabolism of approximately half the drugs in use today, including acetaminophen, codeine, cyclosporin A, diazepam, erythromycin, and chloroquine. The enzyme also metabolizes some steroids and carcinogens. This gene is part of a cluster of cytochrome P450 genes on chromosome 7q21.1. Previously another CYP3A gene, CYP3A3, was thought to exist; however, it is now thought that this sequence represents a transcript variant of CYP3A4. Alternatively spliced transcript variants encoding different isoforms have been identified. [provided by RefSeq, Aug 2020] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
@@ -304,7 +304,7 @@ Not detected
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CYP3A4 gene in 2 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CYP3A4 gene in 10 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -332,6 +332,70 @@ Prezcobix/Rezolsta is a fixed-dose combination of 800 mg of the HIV protease inh
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Use of critical CYP3A4 substrate drugs such as warfarin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32600363&#34; target=&#34;_blank&#34;&gt;32600363&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+• Additionally, CYP3A4 and CYP2D6 phenotyping with microdosed probe drugs is performed using midazolam and yohimbine as enzyme activity markers, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32641296&#34; target=&#34;_blank&#34;&gt;32641296&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+CRP values significantly correlated with LPV but not HCQ plasma concentrations, implying inhibition of cytochrome P450 3A4 (CYP3A4) metabolism by inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32690074&#34; target=&#34;_blank&#34;&gt;32690074&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Non-inclusion criteria - Known hypersensitivity to budesonide or any of the excipients; - Hemostasis disorder or epistaxis; - Oral-nasal and ophthalmic herpes virus infection; - Long-term corticosteroid treatment; - Treatment with potent CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, voriconazole, posaconazole, clarithromycin, telithromycin, nefazodone and HIV protease inhibitors); - Severe forms of SARS-CoV-2 with respiratory or other signs; - Hyposmia persisting for more than 90 days after the onset of symptoms - Other causes of hyposmia found on interrogation or MRI; - Patient benefiting from a legal protection measure; - Pregnant or breastfeeding women.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32800347&#34; target=&#34;_blank&#34;&gt;32800347&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+First, chloroquine and hydroxychloroquine may mildly inhibit CYP2D6 metabolism of psychiatric medications, and psychiatric medications that interfere with CYP2D6 or CYP3A4 activity could alter chloroquine and hydroxychloroquine levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32856282&#34; target=&#34;_blank&#34;&gt;32856282&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This is a proof-of-concept of SARS-CoV-2 disease-drug interactions, and may support the need for optimal dose selection of sensitive CYP3A4 substrates in severe SARS-CoV-2 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32920000&#34; target=&#34;_blank&#34;&gt;32920000&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chloroquine/hydroxychloroquine + azithromycin interacted with 6 genes (CCL2, CTSB, CXCL8, IL1B, IL6 and TNF), whereas chloroquine and azithromycin affected two additional genes (BCL2L1 and CYP3A4), which might be a reason behind a greater number of consequential diseases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32978039&#34; target=&#34;_blank&#34;&gt;32978039&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+At last, in intro experiments validated QFPDD’s important effects, including the inhibition of IL6, CCL2, TNF-α, NF-κB, PTGS1/2, CYP1A1, CYP3A4 activity, the up-regulation of IL10 expression, and repressing platelet aggregation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32992777&#34; target=&#34;_blank&#34;&gt;32992777&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We assessed the inhibition of important efflux (P-glycoprotein (P-gp), breast cancer resistance protein (BCRP)) and uptake transporters (organic anion transporting polypeptide (OATP)-1B1, OATP1B3, OATP2B1) by hydroxychloroquine, tested its P-gp and BCRP substrate characteristics, and evaluated the induction of pharmacokinetically relevant genes regulated by the nuclear pregnane X (PXR) (CYP3A4, ABCB1) and aryl hydrocarbon receptor (AhR) (CYP1A1, CYP1A2).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

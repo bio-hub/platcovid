@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gee Yen Shin | PlatCOVID</title>
+    <link>/author/gee-yen-shin/</link>
+      <atom:link href="/author/gee-yen-shin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gee Yen Shin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Gee Yen Shin</title>
+      <link>/author/gee-yen-shin/</link>
+    </image>
+    
+    <item>
+      <title>Nosocomial transmission of COVID-19: a retrospective study of 66 hospital-acquired cases in a London teaching hospital.</title>
+      <link>/publication/32562422/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32562422/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

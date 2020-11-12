@@ -33,7 +33,7 @@ Synonymous :1-beta-d-ribofuranosyl-1,2,4-triazole-3-carboxamide | 1-beta-d-ribof
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ribavirin&lt;/em&gt; gene in 44 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ribavirin&lt;/em&gt; gene in 97 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -397,6 +397,430 @@ Our results for the first time suggest that a quadruple combination therapy (Rib
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 For adults with SARS, interferon was associated with reduced corticosteroid dose [weighted mean difference (WMD) = -0.14 g; 95% CI, -0.21 to -0.07] but had no effect on mortality (RR =0.72; 95% CI, 0.28 to 1.88); ribavirin did not reduce mortality (RR =0.68; 95% CI, 0.43 to 1.06) and was associated with high risk of severe adverse reactions; and oseltamivir had no effect on mortality (RR =0.87; 95% CI, 0.55 to 1.38). […] Ribavirin combined with interferon was also not effective in adults with MERS and associated with adverse reactions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32164080&#34; target=&#34;_blank&#34;&gt;32164080&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Antiviral drugs commonly used in clinical practice, including neuraminidase inhibitors (oseltamivir, paramivir, zanamivir, etc.), ganciclovir, acyclovir and ribavirin, are invalid for 2019-nCoV and not recommended.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32164081&#34; target=&#34;_blank&#34;&gt;32164081&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Combination of Ribavirin and interferon-α is recommended by the 5(th) edition National Health Commission’s Regimen (Revised Edition) because of the effect on Middle East respiratory syndrome (MERS), and the effectiveness of Lopinavir/Ritonavir and Remdisivir needs to be confirmed by randomized controlled trial (RCT), given the situation of no specific antivirus drug on NCP is unavailable.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32612432&#34; target=&#34;_blank&#34;&gt;32612432&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As ribavirin and favipiravir have teratogenic effects, there are some debates on the use of ribavirin in severe cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32612804&#34; target=&#34;_blank&#34;&gt;32612804&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A preliminary search identified the following drugs as being used to treat COVID-19 symptoms: atazanavir (ATV), azithromycin (AZI), chloroquine (CLQ)/hydroxychloroquine (HCLQ), dipyridamole, famotidine (FAM), favipiravir, lopinavir/ritonavir (LPV/r), nitazoxanide, remdesivir, ribavirin and tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32631826&#34; target=&#34;_blank&#34;&gt;32631826&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These repurposed drugs have mainly included remdesivir, favipiravir, lopinavir-ritonavir, ribavirin, interferons, and hydroxychloroquine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32634080&#34; target=&#34;_blank&#34;&gt;32634080&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several compounds, including remdesivir, lopinavir, ritonavir, interferon-β, ribavirin, chloroquine/hydroxychloroquine, azithromycin, tocilizumab, and ivermectin, have emerged as promising alternatives.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32634603&#34; target=&#34;_blank&#34;&gt;32634603&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ribavirin may be beneficial as an add-on therapy but is ineffective as monotherapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32641471&#34; target=&#34;_blank&#34;&gt;32641471&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Use of lopinavir-ritonavir ±ribavirin + interferon beta (aOR 1.94, 95% CI 1.20 to 3.13, p=0.006) and corticosteroids (aOR 3.92, 95% CI 2.14 to 7.16, p&amp;lt;0.001) was independently associated with ALT/AST elevation. […] Use of lopinavir-ritonavir, with or without ribavirin, interferon beta and/or corticosteroids was independently associated with ALT/AST elevation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32655019&#34; target=&#34;_blank&#34;&gt;32655019&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Oseltamivir and ribavirin require dose modification in patients with moderate to severe CKD.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32659126&#34; target=&#34;_blank&#34;&gt;32659126&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Dose modification/avoidance should be considered for chloroquine, atazanavir, oseltamivir, ribavirin, anakinra, and Janus associated kinase inhibitors in patients with organ function impairment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32667665&#34; target=&#34;_blank&#34;&gt;32667665&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, we implemented a coexpression drug repositioning analysis, cogena, and identified two antiviral drugs (saquinavir and ribavirin) and several other candidate drugs (such as dinoprost, dipivefrine, dexamethasone and (-)-isoprenaline). […] Notably, the two antiviral drugs have also previously been identified using molecular docking methods, and ribavirin is a recommended drug in the diagnosis and treatment protocol for COVID pneumonia (trial version 5-7) published by the National Health Commission of the P.R. of China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32678017&#34; target=&#34;_blank&#34;&gt;32678017&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the cases we report, the patient continued to deteriorate even after administration of antiviral drugs such as lopinavir/ritonavir, interferon-α, and ribavirin, as well as intravenous injection of meropenem, methylprednisolone, and immunoglobulin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32682788&#34; target=&#34;_blank&#34;&gt;32682788&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several drugs such as Remdesivir, Hydroxychloroquine, Chloroquine, Ribavirin, Ritonavir, Lopinavir, Favipiravir, Interferons, Bevacizumab, Azithromycin, etc. are currently under clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32685234&#34; target=&#34;_blank&#34;&gt;32685234&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Currently, the management of patients with COVID-19 depends mainly on repurposed drugs which include chloroquine, hydroxychloroquine, lopinavir/ritonavir, ribavirin, remdesivir, favipiravir, umifenovir, interferon-α, interferon-β and others.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32694915&#34; target=&#34;_blank&#34;&gt;32694915&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hydroxychloroquine/chloroquine, lopinavir/ritonavir, ribavirin, interferons, umifenovir, remdesivir, and interleukin antagonists, such as tocilizumab, have been recommended as potential treatment options in COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32711596&#34; target=&#34;_blank&#34;&gt;32711596&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We started a study on the molecular docking of six potential pharmacologically active inhibitors compounds that can be used clinically against the COVID-19 virus, in this case, remdesivir, ribavirin, favipiravir, galidesivir, hydroxychloroquine and chloroquine interacting with the main COVID-19 protease in complex with a COVID-19 N3 protease inhibitor. […] The highest values of affinity energy found in order from highest to lowest were chloroquine (CHL), hydroxychloroquine (HYC), favipiravir (FAV), galidesivir (GAL), remdesivir (REM) and ribavirin (RIB).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32712334&#34; target=&#34;_blank&#34;&gt;32712334&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this study was to compare ribavirin therapy versus supportive therapy only for patients with severe coronavirus disease 2019 (COVID-19). […] The 115 patients comprised 44 patients who received intravenous ribavirin (treatment group) and 71 who did not (control group). […] The negative conversion time for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RT-PCR in the ribavirin group was 12.8 ± 4.1 days compared with 14.1 ± 3.5 days in the control group (P = 0.314). […] Moreover, 7/41 patients (17.1%) in the ribavirin group died compared with 17/69 (24.6%) in the control group (P = 0.475). […] In conclusion, in patients with severe COVID-19, ribavirin therapy is not associated with improved negative conversion time for SARS-CoV-2 test and is not associated with an improved mortality rate.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32717568&#34; target=&#34;_blank&#34;&gt;32717568&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chloroquine, remdesivir, lopinavir/ritonavir or ribavirin have all been successful in inhibiting SARS-CoV-2 in vitro.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32725382&#34; target=&#34;_blank&#34;&gt;32725382&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We found promising in vitro evidence for remdesivir, (hydroxy)chloroquine and favipiravir against SARS-CoV-2; potential clinical benefit in SARS-CoV-2 with remdesivir, the combination of lopinavir/ritonavir (LPV/r) plus ribavirin; and strong evidence for LPV/r plus ribavirin against Middle East Respiratory Syndrome (MERS) for post-exposure prophylaxis in healthcare workers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32736197&#34; target=&#34;_blank&#34;&gt;32736197&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Age, Neutrophil-To-Lymphocyte Ratio (NLR), acute myocardial injury, and levels of C-reactive protein (CRP), lactate dehydrogenase (LDH), and CD3 T cells counts were independently associated with death, while arbidol and ribavirin were protective from death. […] There were 312 (45.8%) patients with cardiovascular disease, of whom 23.4% died. β-blockers, ACEI/ARB, arbidol, and ribavirin might have a beneficial effect for severe COVID-19 patients with cardiovascular disease. […] Clinicians should adopt more aggressive strategies for patients with a high NLR (&amp;gt;6.66) combined with myocardial injury. β-blockers and ACEI/ARB, as well as arbidol and ribavirin, were effective in COVID-19 patients with cardiovascular disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32754388&#34; target=&#34;_blank&#34;&gt;32754388&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this article, we have compiled comprehensive data on many candidate drugs such as remdesivir, favipiravir, ribavirin, umifenovir, arbidol, lopinavir, ritonavir, baricitinib, hydroxychloroquine, nitazoxanide, azithromycin, baloxavir, oseltamivir, losartan, and tocilizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32758569&#34; target=&#34;_blank&#34;&gt;32758569&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The docking was done with most discussed drugs for SARS-CoV-2 like Ritonavir, Lopinavir, Remdesivir, Chloroquine, Hydroxychloroquine (HCQ), routine antiviral drugs like Oseltamivir and Ribavirin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32765274&#34; target=&#34;_blank&#34;&gt;32765274&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eligible patients with mild to moderate COVID-19 were randomized into three groups: ribavirin (RBV) plus interferon-α (IFN-α), lopinavir/ritonavir (LPV/r) plus IFN-α, and RBV plus LPV/r plus IFN-α at a 1:1:1 ratio.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32767929&#34; target=&#34;_blank&#34;&gt;32767929&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared with control compounds (ribavirin, arbidol), the docking score of quercetin to the IL-6 receptor was highest, with a score of 5. […] Furthermore, the scores of three key components to SARS-CoV-2 are large as 4, 5, and 5, respectively, which are even better than those of ribavirin at 3.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32768505&#34; target=&#34;_blank&#34;&gt;32768505&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These include anti-viral agents (remdesivir, ribavirin, lopinavir-ritonavir, favipiravir, chloroquine, hydroxychloroquine, oseltamivir, umifenovir), immunomodulatory agents (tocilizumab, interferons, plasma transfusions), and adjunctive agents (azithromycin, corticosteroids), among other miscellaneous agents.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32777318&#34; target=&#34;_blank&#34;&gt;32777318&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The skin reactions of antimalarials (chloroquine and hydroxychloroquine), antivirals (lopinavir/ritonavir, ribavirin with or without interferon, oseltamivir, remdesivir, favipiravir, and darunavir), and treatments for complications (imatinib, tocilizumab, anakinra, immunoglobulins, corticosteroids, colchicine and low molecular weight heparins) are analyzed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32786685&#34; target=&#34;_blank&#34;&gt;32786685&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The drug repurposing study revealed the high potential of noscapine and proximal binding to the Mpro enzyme in a comparative binding pattern analyzed with chloroquine, ribavirin, and favipiravir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32787752&#34; target=&#34;_blank&#34;&gt;32787752&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, ribavirin may also be a potential treatment against CHIKV; sofosbuvir against ZIKV; celgosivir against DENV, and favipiravir against EBOV and MARV, representing new hopes against these pathogens.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32807688&#34; target=&#34;_blank&#34;&gt;32807688&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lopinavir-interferon α2b boosted ribavirin following with lopinavir boosted budesonide might be a potent treatment for viral clearance.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32812025&#34; target=&#34;_blank&#34;&gt;32812025&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We assessed the efficacy of sofosbuvir and daclatasvir with ribavirin for treating patients with COVID-19. […] Patients were randomly assigned to 400 mg sofosbuvir, 60 mg daclatasvir and 1200 mg ribavirin (intervention group) or to standard care (control group). […] The number of ICU admissions in the sofosbuvir/daclatasvir/ribavirin group was not significantly lower than the control group (0 versus 4, P = 0.109). […] The cumulative incidence of recovery was higher in the sofosbuvir/daclatasvir/ribavirin arm (Gray’s P = 0.033). […] There were trends in favour of the sofosbuvir/daclatasvir/ribavirin arm for recovery and lower death rates.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32812051&#34; target=&#34;_blank&#34;&gt;32812051&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Subjects were divided into two arms with one arm receiving ribavirin and the other receiving sofosbuvir/daclatasvir. […] Sixty-two subjects met the inclusion criteria, with 35 enrolled in the sofosbuvir/daclatasvir arm and 27 in the ribavirin arm. […] The median duration of stay was 5 days for the sofosbuvir/daclatasvir group and 9 days for the ribavirin group. […] The mortality in the sofosbuvir/daclatasvir group was 2/35 (6%) and 9/27 (33%) for the ribavirin group.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32827400&#34; target=&#34;_blank&#34;&gt;32827400&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Repurposing of drugs from different pharmacological groups including antivirals like remdesivir, lopinavir, ritonavir, arbidol, oseltamivir, penciclovir, favipiravir, ganciclovir, and ribavirin; other antibiotics like azithromycin, ivermectin, eravacycline, valrubicin, streptomycin, nitazoxanide, teicoplanin, caspofungin, and colistin; and other agents like hydroxychloroquine, chloroquine, tocilizumab, camostat, nafamostat, carfilzomib, interferon, aprepitant, and dexamethasone can be considered for COVID-19 therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32834942&#34; target=&#34;_blank&#34;&gt;32834942&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A number of antiviral drugs such as Ribavirin, Remdesivir, Lopinavir/ritonavir, Azithromycin and Doxycycline have been recommended or are being used to treat COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32848446&#34; target=&#34;_blank&#34;&gt;32848446&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Antiviral medication (lopinavir, darunavir, favipiravir, remdesivir, ribavirin, oseltamivir, tocilizumab, and umifenovir), ACE inhibitors, interferon-α2b, co-therapy with azithromycin, inhaling iNO, and oxygen therapy can be used for treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32849934&#34; target=&#34;_blank&#34;&gt;32849934&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lopinavir/ritonavir was found beneficial when administered with interferon and ribavirin, but one clinical trial on its sole use proved contrary.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32864162&#34; target=&#34;_blank&#34;&gt;32864162&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this review, we summarized the pharmacogenomic literature available for COVID-19 drug therapies including hydroxychloroquine, chloroquine, azithromycin, remdesivir, favipiravir, ribavirin, lopinavir/ritonavir, darunavir/cobicistat, interferon beta-1b, tocilizumab, ruxolitinib, baricitinib, and corticosteroids. […] We found several drug-gene variant pairs that may alter the pharmacokinetics of hydroxychloroquine/chloroquine (CYP2C8, CYP2D6, SLCO1A2, and SLCO1B1); azithromycin (ABCB1); ribavirin (SLC29A1, SLC28A2, and SLC28A3); and lopinavir/ritonavir (SLCO1B1, ABCC2, CYP3A). […] We also identified other variants, that are associated with adverse effects, most notable in hydroxychloroquine/chloroquine (G6PD; hemolysis), ribavirin (ITPA; hemolysis), and interferon β -1b (IRF6; liver toxicity).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32869558&#34; target=&#34;_blank&#34;&gt;32869558&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In general, the combination of antibiotics, ribavirin, and corticosteroids was considered as a standard treatment for patients with SARS. […] For patients with MERS, ribavirin, lopinavir/ritonavir, interferon, and convalescent plasma were continuously recommended. […] There was limited evidence for the effect of corticosteroids, other antiviral drugs like ribavirin, and favipiravir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32878881&#34; target=&#34;_blank&#34;&gt;32878881&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In silico screening, molecular mechanics and molecular dynamics simulation (MDS) analysis suggest ribavirin, ascorbate, lopinavir and hydroxychloroquine have strong interaction at the RBD-hACE2 interface.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32879113&#34; target=&#34;_blank&#34;&gt;32879113&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Hot anti-SARS-CoV-2 drugs include interferon α, ribavirin, lopinavir/ritonavir, chloroquine phosphate, abidol, as well as hydroxychloroquine sulfate and remdesivir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32884821&#34; target=&#34;_blank&#34;&gt;32884821&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There is no vaccine for COVID-19, so antiviral drugs (interferon alfa, ribavirin) may be useful to prevent COVID-19; however, severe control measures implemented in China have significantly mitigated the spread of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32887660&#34; target=&#34;_blank&#34;&gt;32887660&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most common treatment options used were hydroxychloroquine (79.7%), ribavirin (65.2%), and oxygen therapy (78.8%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32889701&#34; target=&#34;_blank&#34;&gt;32889701&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Number of drugs such as remdesivir, favipiravir, ribavirin, lopinavir, ritonavir, darunavir, arbidol, chloroquine, hydroxychloroquine, tocilizumab and interferons have shown inhibitory effects against the SARS-CoV2 in-vitro as well as in clinical conditions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32894567&#34; target=&#34;_blank&#34;&gt;32894567&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two retrospective matched-cohort studies reported the use of lopinavir/ritonavir in combination with ribavirin for SARS patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32910955&#34; target=&#34;_blank&#34;&gt;32910955&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Evaluation of antiviral activity using cell-based assay showed that NSC629301 and NSC71097 could strongly inhibit the cytopathic effect and also reduced replication of FIPV in CRFK cells in all examined conditions with the low range of EC50 (6.11 ± 1.90 to 7.75 ± 0.48 μM and 1.99 ± 0.30 to 4.03 ± 0.60 μM, respectively), less than those of ribavirin and lopinavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32949079&#34; target=&#34;_blank&#34;&gt;32949079&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During the post-transplant period, in profound leukopenia (below 10 leukocytes/µL), she was diagnosed with SARS-CoV-2, MPV, and RSV pneumonia and was treated with ribavirin and chloroquine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32957417&#34; target=&#34;_blank&#34;&gt;32957417&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ribavirin has activity against extensive RNA and DNA viruses. […] We plan to systematically review the use of ribavirin in patients with coronavirus-related pneumonia and meta-analyze the data with updated studies. […] Ribavirin of any dose or route will be compared with the control group of other medication, placebo, or no medication. […] The efficacy and safety of ribavirin for treatment of coronavirus-related pneumonia will be systematically reviewed and summarized. […] The forthcoming results of the ongoing studies focusing on ribavirin in patients with the 2019 noel coronavirus disease will also be included.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32965013&#34; target=&#34;_blank&#34;&gt;32965013&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There are several potential medications available for COVID-19, such as Interferon α (IFN-α), Teicoplanin, Ribavirin, Galidesivir, Lopinavir/Ritonavir, Chloroquine phosphate, Arbidol, Velpatasvir, Favipiravir, Ledipasvir, Remdesivir, Sofosbuvir, Darunavir, Qingfei Paidu Decoction (QPD), and Imatinib.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32989996&#34; target=&#34;_blank&#34;&gt;32989996&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Many patients however receive off-label antivirals such as lopinavir/ritonavir, ribavirin and/or chloroquine and /or interferons. […] Keywords: COVID-19, coronavirus, distress syndrome, lopinavir/ritonavir, ribavirin, chloroquine, interferons.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33029193&#34; target=&#34;_blank&#34;&gt;33029193&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We aimed to analyze and evaluate the safety signals of ribavirin-interferon combination through data mining of the US Food and Drug Administration Adverse Event Reporting System (FAERS), so as to provide reference for the rationale use of these agents in the management of relevant toxicities emerging in patients with novel coronavirus pneumonia (COVID-19). […] The ADE (adverse drug event) signal detection based on FAERS is helpful to clarify the potential adverse events related to ribavirin-interferon combination for novel coronavirus therapy; clinicians should pay attention to the adverse reactions of gastrointestinal and blood systems, closely monitor the fluctuations of the platelet count, and carry out necessary mental health interventions to avoid serious adverse events.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33029696&#34; target=&#34;_blank&#34;&gt;33029696&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The repurposed drugs like Chloroquine and Hydroxychloroquine, Tenofovir, Remdesivir, Ribavirin, Darunavir, Oseltamivir, Arbidol (Umifenovir), Favipiravir, Anakinra, and Baricitinib are already being used in clinical trials to treat the COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33031797&#34; target=&#34;_blank&#34;&gt;33031797&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+So far, chloroquine, lopinavir, hydroxychloroquine, azithromycin, favipiravir, ribavirin, darunavir, remdesivir, and umifenovir have been tested in COVID-19 clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33041111&#34; target=&#34;_blank&#34;&gt;33041111&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to level 1 evidence reviewed here, the most effective SARS-Co-V-2 pharmacologic treatments include remdesivir for mild to severe disease, and a triple regimen therapy consisting of lopinavir-ritonavir, ribavirin and interferon beta-1b for mild to moderate disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33049737&#34; target=&#34;_blank&#34;&gt;33049737&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chloroquine, remdesivir, favipiravi, lopinavir, ribavirin or ritonavir have shown efficacy to inhibit coronavirus in vitro.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -55,6 +55,14 @@ sentence
 The result shows that vanilla, stacked, and bidirectional LSTM models outperformed multilayer LSTM models.
 &lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32835077&#34; target=&#34;_blank&#34;&gt;32835077&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Different forms of existing deep learning techniques including convolutional neural network (CNN), vanilla neural network, visual geometry group based neural network (VGG), and capsule network are applied for lung disease prediction. […] For the case of full dataset, VDSNet exhibits a validation accuracy of 73%, while vanilla gray, vanilla RGB, hybrid CNN and VGG, and modified capsule network have accuracy values of 67.8%, 69%, 69.5% and 63.8%, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;

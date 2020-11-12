@@ -5,12 +5,28 @@
     <link>/author/serhat-unal/</link>
       <atom:link href="/author/serhat-unal/index.xml" rel="self" type="application/rss+xml" />
     <description>Serhat Ünal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Serhat Ünal</title>
       <link>/author/serhat-unal/</link>
     </image>
+    
+    <item>
+      <title>Projecting the Course of COVID-19 in Turkey: A Probabilistic Modeling Approach.</title>
+      <link>/publication/32530587/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32530587/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of blood group types on the risk of COVID-19 infection and its clinical outcome.</title>
+      <link>/publication/32496734/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32496734/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ANTIVIRAL TREATMENT OF COVID-19.</title>

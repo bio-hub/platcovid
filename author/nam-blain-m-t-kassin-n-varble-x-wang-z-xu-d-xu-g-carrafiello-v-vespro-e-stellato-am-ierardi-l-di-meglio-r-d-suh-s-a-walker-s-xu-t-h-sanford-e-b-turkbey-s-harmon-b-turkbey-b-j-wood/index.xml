@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAM Blain, M T Kassin, N Varble, X Wang, Z Xu, D Xu, G Carrafiello, V Vespro, E Stellato, AM Ierardi, L Di Meglio, R D Suh, S A Walker, S Xu, T H Sanford, E B Turkbey, S Harmon, B Turkbey, B J Wood | PlatCOVID</title>
+    <link>/author/nam-blain-m-t-kassin-n-varble-x-wang-z-xu-d-xu-g-carrafiello-v-vespro-e-stellato-am-ierardi-l-di-meglio-r-d-suh-s-a-walker-s-xu-t-h-sanford-e-b-turkbey-s-harmon-b-turkbey-b-j-wood/</link>
+      <atom:link href="/author/nam-blain-m-t-kassin-n-varble-x-wang-z-xu-d-xu-g-carrafiello-v-vespro-e-stellato-am-ierardi-l-di-meglio-r-d-suh-s-a-walker-s-xu-t-h-sanford-e-b-turkbey-s-harmon-b-turkbey-b-j-wood/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAM Blain, M T Kassin, N Varble, X Wang, Z Xu, D Xu, G Carrafiello, V Vespro, E Stellato, AM Ierardi, L Di Meglio, R D Suh, S A Walker, S Xu, T H Sanford, E B Turkbey, S Harmon, B Turkbey, B J Wood</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAM Blain, M T Kassin, N Varble, X Wang, Z Xu, D Xu, G Carrafiello, V Vespro, E Stellato, AM Ierardi, L Di Meglio, R D Suh, S A Walker, S Xu, T H Sanford, E B Turkbey, S Harmon, B Turkbey, B J Wood</title>
+      <link>/author/nam-blain-m-t-kassin-n-varble-x-wang-z-xu-d-xu-g-carrafiello-v-vespro-e-stellato-am-ierardi-l-di-meglio-r-d-suh-s-a-walker-s-xu-t-h-sanford-e-b-turkbey-s-harmon-b-turkbey-b-j-wood/</link>
+    </image>
+    
+    <item>
+      <title>Determination of disease severity in COVID-19 patients using deep learning in chest X-ray images.</title>
+      <link>/publication/32815519/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32815519/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

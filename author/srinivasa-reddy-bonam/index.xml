@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Srinivasa Reddy Bonam | PlatCOVID</title>
+    <link>/author/srinivasa-reddy-bonam/</link>
+      <atom:link href="/author/srinivasa-reddy-bonam/index.xml" rel="self" type="application/rss+xml" />
+    <description>Srinivasa Reddy Bonam</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Srinivasa Reddy Bonam</title>
+      <link>/author/srinivasa-reddy-bonam/</link>
+    </image>
+    
+    <item>
+      <title>Autophagy as an emerging target for COVID-19: lessons from an old friend, chloroquine.</title>
+      <link>/publication/32522067/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32522067/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adjunct Immunotherapies for the Management of Severely Ill COVID-19 Patients.</title>
+      <link>/publication/32562483/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32562483/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

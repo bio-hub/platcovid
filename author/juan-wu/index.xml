@@ -5,12 +5,28 @@
     <link>/author/juan-wu/</link>
       <atom:link href="/author/juan-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan Wu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Juan Wu</title>
       <link>/author/juan-wu/</link>
     </image>
+    
+    <item>
+      <title>Investigation of COVID-19-related symptoms based on factor analysis.</title>
+      <link>/publication/32576016/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32576016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prognosis analysis of patients with mental disorders with COVID-19: a single-center retrospective study.</title>
+      <link>/publication/32561692/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32561692/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Prognostic value of interleukin-6, C-reactive protein, and procalcitonin in patients with COVID-19.</title>

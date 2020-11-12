@@ -33,7 +33,7 @@ Synonymous :(3s,5z,7e)-9,10-secocholesta-5,7,10-triene-3,25-diol | (3β,5z,7e)-9
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;calcifediol&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;calcifediol&lt;/em&gt; gene in 10 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Several randomized clinical trials using either oral vitamin D or oral Calcifediol (25OHD) are ongoing. […] Based on a pilot study, oral calcifediol may be the most promising approach.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32871238&#34; target=&#34;_blank&#34;&gt;32871238&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Calcifediol can rapidly increase serum 25OHD concentration. […] We therefore evaluated the effect of calcifediol treatment, on Intensive Care Unit Admission and Mortality rate among Spanish patients hospitalized for COVID-19. […] Eligible patients were allocated at a 2 calcifediol:1 no calcifediol ratio through electronic randomization on the day of admission to take oral calcifediol (0.532 mg), or not. […] Patients in the calcifediol treatment group continued with oral calcifediol (0.266 mg) on day 3 and 7, and then weekly until discharge or ICU admission. […] Of 50 patients treated with calcifediol, one required admission to the ICU (2%), while of 26 untreated patients, 13 required admission (50 %) p value X2 Fischer test p &amp;lt; 0.001. […] Univariate Risk Estimate Odds Ratio for ICU in patients with Calcifediol treatment versus without Calcifediol treatment: 0.02 (95 %CI 0.002-0.17). […] Multivariate Risk Estimate Odds Ratio for ICU in patients with Calcifediol treatment vs Without Calcifediol treatment ICU (adjusting by Hypertension and T2DM): 0.03 (95 %CI: 0.003-0.25). […] Of the patients treated with calcifediol, none died, and all were discharged, without complications. […] The 13 patients not treated with calcifediol, who were not admitted to the ICU, were discharged. […] Our pilot study demonstrated that administration of a high dose of Calcifediol or 25-hydroxyvitamin D, a main metabolite of vitamin D endocrine system, significantly reduced the need for ICU treatment of patients requiring hospitalization due to proven COVID-19. […] Calcifediol seems to be able to reduce severity of the disease, but larger trials with groups properly matched will be required to show a definitive answer.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

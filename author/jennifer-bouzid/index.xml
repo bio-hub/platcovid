@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jennifer Bouzid | PlatCOVID</title>
+    <link>/author/jennifer-bouzid/</link>
+      <atom:link href="/author/jennifer-bouzid/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jennifer Bouzid</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Jennifer Bouzid</title>
+      <link>/author/jennifer-bouzid/</link>
+    </image>
+    
+    <item>
+      <title>Patient Perspectives on Audio-Only Virtual Prenatal Visits Amidst the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Pandemic.</title>
+      <link>/publication/32544144/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32544144/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

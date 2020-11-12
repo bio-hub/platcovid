@@ -5,12 +5,28 @@
     <link>/author/richard-molenkamp/</link>
       <atom:link href="/author/richard-molenkamp/index.xml" rel="self" type="application/rss+xml" />
     <description>Richard Molenkamp</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Richard Molenkamp</title>
       <link>/author/richard-molenkamp/</link>
     </image>
+    
+    <item>
+      <title>Phenotype and kinetics of SARS-CoV-2-specific T cells in COVID-19 patients with acute respiratory distress syndrome.</title>
+      <link>/publication/32591408/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32591408/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of commercial realtime reverse transcription PCR assays for the detection of SARS-CoV-2.</title>
+      <link>/publication/32570045/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32570045/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparison of seven commercial RT-PCR diagnostic kits for COVID-19.</title>

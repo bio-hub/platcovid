@@ -33,7 +33,7 @@ Synonymous :1-oxo-2-(2,6-dioxopiperidin-3-yl)-4-aminoisoindoline | 3-(4-amino-1-
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lenalidomide&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;lenalidomide&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,38 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 For standard-risk patients, we recommend the following: ixazomib, lenalidomide, and dexamethasone (IRd) (preferred), cyclophosphamide lenalidomide and dexamethasone (CRd), daratumumab lenalidomide and dexamethasone (DRd), lenalidomide, bortezomib, and dexamethasone (RVd), or cyclophosphamide, bortezomib, and dexamethasone (CyBorD). […] For high-risk patients we recommend carfilzomib, lenalidomide, and dexamethasone (KRd) (preferred) or RVd. […] After 10-12 cycles, lenalidomide maintenance is recommended for standard-risk patients and bortezomib or ixazomib are recommended for high-risk patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32735892&#34; target=&#34;_blank&#34;&gt;32735892&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In order to identify potential new drugs, using a machine learning approach, we highlighted Flunisolide, Thalidomide, Lenalidomide, Desoximetasone, xylazine, and salmeterol as potential drugs against SARS-CoV2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32745304&#34; target=&#34;_blank&#34;&gt;32745304&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we report eight patients with multiple myeloma that underwent immunomodulatory therapies with daratumumab or lenalidomide-based combination treatments and one patient with smoldering multiple myeloma, all of which presented with symptomatic COVID-19. […] We report that patients that succumbed to COVID-19 presented with either progressive tumor disease under daratumumab treatment or were in remission under lenalidomide-dexamethasone treatment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32834113&#34; target=&#34;_blank&#34;&gt;32834113&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+They are telaprevir, temsirolimus, pimecrolimus, aminoglutethimide, apixaban, buspirone, lenalidomide, and pomalidomide. […] It is recommended that telaprevir, and pyridone-containing pharmaceuticals including aminoglutethimide, apixaban, buspirone, lenalidomide, and pomalidomide be repurposed for COVID-19 treatment after suitable validation and clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32892275&#34; target=&#34;_blank&#34;&gt;32892275&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ixazomib-based regimens included ixazomib-lenalidomide-dexamethasone (IRd) in 44.7% of patients, ixazomib-dexamethasone (Id) in 29.4%, and Id plus another agent (doxorubicin, cyclophosphamide, thalidomide, or daratumumab) in 25.9%.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

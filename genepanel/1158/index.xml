@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/1158&#34; target=&#34;_blank&#34;&gt;1158&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=1158&#34; target=&#34;_blank&#34;&gt; 19q13.32&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/123310&#39; target=&#39;_blank&#39;&gt;123310&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/600005&#39; target=&#39;_blank&#39;&gt;600005&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/209920&#39; target=&#39;_blank&#39;&gt;209920&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/180300&#39; target=&#39;_blank&#39;&gt;180300&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -276,7 +276,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CKM gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CKM gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -296,6 +296,14 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Third, searching was executed in the international openEHR Clinical Knowledge Manager (CKM) to find the existing archetypes that could represent the concepts. […] All of them could be found in the CKM and reused directly. […] The archetypes and templates were reviewed and finally released in a public project within the CKM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33035176&#34; target=&#34;_blank&#34;&gt;33035176&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Each of the templates prioritised reuse of existing use-case agnostic archetypes found in openEHR International’s online Clinical Knowledge Manager (CKM) tool as much as possible.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

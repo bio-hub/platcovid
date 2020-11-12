@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/1991&#34; target=&#34;_blank&#34;&gt;1991&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=1991&#34; target=&#34;_blank&#34;&gt; 19p13.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/202700&#39; target=&#39;_blank&#39;&gt;202700&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/162800&#39; target=&#39;_blank&#39;&gt;162800&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/130130&#39; target=&#39;_blank&#39;&gt;130130&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/607673&#39; target=&#39;_blank&#39;&gt;607673&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -150,7 +150,7 @@ Medium
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ELANE gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ELANE gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -170,6 +170,14 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Co-expression network analysis by WGCNA suggested that highly preserved 833 turquoise module with genes were significantly related to SARS-CoV infection. &lt;i&gt;ELANE, ORM2, RETN, BPI, ARG1, DEFA4, CXCL1, and CAMP&lt;/i&gt; were the most important genes involved in this disease according to GEO2R analysis as well.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32835700&#34; target=&#34;_blank&#34;&gt;32835700&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The allelic frequencies of the polymorphisms in the ACE2, TMPRSS2, TMPRSS11A, cathepsin L (CTSL), and elastase (ELANE) genes were obtained in four populations from the American, African, European, and Asian continents reported in the 1000 Genome Project. […] Furthermore, forty-eight polymorphisms with possible functional consequences were detected in the non-coding sequences of the following genes: three in ACE2, seventeen in TMPRSS2, ten in TMPRSS11A, twelve in ELANE, and six in CTSL.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

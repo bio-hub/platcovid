@@ -5,12 +5,28 @@
     <link>/author/shuai-xia/</link>
       <atom:link href="/author/shuai-xia/index.xml" rel="self" type="application/rss+xml" />
     <description>Shuai Xia</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Shuai Xia</title>
       <link>/author/shuai-xia/</link>
     </image>
+    
+    <item>
+      <title>Dynamic surveillance of SARS-CoV-2 shedding and neutralizing antibody in children with COVID-19.</title>
+      <link>/publication/32515685/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32515685/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broad-Spectrum Coronavirus Fusion Inhibitors to Combat COVID-19 and Other Emerging Coronavirus Diseases.</title>
+      <link>/publication/32481690/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32481690/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Identification of Human Single-Domain Antibodies against SARS-CoV-2.</title>

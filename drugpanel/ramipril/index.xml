@@ -33,7 +33,7 @@ Synonymous :(2s-(1(r&lt;em&gt;(r&lt;/em&gt;)),2alpha,3abeta,6abeta))-1-(2-((1-(e
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ramipril&lt;/em&gt; gene in 7 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ramipril&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 RASTAVI (NCT03201185) is an ongoing randomized clinical trial randomly allocating Ramipril or control after successful transcatheter aortic valve replacement at 14 centers is Spain. […] As in April 1&lt;sup&gt;st&lt;/sup&gt; 2020, 102 patients (50 Ramipril and 52 controls) were included in the trial. […] Median time of Ramipril treatment was 6 months [IQR:2.9-11.4]. […] Eleven patients (10.8%) have been diagnosed with COVID-19 (6 in control group and 5 receiving Ramipril, HR=1.150 [95%CI: 0.351-3.768]). […] Admission and oxygen supply was required in 4.9% (2 patients in the Ramipril and 3 in control), and 4 of them died (two in each randomized group). […] In a high risk population of old patients with cardiovascular disease, randomization to Ramipril had no impact in the incidence or severity of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32752951&#34; target=&#34;_blank&#34;&gt;32752951&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results obtained from this study showed that Ramipril, Delapril and Lisinopril could bind with ACE2 receptor and [SARS-CoV-2/ACE2] complex better than chloroquine and hydroxychloroquine.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

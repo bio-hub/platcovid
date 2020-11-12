@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/671&#34; target=&#34;_blank&#34;&gt;671&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=671&#34; target=&#34;_blank&#34;&gt; 20q11.23&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/109195&#39; target=&#39;_blank&#39;&gt;109195&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/613065&#39; target=&#39;_blank&#39;&gt;613065&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/608232&#39; target=&#39;_blank&#39;&gt;608232&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/151410&#39; target=&#39;_blank&#39;&gt;151410&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -416,7 +416,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of BPI gene in 2 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of BPI gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -444,6 +444,14 @@ The changes as a proportion of national population were compared, adjusting by t
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Co-expression network analysis by WGCNA suggested that highly preserved 833 turquoise module with genes were significantly related to SARS-CoV infection. &lt;i&gt;ELANE, ORM2, RETN, BPI, ARG1, DEFA4, CXCL1, and CAMP&lt;/i&gt; were the most important genes involved in this disease according to GEO2R analysis as well.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32872321&#34; target=&#34;_blank&#34;&gt;32872321&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Job satisfaction was assessed through the Utrecht Work Engagement Scale (UWES), while MSK pain was investigated by the Brief Pain Inventory (BPI) and Fear Avoidance Beliefs Questionnaire (FABQ).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

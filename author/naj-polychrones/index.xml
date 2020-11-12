@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAJ Polychrones | PlatCOVID</title>
+    <link>/author/naj-polychrones/</link>
+      <atom:link href="/author/naj-polychrones/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAJ Polychrones</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAJ Polychrones</title>
+      <link>/author/naj-polychrones/</link>
+    </image>
+    
+    <item>
+      <title>Drug Information Association (DIA) 2020 Virtual Global Annual Meeting (June 14-18, 2020).</title>
+      <link>/publication/33025949/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/33025949/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

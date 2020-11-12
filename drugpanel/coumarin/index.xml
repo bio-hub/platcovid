@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/coumarin/</link>
+      <atom:link href="/drugpanel/coumarin/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/coumarin/</link>
+    </image>
+    
+    <item>
+      <title>COUMARIN</title>
+      <link>/drugpanel/coumarin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/coumarin/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db04665&#39; target=&#39;_blank&#39;&gt;db04665&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=coumarin&#34; target=&#34;_blank&#34;&gt;coumarin&lt;/a&gt; &lt;br&gt;
+Synonymous :1,2-benzopyrone | 2h-1-benzopyran-2-one | 2h-benzo(b)pyran-2-one | coumarinic lactone | cumarin
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;coumarin&lt;/em&gt; gene in 10 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32834114&#34; target=&#34;_blank&#34;&gt;32834114&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In order to fight this disease, a new coumarin derivative ligand (4-[(pyridin-3-ylmethyl) amino]-2H-chromen-2-one) (LTA) has been synthesized and characterized by single-crystal X-ray diffraction, NMR, ATR, UV-Visible and cyclic voltammetry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32835632&#34; target=&#34;_blank&#34;&gt;32835632&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Identification of a potent inhibitor of Methyltransferase, Endoribonuclease, Phosphatase and Main Protease enzymes of SARS CoV-2 by coumarin derivatives using insilico approach. […] Two thousand seven hundred fifty-five biologically active coumarin derivative was docked with above receptor proteins of SARS CoV-2. […] Coumarin derivatives actively interact with taken receptors and showed good docking results for Methyltransferase, Endoribonuclease, Phosphatase and Main Protease and top five compounds of each have docking score from -9.00 to -7.97, -8.42 to -6.80, -8.63 to -7.48 and -7.30 to -6.01 kcal/mol, respectively. […] In silico virtual screening, docking, ADME, MM-GBSA and MD simulation analysis of coumarin derivatives against Methyltransferase (MTase), Endoribonuclease(endoU), ADP ribose Phosphatase and Main Protease enzyme of SARS CoV-2. […] Top five compounds of coumarin derivatives s docked at the active site of Methyltransferase (MTase), Endoribonuclease(endoU), ADP ribose Phosphatase and protease and top five compounds of each have docking score from -9.00 to -7.97, -8.42 to -6.80, -8.63 to -7.48 and -7.30 to -6.01 kcal/mol, respectively, of SARS CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33008777&#34; target=&#34;_blank&#34;&gt;33008777&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The docking score of these natural coumarin analogues compared with standard Hydroxychloroquine. […] Molecular docking investigation displayed that natural coumarin analogue toddacoumaquinone displayed a remarkable inhibition ability with the binding energy of -7.8 kcal/mol than other compounds against main protease of SARS coronavirus in intricate with α-ketoamide (PDB ID: 5N5O). […] The synthetic coumarin analogue (1 m) also displayed the comparable inhibition ability with a binding energy of -7.1 kcal/mol against main protease of SARS coronavirus in intricate with α-ketoamide. […] Based upon the results of the manifold sequence alliance, natural and synthetic coumarin binding sites were preserved.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danijela Lucic | PlatCOVID</title>
+    <link>/author/danijela-lucic/</link>
+      <atom:link href="/author/danijela-lucic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Danijela Lucic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Danijela Lucic</title>
+      <link>/author/danijela-lucic/</link>
+    </image>
+    
+    <item>
+      <title>Validation and verification of the Abbott RealTime SARS-CoV-2 assay analytical and clinical performance.</title>
+      <link>/publication/32504946/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32504946/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

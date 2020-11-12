@@ -33,7 +33,7 @@ Synonymous :1,3-thiazol-5-ylmethyl [(2r,5r)-5-{[(2s)-2-({&lt;a href=&#34;methyl&
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cobicistat&lt;/em&gt; gene in 8 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cobicistat&lt;/em&gt; gene in 10 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -93,6 +93,70 @@ Prezcobix/Rezolsta is a fixed-dose combination of 800 mg of the HIV protease inh
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Current use of CYP 3A4 or P-gp inhibitor drugs such as quinidine, amiodarone, diltiazem, spironolactone, verapamil, clarithromycin, erythromycin, itraconazole, ketoconazole, cyclosporine, tacrolimus, indinavir, ritonavir or cobicistat.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32671131&#34; target=&#34;_blank&#34;&gt;32671131&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We aimed to evaluate the antiviral activity and safety of darunavir/cobicistat (DRV/c) in treating COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32684114&#34; target=&#34;_blank&#34;&gt;32684114&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results showed that DB02388 and Cobicistat (DB09065) exhibited potential binding affinities towards Mpro over 100 ns MD simulations, with binding energy values of -49.67 and -46.60 kcal/mol, respectively. […] Binding energy and structural analyses demonstrated the higher stability of DB02388 over Cobicistat. […] The potency of DB02388 and Cobicistat is attributed to their abilities to form several hydrogen bonds with the essential amino acids inside the active site of Mpro. […] Compared to DB02388 and Cobicistat, Darunavir showed a much lower binding affinity of -34.83 kcal/mol. […] The present study highlights the potentiality of DB02388 and Cobicistat as anti-COVID-19 drugs for clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32720571&#34; target=&#34;_blank&#34;&gt;32720571&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among 76 prescription antiviral drugs, four drugs (Raltegravir, Simeprevir, Cobicistat, and Daclatasvir) that are previously used for human immunodeficiency virus (HIV), hepatitis C virus (HCV), Ebola, and Marburg virus show higher binding energy and strong interaction with active sites of the receptor proteins.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32741313&#34; target=&#34;_blank&#34;&gt;32741313&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our studies have identified six potential inhibitors of Mpro enzyme, out of which four are commercially available FDA approved drugs (Cobicistat, Iopromide, Cangrelor, and Fortovase) and two are from Specs database of natural compounds (Hopeaphenol and Cyclosieversiodide-A). […] While Cobicistat and Fortovase are known as HIV drugs, Iopromide is a contrast agent and Cangrelor is an anti-platelet drug. […] After extensive computational studies, we propose that Cobicistat and Hopeaphenol show potential to be excellent drugs that can form the basis of treating COVID-19 disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32864162&#34; target=&#34;_blank&#34;&gt;32864162&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this review, we summarized the pharmacogenomic literature available for COVID-19 drug therapies including hydroxychloroquine, chloroquine, azithromycin, remdesivir, favipiravir, ribavirin, lopinavir/ritonavir, darunavir/cobicistat, interferon beta-1b, tocilizumab, ruxolitinib, baricitinib, and corticosteroids.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32873185&#34; target=&#34;_blank&#34;&gt;32873185&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Approved drugs viz, Cobicistat, Larotrectinib and Simeprevir were identified as potential candidates for repurposing.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32882767&#34; target=&#34;_blank&#34;&gt;32882767&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The outcomes of patients who did (cases) or did not (controls) receive darunavir-cobicistat (800-150 mg) therapy were compared. […] Fourteen patients received darunavir-cobicistat treatment, and 96 received other antiviral therapy (controls). […] Overall, the darunavir-cobicistat group comprised patients with milder illness, and the crude mortality rate of all patients in the darunavir-cobicistat group was lower than that in the controls [odds ratio (OR) 0.20, 95% confidence interval (CI) 0.04-0.89, p=0.035]. […] After 1:2 propensity-score matching, there were 14 patients in the darunavir-cobicistat group, and 28 patients in the controls. […] In propensity score-matched analysis, the darunavir-cobicistat group had lower mortality than the controls (OR 0.07, 95% CI 0.01-0.52, p=0.009). […] In conclusion, darunavir-cobicistat therapy was found to be associated with a significant survival benefit in critically ill patients with SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32899009&#34; target=&#34;_blank&#34;&gt;32899009&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2/HIV-1-coinfected female patient under darunavir/cobicistat regimen received a 7-days hydroxychloroquine therapy.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

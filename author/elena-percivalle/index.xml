@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elena Percivalle | PlatCOVID</title>
+    <link>/author/elena-percivalle/</link>
+      <atom:link href="/author/elena-percivalle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elena Percivalle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Elena Percivalle</title>
+      <link>/author/elena-percivalle/</link>
+    </image>
+    
+    <item>
+      <title>Clinical And Analytical Performance Of An Automated Serological Test That Identifies S1/S2 Neutralizing IgG In COVID-19 Patients Semiquantitatively.</title>
+      <link>/publication/32580948/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32580948/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevalence of SARS-CoV-2 specific neutralising antibodies in blood donors from the Lodi Red Zone in Lombardy, Italy, as at 06 April 2020.</title>
+      <link>/publication/32583766/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32583766/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plasma from donors recovered from the new Coronavirus 2019 as therapy for critical patients with COVID-19 (COVID-19 plasma study): a multicentre study protocol.</title>
+      <link>/publication/32468508/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32468508/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

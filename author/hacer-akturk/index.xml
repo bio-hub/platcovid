@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hacer Akturk | PlatCOVID</title>
+    <link>/author/hacer-akturk/</link>
+      <atom:link href="/author/hacer-akturk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hacer Akturk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Hacer Akturk</title>
+      <link>/author/hacer-akturk/</link>
+    </image>
+    
+    <item>
+      <title>Immune monitoring of a child with autoimmune hepatitis and type 1 diabetes during COVID-19 infection.</title>
+      <link>/publication/32541245/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32541245/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

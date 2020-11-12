@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>CP</title>
+      <title>MSC</title>
       <link>/genepanel/9242/info/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/9242/info/</guid>
@@ -21,23 +21,23 @@
 
 
 &lt;hr /&gt;
-&lt;p&gt;ceruloplasmin&lt;/p&gt;
+&lt;p&gt;musculin&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/1356&#34; target=&#34;_blank&#34;&gt;1356&lt;/a&gt; | Type: Protein Coding |
-Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=1356&#34; target=&#34;_blank&#34;&gt; 3q24-q25.1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/604290&#39; target=&#39;_blank&#39;&gt;604290&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/117700&#39; target=&#39;_blank&#39;&gt;117700&lt;/a&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/9242&#34; target=&#34;_blank&#34;&gt;9242&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=9242&#34; target=&#34;_blank&#34;&gt; 8q13.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/603628&#39; target=&#39;_blank&#39;&gt;603628&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene is a metalloprotein that binds most of the copper in plasma and is involved in the peroxidation of Fe(II)transferrin to Fe(III) transferrin. Mutations in this gene cause aceruloplasminemia, which results in iron accumulation and tissue damage, and is associated with diabetes and neurologic abnormalities. Two transcript variants, one protein-coding and the other not protein-coding, have been found for this gene. [provided by RefSeq, Feb 2012] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene is a transcriptional repressor capable of binding an E-box element either as a homodimer or as a heterodimer with E2A in vitro. The encoded protein also forms heterodimers with E2A proteins in vivo. This protein is capable of inhibiting the transactivation capability of E47, an E2A protein, in mammalian cells. This gene is a downstream target of the B-cell receptor signal transduction pathway. [provided by RefSeq, Jul 2008] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
     </item>
     
     <item>
-      <title>CP</title>
+      <title>MSC</title>
       <link>/genepanel/9242/gene_expression/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/9242/gene_expression/</guid>
@@ -46,13 +46,13 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/604290&#39; target=&#39;_blank&#39;
 
 
 &lt;hr /&gt;
-&lt;p&gt;ceruloplasmin&lt;/p&gt;
+&lt;p&gt;musculin&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Expression&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; CP expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;strong&gt;Table 1.&lt;/strong&gt; MSC expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -74,455 +74,7 @@ mRNA
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-adrenal gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-3.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-appendix
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-breast
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-26.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-cerebral cortex
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-7.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-cervix, uterine
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-99.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-colon
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-12.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-duodenum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-9.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-endometrium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-21.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-esophagus
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-3.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-fallopian tube
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-12.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-gallbladder
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-heart muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-kidney
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-3.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-liver
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-916.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-lung
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-18.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-lymph node
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-18.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-parathyroid gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-11.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-placenta
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-4.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-prostate
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-12.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-rectum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-17.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-salivary gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-seminal vesicle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-skin
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-6.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-small intestine
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-6.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-smooth muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-3.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-spleen
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-29.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-stomach
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-testis
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-3.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-thyroid gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-tonsil
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-17.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-urinary bladder
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-24.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-liver
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-916.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000047457
+ENSG00000178860
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 adipose tissue
@@ -531,7 +83,427 @@ adipose tissue
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-6.6
+10.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spleen
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000178860
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -541,7 +513,7 @@ NA
     </item>
     
     <item>
-      <title>CP</title>
+      <title>MSC</title>
       <link>/genepanel/9242/gene_context/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/9242/gene_context/</guid>
@@ -550,13 +522,13 @@ NA
 
 
 &lt;hr /&gt;
-&lt;p&gt;ceruloplasmin&lt;/p&gt;
+&lt;p&gt;musculin&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CP gene in 19 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of MSC gene in 49 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -572,154 +544,394 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32253318&#34; target=&#34;_blank&#34;&gt;32253318&lt;/a&gt;
+&lt;a href=&#34;/publication/32214286&#34; target=&#34;_blank&#34;&gt;32214286&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-One dose of 200 mL of convalescent plasma (CP) derived from recently recovered donors with the neutralizing antibody titers above 1:640 was transfused to the patients as an addition to maximal supportive care and antiviral agents. […] The primary endpoint was the safety of CP transfusion. […] The second endpoints were the improvement of clinical symptoms and laboratory parameters within 3 d after CP transfusion. […] The median time from onset of illness to CP transfusion was 16.5 d. […] After CP transfusion, the level of neutralizing antibody increased rapidly up to 1:640 in five cases, while that of the other four cases maintained at a high level (1:640). […] This study showed CP therapy was well tolerated and could potentially improve the clinical outcomes through neutralizing viremia in severe COVID-19 cases. […] The optimal dose and time point, as well as the clinical benefit of CP therapy, needs further investigation in larger well-controlled trials.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32276333&#34; target=&#34;_blank&#34;&gt;32276333&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Assay reproducibility in terms of cycle threshold (Cp) values was satisfactory, with the total imprecision (% CV) values well below 5%.
+Finally, expanded umbilical cord mesenchymal stem cells or (UC-MSCs) may have a role and are being studied. […] Thus, at this point, the avoidance of the cytokine storm may be the key for the treatment of HCOV-19 infected patients.In China, where there was limited availability of effective modalities to manage COVID-19 several patients were treated with expanded UC-MSCs. […] The limited but emerging evidence regarding UC MSC in managing COVID-19 suggests that it might be considered for compassionate use in critically ill patients to reduce morbidity and mortality in the United States. […] The administration and Coronavirus Task Force might wish to approach the potential of expanded UC-MSCs as an evolutionary therapeutic strategy in managing COVID-19 illness with a 3-pronged approach: If proven safe and effective on a specific and limited basis…1.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32296259&#34; target=&#34;_blank&#34;&gt;32296259&lt;/a&gt;
+&lt;a href=&#34;/publication/32257537&#34; target=&#34;_blank&#34;&gt;32257537&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-One postexposure prophylaxis, convalescent (immune) plasma (CP), has shown some success in China and previously in the cure and therapy of other coronaviruses, SARS-1 and Middle East respiratory syndrome. […] Drawn from current patients who are infected with COVID-19, its CP (human anti-SARS-CoV-2 plasma) might be one way to modulate the infectivity of this virus or its effects postinfection.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32302411&#34; target=&#34;_blank&#34;&gt;32302411&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-It is essential that the clinical pharmacology (CP) characteristics of AZ be considered in planning and conducting clinical trials of AZ alone or in combination with other agents, to ensure safe study conduct and to increase the probability of achieving definitive answers regarding efficacy of AZ in the treatment of COVID-19. […] It also provides basic CP information relevant for planning and initiating COVID-19 clinical studies with AZ, summarizes safety data from healthy volunteer studies, and safety and efficacy data from phase II and phase II/III studies in patients with uncomplicated malaria, including a phase II/III study in pediatric patients following administration of AZ and CQ in combination.
+Mesenchymal stem cells (MSCs) have been shown to possess a comprehensive powerful immunomodulatory function. […] This study aims to investigate whether MSC transplantation improves the outcome of 7 enrolled patients with COVID-19 pneumonia in Beijing YouAn Hospital, China, from Jan 23, 2020 to Feb 16, 2020. […] The clinical outcomes, as well as changes of inflammatory and immune function levels and adverse effects of 7 enrolled patients were assessed for 14 days after MSC injection. […] MSCs could cure or significantly improve the functional outcomes of seven patients without observed adverse effects. […] The pulmonary function and symptoms of these seven patients were significantly improved in 2 days after MSC transplantation. […] Meanwhile, the level of TNF-α was significantly decreased, while IL-10 increased in MSC treatment group compared to the placebo control group. […] Furthermore, the gene expression profile showed MSCs were ACE2&lt;sup&gt;-&lt;/sup&gt; and TMPRSS2&lt;sup&gt;-&lt;/sup&gt; which indicated MSCs are free from COVID-19 infection. […] Thus, the intravenous transplantation of MSCs was safe and effective for treatment in patients with COVID-19 pneumonia, especially for the patients in critically severe condition.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32320384&#34; target=&#34;_blank&#34;&gt;32320384&lt;/a&gt;
+&lt;a href=&#34;/publication/32257554&#34; target=&#34;_blank&#34;&gt;32257554&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Anti-SARS-CoV-2 virus antibody levels in convalescent plasma (CP), which may be useful in severe Anti-SARS-CoV-2 virus infections, have been rarely reported. […] The patient treated with CP did not require mechanical ventilation 11 days after plasma transfusion, and was then transferred to a general ward. […] Our serological findings in convalescent plasma from recovered patients may help facilitate understanding of the SARS-CoV-2 infection and establish CP donor screening protocol in COVID-19 outbreak. […] CP was also utilized for the treatment of one severe COVID-19 patient.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32336317&#34; target=&#34;_blank&#34;&gt;32336317&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-This review discusses the updates on specimens/samples, recent efficient diagnostics, and therapeutic approaches to control the disease and repurposed drugs mainly focusing on chloroquine/hydroxychloroquine and convalescent plasma (CP).
+A new study published by the journal Aging &amp;amp; Disease reported that intravenous administration of clinical-grade human mesenchymal stem cells (MSCs) into patients with coronavirus disease 2019 (COVID-19) resulted in improved functional outcomes (&lt;i&gt;Leng et al., Aging Dis, 11:216-228, 2020&lt;/i&gt;). […] This study demonstrated that intravenous infusion of MSCs is a safe and effective approach for treating patients with COVID-19 pneumonia, including elderly patients displaying severe pneumonia. […] Therefore, MSC therapy inhibiting the overactivation of the immune system and promoting endogenous repair by improving the lung microenvironment after the SARS-CoV-2 infection found in this study is striking.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32380316&#34; target=&#34;_blank&#34;&gt;32380316&lt;/a&gt;
+&lt;a href=&#34;/publication/32265310&#34; target=&#34;_blank&#34;&gt;32265310&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Convalescent plasma (CP) constitutes the first option in the current situation, since it has been successfully used in other coronaviruses outbreaks. […] Herein, we discuss the possible mechanisms of action of CP and their repercussion in COVID-19 pathogenesis, including direct neutralization of the virus, control of an overactive immune system (i.e., cytokine storm, Th1/Th17 ratio, complement activation) and immunomodulation of a hypercoagulable state. […] All these benefits of CP are expected to be better achieved if used in non-critically hospitalized patients, in the hope of reducing morbidity and mortality.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32388470&#34; target=&#34;_blank&#34;&gt;32388470&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-The lower limit of detection (LOD) for both target genes resulted the same: 3.2 (CI: 2.9-3.8) log10 cp/mL and 0.40 (CI: 0.2-1.5) TCID50/mL for S gene while 3.2 log10 (CI: 2.9-3.7) log10 cp/mL and 0.4 (CI: 0.2-1.3) TCID50/mL for ORF1ab. […] The LOD obtained with extracted viral RNA for both S gene or ORF1ab was 2.7 log10 cp/mL.
+Cell-based approaches, primarily using mesenchymal stem (stromal) cells (MSCs), have demonstrated safety and possible efficacy in patients with the acute respiratory distress syndrome (ARDS), although not as yet well studied in respiratory virus-induced ARDS. […] Limited pre-clinical data suggest that systemic MSC administration can significantly reduce respiratory virus (Influenza strains H5N1 and H9N2)-induced lung injury, however, there are no available data in models of coronavirus respiratory infection.There are a rapidly increasing number of clinical investigations of cell-based therapy approaches for COVID-19. […] To provide a rationale strategy to maximise potential therapeutic use, it is critically important to understand the relevant pre-clinical studies and postulated mechanisms of MSC actions in respiratory virus-induced lung injuries.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32388471&#34; target=&#34;_blank&#34;&gt;32388471&lt;/a&gt;
+&lt;a href=&#34;/publication/32281052&#34; target=&#34;_blank&#34;&gt;32281052&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-The Envelope (E) Gene-LDT displayed good analytical performance with an LoD of 95.55 cp/mL and no false positives during evaluation of cross-reactivity.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32418663&#34; target=&#34;_blank&#34;&gt;32418663&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Cold plasma (CP) has entered this field as a novel, efficient, and clean solution for virus inactivation. […] We present recent developments in this promising field of CP-mediated virus inactivation, and describe the applications and mechanisms of the inactivation.
+In this regard, mesenchymal stem cells (MSCs)-based immunomodulation treatment has been proposed as a suitable therapeutic approach and several clinical trials have begun. […] Recently, MSCs according to their immunomodulatory and regenerative properties attract attention in clinical trials. […] After the intravenous transplantation of MSCs, a significant population of cells accumulates in the lung, which they alongside immunomodulatory effect could protect alveolar epithelial cells, reclaim the pulmonary microenvironment, prevent pulmonary fibrosis, and cure lung dysfunction. […] In this study, we considered this new approach to improve patient’s immunological responses to COVID-19 using MSCs and discussed the aspects of this proposed treatment. […] However, currently, there are no approved MSC-based approaches for the prevention and/or treatment of COVID-19 patients but clinical trials ongoing.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32420691&#34; target=&#34;_blank&#34;&gt;32420691&lt;/a&gt;
+&lt;a href=&#34;/publication/32292627&#34; target=&#34;_blank&#34;&gt;32292627&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Convalescent plasma (CP), plasma collected from individuals who have recovered from an infectious disease, has been used to confer therapeutic benefits in previous epidemics, including measles, mumps, and influenza, and remains the first line passive immunotherapy in emerging diseases, including the H1N1 influenza pandemic (2009) and now Covid-19 (1).
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32438330&#34; target=&#34;_blank&#34;&gt;32438330&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-This clinical protocol has not proven sufficient to save the lives of COVID-19 patients suffering from diabetes or having underlying liver diseases; hence there is utmost need to tackle this situation by other means such as Convalescent Plasma (CP) therapy. […] The CP therapy can be a possible life saving alternative to treat critical COVID-19 patients having diabetes or underlying liver dysfunction.
+Transplantation of mesenchymal stem cells (MSCs) is a promising choice for treating virus-induced pneumonia, and was needed to treat H7N9 induced ARDS at the time. […] MSCs transplant into patients with H7N9 induced ARDS were conducted in a single center and open-label clinical trial. […] Based on the principle of voluntariness and informed consent, 44 patients with H7N9 induced ARDS were included as a control group while 17 patients with H7N9 induced ARDS were served as an experimental group with allogeneic menstrual blood-derived MSC. […] Notably, MSC transplantation significantly lower the mortality compared with in control group (17.6% died in MSC group vs 54.5% died in control group). […] Furthermore, MSC transplantation did not result in harmful effects in human body within the 5 year follow up period with 4 patients. […] Collectively, these results suggest that MSCs significantly improve survival rate of H7N9 induced ARDS and provide a theoretical basis for the treatment of H7N9 induced ARDS in both preclinical research and clinical studies. […] Because H7N9 and the corona virus disease 2019 (COVID-19) share similar complications (such as ARDS and lung failure) and corresponding multi-organ dysfunction, MSC-based therapy could be a possible alternative for treating COVID-19.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32491199&#34; target=&#34;_blank&#34;&gt;32491199&lt;/a&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32371362&#34; target=&#34;_blank&#34;&gt;32371362&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Convalescent plasma (CP) therapy is a potentially effective treatment option. […] COVID-19 convalescent plasma (CCP)-specific donor screening and selection were performed based the following criteria: 1) aged 18-55 years; 2) eligible for blood donation; 3) diagnosed with COVID-19; 4) had two consecutive negative COVID-19 nasopharyngeal swab tests based on PCR (at least 24 h apart) prior to hospital discharge; 5) had been discharged from the hospital for more than 2 weeks; and 6) had no COVID-19 symptoms prior to convalescent plasma donation. […] In addition, preference was given to CCP donors who had a fever lasting more than 3 days or a body temperature exceeding 38.5 Celsius, and 4 weeks after the onset of symptoms. […] CCP collection was performed using routine plasma collection procedures via plasmapheresis. […] In addition to routine donor testing, the CCP donors’ plasma was also tested for SARS-CoV-2 nucleic acid and S-RBD-specific IgG antibody. […] Of the 81 potential CCP donors, 64 (79%) plasma products were collected. […] The average time between CCP collection and initial symptom onset was 49.1 days, and the average time between CCP collection and hospital discharge was 38.7 days. […] The average volume of CCP collected was 327.7 ml. […] In addition, all of the CCP donors’ plasma units were negative for SARS-CoV-2 RNA. […] Of the total 64 CCP donors tested, only one had an S-RBD-specific IgG titer of 1:160, all others had a titer of ≥1:320. […] Based on a feasibility study of a pilot CCP program in Wuhan China, we demonstrated the success and feasibility of CCP collection. […] In addition, all of the CCP units collected had a titer of ≥ 1:160 for S-RBD-specific IgG antibody, which met the CCP quality control requirements based on the Chinese national guidelines for CCP.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32516739&#34; target=&#34;_blank&#34;&gt;32516739&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Cycle threshold (Cp) values of the LightMix® E-gene kit and in-house assays showed excellent correlation. […] Reproducibility of the Cp values was satisfactory with intra- and inter-assay coefficient of variation values &amp;lt;5%.
+We have previous evidence in murine models that MSc’s secretome can be used to treat pulmonary injuries induced with bleomycin, due to its content: growth factors, extracellular vesicles, and exosomes. […] We hypothesize and strongly recommend MSc secretome testing and production, in xenofree conditions, to be used as an alternative approach in SARS-Cov-2 patients in critical conditions.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32538806&#34; target=&#34;_blank&#34;&gt;32538806&lt;/a&gt;
+&lt;a href=&#34;/publication/32423449&#34; target=&#34;_blank&#34;&gt;32423449&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-El objetivo de esta publicaciónes proporcionar recomendaciones en el manejo del cáncer de próstata (CP) en el marco de la nueva realidad que supone la presencia de la COVID-19. […] Los autores definieron diferentes prioridades para los distintos supuestos clínicos en CP. […] Acorde a esta clasificación, el grupo de trabajo consensuó la distribución de los diferentes escenarios diagnósticos, terapéuticos y de seguimiento del CP. […] El riesgo de morbilidad grave como resultado de la infección por SARS-CoV-2puede superar el riesgo de morbi-mortalidad por CP en muchos hombres; por lo tanto, a corto plazo es pocoprobable que los retrasos en el diagnóstico o tratamiento conduzcan a peores resultados oncológicos. […] La pandemia COVID-19 ha resultado en un desafío para nuestro sistema de salud, lo que plantea varias consideraciones en el tratamiento de pacientes con CP.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32540345&#34; target=&#34;_blank&#34;&gt;32540345&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Among the various treatment proposals for COVID-19 infection, passive immunotherapy using plasma from recovering patients - “convalescent plasma” (CP)- could be a promising option in the treatment of SARS-CoV-2 infections. […] The Food and Drug Administration (FDA), the U.S. regulatory authority, has approved the use of CP for compassionate use in the treatment of patients with a critical COVID-19 infection.
+Mesenchymal stromal/stem cells (MSCs) possess potent and broad-ranging immunomodulatory activities. […] Multiple in vivo studies in animal models and ex vivo human lung models have demonstrated the MSC’s impressive capacity to inhibit lung damage, reduce inflammation, dampen immune responses and aid with alveolar fluid clearance. […] Additionally, MSCs produce molecules that are antimicrobial and reduce pain. […] The in vivo safety of local and intravenous administration of MSCs has been demonstrated in multiple human clinical trials, including studies of acute respiratory distress syndrome (ARDS). […] Recently, the application of MSCs in the context of ongoing COVID-19 disease and other viral respiratory illnesses has demonstrated reduced patient mortality and, in some cases, improved long-term pulmonary function. […] Adipose-derived stem cells (ASC), an abundant type of MSC, are proposed as a therapeutic option for the treatment of COVID-19 in order to reduce morbidity and mortality.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32560646&#34; target=&#34;_blank&#34;&gt;32560646&lt;/a&gt;
+&lt;a href=&#34;/publication/32425638&#34; target=&#34;_blank&#34;&gt;32425638&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Convalescent plasma (CP) transfusion was reported to be effective in treating critically ill patients with COVID-19, and hydroxychloroquine could potently inhibit SARS-CoV-2 in vitro. […] Herein, we reported a case receiving combination therapy with CP transfusion and hydroxychloroquine for the first time. […] CP was intravenously given twice, and hydroxychloroquine was orally administrated for a week (0.2 g, three times a day). […] The lactic acid and C-reactive protein levels remained high (2.1 mmol/L and 73.23 mg/L, respectively), while the arterial oxyhemoglobin saturation decreased to 86% with a low oxygenation index (OI, 76 mmHg) on day 4 after CP transfusion. […] These findings suggested that the effectiveness of combination therapy with CP and hydroxychloroquine may be non-optimal, and specific therapy needs to be explored.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32562544&#34; target=&#34;_blank&#34;&gt;32562544&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Among the 104 positive pairs, the mean difference in Cp value was 0.26 (range: 12.63 to -14.74), with an overall higher Cp value in NPsp (Pearson coefficient 0.579).
+We focus this editorial specifically on the background to, and the rationale for, the use and evaluation of mesenchymal stromal (Stem) cells (MSCs) in treatment trials of patients with severe COVID-19 disease. […] MSCs should also be trialed for treatment of severe cases of MERS where mortality rates are upto 34% and MERS-CoV remains a WHO priority Blueprint pathogen. […] It’s about time funding agencies now invest more into development MSCs per se and other host-directed therapies in combination with other therapeutic interventions. […] MSC therapy could turn out to be an important contribution to bringing an end to the high COVID-19 and MERS death rates.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32593060&#34; target=&#34;_blank&#34;&gt;32593060&lt;/a&gt;
+&lt;a href=&#34;/publication/32449333&#34; target=&#34;_blank&#34;&gt;32449333&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Biologically, two challenges need to be surmounted to allow convalescent plasma (CP) transfusion to rescue the most severe COVID-19 patients. […] Second, multi-criteria decision-making (MCDM) problems should be considered in the selection of the most suitable CP and the prioritisation of patients with COVID-19. […] This paper presents a rescue framework for the transfusion of the best CP to the most critical patients with COVID-19 on the basis of biological requirements by using machine learning and novel MCDM methods. […] In testing, ABO compatibility is assessed after classifying donors into the four blood types, namely, A, B, AB and O, to indicate the suitability and safety of plasma for administration in order to refine the CP tested list repository. […] Then, the patients with the most urgent need are classified into the four blood types and matched with a tested CP list from the test phase in the donor side. […] Thereafter, the prioritisation of CP tested list is performed using the contracted CP decision matrix. […] An intelligence-integrated concept is proposed to identify the most appropriate CP for corresponding prioritised patients with COVID-19 to help doctors hasten treatments.
+Similarly, the use of mesenchymal stem cells (MSC) may assist the body regulatory mechanisms, knowing the anti-inflammatory potential of these cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32472653&#34; target=&#34;_blank&#34;&gt;32472653&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cell therapy with mesenchymal stromal cells (MSCs) is a potential treatment for COVID-19 ARDS based on preclinical and clinical studies supporting the concept that MSCs modulate the inflammatory and remodeling processes and restore alveolo-capillary barriers. […] The authors performed a systematic literature review and random-effects meta-analysis to determine the potential value of MSC therapy for treating COVID-19-infected patients with ARDS. […] MSCs were intravenously or intratracheally administered in 200 participants, who were followed for 14 days to 5 years. […] All MSCs were allogeneic from bone marrow, umbilical cord, menstrual blood, adipose tissue, or unreported sources. […] No comparisons were made between MSCs of different sources.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32489694&#34; target=&#34;_blank&#34;&gt;32489694&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stem cells (MSCs) bear a promising potential for regenerative medicine therapies and they repair damaged tissue through secretion of immune modulatory and anti-inflammatory molecules acting in a paracrine fashion. […] A recent study published in the journal reports that MSC infusion is safe and effective in patients suffering from COVID-19 induced pneumonia. […] In the light of this study and previous reports, we make additional comments about possible therapeutic effects of MSCs in COVID-19 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32519302&#34; target=&#34;_blank&#34;&gt;32519302&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stem cell (MSC)-based therapy may be an potential alternative strategy for treating ARDS by targeting the various pathophysiological events of ARDS. […] By releasing a variety of paracrine factors and extracellular vesicles, MSC can exert anti-inflammatory, anti-apoptotic, anti-microbial, and pro-angiogenic effects, promote bacterial and alveolar fluid clearance, disrupt the pulmonary endothelial and epithelial cell damage, eventually avoiding the lung and distal organ injuries to rescue patients with ARDS. […] An increasing number of experimental animal studies and early clinical studies verify the safety and efficacy of MSC therapy in ARDS. […] Since low cell engraftment and survival in lung limit MSC therapeutic potentials, several strategies have been developed to enhance their engraftment in the lung and their intrinsic, therapeutic properties. […] Here, we provide a comprehensive review of the mechanisms and optimization of MSC therapy in ARDS and highlighted the potentials and possible barriers of MSC therapy for COVID-19 patients with ARDS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32526079&#34; target=&#34;_blank&#34;&gt;32526079&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The broad immunomodulatory properties of human mesenchymal stem cells (MSCs) has allowed for wide application in regenerative medicine as well as immune/inflammatory diseases, including unmatched allogeneic use. […] Since there are no effective preventive or curative therapies currently, MSC therapy (MSCT) has emerged as a possible candidate despite the lack of preclinical data of MSCs for COVID-19. […] Interestingly, MSCT preclinical data specifically on immune/inflammatory disorders of the lungs were among the earliest to be reported in 2003, with the first clinical use of MSCT for graft-vs-host disease reported in 2004. […] Since these first reports, preclinical data showing beneficial effects of MSC immunomodulation have accumulated substantially, and as a consequence, over a third of MSCT clinical trials now target immune/inflammatory diseases. […] There is much preclinical evidence for MSCT in noninfectious-including chronic obstructive pulmonary disease, asthma, and idiopathic pulmonary fibrosis-as well as infectious bacterial immune/inflammatory lung disorders, with data generally demonstrating therapeutic effects; however, for infectious viral pulmonary conditions, the preclinical evidence is more scarce with some inconsistent outcomes. […] In this article, we review the mechanistic evidence for clinical use of MSCs in pulmonary immune/inflammatory disorders, and survey the ongoing clinical trials-including for COVID-19-of MSCT for these diseases, with some perspectives and comment on MSCT for COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32554953&#34; target=&#34;_blank&#34;&gt;32554953&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To combat cytokine storm, immune-therapy targeting IL-1, IL-2, IL-6 and TNFα are being evaluated and one of the promising immune-modulator is the mesenchymal stem cells (MSCs) that can surmount the severity of COVID-19 infections. […] Recent studies have shown that MSC-therapy significantly dampens the cytokine storm in critically ill COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562911&#34; target=&#34;_blank&#34;&gt;32562911&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One of the therapeutic approaches for treatment of ARDS is a mesenchymal stem cell (MSC). […] MSCs suppress inflammation and reduce lung injury through their immunomodulatory properties. […] MSCs also have the potential to prevent apoptosis of the lung cells and regenerate them. […] But our suggestion is using MSCs-derived exosomes. […] Because these exosomes apply the same immunomodulatory and tissue repair effects of MSCs and they don’t have problems associated to cell maintenance and injections. […] For investigation the hypothesis, MSCs should be isolated from tissues and characterized.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574263&#34; target=&#34;_blank&#34;&gt;32574263&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Numerous clinical trials of mesenchymal stromal/stem cells (MSCs) as a new treatment for coronavirus-induced disease (COVID-19) have been registered recently, most of them based on intravenous (IV) infusion. […] There is no approved effective therapy for COVID-19, but MSC therapies have shown first promise in the treatment of acute respiratory distress syndrome (ARDS) pneumonia, inflammation, and sepsis, which are among the leading causes of mortality in COVID-19 patients. […] It is not yet clear whether IV infusion is a safe and effective route of MSC delivery in COVID-19, since MSC-based products express variable levels of highly procoagulant tissue factor (TF/CD142), compromising the cells’ hemocompatibility and safety profile. […] Of concern, IV infusions of poorly characterized MSC products with unchecked (high) TF/CD142 expression could trigger blood clotting in COVID-19 and other vulnerable patient populations and further promote the risk for thromboembolism. […] While the need for MSC therapy in COVID-19 is apparent, integrating both innate and adaptive immune compatibility testing into the current guidelines for cell, tissue, and organ transplantation is critical for safe and effective therapies. […] It is paramount to only use well-characterized, safe MSCs even in the most urgent and experimental treatments.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574317&#34; target=&#34;_blank&#34;&gt;32574317&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this review article, we outline the mechanisms of cytokine storm and lung damage caused by SARS-CoV-2 virus leading to COVID-19 disease and how mesenchymal stem cells (MSCs) and their secreted EVs can be utilized to tackle this damage by harnessing their regenerative properties, which gives them potential enhanced clinical utility compared to other investigated pharmacological treatments. […] There are currently 17 clinical trials evaluating the therapeutic potential of MSCs for the treatment of COVID-19, the majority of which are administered intravenously with only one clinical trial testing MSC-derived exosomes via inhalation route.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32582401&#34; target=&#34;_blank&#34;&gt;32582401&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stem cells (MSCs) and their exosomes can affect immune cells by inducing anti-inflammatory macrophages, regulatory T and B cells, and regulatory dendritic cells, and can inactivate T cells. […] In this review, we report the background of severe cases of COVID-19, basic aspects and mechanisms of action of MSCs and their exosomes, and discuss basic and clinical studies based on MSCs and exosomes for influenza-induced ARDS. […] Finally, we report the potential of MSC and exosome therapy in severe cases of COVID-19 in recently initiated or planned clinical trials of MSCs (33 trials) and exosomes (1 trial) registered in 13 countries on ClinicalTrials.gov.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32595362&#34; target=&#34;_blank&#34;&gt;32595362&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stem/stromal cells (MSCs), highly regarded for their regenerative capacities, also possessesremarkable immunoregulatory functions affecting all types of innate and adaptive immune cells. […] Owing to that, MSCs have been heavily investigated in clinic for the treatment of autoimmune and inflammatory diseases along with transplant rejection. […] Extensive research in the last decaderevealed that MSCs carry out most of their functions through paracrine factors which are soluble mediators and extracellular vesicles (EVs). […] EVs secreted by MSCs are emerging as a cell-free alternative to MSC-based therapies. […] MSC EVs are being tested in preclinical and clinical settings where they exhibit exceptional immunosuppressivecapacity. […] Being as effective immunomodulators as their parent cells, MSC EVs are also preferable over MSC-based therapies due to their lower risk of immunogenicity, tumorigenicity and overall superior safety. […] In this review, we present the outcomes of preclinical and clinical studies utilizing MSC EVs as therapeutic agents for the treatment of a wide variety of immunological disorders.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32616467&#34; target=&#34;_blank&#34;&gt;32616467&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The relative ease of isolation of mesenchymal stem cells (MSCs) from different tissues coupled with their culture expansion in vitro and their differentiation capacity to mesodermal, endodermal and ectodermal lineages have made these cells attractive for a large number of therapeutic applications. […] In recent years, there has been remarkable progress in the utilization of MSCs in diverse clinical indications both in animal models and human clinical trials. […] However, the potential of MSCs to control or treat viral diseases is still in its infancy. […] In this study, we report quantitative data on the MSC-based clinical trials over the last ten years as they appear on the online database of clinical research studies from US National Institutes of Health. […] In particular, we provide comprehensive review of either completed or ongoing clinical trials using MSCs for virus-associated diseases focusing on HIV, hepatitis B virus and COVID-19 virus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32622963&#34; target=&#34;_blank&#34;&gt;32622963&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stem/stromal cells (MSCs) have been tested during the last two decades for the treatment of various pathologic conditions, including acute and chronic lung diseases, both in animal models and in patients. […] Furthermore, more recently, great interest has been devoted to the possible clinical applications of extracellular vesicles secreted by MSCs, nanoparticles that convey much of the biological effects and of the therapeutic efficacy of their cells of origin. […] This review summarizes the experimental evidence underlying the possible use of MSCs and of MSC-EVs in severe COVID-19 infection and underlines the need to evaluate the possible efficacy of these therapeutic approaches through controlled studies under the supervision of the Regulatory Authorities.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32731913&#34; target=&#34;_blank&#34;&gt;32731913&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The revolutionary measures in science have brought to the world mesenchymal stem cells (MSCs) and MSC-derived exosomes (MSC-Exo) as therapeutic opportunities for various diseases. […] The MSCs and MSCExos have immunomodulatory functions; they can be used as therapy to strike a balance in the immune cells of patients with COVID-19. […] In this review, we discuss the basics of the cytokine storm in COVID-19, MSCs, and MSC-derived exosomes and the potential and stem-cell-based ongoing clinical trials for COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32740890&#34; target=&#34;_blank&#34;&gt;32740890&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stem cell (MSC) therapy has been shown to alleviate pneumonia and acute respiratory syndrome (ARDS) symptoms, through their immunomodulatory activities in COVID-19 patients. […] Although more research studies and clinical trial results are needed to elucidate the exact mechanism by which MSCs provide relief to COVID-19 infected patients. […] Results from clinical trials are encouraging as patients treated with MSCs, regain lung functions and have restored levels of cytokines and trophic factors underscoring the fact that stem cell therapy can be, at least, a complementary therapy to alleviate sufferings in COVID-19 patients. […] This review discusses the possible therapeutic uses of MSCs for treating COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32755466&#34; target=&#34;_blank&#34;&gt;32755466&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The mesenchymal stem cell (MSC), known to remodel in disease and have an extensive secretome, has recently been isolated from the human heart. […] However, the effects of normal and diseased cardiac MSCs on myocyte electrophysiology remain unclear. […] We hypothesize that in disease the inflammatory secretome of cardiac human MSCs (hMSCs) remodels and can regulate arrhythmia substrates. hMSCs were isolated from patients with or without heart failure from tissue attached to extracted device leads and from samples taken from explanted/donor hearts. […] Failing hMSCs or nonfailing hMSCs were cocultured with normal human cardiac myocytes derived from induced pluripotent stem cells. […] Failing and nonfailing hMSCs from both sources exhibited similar trilineage differentiation potential and cell surface marker expression as bone marrow hMSCs. […] Compared with nonfailing hMSCs, failing hMSCs prolonged action potential duration by 24% (P&amp;lt;0.001, n=15), increased Ca2+ alternans by 300% (P&amp;lt;0.001, n=18), and promoted spontaneous calcium release activity (n=14, P&amp;lt;0.013) in human cardiac myocytes derived from induced pluripotent stem cells. […] Failing hMSCs exhibited increased secretion of inflammatory cytokines IL (interleukin)-1β (98%, P&amp;lt;0.0001) and IL-6 (460%, P&amp;lt;0.02) compared with nonfailing hMSCs. […] IL-1β or IL-6 in the absence of hMSCs prolonged action potential duration but only IL-6 increased Ca2+ alternans and promoted spontaneous calcium release activity in human cardiac myocytes derived from induced pluripotent stem cells, replicating the effects of failing hMSCs. […] In contrast, nonfailing hMSCs prevented Ca2+ alternans in human cardiac myocytes derived from induced pluripotent stem cells during oxidative stress. […] Finally, nonfailing hMSCs exhibited &amp;gt;25× higher secretion of IGF (insulin-like growth factor)-1 compared with failing hMSCs. […] Importantly, IGF-1 supplementation or anti-IL-6 treatment rescued the arrhythmia substrates induced by failing hMSCs. […] We identified device leads as a novel source of cardiac hMSCs. […] Our findings show that cardiac hMSCs can regulate arrhythmia substrates by remodeling their secretome in disease. […] Importantly, therapy inhibiting (anti-IL-6) or mimicking (IGF-1) the cardiac hMSC secretome can rescue arrhythmia substrates.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32761491&#34; target=&#34;_blank&#34;&gt;32761491&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stem cell (MSC) therapy is the immediate treatment used for patients with severe cases of COVID-19. […] Herein, we describe two confirmed cases of COVID-19 in Wuhan to explore the role of MSC in the treatment of COVID-19. […] MSC transplantation increases the immune indicators (including CD4 and lymphocytes) and decreases the inflammation indicators (interleukin-6 and C-reactive protein). […] With MSC transplantation, the fraction of inspired O2 (FiO2) of the two patients gradually decreased while the oxygen saturation (SaO2) and partial pressure of oxygen (PO2) improved. […] Additionally, the patients’ chest computed tomography showed that bilateral lung exudate lesions were adsorbed after MSC infusion. […] Results indicated that MSC transplantation provides clinical data on the treatment of COVID-19 and may serve as an alternative method for treating COVID-19, particularly in patients with ARDS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32766251&#34; target=&#34;_blank&#34;&gt;32766251&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal (stem) stromal cells (MSC) can be a therapeutic alternative for COVID-19 considering their anti-inflammatory, regenerative, angiogenic, and even antimicrobial capacity. […] Preliminary data point to therapeutic interest of MSC for patients with COVID-19, and their effect seems based on the MSC’s ability to curb the cytokine storm caused by COVID-19. […] In fact, promising clinical studies using MSC to treat COVID-19, are currently underway. […] For this reason, now is the time to firmly consider new approaches to MSC research that addresses key issues, like selecting the most optimal type of MSC for each indication, assuming the heterogeneity of the donor-dependent MSC and the biological niche where MSC are located.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32779878&#34; target=&#34;_blank&#34;&gt;32779878&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Given that human mesenchymal stem cells (MSCs) from various tissue sources have revealed successful clinical outcomes in many immunocompromised disorders by inhibiting the overactivation of the immune system and promoting endogenous repair by improving the microenvironment, there is a growing demand for MSC infusions in patients with COVID-19-related ARDS in the ICU. […] In this review, we have documented the rationale and possible outcomes of compassionate use of MSCs, particularly in patients with SARS-CoV-2 infections, toward proving or disproving the efficacy of this approach in the near future.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32795359&#34; target=&#34;_blank&#34;&gt;32795359&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stem cell-derived exosomes (MSC-Exo) are believed to have anti-inflammatory effects and immune-modulating capacity as well as the ability to induce tissue regeneration, suggesting a significant therapeutic opportunity that could be used to SARS-CoV-2 pneumonia treatment. […] MSC-Exo may serve as a promising tool in the treatment of SARS-CoV-2 pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32811531&#34; target=&#34;_blank&#34;&gt;32811531&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with severe COVID-19 were randomly divided into 2 groups: the standard treatment group and the standard treatment plus hUC-MSC infusion group. […] The incidence of progression from severe to critical illness and the 28-day mortality rate were 0 in the hUC-MSC treatment group, while 4 patients in the control group deteriorated to critical condition and received invasive ventilation; 3 of them died, and the 28-day mortality rate was 10.34%. […] In the hUC-MSC treatment group, the time to clinical improvement was shorter than that in the control group. […] CRP and IL-6 levels were significantly lower from day 3 of infusion, the time for the lymphocyte count to return to the normal range was significantly faster, and lung inflammation absorption was significantly shorter on CT imaging in the hUC-MSC group than in the control group. […] Intravenous transplantation of hUC-MSCs is a safe and effective method that can be considered a salvage and priority treatment option for severe COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32820868&#34; target=&#34;_blank&#34;&gt;32820868&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, numerous studies have been conducted to evaluate the safety and efficacy of tissue engineering and regenerative medicine (TERM) products, including mesenchymal stem cells (MSCs), and their derivatives (eg, exosomes) for coronavirus infections, which could be applied for the COVID-19. […] Then, the recent clinical trials and the therapeutic benefits of MSCs in coronavirus-induced ARDS are critically reviewed. […] Despite promising results in the preclinical and clinical applications of MSC therapy for coronavirus infections, the controversy still exists, and thus further investigation is required to understand the efficacy of these therapies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32825283&#34; target=&#34;_blank&#34;&gt;32825283&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fortunately, some novel antiviral strategies, such as convalescent plasma, clustered regularly interspaced short palindromic repeats (CRISPR), and mesenchymal stem cell (MSC) therapy, potentially offer an additional or alternative option or compassionate use for the people suffering from COVID-19, especially for critically ill patients, although their safety and efficacy are also under study. […] In this review, we explore the applications, possible mechanisms, and efficacy in successful cases using convalescent plasma, CRISPR, and MSC therapy for COVID-19 treatment, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32827081&#34; target=&#34;_blank&#34;&gt;32827081&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Basically, the ongoing studies on coronavirus are using mesenchymal stem cells (MSCs) derived from bone marrow or the umbilical cord to demonstrate their feasibility, safety, and tolerability. […] With the COVID-19 boom, many clinical trials are being carried out using different sources with an emphasis on MSC-based therapy used to inhibit inflammation. […] One of the biggest challenges in the current treatment of COVID-19 is the cytokine storm, however MSCs can prevent or mitigate this cytokine storm through their immunomodulatory capacity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32830527&#34; target=&#34;_blank&#34;&gt;32830527&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stem cells (MSCs) are known to act as anti-inflammatory/immunomodulatory candidates and activate endogenous regeneration. […] As a result, MSC therapy is a potential treatment approach for COVID-19. […] Intravenous injection of clinical-grade MSCs into COVID-19 patients can induce an immunomodulatory response along with improved lung function. […] Dental pulp stem cells (DPSCs) are considered a potential source of MSCs for immunomodulation, tissue regeneration, and clinical application.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32832666&#34; target=&#34;_blank&#34;&gt;32832666&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+More than 1050 clinical trials are registered at FDA.gov that explore multipotent mesenchymal stromal cells (MSCs) for nearly every clinical application imaginable, including neurodegenerative and cardiac disorders, perianal fistulas, graft-versus-host disease, COVID-19, and cancer. […] Several companies have or are in the process of commercializing MSC-based therapies. […] However, most of the clinical-stage MSC therapies have been unable to meet primary efficacy end points. […] The innate therapeutic functions of MSCs administered to humans are not as robust as demonstrated in preclinical studies, and in general, the translation of cell-based therapy is impaired by a myriad of steps that introduce heterogeneity. […] In this review, we discuss the major clinical challenges with MSC therapies, the details of these challenges, and the potential bioengineering approaches that leverage the unique biology of MSCs to overcome the challenges and achieve more potent and versatile therapies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32835174&#34; target=&#34;_blank&#34;&gt;32835174&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Marten holds a MSc in Economics, a MSc in Energy Engineering, and a PhD in Economics from KU Leuven.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32838232&#34; target=&#34;_blank&#34;&gt;32838232&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our aim was to determine whether the administration of adipose-tissue derived mesenchymal stromal cells (AT-MSC) is safe and potentially useful in these patients. […] Thirteen COVID-19 adult patients under invasive mechanical ventilation who had received previous antiviral and/or anti-inflammatory treatments (including steroids, lopinavir/ritonavir, hydroxychloroquine and/or tocilizumab, among others) were treated with allogeneic AT-MSC. […] Median number of cells per dose was 0.98 × 106 (IQR 0.50 × 106) AT-MSC/kg of recipient’s body weight. […] First dose of AT-MSC was administered at a median of 7 days (IQR 12 days) after mechanical ventilation. […] Two patients died (one due to massive gastrointestinal bleeding unrelated to MSC therapy). […] Treatment with AT-MSC was followed by a decrease in inflammatory parameters (reduction in C-reactive protein, IL-6, ferritin, LDH and d-dimer) as well as an increase in lymphocytes, particularly in those patients with clinical improvement. […] Treatment with intravenous administration of AT-MSC in 13 severe COVID-19 pneumonia under mechanical ventilation in a small case series did not induce significant adverse events and was followed by clinical and biological improvement in most subjects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32854985&#34; target=&#34;_blank&#34;&gt;32854985&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stromal cells (MSC) have immune regulatory and tissue regenerative properties. […] MSCs are being studied as a therapy option for many inflammatory and immune disorders and are approved to treat acute graft-versus-host disease (GvHD). […] Preliminary data using MSCs in the setting of acute respiratory distress syndrome (ARDS) in COVID-19 are emerging. […] We review mechanisms of action of MSCs in inflammatory and immune conditions and discuss a potential role in persons with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32858940&#34; target=&#34;_blank&#34;&gt;32858940&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Exosomes derived from mesenchymal stem cells (MSCs) are being explored for the management of a number of diseases that currently have limited or no therapeutic options, thanks to their anti-inflammatory, immunomodulatory, and pro-angiogenic properties. […] Next, we describe some of the most significant clinical evidence of the successful use of MSC-derived exosomes in animal models of lung and heart injuries, which might strengthen our hypothesis in terms of their utility for also treating critically ill COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32895900&#34; target=&#34;_blank&#34;&gt;32895900&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stromal cells (MSCs) constitute a heterogeneous population of stromal cells with immunomodulatory and regenerative properties that support their therapeutic use. […] MSCs isolated from many tissue sources replicate vigorously in vitro and maintain their main biological properties allowing their widespread clinical application. […] To date, most MSC-based preclinical and clinical trials targeted immune-mediated and inflammatory diseases. […] Nevertheless, MSCs have antiviral properties and have been used in the treatment of various viral infections in the last years. […] Here, we revised in detail the biological properties of MSCs and their preclinical and clinical applications in viral diseases, including the disease caused by the severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2) infection (COVID-19). […] Notably, rapidly increasing numbers of MSC-based therapies for COVID-19 have recently been reported. […] MSCs are theoretically capable of reducing inflammation and promote lung regeneration in severe COVID-19 patients. […] We critically discuss the rationale, advantages and disadvantages of MSC-based therapies for viral infections and also specifically for COVID-19 and point out some directions in this field. […] Finally, we argue that MSC-based therapy may be a promising therapeutic strategy for severe COVID-19 and other emergent respiratory tract viral infections, beyond the viral infection diseases in which MSCs have already been clinically applied.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32933835&#34; target=&#34;_blank&#34;&gt;32933835&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cell-based approaches, primarily using mesenchymal stromal cells (MSCs), have demonstrated a strong safety profile and possible efficacy in patients with acute respiratory distress syndrome (ARDS), but whether these therapies are effective for treating respiratory virus-induced ARDS is unknown. […] According to the World Health Organization International Clinical Trials Registry Platform and the National Institutes of Health ClinicalTrials.gov databases, 27 clinical investigations of MSC-based cell therapy approaches have begun in China since the onset of the COVID-19 outbreak, with a growing number of academic and industry trials elsewhere as well. […] Therefore, although there may be a potential role for MSCs and other cell-based therapies in treatment of COVID-19, these need to be investigated in a rationally designed, controlled approach if safety and efficacy are to be demonstrated accurately.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32942796&#34; target=&#34;_blank&#34;&gt;32942796&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stem cell (MSC) therapy has a vast array of preclinical data and early, preliminary clinical data that suggests its potential to regenerate and restore the function of damaged tissues and organs. […] To date, there has been no review of all the clinical trials that have assessed the safety and efficacy of MSC therapy in organ failure commonly seen in seriously complicated COVID-19 patients. […] To evaluate the effectiveness of MSC therapy in managing multiorgan failure, utilizing currently available literature. […] A review of human randomized controlled trials (RCTs) and observational studies assessing the role of MSC therapy in managing multiorgan failure. […] Studies that included embryonic stem cells, induced pluripotent stem cells, differentiated MSCs into specific lineage cells, and hematopoietic stem cells were excluded. […] Trials with intraorgan infiltration of MSC were also excluded. […] The secondary outcome assessed the safety of MSC therapy in the clinical trials. […] Among the 6 studies that specifically assessed the effectiveness of MSC therapy in ARDS, 4 showed positive outcomes. […] The incidence of disease worsening or major complications was extremely rare from MSC therapy. […] MSC therapy seems to be promising to treat multiorgan failure from COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32942797&#34; target=&#34;_blank&#34;&gt;32942797&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This review examines recent research studies in humans to determine whether mesenchymal stem cells (MSCs) may be used effectively and safely to target potentially deadly lung damage that may follow infection. […] Electronic data bases of scientific articles and records of printed documents of JAMA journals were searched to find research publications on MSC treatment of ARDS and COVID-19. […] Two randomized double-blind clinical trials, 2 pilot studies, and 2 case reports described MSC use to treat ARDS with specific focus on COVID-19 and lung symptoms of cytokine storm. […] The MSCs were well-tolerated across studies. […] No significant differences in treatment outcome were found in randomized double-blind trials; however, results of 1 pilot study and 1 case report showed that MSCs led to lung symptom resolution and survival in severely ill treatment patients. […] Nevertheless, it is documented that 8 ARDS patients with COVID-19 experienced symptom recovery and survival subsequent to MSC administration. […] MSCs are potentially life-saving treatment approaches for some patients who exhibit severe lung distress and have not responded to standard treatments.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32948252&#34; target=&#34;_blank&#34;&gt;32948252&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stem cells (MSCs) are multipotential stem cells that are recognized via self-renewal capacity, generation of clonal populations, and multilineage differentiation. […] MSCs are present in nearly all tissues of the body, playing an essential role in repair and generation of tissues. […] Furthermore, MSCs have broad immunoregulatory properties through the interaction of immune cells in both innate and adaptive immune systems, leading to immunosuppression of many effector activities. […] MSCs can reduce the cytokine storm produced by coronavirus infection. […] Also, MSCs may be able to improve pulmonary fibrosis and lung function. […] In this review, we will review the newest research findings regarding MSC-based immunomodulation in patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32952855&#34; target=&#34;_blank&#34;&gt;32952855&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stromal cells (MSCs), which are known for their immunosuppressive actions, could be applied as an alternative co-therapy in critically-ill COVID-19 patients. […] Specifically, MSCs can regulate the immune responses through the conversion of Th1 to Th2, activation of M2 macrophages, and modulation of dendritic cells maturation. […] These key immunoregulatory properties of MSCs may be exerted either by produced soluble factors or by cell-cell contact interactions. […] To date, several clinical trials have been registered to assess the safety, efficacy, and therapeutic potential of MSCs in COVID-19. […] Moreover, MSC treatment may be effective for the reversion of ground-glass opacity of damaged lungs and reduce the tissue fibrosis. […] Taking into account the multifunctional properties of MSCs, the proposed stem-cell-based therapy may be proven significantly effective in critically-ill COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32979360&#34; target=&#34;_blank&#34;&gt;32979360&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stem cells (MSCs) are widely used in basic science and in a variety of clinical trials. […] MSCs are able to engraft to the damaged tissues after transplantation and promote tissue regeneration, besides MSCs able to secrete immunomodulatory factors that suppress the cytokine storms. […] Moreover, the contribution of MSCs to prevent cell death and inhibit tissue fibrosis is well established. […] In the current review article, the potential mechanisms by which MSCs contribute to the treatment of COVID-19 patients are highlighted. […] Also, current trials that evaluated the potential of MSC-based treatments for COVID-19 are briefly reviewed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33009982&#34; target=&#34;_blank&#34;&gt;33009982&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stem cells (MSCs) due to their pro/anti-inflammatory and immune-modulatory behavior, Natural Killer (NK) cells thanks to their capacity of lysing virus-infected cells and regulate the resulting immune response, Dendritic cells thanks to immunotherapy and cell-based vaccine engineering, SARS-CoV2-specific T cells due to stimulate and promote the immune system and MSC-derived exosomes because of cell-free therapy and beneficial manufacturing aspects, hold great promises for cell-based therapy applications for treating COVID-19 and similar viral infections. […] Moreover, recently, an innovative approach to COVID-19 based on engineered human MSC has been introduced, which is continuously evacuated and degraded by the body’s immune system during the antigen recognition process.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33037446&#34; target=&#34;_blank&#34;&gt;33037446&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Over the last two decades, mesenchymal stromal cells (MSCs) have been the focus of intense research by acadaemia and industry due to their unique features. […] MSCs can be easily isolated and expanded through in vitro culture by taking full advantage of their self-renewing capacity. […] In addition, MSCs exert immunomodulatory effects and can be differentiated into various lineages, which makes them highly attractive for clinical applications in cell-based therapies. […] In this review, we attempted to provide a historical overview of bone marrow history, MSC discovery, characterization, and the first clinical studies conducted.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33049279&#34; target=&#34;_blank&#34;&gt;33049279&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mesenchymal stem cells own self-renewal, differentiation, homing, immunomodulation and remains unaffected by the coronavirus on the virtue of the absence of ACE-2 receptors, indicating that MSC’s could be used an ameliorative approach for COVID-19. […] MSCs have shown to combat the disease via various pathways such as repairing the lung epithelial and endothelial cells, reducing hyperimmune response, maintaining the renin-angiotensin system. […] Although MSCs-based treatment approaches for COVID-19 is still under consideration with limited data, many human clinical trials of MSC’s has been initiated to explore their potential for COVID 19 treatment. […] The current review summarizes and emphasizes on how MSC’s modulate the immune response, can repair the lungs from the impact of the virus, and various aspects of MSC’s as a remedial source for COVID-19, to provide better insight for biomedical researchers and for those who are fascinated by stem cells as a therapeutic approach.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -730,7 +942,7 @@ Biologically, two challenges need to be surmounted to allow convalescent plasma 
     </item>
     
     <item>
-      <title>CP</title>
+      <title>MSC</title>
       <link>/genepanel/9242/clinvar/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/9242/clinvar/</guid>
@@ -738,7 +950,7 @@ Biologically, two challenges need to be surmounted to allow convalescent plasma 
 
 
 &lt;hr /&gt;
-&lt;p&gt;ceruloplasmin&lt;/p&gt;
+&lt;p&gt;musculin&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;ClinVar Summary&lt;/h2&gt;
@@ -752,7 +964,7 @@ Under development
     </item>
     
     <item>
-      <title>CP</title>
+      <title>MSC</title>
       <link>/genepanel/9242/geo/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/9242/geo/</guid>
@@ -760,7 +972,7 @@ Under development
 
 
 &lt;hr /&gt;
-&lt;p&gt;ceruloplasmin&lt;/p&gt;
+&lt;p&gt;musculin&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;GEO dataset Summary&lt;/h2&gt;

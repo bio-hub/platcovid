@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Hoffmann-Sommergruber | PlatCOVID</title>
+    <link>/author/k-hoffmann-sommergruber/</link>
+      <atom:link href="/author/k-hoffmann-sommergruber/index.xml" rel="self" type="application/rss+xml" />
+    <description>K Hoffmann-Sommergruber</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>K Hoffmann-Sommergruber</title>
+      <link>/author/k-hoffmann-sommergruber/</link>
+    </image>
+    
+    <item>
+      <title>Immunology of COVID-19: mechanisms, clinical outcome, diagnostics and perspectives - a report of the European Academy of Allergy and Clinical Immunology (EAACI).</title>
+      <link>/publication/32584441/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32584441/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 pandemic: Practical considerations on the organization of an allergy clinic - an EAACI/ARIA Position Paper.</title>
+      <link>/publication/32531110/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32531110/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

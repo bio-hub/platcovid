@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Magnus Hedenstierna | PlatCOVID</title>
+    <link>/author/magnus-hedenstierna/</link>
+      <atom:link href="/author/magnus-hedenstierna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Magnus Hedenstierna</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Magnus Hedenstierna</title>
+      <link>/author/magnus-hedenstierna/</link>
+    </image>
+    
+    <item>
+      <title>Nitric Oxide dosed in short bursts at high concentrations may protect against Covid 19.</title>
+      <link>/publication/32590117/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32590117/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

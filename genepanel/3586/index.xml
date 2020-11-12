@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>FH</title>
+      <title>CXCL8</title>
       <link>/genepanel/3586/info/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/3586/info/</guid>
@@ -21,23 +21,23 @@
 
 
 &lt;hr /&gt;
-&lt;p&gt;fumarate hydratase&lt;/p&gt;
+&lt;p&gt;C-X-C motif chemokine ligand 8&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/2271&#34; target=&#34;_blank&#34;&gt;2271&lt;/a&gt; | Type: Protein Coding |
-Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=2271&#34; target=&#34;_blank&#34;&gt; 1q43&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/606812&#39; target=&#39;_blank&#39;&gt;606812&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/150800&#39; target=&#39;_blank&#39;&gt;150800&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/136850&#39; target=&#39;_blank&#39;&gt;136850&lt;/a&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/3576&#34; target=&#34;_blank&#34;&gt;3576&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=3576&#34; target=&#34;_blank&#34;&gt; 4q13.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/146930&#39; target=&#39;_blank&#39;&gt;146930&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene is an enzymatic component of the tricarboxylic acid (TCA) cycle, or Krebs cycle, and catalyzes the formation of L-malate from fumarate. It exists in both a cytosolic form and an N-terminal extended form, differing only in the translation start site used. The N-terminal extended form is targeted to the mitochondrion, where the removal of the extension generates the same form as in the cytoplasm. It is similar to some thermostable class II fumarases and functions as a homotetramer. Mutations in this gene can cause fumarase deficiency and lead to progressive encephalopathy. [provided by RefSeq, Jul 2008] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene is a member of the CXC chemokine family and is a major mediator of the inflammatory response. The encoded protein is commonly referred to as interleukin-8 (IL-8). IL-8 is secreted by mononuclear macrophages, neutrophils, eosinophils, T lymphocytes, epithelial cells, and fibroblasts. It functions as a chemotactic factor by guiding the neutrophils to the site of infection. Bacterial and viral products rapidly induce IL-8 expression. IL-8 also participates with other cytokines in the proinflammatory signaling cascade and plays a role in systemic inflammatory response syndrome (SIRS). This gene is believed to play a role in the pathogenesis of the lower respiratory tract infection bronchiolitis, a common respiratory tract disease caused by the respiratory syncytial virus (RSV). The overproduction of this proinflammatory protein is thought to cause the lung inflammation associated with csytic fibrosis. This proinflammatory protein is also suspected of playing a role in coronary artery disease and endothelial dysfunction. This protein is also secreted by tumor cells and promotes tumor migration, invasion, angiogenesis and metastasis. This chemokine is also a potent angiogenic factor. The binding of IL-8 to one of its receptors (IL-8RB/CXCR2) increases the permeability of blood vessels and increasing levels of IL-8 are positively correlated with increased severity of multiple disease outcomes (eg, sepsis). This gene and other members of the CXC chemokine gene family form a gene cluster in a region of chromosome 4q. [provided by RefSeq, May 2020] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
     </item>
     
     <item>
-      <title>FH</title>
+      <title>CXCL8</title>
       <link>/genepanel/3586/gene_expression/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/3586/gene_expression/</guid>
@@ -46,13 +46,13 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/606812&#39; target=&#39;_blank&#39;
 
 
 &lt;hr /&gt;
-&lt;p&gt;fumarate hydratase&lt;/p&gt;
+&lt;p&gt;C-X-C motif chemokine ligand 8&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Expression&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; FH expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;strong&gt;Table 1.&lt;/strong&gt; CXCL8 expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -74,161 +74,21 @@ mRNA
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 adrenal gland
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-High
+Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-81.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-colon
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-66.0
+17.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-duodenum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-68.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-epididymis
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-31.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-kidney
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-105.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-lymph node
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-34.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-parathyroid gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-110.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-seminal vesicle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-53.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-small intestine
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-64.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-stomach
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-41.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-testis
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-75.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 appendix
@@ -237,12 +97,12 @@ appendix
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.6
+293.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 bone marrow
@@ -251,54 +111,12 @@ bone marrow
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-19.2
+2076.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-breast
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-46.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-caudate
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-cerebellum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 cerebral cortex
@@ -307,96 +125,68 @@ cerebral cortex
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.7
+5.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-cervix, uterine
+epididymis
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.0
+0.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-endometrium
+esophagus
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.8
+2.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-hippocampus
+heart muscle
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-NA
+1.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-kidney
+lymph node
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-105.8
+1.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-liver
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-142.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-lung
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-34.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 ovary
@@ -405,40 +195,12 @@ ovary
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.8
+1.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-pancreas
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-7.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-placenta
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-46.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 skeletal muscle
@@ -447,54 +209,12 @@ skeletal muscle
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-74.5
+0.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-skin
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-44.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-smooth muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-60.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-soft tissue
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 spleen
@@ -503,12 +223,26 @@ spleen
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.1
+13.9
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 tonsil
@@ -517,250 +251,404 @@ tonsil
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.4
+7.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-vagina
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 appendix
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.6
+293.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 breast
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-bronchus
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
+2.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-caudate
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-cerebellum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 cerebral cortex
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.7
+5.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 cervix, uterine
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-42.0
+84.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 colon
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-66.0
+10.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 endometrium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-esophagus
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-50.3
+65.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 fallopian tube
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.4
+4.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 gallbladder
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-heart muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-115.0
+274.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-hippocampus
+kidney
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-NA
+3.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 liver
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-142.2
+40.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 lung
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.1
+31.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+54.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+179.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 lymph node
@@ -769,166 +657,26 @@ lymph node
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.3
+1.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-nasopharynx
+stomach
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-NA
+3.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-oral mucosa
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-pancreas
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-7.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-placenta
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-46.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-prostate
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-54.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-rectum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-75.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-salivary gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-17.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-skin
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-44.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-spleen
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-33.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-testis
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-75.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-thyroid gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-57.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 tonsil
@@ -937,26 +685,12 @@ tonsil
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.4
+7.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-urinary bladder
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-36.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000091483
+ENSG00000169429
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 adipose tissue
@@ -965,7 +699,7 @@ adipose tissue
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-47.9
+81.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -975,7 +709,7 @@ NA
     </item>
     
     <item>
-      <title>FH</title>
+      <title>CXCL8</title>
       <link>/genepanel/3586/gene_context/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/3586/gene_context/</guid>
@@ -984,13 +718,13 @@ NA
 
 
 &lt;hr /&gt;
-&lt;p&gt;fumarate hydratase&lt;/p&gt;
+&lt;p&gt;C-X-C motif chemokine ligand 8&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of FH gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CXCL8 gene in 11 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -1006,10 +740,90 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32389859&#34; target=&#34;_blank&#34;&gt;32389859&lt;/a&gt;
+&lt;a href=&#34;/publication/32427582&#34; target=&#34;_blank&#34;&gt;32427582&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Individuals with Familial Hypercholesterolaemia (FH) are at very high risk of cardiovascular disease, which is associated with poor outcomes from coronavirus infections. […] COVID-19 puts strain on healthcare systems and may impair access to routine FH services. […] On behalf of the International Lipid Expert Panel (ILEP) and the European FH Patient Network (FH Europe), we present brief recommendations on the management of adult patients with FH during the COVID-19 pandemic. […] We discuss the implications of COVID-19 infections for FH patients, the importance of continuing lipid-lowering therapy where possible, issues relating to safety monitoring and service delivery.
+Circulating cytokines, including IL8, IL6, TNFα, IP10, MCP1, and RANTES, were significantly elevated in severe COVID-19 patients. […] Dynamic IL6 and IL8 were associated with disease progression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32492562&#34; target=&#34;_blank&#34;&gt;32492562&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Immune cells accumulate in visceral adipose tissue and together with paracrine adipocytes release a wide range of biologically active cytokines (including IL-1β, IL5, IL6 and IL8) that can result in both local, pulmonary and systemic inflammation. […] It has also been shown to decrease elevated levels of IL-1β and IL8 in humans with viral upper respiratory tract infections compared with placebo-treated patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32591762&#34; target=&#34;_blank&#34;&gt;32591762&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared to moderate cases, critical cases exhibited stronger interactions between epithelial and immune cells, as indicated by ligand-receptor expression profiles, and activated immune cells, including inflammatory macrophages expressing CCL2, CCL3, CCL20, CXCL1, CXCL3, CXCL10, IL8, IL1B and TNF.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32617527&#34; target=&#34;_blank&#34;&gt;32617527&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We also propose use of plant protease inhibitors (PI’s) and Anti-IL8, IL-6, IL-2 as future drug models against coronavirus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32626680&#34; target=&#34;_blank&#34;&gt;32626680&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Older age, elevated aspartate aminotransferase, total bilirubin, serum lactate dehydrogenase, blood urea nitrogen, prothrombin time, D-dimer, Procalcitonin, and C-reactive protein levels, decreased albumin, elevated serum cytokines (IL2R, IL6, IL8, IL10, and TNF-α) levels, and a decreased lymphocyte count indicated poor outcome in patients with COVID-19 pneumonia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32645391&#34; target=&#34;_blank&#34;&gt;32645391&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The median concentration of IL-2R, IL-6, IL8, IL10, and TNFα were above the normal range, without IL-1β.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32673995&#34; target=&#34;_blank&#34;&gt;32673995&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pro-inflammatory cytokines were assessed during hospitalization, and we calculated a prediction paradigm for 30-day mortality based on the serum levels of interleukin1β (IL1β), interleukin6 (IL6), interleukin8 (IL8), and tumor necrosis factor alpha (TNFα) measured by next-generation ELISA.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32698440&#34; target=&#34;_blank&#34;&gt;32698440&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results indicated that the SARS-CoV-2 infection strongly activates TNF and NFκB-signaling pathways through significant upregulation of the TNF, IL1B, IL6, IL8, NFKB1, NFKB2 and RELB genes. […] Accordingly, a literature search summarized that tiotropium reduced expressions of IL1B, IL6, IL8, RELA, NFKB1 and TNF in vitro or in vivo, and many of them have been known to be deregulated in COPD patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32761495&#34; target=&#34;_blank&#34;&gt;32761495&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The level of ATIII was significantly negatively correlated with the levels of neutrophils, ferritin, LDH, total bilirubin, IL2R, IL6 and IL8 (p &amp;lt; 0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32816392&#34; target=&#34;_blank&#34;&gt;32816392&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Increased expression of inflammatory markers reminiscent of the type 1 interferon pathway (IL6, IL8, CCL2, INFB1) underlaid the immunophenotype associated with T2D.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32891160&#34; target=&#34;_blank&#34;&gt;32891160&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To study the effect of GA on the level of cytokines, TNFα, IL8, IL6 IL10, CRP and the viral load. […] Changes of the level of Tumor Necrosis Factor (TNFα), interleukin IL8, IL6, and IL10 from the baseline values (Four weeks from the start of randomization).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -1020,7 +834,7 @@ Individuals with Familial Hypercholesterolaemia (FH) are at very high risk of ca
     </item>
     
     <item>
-      <title>FH</title>
+      <title>CXCL8</title>
       <link>/genepanel/3586/clinvar/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/3586/clinvar/</guid>
@@ -1028,7 +842,7 @@ Individuals with Familial Hypercholesterolaemia (FH) are at very high risk of ca
 
 
 &lt;hr /&gt;
-&lt;p&gt;fumarate hydratase&lt;/p&gt;
+&lt;p&gt;C-X-C motif chemokine ligand 8&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;ClinVar Summary&lt;/h2&gt;
@@ -1042,7 +856,7 @@ Under development
     </item>
     
     <item>
-      <title>FH</title>
+      <title>CXCL8</title>
       <link>/genepanel/3586/geo/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/3586/geo/</guid>
@@ -1050,7 +864,7 @@ Under development
 
 
 &lt;hr /&gt;
-&lt;p&gt;fumarate hydratase&lt;/p&gt;
+&lt;p&gt;C-X-C motif chemokine ligand 8&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;GEO dataset Summary&lt;/h2&gt;

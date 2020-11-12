@@ -33,7 +33,7 @@ Synonymous :cddp | cis-ddp | cis-diamminedichloroplatinum(ii) | cisplatin | cisp
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cisplatin&lt;/em&gt; gene in 3 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cisplatin&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,38 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In addition to taking standard precautions for minimizing COVID-19 risk of exposure for those entering a healthcare facility (screening all personnel upon entry and donning facemasks at all times), we suggest the following three measures: (1) delay post-treatment surveillance visits until there is a decrease in local COVID-19 cases, (2) continue curative intent treatments for localized bladder cancer with COVID-19 precautions (i.e., choosing gemcitabine/cisplatin (GC) over dose-dense methotrexate, vinblastine, doxorubicin, cisplatin (ddMVAC) neoadjuvant chemotherapy), and (3) increase the off-treatment period between cycles of palliative systemic therapy in metastatic urothelial carcinoma patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32601854&#34; target=&#34;_blank&#34;&gt;32601854&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Single-day dexamethasone dosing is recommended over multi-day dosing for regimens with high emetogenic risk excluding high-dose cisplatin, preferably in combination with palonosetron, netupitant, and olanzapine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32729248&#34; target=&#34;_blank&#34;&gt;32729248&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Further top ACE2 regulators in vivo or in primary cells include erlotinib and bleomycin in the lung and vancomycin, cisplatin, and probenecid in the kidney.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32799423&#34; target=&#34;_blank&#34;&gt;32799423&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The majority of the other medications decreased ACE2 expression to variable degrees with allopurinol and cisplatin causing the most noticeable downregulation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32923151&#34; target=&#34;_blank&#34;&gt;32923151&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, the HCQ+AZI combination did not affect the capacity of a curative regimen (cisplatin + crizotinib + PD-1 blockade) to eradicate established orthotopic lung cancers in mice.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

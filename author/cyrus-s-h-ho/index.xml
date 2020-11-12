@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyrus S H Ho | PlatCOVID</title>
+    <link>/author/cyrus-s-h-ho/</link>
+      <atom:link href="/author/cyrus-s-h-ho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cyrus S H Ho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Cyrus S H Ho</title>
+      <link>/author/cyrus-s-h-ho/</link>
+    </image>
+    
+    <item>
+      <title>Studies of Novel Coronavirus Disease 19 (COVID-19) Pandemic: A Global Analysis of Literature.</title>
+      <link>/publication/32521776/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32521776/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demand for Health Information on COVID-19 among Vietnamese.</title>
+      <link>/publication/32570819/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32570819/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

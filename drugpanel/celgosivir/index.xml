@@ -33,7 +33,7 @@ Synonymous :6-o-butanoylcastanospermine | celgosivir
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;celgosivir&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;celgosivir&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,22 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In particular, we make a case for evaluation of the well-tolerated drugs miglitol, celgosivir and especially miglustat for the treatment of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32787752&#34; target=&#34;_blank&#34;&gt;32787752&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, ribavirin may also be a potential treatment against CHIKV; sofosbuvir against ZIKV; celgosivir against DENV, and favipiravir against EBOV and MARV, representing new hopes against these pathogens.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32985653&#34; target=&#34;_blank&#34;&gt;32985653&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As such, we investigated two iminosugars, celgosivir, a pro-drug of castanospermine, and UV-4, or N-(9-methoxynonyl)-1-deoxynojirimycin, a deoxynojirimycin derivative. […] Celgosivir prevented SARS-CoV-2-induced cell death and reduced viral replication and Spike protein levels in a dose-dependent manner in culture with Vero E6 cells. […] Castanospermine, the active form of celgosivir, was also able to inhibit SARS-CoV-2, confirming the canonical castanospermine mechanism of action of celgosivir.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

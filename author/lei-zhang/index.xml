@@ -5,12 +5,60 @@
     <link>/author/lei-zhang/</link>
       <atom:link href="/author/lei-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Lei Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Lei Zhang</title>
       <link>/author/lei-zhang/</link>
     </image>
+    
+    <item>
+      <title>Best practice for infection prevention in pediatric respiratory clinics during the COVID-19 epidemic.</title>
+      <link>/publication/32588213/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32588213/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early characteristics of the COVID-19 outbreak predict the subsequent epidemic size.</title>
+      <link>/publication/32502662/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32502662/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intestinal Flora as a Potential Strategy to Fight SARS-CoV-2 Infection.</title>
+      <link>/publication/32582138/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32582138/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative analysis of SARS-CoV-2 receptor ACE2 expression in multiple solid tumors and matched non-diseased tissues.</title>
+      <link>/publication/32565362/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32565362/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathogenesis of SARS-CoV-2 in Transgenic Mice Expressing Human Angiotensin-Converting Enzyme 2.</title>
+      <link>/publication/32516571/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32516571/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Analysis of gastrointestinal symptoms in 80 patients with coronavirus disease 2019].</title>
+      <link>/publication/32527343/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32527343/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Time Series Forecasting of COVID-19 transmission in Canada Using LSTM Networks.</title>

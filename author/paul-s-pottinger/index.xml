@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul S Pottinger | PlatCOVID</title>
+    <link>/author/paul-s-pottinger/</link>
+      <atom:link href="/author/paul-s-pottinger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul S Pottinger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Paul S Pottinger</title>
+      <link>/author/paul-s-pottinger/</link>
+    </image>
+    
+    <item>
+      <title>Tolerability and effectiveness of povidone-iodine or mupirocin versus saline sinus irrigations for chronic rhinosinusitis.</title>
+      <link>/publication/32563787/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32563787/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of SARS-CoV-2 by bronchoscopy after negative nasopharyngeal testing: Stay vigilant for COVID-19.</title>
+      <link>/publication/32566476/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32566476/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prevalence of COVID-19 Infection and Outcomes Among Symptomatic Healthcare Workers in Seattle, Washington.</title>
+      <link>/publication/32548613/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32548613/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

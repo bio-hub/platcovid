@@ -33,7 +33,7 @@ Synonymous :(2r,6s,12z,13ar,14ar,16as)-n-(cyclopropanesulfonyl)-6-[(5-methylpyra
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;paritaprevir&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;paritaprevir&lt;/em&gt; gene in 6 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,46 @@ From the virtual screening results, two drug molecules were selected for each dr
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Moreover, paritaprevir and simeprevir from FDA-approved protease inhibitors were identified as potential inhibitors of SARS-CoV-2 3CLpro. […] Importantly, the identified FDA-approved anti-hepatitis-C virus (HCV) drugs paritaprevir and simeprevir could be ready for clinical trials to treat infected patients and help curb COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32617527&#34; target=&#34;_blank&#34;&gt;32617527&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Molecular docking results against protein targets Furin, papain like proteases, RdRp and Spike glycoprotein had shown paritaprevir, ritonavir, entecavir and chloroquine derivatives are the best drugs to inhibit multi targets of coronavirus infection including natural compounds corosolic acid, baicalin and glycyrrhizic acid with minimal inhibitory concentrations. […] Thus we propose use of paritaprevir, entecavir, ritonavir and chloroquine derivatives as best drug combination along with niacinamide, folic acid and zinc supplements to treat novel coronavirus infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32837113&#34; target=&#34;_blank&#34;&gt;32837113&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A few promising leads with dual inhibition potential were identified among FDA approved antiviral drugs which include DB13879 (Glecaprevir), DB09102 (Daclatasvir), molecule DB09297 (Paritaprevir) and DB01072 (Atazanavir).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32837954&#34; target=&#34;_blank&#34;&gt;32837954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to the results, glecaprevir, paritaprevir, simeprevir, ledipasvir, glycyrrhizic acid, TMC-310911, and hesperidin showed highly favorably free binding energies with all tested target proteins.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32875166&#34; target=&#34;_blank&#34;&gt;32875166&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Simeprevir (SMV), Paritaprevir (PTV) and Grazoprevir (GZR) were the common leads identified which show higher binding affinity to both nsp13 helicase and nsp14 as compared to the control inhibitors and therefore, they might be potential dual-target inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32885740&#34; target=&#34;_blank&#34;&gt;32885740&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two candidate drugs, Simeprevir and Paritaprevir, achieved the lowest binding free energies for NSP15, with a value of -259.522 ± 17.579 and -154.051 ± 33.628 kJ/mol, respectively. […] Taken together, we propose that Simeprevir and Paritaprevir are promising drug candidates to inhibit NSP15 and may act as potential therapeutic agents against SARS-CoV-2.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

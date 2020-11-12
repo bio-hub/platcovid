@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/botox/</link>
+      <atom:link href="/drugpanel/botox/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/botox/</link>
+    </image>
+    
+    <item>
+      <title>BOTOX</title>
+      <link>/drugpanel/botox/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/botox/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=botox&#34; target=&#34;_blank&#34;&gt;botox&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;botox&lt;/em&gt; gene in 2 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32614116&#34; target=&#34;_blank&#34;&gt;32614116&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The terms “acne”, “hair loss”, “eczema”, “genital warts”, “molluscum contagiosum”, “botox”, “skin cancer”, and “sunscreen” were analyzed on April 1, May 1, June1, 2020, and the corresponding period of the previous year in Turkey and Italy by using Google Trends. […] The relative change of search term “acne” was +10, +29, +13/-1, +17,+33, “hair loss” was +14, +40, +16/+3, +16, +15, and “eczema” was +2, +34, -4/ +3, +25, +18, on the other hand, the relative change of the “genital warts” was -15, -48, +10/-44, -30, +18 and “molluscum contagiosum” was -12, -2, -4/-4, -1, -12 while “botox” was, -10, -43, -8/-41, -31, +4, “skin cancer” was -27, -38, -38/-22,+33, -7 and sunscreen was -6, -25, -71/-13, 0, -45 in Turkey/Italy on April 1, May 1, and June 1, 2020, respectively. […] The search terms including “acne”, “eczema”, “hair loss” appears to be increasing while “molluscum contagiosum”, “genital warts” “botox”, “skin cancer”, and “sunscreen” decreasing in the era of the COVID-19 pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32852146&#34; target=&#34;_blank&#34;&gt;32852146&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The dominant words in word cloud were “Botox,” “facelift,” “hyaluronic,” and “skin.” […] In particular, minimally invasive procedures dominate the mainstream, such as “Botox,” “Hyaluronic acid,” and “PRP.”
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32972360&#34; target=&#34;_blank&#34;&gt;32972360&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Outcomes included demographic variables, change in migraine frequency and severity during the lockdown period, communication with treating physician, compliance to migraine treatment, difficulty in getting medications, medication overuse, symptoms of anxiety and/or depression, sleep and eating habits disturbance, screen time exposure, work during pandemic, use of traditional medicine, effect of Botox injection cancellation, and overall worries and concerns during pandemic. […] Botox injections cancellation had a negative impact on 150 respondents (66.1%) from those receiving it.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

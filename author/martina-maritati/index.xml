@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martina Maritati | PlatCOVID</title>
+    <link>/author/martina-maritati/</link>
+      <atom:link href="/author/martina-maritati/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martina Maritati</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Martina Maritati</title>
+      <link>/author/martina-maritati/</link>
+    </image>
+    
+    <item>
+      <title>A new pharmacological approach based on remdesivir aerosolized administration on SARS-CoV-2 pulmonary inflammation: A possible and rational therapeutic application.</title>
+      <link>/publication/32562915/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32562915/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

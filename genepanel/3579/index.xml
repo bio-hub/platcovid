@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/3579&#34; target=&#34;_blank&#34;&gt;3579&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=3579&#34; target=&#34;_blank&#34;&gt; 2q35&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/146928&#39; target=&#39;_blank&#39;&gt;146928&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/139110&#39; target=&#39;_blank&#39;&gt;139110&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -430,7 +430,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CXCR2 gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CXCR2 gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -450,6 +450,14 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Different inflammatory genes mined here, including TNFR, IL-8, CXCR1, CXCR2, ADAM10, GPR84, MME, ANPEP, and LAP3, might be druggable targets in efforts to limit SARS-CoV-2 inflammation in severe clinical cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32678432&#34; target=&#34;_blank&#34;&gt;32678432&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this Viewpoint, we summarize recent evidence for the role of neutrophils in the pathogenesis of COVID-19 and propose CXCR2 inhibition as a promising treatment option to block neutrophil recruitment and activation.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

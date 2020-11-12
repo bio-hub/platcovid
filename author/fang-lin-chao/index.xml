@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fang-Lin Chao | PlatCOVID</title>
+    <link>/author/fang-lin-chao/</link>
+      <atom:link href="/author/fang-lin-chao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fang-Lin Chao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Fang-Lin Chao</title>
+      <link>/author/fang-lin-chao/</link>
+    </image>
+    
+    <item>
+      <title>Adolescents&#39; face mask usage and contact transmission in novel Coronavirus.</title>
+      <link>/publication/32582579/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32582579/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face mask designs following novel Coronavirus.</title>
+      <link>/publication/32582578/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32582578/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

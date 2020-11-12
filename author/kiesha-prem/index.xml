@@ -5,12 +5,28 @@
     <link>/author/kiesha-prem/</link>
       <atom:link href="/author/kiesha-prem/index.xml" rel="self" type="application/rss+xml" />
     <description>Kiesha Prem</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Kiesha Prem</title>
       <link>/author/kiesha-prem/</link>
     </image>
+    
+    <item>
+      <title>Age-dependent effects in the transmission and control of COVID-19 epidemics.</title>
+      <link>/publication/32546824/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32546824/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adoption and impact of non-pharmaceutical interventions for COVID-19.</title>
+      <link>/publication/32529040/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32529040/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantifying the impact of physical distance measures on the transmission of COVID-19 in the UK.</title>

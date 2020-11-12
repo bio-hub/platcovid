@@ -33,7 +33,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;birinapant&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;birinapant&lt;/em&gt; gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 However, based on control (N3 and 13b), we have identified six potential molecules, Leupeptin Hemisulphate, Pepstatin A, Nelfinavir, Birinapant, Lypression and Octreotide which have shown the reasonably significant MM-GBSA score.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32815481&#34; target=&#34;_blank&#34;&gt;32815481&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mitoxantrone and Leucovorin from FDA approved drug library and Birinapant and Dynasore from anti-viral drug libraries interact with SARS-CoV-2 Mpro at higher efficiency as a result of the improved steric and hydrophobic environment in the binding cavity to make stable complex. […] Our findings suggest that Mitoxantrone, Leucovorin, Birinapant, and Dynasore represents potential inhibitors of SARS-CoV-2 Mpro.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAM Whaiduzzaman, MR Hossain, AR Shovon, S Roy, A Laszka, R Buyya, A Barros | PlatCOVID</title>
+    <link>/author/nam-whaiduzzaman-mr-hossain-ar-shovon-s-roy-a-laszka-r-buyya-a-barros/</link>
+      <atom:link href="/author/nam-whaiduzzaman-mr-hossain-ar-shovon-s-roy-a-laszka-r-buyya-a-barros/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAM Whaiduzzaman, MR Hossain, AR Shovon, S Roy, A Laszka, R Buyya, A Barros</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAM Whaiduzzaman, MR Hossain, AR Shovon, S Roy, A Laszka, R Buyya, A Barros</title>
+      <link>/author/nam-whaiduzzaman-mr-hossain-ar-shovon-s-roy-a-laszka-r-buyya-a-barros/</link>
+    </image>
+    
+    <item>
+      <title>A Privacy-preserving Mobile and Fog Computing Framework to Trace and Prevent COVID-19 Community Transmission.</title>
+      <link>/publication/32966223/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32966223/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

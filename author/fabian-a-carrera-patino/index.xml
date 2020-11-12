@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabián A Carrera-Patiño | PlatCOVID</title>
+    <link>/author/fabian-a-carrera-patino/</link>
+      <atom:link href="/author/fabian-a-carrera-patino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fabián A Carrera-Patiño</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Fabián A Carrera-Patiño</title>
+      <link>/author/fabian-a-carrera-patino/</link>
+    </image>
+    
+    <item>
+      <title>CLINICAL AND EPIDEMIOLOGICAL CHARACTERISTICS OF PATIENTS DIAGNOSED WITH COVID-19 IN A TERTIARY CARE CENTER IN MEXICO CITY: A PROSPECTIVE COHORT STUDY.</title>
+      <link>/publication/32584326/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32584326/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

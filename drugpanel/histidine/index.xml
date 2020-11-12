@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/histidine/</link>
+      <atom:link href="/drugpanel/histidine/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/histidine/</link>
+    </image>
+    
+    <item>
+      <title>HISTIDINE</title>
+      <link>/drugpanel/histidine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/histidine/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00117&#39; target=&#39;_blank&#39;&gt;db00117&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=histidine&#34; target=&#34;_blank&#34;&gt;histidine&lt;/a&gt; &lt;br&gt;
+Synonymous :(s)-4-(2-amino-2-carboxyethyl)imidazole | (s)-a-amino-1h-imidazole-4-propanoic acid | (s)-alpha-amino-1h-imidazole-4-propanoic acid | (s)-alpha-amino-1h-imidazole-4-propionic acid | (s)-α-amino-1h-imidazole-4-propanoic acid | his | histidina | histidine | l-(−)-histidine | l-histidin | l-histidine
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;histidine&lt;/em&gt; gene in 5 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32553046&#34; target=&#34;_blank&#34;&gt;32553046&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These parasites lack or have altered genes encoding histidine-rich proteins (HRPs) 2 and 3, the antigens recognized by HRP2-based RDTs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32658489&#34; target=&#34;_blank&#34;&gt;32658489&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The controversial and unprovable concept of aromaticity here enjoys being the agent that rationalizes the seemingly innocent role of histidine (His41 of Mpro).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32683439&#34; target=&#34;_blank&#34;&gt;32683439&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A pair of histidine residues that are conserved in coronavirus spike proteins are predicted to be electrostatically frustrated at acidic pH in both pre- and post-fusion conformations. […] We suggest that an intermediate expanded conformation at endosomal pH could relax the frustration, allowing histidine protonation, and facilitating conformational conversion of coronavirus spike protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32765939&#34; target=&#34;_blank&#34;&gt;32765939&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is suggested that the non-toxic dipeptide carnosine (beta-alanyl-L-histidine) should be examined as a potential protective agent against COVID-19 infection and inflammatory consequences especially in the elderly.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32855259&#34; target=&#34;_blank&#34;&gt;32855259&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A rare variant at bp 23463 of the SARS-CoV-2 genome was found, which corresponds to the S1 subunit of the spike protein, changing an arginine (R) residue to histidine (H).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32871846&#34; target=&#34;_blank&#34;&gt;32871846&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ivermectin docked in the region of leucine 91 of the spike and histidine 378 of the ACE2 receptor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32919067&#34; target=&#34;_blank&#34;&gt;32919067&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From analyses of spike protein sequences we identify patches of histidine and carboxylate groups that could be involved in transient proton binding.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32979815&#34; target=&#34;_blank&#34;&gt;32979815&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The relative binding poses of Z93 fitted well in the binding site of both proteases and showed consensus π-π stacking and H-bond interactions with histidine and aspartate/asparagine residues of the catalytic triad.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

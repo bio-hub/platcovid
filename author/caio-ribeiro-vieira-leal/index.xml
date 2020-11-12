@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caio Ribeiro Vieira Leal | PlatCOVID</title>
+    <link>/author/caio-ribeiro-vieira-leal/</link>
+      <atom:link href="/author/caio-ribeiro-vieira-leal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Caio Ribeiro Vieira Leal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Caio Ribeiro Vieira Leal</title>
+      <link>/author/caio-ribeiro-vieira-leal/</link>
+    </image>
+    
+    <item>
+      <title>Is SARS-CoV-2 Vertically Transmitted?</title>
+      <link>/publication/32574285/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32574285/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

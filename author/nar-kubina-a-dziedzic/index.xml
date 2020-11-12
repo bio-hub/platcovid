@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAR Kubina, A Dziedzic | PlatCOVID</title>
+    <link>/author/nar-kubina-a-dziedzic/</link>
+      <atom:link href="/author/nar-kubina-a-dziedzic/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAR Kubina, A Dziedzic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAR Kubina, A Dziedzic</title>
+      <link>/author/nar-kubina-a-dziedzic/</link>
+    </image>
+    
+    <item>
+      <title>Molecular and Serological Tests for COVID-19 a Comparative Review of SARS-CoV-2 Coronavirus Laboratory and Point-of-Care Diagnostics.</title>
+      <link>/publication/32604919/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32604919/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

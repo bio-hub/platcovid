@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dinh Thi Thu Hang | PlatCOVID</title>
+    <link>/author/dinh-thi-thu-hang/</link>
+      <atom:link href="/author/dinh-thi-thu-hang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dinh Thi Thu Hang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Dinh Thi Thu Hang</title>
+      <link>/author/dinh-thi-thu-hang/</link>
+    </image>
+    
+    <item>
+      <title>A Simple Method for Detection of a Novel Coronavirus (SARS-CoV-2) using One-step RT-PCR followed by Restriction Fragment Length Polymorphism.</title>
+      <link>/publication/32530490/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32530490/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

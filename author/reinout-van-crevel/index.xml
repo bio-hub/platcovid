@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinout van Crevel | PlatCOVID</title>
+    <link>/author/reinout-van-crevel/</link>
+      <atom:link href="/author/reinout-van-crevel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reinout van Crevel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Reinout van Crevel</title>
+      <link>/author/reinout-van-crevel/</link>
+    </image>
+    
+    <item>
+      <title>Epidemic and pandemic viral infections: impact on tuberculosis and the lung. A consensus by the World Association for Infectious Diseases and Immunological Disorders (WAidid), Global Tuberculosis Network (GTN) and members&lt;sup&gt;#&lt;/sup&gt; of ESCMID Study Group for Mycobacterial Infections (ESGMYC).</title>
+      <link>/publication/32586885/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32586885/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two Randomized Controlled Trials of Bacillus Calmette-Guérin Vaccination to reduce absenteeism among health care workers and hospital admission by elderly persons during the COVID-19 pandemic: A structured summary of the study protocols for two randomised controlled trials.</title>
+      <link>/publication/32503602/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32503602/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

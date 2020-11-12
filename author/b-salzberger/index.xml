@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B Salzberger | PlatCOVID</title>
+    <link>/author/b-salzberger/</link>
+      <atom:link href="/author/b-salzberger/index.xml" rel="self" type="application/rss+xml" />
+    <description>B Salzberger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>B Salzberger</title>
+      <link>/author/b-salzberger/</link>
+    </image>
+    
+    <item>
+      <title>[Epidemiology of SARS-CoV-2 infection and COVID-19].</title>
+      <link>/publication/32548652/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32548652/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[The outbreak of COVID-19 in China].</title>
+      <link>/publication/32548651/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32548651/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

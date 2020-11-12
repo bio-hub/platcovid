@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAC Liu, X Wang, C Liu, Q Sun, W Peng | PlatCOVID</title>
+    <link>/author/nac-liu-x-wang-c-liu-q-sun-w-peng/</link>
+      <atom:link href="/author/nac-liu-x-wang-c-liu-q-sun-w-peng/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAC Liu, X Wang, C Liu, Q Sun, W Peng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAC Liu, X Wang, C Liu, Q Sun, W Peng</title>
+      <link>/author/nac-liu-x-wang-c-liu-q-sun-w-peng/</link>
+    </image>
+    
+    <item>
+      <title>Differentiating novel coronavirus pneumonia from general pneumonia based on machine learning.</title>
+      <link>/publication/32814568/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32814568/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

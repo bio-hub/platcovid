@@ -33,7 +33,7 @@ Synonymous :dolutegravir
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;dolutegravir&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;dolutegravir&lt;/em&gt; gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,14 @@ From the virtual screening results, two drug molecules were selected for each dr
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The result showed that atazanavir, an antiretroviral medication used to treat and prevent the human immunodeficiency virus (HIV), is the best chemical compound, showing an inhibitory potency with &lt;i&gt;K&lt;sub&gt;d&lt;/sub&gt;&lt;/i&gt; of 94.94 nM against the SARS-CoV-2 3C-like proteinase, followed by remdesivir (113.13 nM), efavirenz (199.17 nM), ritonavir (204.05 nM), and dolutegravir (336.91 nM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32866436&#34; target=&#34;_blank&#34;&gt;32866436&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Herein we present the case of a 63-year-old HIV-infected woman with undetectable viral load, on dolutegravir, tenofovir and lamivudine, who was hospitalized due to COVID-19 pneumonia.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

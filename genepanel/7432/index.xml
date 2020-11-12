@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>FURIN</title>
+      <title>VIP</title>
       <link>/genepanel/7432/info/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/7432/info/</guid>
@@ -21,23 +21,23 @@
 
 
 &lt;hr /&gt;
-&lt;p&gt;furin, paired basic amino acid cleaving enzyme&lt;/p&gt;
+&lt;p&gt;vasoactive intestinal peptide&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/5045&#34; target=&#34;_blank&#34;&gt;5045&lt;/a&gt; | Type: Protein Coding |
-Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=5045&#34; target=&#34;_blank&#34;&gt; 15q26.1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/136950&#39; target=&#39;_blank&#39;&gt;136950&lt;/a&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/7432&#34; target=&#34;_blank&#34;&gt;7432&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=7432&#34; target=&#34;_blank&#34;&gt; 6q25.2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/192320&#39; target=&#39;_blank&#39;&gt;192320&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a member of the subtilisin-like proprotein convertase family, which includes proteases that process protein and peptide precursors trafficking through regulated or constitutive branches of the secretory pathway. It encodes a type 1 membrane bound protease that is expressed in many tissues, including neuroendocrine, liver, gut, and brain. The encoded protein undergoes an initial autocatalytic processing event in the ER and then sorts to the trans-Golgi network through endosomes where a second autocatalytic event takes place and the catalytic activity is acquired. The product of this gene is one of the seven basic amino acid-specific members which cleave their substrates at single or paired basic residues. Some of its substrates include proparathyroid hormone, transforming growth factor beta 1 precursor, proalbumin, pro-beta-secretase, membrane type-1 matrix metalloproteinase, beta subunit of pro-nerve growth factor and von Willebrand factor. It is thought to be one of the proteases responsible for the activation of HIV envelope glycoproteins gp160 and gp140, and may play a role in tumor progression. Unlike SARS-CoV and other coronaviruses, the spike protein of SARS-CoV-2 is thought to be uniquely cleaved by this protease. Alternative splicing results in multiple transcript variants. [provided by RefSeq, May 2020] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene belongs to the glucagon family. It stimulates myocardial contractility, causes vasodilation, increases glycogenolysis, lowers arterial blood pressure and relaxes the smooth muscle of trachea, stomach and gall bladder. The protein also acts as an antimicrobial peptide with antibacterial and antifungal activity. Alternative splicing occurs at this locus and two transcript variants encoding distinct isoforms have been identified. [provided by RefSeq, Nov 2014] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
     </item>
     
     <item>
-      <title>FURIN</title>
+      <title>VIP</title>
       <link>/genepanel/7432/gene_expression/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/7432/gene_expression/</guid>
@@ -46,13 +46,13 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/136950&#39; target=&#39;_blank&#39;
 
 
 &lt;hr /&gt;
-&lt;p&gt;furin, paired basic amino acid cleaving enzyme&lt;/p&gt;
+&lt;p&gt;vasoactive intestinal peptide&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Expression&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; FURIN expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;strong&gt;Table 1.&lt;/strong&gt; VIP expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -74,133 +74,49 @@ mRNA
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-cerebellum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-cerebral cortex
+colon
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 High
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.7
+71.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-hippocampus
+appendix
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-High
+Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-kidney
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-18.9
+209.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-pancreas
+bone marrow
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-High
+Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-parathyroid gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-30.5
+0.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-placenta
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-62.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-salivary gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-92.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-thyroid gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-54.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 breast
@@ -209,26 +125,12 @@ breast
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-11.4
+0.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-bronchus
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 caudate
@@ -242,122 +144,10 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-esophagus
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-22.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-fallopian tube
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-31.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-gallbladder
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-31.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-kidney
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-18.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-liver
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-50.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-lymph node
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-15.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-pancreas
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-21.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-placenta
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-62.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-soft tissue
+cerebellum
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
@@ -368,35 +158,175 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-spleen
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-37.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-testis
+cervix, uterine
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-10.4
+1.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+58.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 tonsil
@@ -405,40 +335,26 @@ tonsil
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-11.3
+0.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-appendix
+vagina
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
+Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-breast
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-11.4
+NA
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 cerebral cortex
@@ -447,26 +363,12 @@ cerebral cortex
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-24.7
+8.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-cervix, uterine
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-25.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 colon
@@ -475,12 +377,12 @@ colon
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.5
+71.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 endometrium
@@ -489,124 +391,12 @@ endometrium
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.3
+1.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-heart muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-17.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-lung
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-43.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-lymph node
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-15.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ovary
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-13.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-seminal vesicle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-26.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-skeletal muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-9.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-skin
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-30.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-smooth muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-21.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 spleen
@@ -615,54 +405,12 @@ spleen
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-37.0
+4.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-stomach
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-28.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-tonsil
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-11.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-urinary bladder
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-25.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 adrenal gland
@@ -671,12 +419,12 @@ adrenal gland
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-17.0
+15.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 appendix
@@ -685,26 +433,54 @@ appendix
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-52.1
+209.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-bone marrow
+breast
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-55.9
+0.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bronchus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebellum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 colon
@@ -713,26 +489,12 @@ colon
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-21.5
+71.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-duodenum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-28.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 endometrium
@@ -741,26 +503,68 @@ endometrium
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.3
+1.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-epididymis
+fallopian tube
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-16.4
+0.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 liver
@@ -769,12 +573,12 @@ liver
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-50.1
+0.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 nasopharynx
@@ -788,35 +592,35 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ovary
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-13.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-prostate
+pancreas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-48.5
+1.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 rectum
@@ -825,12 +629,26 @@ rectum
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-13.8
+68.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skeletal muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 small intestine
@@ -839,12 +657,26 @@ small intestine
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.3
+52.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 stomach
@@ -853,12 +685,12 @@ stomach
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-28.4
+1.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 testis
@@ -867,26 +699,54 @@ testis
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-10.4
+1.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-vagina
+thyroid gland
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-NA
+1.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000140564
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000146469
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 adipose tissue
@@ -895,7 +755,7 @@ adipose tissue
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-46.6
+1.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -905,7 +765,7 @@ NA
     </item>
     
     <item>
-      <title>FURIN</title>
+      <title>VIP</title>
       <link>/genepanel/7432/gene_context/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/7432/gene_context/</guid>
@@ -914,13 +774,13 @@ NA
 
 
 &lt;hr /&gt;
-&lt;p&gt;furin, paired basic amino acid cleaving enzyme&lt;/p&gt;
+&lt;p&gt;vasoactive intestinal peptide&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of FURIN gene in 24 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of VIP gene in 49 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -936,194 +796,394 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32057769&#34; target=&#34;_blank&#34;&gt;32057769&lt;/a&gt;
+&lt;a href=&#34;/publication/32268923&#34; target=&#34;_blank&#34;&gt;32268923&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Despite a high similarity with the genome sequence of SARS-CoV and SARS-like CoVs, we identified a peculiar furin-like cleavage site in the Spike protein of the 2019-nCoV, lacking in the other SARS-like CoVs.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32155444&#34; target=&#34;_blank&#34;&gt;32155444&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-We found that the SARS-CoV-2 S glycoprotein harbors a furin cleavage site at the boundary between the S&lt;sub&gt;1&lt;/sub&gt;/S&lt;sub&gt;2&lt;/sub&gt; subunits, which is processed during biogenesis and sets this virus apart from SARS-CoV and SARS-related CoVs.
+We will search electronic databases including PubMed, Embase, the Cochrane Central Register of Controlled Trials (CENTRAL), Chinese Biomedical Literature Database (CBM), China National Knowledge Infrastructure (CNKI), Chinese Science and Technology Periodical Database (VIP), and Wanfang database using keywords related to COVID-19 and traditional Chinese herbal medicine.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32197085&#34; target=&#34;_blank&#34;&gt;32197085&lt;/a&gt;
+&lt;a href=&#34;/publication/32281332&#34; target=&#34;_blank&#34;&gt;32281332&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Both Pangolin-CoV and RaTG13 lost the putative furin recognition sequence motif at S1/S2 cleavage site that can be observed in the SARS-CoV-2.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32216698&#34; target=&#34;_blank&#34;&gt;32216698&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Plasmin, and other proteases, may cleave a newly inserted furin site in the S protein of SARS-CoV-2, extracellularly, which increases its infectivity and virulence.
+In this paper, We collected and sorted the prescriptions of modern Chinese medicine for COVID-19 released by national government, different provinces, autonomous regions and municipalities, as well as online databases, such as CNKI, WanFang medical network, and VIP database.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32274964&#34; target=&#34;_blank&#34;&gt;32274964&lt;/a&gt;
+&lt;a href=&#34;/publication/32314805&#34; target=&#34;_blank&#34;&gt;32314805&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Angiotensin-converting enzyme-2 (ACE-2) is one of the most important receptors on the cell membrane of the host cells (HCs) which its interaction with spike protein (SP) with a furin-cleavage site results in the SARS-CoV-2 invasion. […] Hence, in this review, we presented an overview on the interaction of ACE-2 and furin with SP. […] As several kinds of CoVs, from various genera, have at their S1/S2 binding site a preserved site, we further surveyed the role of furin cleavage site (FCS) on the life cycle of the CoV. […] Furthermore, we discussed that the small molecular inhibitors can limit the interaction of ACE-2 and furin with SP and can be used as potential therapeutic platforms to combat the spreading CoV epidemic.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32275259&#34; target=&#34;_blank&#34;&gt;32275259&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-The presence of a furin-like cleavage site in SARS-CoV-2 facilitates the S protein priming and might increase the efficiency of the spread of SARS-CoV-2 as compared to other beta coronaviruses. […] So, furin inhibitors can be targeted as potential drug therapies for SARS-CoV.
+Our article comprehensively searched PubMed, FMRS, EMbase, CNKI, WanFang databases, and VIP databases to collect literatures about the CT imaging features of COVID-19 from 1 January to 16 March 2020.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32293910&#34; target=&#34;_blank&#34;&gt;32293910&lt;/a&gt;
+&lt;a href=&#34;/publication/32329275&#34; target=&#34;_blank&#34;&gt;32329275&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-The high infectivity of the SARS-CoV-2 virus is in part related to new mutations in the receptor binding domain, and acquisition of a furin cleavage site in the S spike protein.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32335456&#34; target=&#34;_blank&#34;&gt;32335456&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-While the binding to host cell receptor is the first step of infection, the entrance of the virus into the cell needs the cleavage of S1-S2 subunits to expose S2 for fusion to cell membrane via host proteases including cathepsins, cell surface transmembrane protease/serine (TMPRSS) proteases, furin, trypsin and factor Xa. […] We suppose that host cell proteases including furin (as expressed highly in lungs), factor Xa and cathepsin are possible targets to decrease viral burden, therefore unfractioned heparin and low molecular weight heparin-LMWH (specifically dalteparin and tinzaparin for their anti inflammatory action) can be potential inhibitors of multiple endoproteases involved in virus infectivity.
+The SARS-CoV-2 related terms were selected in both English and Chinese and were searched in several major databases, including Pubmed, Web of Science, CNKI, Wanfang, and VIP databases. […] 用新型冠状病毒肺炎（简称新冠肺炎）相关的中英文检索词在 Pubmed、Web of Science、CNKI、万方数据库、维普数据库（VIP database）中进行检索并补充相关专栏文献，对纳入研究的基本信息进行分布描述并对各研究主题的文献进行梳理和总结。
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32343593&#34; target=&#34;_blank&#34;&gt;32343593&lt;/a&gt;
+&lt;a href=&#34;/publication/32354293&#34; target=&#34;_blank&#34;&gt;32354293&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Finally, the small bowel is rich in furin, a serine protease which can separate the S-spike of the coronavirus into two “pinchers” (S1 and 2).
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32362314&#34; target=&#34;_blank&#34;&gt;32362314&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Here, we report that the cellular protease furin cleaves the spike protein at the S1/S2 site and that cleavage is essential for S-protein-mediated cell-cell fusion and entry into human lung cells. […] Our results suggest that acquisition of a S1/S2 multibasic cleavage site was essential for SARS-CoV-2 infection of humans and identify furin as a potential target for therapeutic intervention.
+&lt;b&gt;Objective:&lt;/b&gt; To summarize currently available evidence on maternal, fetal, and neonatal outcomes of pregnant women infected with Coronavirus Disease 2019 (COVID-19).&lt;b&gt;Material and methods:&lt;/b&gt; PubMed, Google Scholar, CNKI, Wanfang Data, VIP, and CBMdisc were searched for studies reporting maternal, fetal, and neonatal outcomes of women infected with COVID-19 published from 1 January 2020 to 26 March 2020.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32376634&#34; target=&#34;_blank&#34;&gt;32376634&lt;/a&gt;
+&lt;a href=&#34;/publication/32360583&#34; target=&#34;_blank&#34;&gt;32360583&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Third, unlike SARS-CoV, cell entry of SARS-CoV-2 is preactivated by proprotein convertase furin, reducing its dependence on target cell proteases for entry. […] The high hACE2 binding affinity of the RBD, furin preactivation of the spike, and hidden RBD in the spike potentially allow SARS-CoV-2 to maintain efficient cell entry while evading immune surveillance.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32376714&#34; target=&#34;_blank&#34;&gt;32376714&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-The spike protein contains an addition furin cleavage site that may allow it to be ‘preactivated’ and highly infectious after replication.
+We searched PubMed, EMBASE, Cochrane Library, China National Knowledge Infrastructure (CNKI), China Science and Technology Journal Database (VIP), and WANFANG DATA for randomized controlled trials (RCTs), prospective cohort, and retrospective cohort studies that evaluated therapies (hydroxychloroquine, lopinavir/ritonavir-based therapy, and ribavirin-based therapy, etc.) for SARS, MERS, and COVID-19.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32450087&#34; target=&#34;_blank&#34;&gt;32450087&lt;/a&gt;
+&lt;a href=&#34;/publication/32403209&#34; target=&#34;_blank&#34;&gt;32403209&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-We have therefore explored ACE2 receptor mRNA expression, and co-factors for Sars-CoV-2 infectivity (TMPRSS2 and furin) in bronchial brushes and biopsies from people with asthma and healthy controls, and looked for relationships between asthma severity, Th2- and IL-17 dependent gene signatures, and clinical demographics (age, sex). […] These data suggest that differences in ACE2, TMPRSS2 and furin epithelial and airway gene expression are unlikely to confer enhanced COVID-19 pneumonia risk in patients with asthma across all treatment intensities and severity.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32452762&#34; target=&#34;_blank&#34;&gt;32452762&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-We report that SARS-CoV-2 has evolved a unique S1/S2 cleavage site, absent in any previous coronavirus sequenced, resulting in striking mimicry of an identical FURIN-cleavable peptide on the human epithelial sodium channel α-subunit (ENaC-α). […] Genetic alteration of ENaC-α causes aldosterone dysregulation in patients, highlighting that the FURIN site is critical for activation of ENaC.
+CNKI, VIP, WanFang Data, SinoMed, PubMed, Cochrane, EMBASE, MEDLINE, Scopus, Google Scholar and other databases were searched to collect literature on the anxiety status of Chinese medical workers during the epidemic of COVID-19.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32455629&#34; target=&#34;_blank&#34;&gt;32455629&lt;/a&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32473312&#34; target=&#34;_blank&#34;&gt;32473312&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Genes required for SARS-CoV-2 entry into human cells, ACE2 and FURIN, were employed as baits to build genomic-guided molecular maps of upstream regulatory elements, their expression and functions in the human body, and pathophysiologically relevant cell types. […] Repressors and activators of the ACE2 and FURIN genes were identified based on the analyses of gene silencing and overexpression experiments as well as relevant transgenic mouse models. […] Of major concern is the ACE2 and FURIN expression in many human cells and tissues, including immune cells, suggesting that SARS-CoV-2 may infect a broad range of cellular targets in the human body. […] Immediate availability for targeted experimental and clinical interrogations of potential COVID-19 pandemic mitigation agents, namely vitamin D and quercetin, as well as of the highly selective (Ki, 600 pm) intrinsically specific FURIN inhibitor (a1-antitrypsin Portland (a1-PDX), is considered an encouraging factor.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32492203&#34; target=&#34;_blank&#34;&gt;32492203&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Genetic confirmation of the hypotheses regarding gene expression and mutation pattern of target genes, including angiotensin-converting enzyme-2 (ACE2), transmembrane serine protease 2 (TMPRSS2), basigin (CD147/BSG) and paired basic amino acid cleaving enzyme (FURIN/PCSK3), as well as correlation analysis, was done in relation to lung adenocarcinoma (LUAD) and lung squamous carcinoma (LUSC) using in silico analysis. […] The total genetic anomaly carrying rate of target genes, including ACE2, TMPRSS2, CD147/BSG, and FURIN/PCSK3, was determined as 8.1% and 21 mutations were detected, with 7 of these mutations having pathogenic features. p.H34N on the RBD binding residues for SARS-CoV-2 was determined in our LUAD patient group. […] There were no meaningful differences in the expression of CD147 and FURIN genes.
+Relevant articles were retrieved from PubMed, Web of Science, ScienceDirect, Cochrane Library, and Chinese National Knowledge Infrastructure (CNKI), VIP (Chinese) database.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32512290&#34; target=&#34;_blank&#34;&gt;32512290&lt;/a&gt;
+&lt;a href=&#34;/publication/32481460&#34; target=&#34;_blank&#34;&gt;32481460&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Recently, a mini-review was published in the Medical Hypotheses journal by Usul Afsar entitled 2019-nCoV-SARS-CoV-2 (COVID-19) infection: Cruciality of Furin and relevance with cancer. […] Interestingly, the FURIN, one of the proproteins of the convertase family, plays a crucial role in the maturation of viral glycoproteins. […] In addition, many viruses including coronaviruses, exploit FURIN for the activation of their glycoproteins. […] Subsequently, the S protein is cleaved by transmembrane protease serine 2 with the help of FURIN which facilitates the entry of the virus into the cell after binding. […] Furthermore, it seems that FURIN is implicated in the pathogenesis of SARS-CoV-2 and potentially in the increased rates of human-to-human transmission.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32512386&#34; target=&#34;_blank&#34;&gt;32512386&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Notably, this insert appears to be a distinguishing feature among SARS-related sequences and introduces a potential cleavage site for the protease furin.
+We will search the studies in MEDLINE/PubMed, China National Knowledge Infrastructure, Wanfang database, VIP database, the Cochrane Library, Chinese Biomedical Database and Chinese Science Citation Database.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32543348&#34; target=&#34;_blank&#34;&gt;32543348&lt;/a&gt;
+&lt;a href=&#34;/publication/32493740&#34; target=&#34;_blank&#34;&gt;32493740&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-The prediction of the Furin cleavage site (FCS) and sequence alignment of the virus family indicated that the FCS may be an important site of coronavirus evolution. […] ZJ01 mutations identified near the FCS (F1-2) caused changes in the structure and electrostatic distribution of the S surface protein, further affecting the binding capacity of Furin. […] Single-cell sequencing and ACE2-Furin co-expression results confirmed that the Furin expression was higher in the whole body, especially in glands, liver, kidneys, and colon.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32562913&#34; target=&#34;_blank&#34;&gt;32562913&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-As it is evident from the recent studies that SARS-CoV-2 requires host enzyme Furin to activate receptor binding domain of its S protein and host Angiotensin Convertase Enzyme 2 (ACE2) is required as binding receptor, facilitating the entry of virus into the host cell. […] Evidence from literature shows that oral cancer tissues as well as paracarcinoma tissue exhibit higher expression of both Furin and ACE2, giving rise to the hypothesis that patients with oral cancer have higher chances of SARS CoV2 infection.
+We searched MEDLINE, Embase, Cochrane Central Register of Controlled Trials (CENTRAL), PubMed and 3 Chinese databases (CNKI, WANFANG and SinoMed) through Apr. 19, medRxiv and Chinaxiv through Apr. 27, and Chongqing VIP through Apr. […] We included studies of ribavirin, chloroquine, hydroxychloroquine, umifenovir (arbidol), favipravir, interferon and lopinavir/ritonavir.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32568027&#34; target=&#34;_blank&#34;&gt;32568027&lt;/a&gt;
+&lt;a href=&#34;/publication/32527348&#34; target=&#34;_blank&#34;&gt;32527348&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-These mutations change or delete a putative furin-like cleavage site in the region connecting the S1 and S2 domains and result in a very prominent phenotypic change in plaque assays.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32571797&#34; target=&#34;_blank&#34;&gt;32571797&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-SARS-CoV-2 has two unique features in its spike protein, the receptor binding domain and an insertion of twelve nucleotides at the S1/S2 boundary resulting a furin-like cleavage site. […] Here, we identified two deletion variants of SARS-CoV-2 that either directly affect the furin-like cleavage site itself (NSPRRAR) or a flanking sequence (QTQTN) and investigated these deletions in cell isolates and clinical samples.
+Clinical studies of convalescent plasma and immunoglobulin in the treatment of SARS were collected from a variety of databases such as PubMed, Cochrane Library, Web of Science, Embase, CNKI, VIP, Wanfang, and CBM from November 2002 to March 2020.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32574272&#34; target=&#34;_blank&#34;&gt;32574272&lt;/a&gt;
+&lt;a href=&#34;/publication/32541475&#34; target=&#34;_blank&#34;&gt;32541475&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Host proteases, e.g., cathepsins, furin, or members of the type II transmembrane serine proteases (TTSP) family, such as Transmembrane protease serine 2 (TMPRSS2), are involved in virus entry by proteolytically activating virus ligands.
+We are going to search the electronic databases: PubMed, EMBASE, Cochrane library, Web of Science (WOS), Google scholar, China National Knowledge Infrastructure (CNKI), Chinese Biomedical literature Database (CBM), Chinese Scientific and Journal Database (VIP), Wan Fang database (Wanfang) for published clinical trails and search clinical trials register platforms of Chinese Clinical Trial Registry (ChiCTR) and ClinicalTrials.gov (www.ClinicalTrials.gov/) for ongoing trials of Jinhua Qinggan granule for COVID-19.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32591666&#34; target=&#34;_blank&#34;&gt;32591666&lt;/a&gt;
+&lt;a href=&#34;/publication/32541495&#34; target=&#34;_blank&#34;&gt;32541495&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Furin was suggested as another protein which makes the tongue more vulnerable to 2019-nCoV, especially in conditions inducing its upregulation (for example, squamous cell carcinoma).
+Retrieved the database, including the China National Knowledge Infrastructure (CNKI), Chinese Biomedical literature Database (CBM), Chinese Scientific and Journal Database (VIP), Wan Fang database, PubMed, and EMBASE.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32541496&#34; target=&#34;_blank&#34;&gt;32541496&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Six electronic databases including PubMed, EMBASE, Cochrane Library, China National Knowledge Infrastructure, Chongqing VIP, and SinoMed will be searched to identify randomized controlled trials up to May 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32569196&#34; target=&#34;_blank&#34;&gt;32569196&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We will search the following sources for the identification of trials: The Cochrane Library, PubMed, EMBASE, Chinese Biomedical Literature Database (CBM), Chinese National Knowledge Infrastructure Database (CNKI), Chinese Science and Technique Journals Database (VIP), and the Wanfang Database.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32629686&#34; target=&#34;_blank&#34;&gt;32629686&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The databases of PubMed, the Cochrane Library, EMBASE, Wanfang Data, China National Knowledge Infrastructure database (CNKI) and VIP were searched by computer, and the researches related to diabetes mellitus and mortality of COVID-19 were collected.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32664113&#34; target=&#34;_blank&#34;&gt;32664113&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nine electronic databases: PubMed, EMBASE, Cochrane library, Web of Science (WOS), Google Scholar, China National Knowledge Infrastructure (CNKI), Chinese Biomedical Literature Database (CBM), Chinese Scientific and Journal Database (VIP), Wan Fang database (Wanfang) and 2 clinical trials register platforms: Chinese Clinical Trial Registry (ChiCTR), ClinicalTrials.gov (www.ClinicalTrials.gov/) will be searched for RCTs of A&amp;amp;M for COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32702822&#34; target=&#34;_blank&#34;&gt;32702822&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ten databases including PubMed, EMBASE, Cochrane Library, CIHAHL, Web of Science, Chinese National Knowledge Infrastructure (CNKI), Chinese Scientific Journals Database (VIP), Wanfang database, China Biomedical Literature Database (CBM) and Chinese Biomedical Literature Service System (SinoMed) will be searched.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32706396&#34; target=&#34;_blank&#34;&gt;32706396&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+An electronic search in PubMed, EMbase, Web of Science, Scopus, CNKI, WanFang Data, and VIP databases to identify studies describing the blood coagulation features of COVID-19 patients from 1 January 2020 to 21 April 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32710250&#34; target=&#34;_blank&#34;&gt;32710250&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PubMed, Embase, Cochrane Library, China National Knowledge Infrastructure (CNKI), VIP, and Wanfang databases were searched.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32756089&#34; target=&#34;_blank&#34;&gt;32756089&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The literature search will involve Cochran library, Web of science, PubMed, MEDLINE, Embase, China Biology Medicine Database, China National Knowledge Infrastructure Database, VIP, Wang Fang database, and China Clinical Trial Registration Center for articles and research published form December 2019.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32756114&#34; target=&#34;_blank&#34;&gt;32756114&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We will search 3 foreign electronic databases (Cochrane Library, Embase, PubMed) and 4 Chinese electronic databases (China National Knowledge Infrastructure [CNKI], WangFang Database, Chinese Biomedical Literature Database [CBM], and Chinese Scientific Journal Database [VIP]) to collect potential systematic reviews from their inceptions to February 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32769874&#34; target=&#34;_blank&#34;&gt;32769874&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The following electronic databases will be searched from inception to April 2020: MEDLINE, Ovid, EMBASE, the Cochrane Library, the Allied and Complementary Medicine Database, Chinese National Knowledge Infrastructure, Chinese Biomedical Literature Database, VIP Database and Wanfang Database.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32769921&#34; target=&#34;_blank&#34;&gt;32769921&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to the retrieval strategies, randomized controlled trials (RCTs) on the Shufeng Jiedu capsule for COVID-19 were obtained from CNKI, WanFang, VIP, PubMed, Embase and Cochrane Library, regardless of publication date, or language.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32769922&#34; target=&#34;_blank&#34;&gt;32769922&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We will search the following eight databases: Cochrane Library, PubMed, Embase, Medline, CNKI, Wanfang, VIP, and CBM.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32791675&#34; target=&#34;_blank&#34;&gt;32791675&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We will search electronic database of PubMed, EMBASE, Cochrane library, Web of Science (WOS), China National Knowledge Infrastructure (CNKI), Chinese Biomedical Literature Database (CBM), Chinese Scientific and Journal Database (VIP) and Wan Fang database (Wanfang) for the literature of RCTs of Lianhua Qingwen capsule for coronavirus disease 2019 (COVID-19).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32791699&#34; target=&#34;_blank&#34;&gt;32791699&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We will search Cochran library, MEDLINE, EMBASE, China National Knowledge Infrastructure Database (CNKI), China Biomedical Database (CBM), VIP Database (VIP), and Wanfang database for research.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32791700&#34; target=&#34;_blank&#34;&gt;32791700&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We will conduct a systematic review and meta-analysis in Chinese National Knowledge Infrastructure, WANFANG Database, and the VIP Database for Chinese Technical Periodicals, Web of Science, PubMed, EMBASE, the Cochrane Library, EBSCO host, ProQuest, ProQuest Dissertations &amp;amp; Theses A&amp;amp;I, SAGE Journals, ScienceDirect, JSTOR, and Scopus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32791725&#34; target=&#34;_blank&#34;&gt;32791725&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The following electronic databases will be searched from inception to Sep 2020: the Cochrane Central Register of Controlled Trials (CENTRAL), PubMed, EMBASE, Web of Science, TCM, China National Knowledge Infrastructure, Chinese Biomedical Literature Database, Chinese Scientific Journal Database (VIP database), and Wan-Fang Database.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32791753&#34; target=&#34;_blank&#34;&gt;32791753&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The retrieval database will include the Cochrane Library, PubMed, Embase, OVID, CNKI, Wanfang, VIP, CBM, etc.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32791754&#34; target=&#34;_blank&#34;&gt;32791754&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The following electronic bibliographic databases will be searched to identify relevant studies: CNKI, CBM, VIP and Wanfang databases, PubMed, EMBASE, MEDLINE, Cochrane central, and clinical trial registration centers, such as China Clinical Trial Registration Center (ChiCTR), Netherlands National Trial Registration Center (NTR) and clinical trials.gov.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32838021&#34; target=&#34;_blank&#34;&gt;32838021&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Variable Importance of Projection (VIP) through Partial Least Square (PLS) technique signified higher importance of SR, T, R and AET.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32846842&#34; target=&#34;_blank&#34;&gt;32846842&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The following electronic bibliographic databases will be searched to identify relevant studies from December 2019 to December 2020: MEDLINE, PubMed, Embase, Cochrane library, Web of Science, China National Knowledge Infrastructure (CNKI), Chinese Technical Periodicals (VIP), Wan-fang data, Chinese Biological Medicine Database (CBM), and other databases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32850990&#34; target=&#34;_blank&#34;&gt;32850990&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Method: English-language databases (PubMed, Embase, Cochrane), Chinese-language databases (CNKI, VIP, WANFANG), and preprint platforms were searched to identify studies with data of VTE occurrence in hospitalized COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32871880&#34; target=&#34;_blank&#34;&gt;32871880&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The following electronic databases will be searched from inception to April 2020: MEDLINE, Ovid, EMBASE, the Cochrane Library, the Allied and Complementary Medicine Database (AMED), Chinese National Knowledge Infrastructure (CNKI), Chinese Biomedical Literature Database (CBM), VIP Database and Wanfang Database.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32899010&#34; target=&#34;_blank&#34;&gt;32899010&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chinese literature comes from CNKI, Wanfang, VIP, CBM databases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32899063&#34; target=&#34;_blank&#34;&gt;32899063&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The English literature mainly searches Cochrane Library, PubMed, EMBASE, and Web of Science, while the Chinese literature comes from CNKI, CBM, VIP, and Wangfang database.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32915877&#34; target=&#34;_blank&#34;&gt;32915877&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We searched seven databases and retrieved the Chinese Journal Full-text Database (CNKI), Vip Database (VIP), China Biomedicine (SinoMed), Wanfang Database and PubMed, Cochrane Central, EMBASE from October 2019 to May 2020 Literature references.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32925737&#34; target=&#34;_blank&#34;&gt;32925737&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Chinese literature comes from CNKI, Wanfang, VIP, CBM databases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32925756&#34; target=&#34;_blank&#34;&gt;32925756&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The following electronic databases will be searched, with all relevant randomized controlled trials (RCTs) up to August 2020 to be included: PubMed, Embase, Web of Science, the Cochrane Library, China National Knowledge Infrastructure (CNKI), the Chongqing VIP China Science and Technology Database (VIP), Wanfang, the Technology Periodical Database, and the Chinese Biomedical Literature Database (CBM).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32925789&#34; target=&#34;_blank&#34;&gt;32925789&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We will search the following sources for the identification of trials: The Cochrane Library, PubMed, EMBASE, Chinese Biomedical Literature Database (CBM), Chinese National Knowledge Infrastructure Database (CNKI), Chinese Science and Technique Journals Database (VIP), and the Wanfang Database.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32957323&#34; target=&#34;_blank&#34;&gt;32957323&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Use computer to retrieve English database (PubMed, Embase, Web of Science, the Cochrane Library) and Chinese database (China Knowledge Network (CNKI), Wanfang Database, VIP Information Chinese Journal Service Platform (VIP), Chinese Biomedical Database).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32957342&#34; target=&#34;_blank&#34;&gt;32957342&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Electronic databases of Medline, EMBASE, Cochrane Library, China National Knowledge Infrastructure (CNKI), Chinese Biomedical literature Database (CBM), Chinese Scientific and Journal Database (VIP), and Wan Fang database (Wanfang) will be searched for randomized controlled trials of acupuncture for anxiety disorder of COVID-19 from inception of the database to August 10, 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32957366&#34; target=&#34;_blank&#34;&gt;32957366&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two independent reviewers will conduct comprehensively searches in PubMed, EMBASE.com, Web of Science, the Cochrane Library, Chinese biomedical literature database (CBM), Chinese National Knowledge Infrastructure (CNKI), Wan fang Database, Chongqing VIP (CQVIP).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32968623&#34; target=&#34;_blank&#34;&gt;32968623&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+English-language databases (PubMed, Embase, Cochrane), Chinese-language databases (CNKI, VIP, WANFANG), and preprint platform were searched to identify studies that reported the myocardial injury data in COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33013397&#34; target=&#34;_blank&#34;&gt;33013397&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Clinical randomized controlled trials, clinical control trials and case series research involving the use of Chinese medicine for novel coronavirus pneumonia treatment were selected from PubMed, Chinese Journal Service Platform of CNKI, VIP, and WanFang Data Knowledge Service Platform from the establishment of the library to 11:00 am on April 15, 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33013412&#34; target=&#34;_blank&#34;&gt;33013412&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The PubMed, Cochrane Library, EMBASE, Web of Science, China National Knowledge Infrastructure (CNKI), Wanfang, and China Science and Technology Journal (VIP) databases were searched for studies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33031311&#34; target=&#34;_blank&#34;&gt;33031311&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Electronic databases include CNKI, Wanfang, VIP, CBM database, Cochrane Library, PubMed, Web of Science, EMBASE, etc.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33031341&#34; target=&#34;_blank&#34;&gt;33031341&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The following electronic databases will be searched from December 2019 to December 2020: MEDLINE, PubMed, EMBASE, Web of Science, China National Knowledge Infrastructure (CNKI), Wan-fang database, Chinese Scientific Journal Database (VIP), Chinese Biomedical Literature Databases (CBM), and other databases.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -1134,7 +1194,7 @@ Furin was suggested as another protein which makes the tongue more vulnerable to
     </item>
     
     <item>
-      <title>FURIN</title>
+      <title>VIP</title>
       <link>/genepanel/7432/clinvar/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/7432/clinvar/</guid>
@@ -1142,7 +1202,7 @@ Furin was suggested as another protein which makes the tongue more vulnerable to
 
 
 &lt;hr /&gt;
-&lt;p&gt;furin, paired basic amino acid cleaving enzyme&lt;/p&gt;
+&lt;p&gt;vasoactive intestinal peptide&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;ClinVar Summary&lt;/h2&gt;
@@ -1156,7 +1216,7 @@ Under development
     </item>
     
     <item>
-      <title>FURIN</title>
+      <title>VIP</title>
       <link>/genepanel/7432/geo/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/7432/geo/</guid>
@@ -1164,7 +1224,7 @@ Under development
 
 
 &lt;hr /&gt;
-&lt;p&gt;furin, paired basic amino acid cleaving enzyme&lt;/p&gt;
+&lt;p&gt;vasoactive intestinal peptide&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;GEO dataset Summary&lt;/h2&gt;

@@ -33,7 +33,7 @@ Synonymous :iodide ion
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;iodide&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;iodide&lt;/em&gt; gene in 1 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Zinc Iodide and Dimethyl Sulfoxide compositions are proposed as therapeutic agents to treat and prevent chronic and acute viral infections including SARS-CoV-2 infected patients. […] Given the fact that Zinc Iodide has been used as an oral antiseptic agent and DMSO has been already proven as a safe pharmaceutical solvent and therapeutic agent, we hypothesize that the combination of these two agents can be applied as an effective, safe and inexpensive treatment for SARS-CoV-2 and other viral infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32910458&#34; target=&#34;_blank&#34;&gt;32910458&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Peripheral blood mononuclear cells were isolated from all samples and the apoptosis pattern was evaluated using Annexin V/propidium iodide method.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

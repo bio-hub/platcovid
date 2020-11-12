@@ -33,7 +33,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;leptin&lt;/em&gt; gene in 10 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;leptin&lt;/em&gt; gene in 14 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,70 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The relations among immune system parameters, leptin, leptin receptor, adenosin mono phosphate-activated protein kinase, peroxisome proliferator activated receptor-gamma have also been interpreted. […] Leptin’s role in boosting proinflammatory cytokines and in appetite decreasing suggest the possible beneficial effect of decreasing the concentration of this proinflammatory adipose tissue hormone in relieving some symptoms detected during COVID-19 infection. […] In conclusion, Allium sativum may be an acceptable preventive measure against COVID-19 infection to boost immune system cells and to repress the production and secretion of proinflammatory cytokines as well as an adipose tissue derived hormone leptin having the proinflammatory nature.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32647360&#34; target=&#34;_blank&#34;&gt;32647360&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Elevated circulating leptin concentrations are a hallmark of obesity, which is associated with a leptin-resistant state. […] Leptin is secreted by adipocytes in proportion to body fat and regulates appetite and metabolism through signaling in the hypothalamus. […] However, leptin also signals through the Jak/STAT and Akt pathways, among others, to modulate T cell number and function. […] Thus, leptin connects metabolism with the immune response. […] We propose that leptin may be the link between obesity and its high prevalence as a comorbidity of the SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32779790&#34; target=&#34;_blank&#34;&gt;32779790&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Further, adipocyte secretion of leptin is pro-inflammatory and high circulating levels of leptin have been associated with mortality in patients with acute respiratory distress syndrome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32837031&#34; target=&#34;_blank&#34;&gt;32837031&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High baseline C-Reactive Protein, interleukin 6, hyperleptinemia with Leptin resistance and hypoadiponectinemia associated with obesity explains the preexisting inflammatory state in obese individuals which predisposes them to worse outcomes and fatality.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32844126&#34; target=&#34;_blank&#34;&gt;32844126&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Leptin produced in visceral fat might play a role in the deterioration to mechanical ventilation. […] SARS-CoV-2 infected patients with a similar BMI as control patients appear to have significantly higher levels of serum leptin. […] The mean leptin level was 21.2 (6.0-85.2) vs 5.6 (2.4-8.2) ug/L for SARS-CoV-2 and controls respectively (p = 0.0007). […] This might be enhanced by an increase in leptin production induced by SARS-CoV-2 infection of visceral fat. […] Leptin receptors in the lungs are now more activated to enhance local pulmonary inflammation. […] Visceral fat, lung tissue and leptin production play an interconnecting role.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32941186&#34; target=&#34;_blank&#34;&gt;32941186&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The recently discovered relationship between vitamin D and the infection pathway of the virus via the renin–angiotensin system (RAS) and the adipokines leptin and adiponectin play an important role.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32969629&#34; target=&#34;_blank&#34;&gt;32969629&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Many evidences suggest an important role of adipose tissue in the production of pro-inflammatory cytokines (Leptin, adiponectin, TNFα, IL-6, MCP-1, PAI-1), involved in the pathogenesis and the exacerbations of these skin diseases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32995660&#34; target=&#34;_blank&#34;&gt;32995660&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, this study underlines the use of immune modulators such as Leptin sensitizers, rather than immune suppressors as anti-inflammation therapies to switch the inflammatory response from a drastic immunological type 1 response to a beneficial type 2 effective one.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33045426&#34; target=&#34;_blank&#34;&gt;33045426&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Impaired adipocyte-mediated immune function results in chronically high leptin levels and low adiponectin levels and anti-inflammatory adipokines.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

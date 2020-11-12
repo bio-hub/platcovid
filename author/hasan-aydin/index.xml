@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hasan Aydin | PlatCOVID</title>
+    <link>/author/hasan-aydin/</link>
+      <atom:link href="/author/hasan-aydin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hasan Aydin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Hasan Aydin</title>
+      <link>/author/hasan-aydin/</link>
+    </image>
+    
+    <item>
+      <title>Personal prophylaxis against COVID-19: A compilation of evidence based recommendations.</title>
+      <link>/publication/32515370/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32515370/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

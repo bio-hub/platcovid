@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stacy Loeb | PlatCOVID</title>
+    <link>/author/stacy-loeb/</link>
+      <atom:link href="/author/stacy-loeb/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stacy Loeb</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Stacy Loeb</title>
+      <link>/author/stacy-loeb/</link>
+    </image>
+    
+    <item>
+      <title>A Global Survey on the Impact of COVID-19 on Urological Services.</title>
+      <link>/publication/32507625/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32507625/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematic Review on Guidelines and Recommendations for Urology Standard of Care During the COVID-19 Pandemic.</title>
+      <link>/publication/32532703/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32532703/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

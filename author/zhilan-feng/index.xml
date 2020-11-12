@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhilan Feng | PlatCOVID</title>
+    <link>/author/zhilan-feng/</link>
+      <atom:link href="/author/zhilan-feng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhilan Feng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhilan Feng</title>
+      <link>/author/zhilan-feng/</link>
+    </image>
+    
+    <item>
+      <title>Staggered release policies for COVID-19 control: Costs and benefits of relaxing restrictions by age and risk.</title>
+      <link>/publication/32565231/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32565231/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

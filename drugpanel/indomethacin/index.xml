@@ -33,7 +33,7 @@ Synonymous :{1-[(4-chlorophenyl)carbonyl]-5-methoxy-2-methyl-1h-indol-3-yl}aceti
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;indomethacin&lt;/em&gt; gene in 6 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;indomethacin&lt;/em&gt; gene in 7 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,22 @@ Among them, indomethacin, an anti-inflammatory drug, was shown to have potent in
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Some of these drugs -particularly azithromycin and other macrolides, indomethacin and some other non-steroidal anti-inflammatory drugs, proton pump inhibitors and fluoxetine - could provide additional therapeutic benefits in addition to the potential antiviral effect that is still to be confirmed by well-controlled clinical trials.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32412158&#34; target=&#34;_blank&#34;&gt;32412158&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two potential anti-inflammatory agents include indomethacin, which has been shown in experimental models to decrease canine coronavirus levels in dogs and exhibit antiviral activity against several other viruses and the polyphenol, resveratrol, a potent antioxidant that has shown antiviral activity against several viruses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32654489&#34; target=&#34;_blank&#34;&gt;32654489&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using Amazon’s AWS computing resources and a network-based, deep-learning framework, we identified 41 repurposable drugs (including dexamethasone, indomethacin, niclosamide, and toremifene) whose therapeutic associations with COVID-19 were validated by transcriptomic and proteomics data in SARS-CoV-2-infected human cells and data from ongoing clinical trials.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

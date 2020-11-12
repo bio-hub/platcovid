@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Correa-Basurto José | PlatCOVID</title>
+    <link>/author/correa-basurto-jose/</link>
+      <atom:link href="/author/correa-basurto-jose/index.xml" rel="self" type="application/rss+xml" />
+    <description>Correa-Basurto José</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Correa-Basurto José</title>
+      <link>/author/correa-basurto-jose/</link>
+    </image>
+    
+    <item>
+      <title>Immunoinformatics study to search epitopes of spike glycoprotein from SARS-CoV-2 as potential vaccine.</title>
+      <link>/publication/32583729/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32583729/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

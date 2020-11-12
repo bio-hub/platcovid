@@ -5,12 +5,28 @@
     <link>/author/kin-hang-kok/</link>
       <atom:link href="/author/kin-hang-kok/index.xml" rel="self" type="application/rss+xml" />
     <description>Kin-Hang Kok</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Kin-Hang Kok</title>
       <link>/author/kin-hang-kok/</link>
     </image>
+    
+    <item>
+      <title>SARS-CoV-2 nsp13, nsp14, nsp15 and orf6 function as potent interferon antagonists.</title>
+      <link>/publication/32529952/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32529952/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of nsp1 gene as the target of SARS-CoV-2 real-time RT-PCR using nanopore whole-genome sequencing.</title>
+      <link>/publication/32501535/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32501535/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparative replication and immune activation profiles of SARS-CoV-2 and SARS-CoV in human lungs: an ex vivo study with implications for the pathogenesis of COVID-19.</title>

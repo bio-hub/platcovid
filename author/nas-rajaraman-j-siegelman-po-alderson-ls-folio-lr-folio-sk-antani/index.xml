@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAS Rajaraman, J Siegelman, PO Alderson, LS Folio, LR Folio, SK Antani | PlatCOVID</title>
+    <link>/author/nas-rajaraman-j-siegelman-po-alderson-ls-folio-lr-folio-sk-antani/</link>
+      <atom:link href="/author/nas-rajaraman-j-siegelman-po-alderson-ls-folio-lr-folio-sk-antani/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAS Rajaraman, J Siegelman, PO Alderson, LS Folio, LR Folio, SK Antani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAS Rajaraman, J Siegelman, PO Alderson, LS Folio, LR Folio, SK Antani</title>
+      <link>/author/nas-rajaraman-j-siegelman-po-alderson-ls-folio-lr-folio-sk-antani/</link>
+    </image>
+    
+    <item>
+      <title>Iteratively Pruned Deep Learning Ensembles for COVID-19 Detection in Chest X-rays.</title>
+      <link>/publication/32742893/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32742893/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

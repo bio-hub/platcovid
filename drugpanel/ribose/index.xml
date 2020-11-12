@@ -33,7 +33,7 @@ Synonymous :aldehydo-d-ribose | d-ribo-2,3,4,5-tetrahydroxyvaleraldehyde | d-rib
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ribose&lt;/em&gt; gene in 3 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ribose&lt;/em&gt; gene in 7 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -93,6 +93,118 @@ For coronaviruses, RNA cap structure is first methylated at guanine N-7 (G-N-7) 
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Although 26% of the amino acids in this SARS-CoV-2 macrodomain differ from those observed in other coronaviruses, biochemical and structural data reveal that the protein retains the ability to bind ADP-ribose, which is an important characteristic of beta coronaviruses and a potential therapeutic target.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32640172&#34; target=&#34;_blank&#34;&gt;32640172&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Poly(ADP-ribose) polymerase 1 (PARP1), the major isoform of a family of ADP-ribosylating enzymes, has been implicated in the regulation of various biological processes including DNA repair, gene transcription and cell death.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32686993&#34; target=&#34;_blank&#34;&gt;32686993&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among the predicted drugs compounds, clemizole, monorden, spironolactone and tanespimycin showed high binding energies; among the studied repurposing compounds, remdesivir, simeprevir and valinomycin showed high binding energies; among the predicted acidic compounds, acetylursolic acid and hardwickiic acid gave high binding energies; while among the studied anthraquinones and glycosides compounds, ellagitannin and friedelanone showed high binding energies against 3-Chymotrypsin-like protease (3CLpro), Papain-like protease (PLpro), helicase (nsp13), RNA-dependent RNA polymerase (nsp12), 2’-O-ribose methyltransferase (nsp16) of SARS-CoV-2 and DNA-PK and CK2alpha in human.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32709886&#34; target=&#34;_blank&#34;&gt;32709886&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The nsp16/nsp10 heterodimer is captured in the act of 2’-O methylation of the ribose sugar of the first nucleotide of SARS-CoV-2 mRNA.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32741322&#34; target=&#34;_blank&#34;&gt;32741322&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NSP16 is a methyltransferase that methylates the ribose 2’-O position of the viral nucleotide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32790379&#34; target=&#34;_blank&#34;&gt;32790379&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this article, we predict the folding initiation events of the ribose phosphatase domain of protein Nsp3 and the receptor binding domain of the spike protein from the severe acute respiratory syndrome (SARS) coronavirus-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32803496&#34; target=&#34;_blank&#34;&gt;32803496&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+They most likely remove ADP-ribose, a common posttranslational modification, from protein side chains. […] This de-ADP ribosylating function has potentially evolved to protect the virus from the anti-viral ADP-ribosylation catalyzed by poly-ADP-ribose polymerases (PARPs), which in turn are triggered by pathogen-associated sensing of the host immune system. […] We here report the near-complete NMR backbone resonance assignment (1H, 13C, 15N) of the putative Nsp3b MD in its apo form and in complex with ADP-ribose.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32835090&#34; target=&#34;_blank&#34;&gt;32835090&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this paper, we aim to find out the small molecule inhibitors for ADP-ribose phosphatase of SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32835632&#34; target=&#34;_blank&#34;&gt;32835632&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In silico virtual screening, docking, ADME, MM-GBSA and MD simulation analysis of coumarin derivatives against Methyltransferase (MTase), Endoribonuclease(endoU), ADP ribose Phosphatase and Main Protease enzyme of SARS CoV-2. […] Top five compounds of coumarin derivatives s docked at the active site of Methyltransferase (MTase), Endoribonuclease(endoU), ADP ribose Phosphatase and protease and top five compounds of each have docking score from -9.00 to -7.97, -8.42 to -6.80, -8.63 to -7.48 and -7.30 to -6.01 kcal/mol, respectively, of SARS CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32853469&#34; target=&#34;_blank&#34;&gt;32853469&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Plus, NAD acts as a signalling molecule, being a cosubstrate for several enzymes such as sirtuins, poly-ADP-ribose-polymerases (PARPs) and some ectoenzymes like CD38, regulating critical biological processes like gene expression, DNA repair, calcium signalling and circadian rhythms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32920092&#34; target=&#34;_blank&#34;&gt;32920092&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As patients progress, we observe statistically significant dysregulation of IFN-γ, IL-1RA, IL-6, IL-10, IL-19, monocyte chemoattractant protein (MCP)-1, MCP-2, MCP-3, CXCL9, CXCL10, CXCL5, ENRAGE, and poly (ADP-ribose) polymerase 1.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32939273&#34; target=&#34;_blank&#34;&gt;32939273&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One of its units is the ADP-ribose phosphatase domain (ADRP; also known as the macrodomain, MacroD), which is believed to interfere with the host immune response. […] Such a function appears to be linked to the ability of the protein to remove ADP-ribose from ADP-ribosylated proteins and RNA, yet the precise role and molecular targets of the enzyme remain unknown. […] Here, five high-resolution (1.07-2.01 Å) crystal structures corresponding to the apo form of the protein and its complexes with 2-(N-morpholino)ethanesulfonic acid (MES), AMP and ADP-ribose have been determined.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32946224&#34; target=&#34;_blank&#34;&gt;32946224&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Herein, we report that the SARS-CoV-2 macro domain was examined as a poly-ADP-ribose (ADPR) binding module and possessed mono-ADPR cleavage enzyme activity. […] This study provides structural, biophysical, and biochemical bases to further evaluate the role of the SARS-CoV-2 macro domain in the host response via ADP-ribose binding but also as a potential target for drug design against COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32964551&#34; target=&#34;_blank&#34;&gt;32964551&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, one hundred (100) A. melegueta secondary metabolites have been mined and computational evaluated for inhibition of host furin, and SARS-COV-2 targets including 3C-like proteinase (Mpro /3CLpro), 2’-O-ribose methyltransferase (nsp16) and surface glycoprotein/ACE2 receptor interface.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32981460&#34; target=&#34;_blank&#34;&gt;32981460&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Small molecules that bind the SARS-CoV-2 nonstructural protein 3 Mac1 domain in place of ADP-ribose could be useful as molecular probes or scaffolds for COVID-19 antiviral drug discovery because Mac1 has been linked to the ability of coronaviruses to evade cellular detection.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

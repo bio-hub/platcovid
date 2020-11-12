@@ -26,11 +26,11 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/2099&#34; target=&#34;_blank&#34;&gt;2099&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=2099&#34; target=&#34;_blank&#34;&gt; 6q25.1-q25.2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/615363&#39; target=&#39;_blank&#39;&gt;615363&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/608446&#39; target=&#39;_blank&#39;&gt;608446&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/157300&#39; target=&#39;_blank&#39;&gt;157300&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/133430&#39; target=&#39;_blank&#39;&gt;133430&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/114480&#39; target=&#39;_blank&#39;&gt;114480&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/300437&#39; target=&#39;_blank&#39;&gt;300437&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes an estrogen receptor, a ligand-activated transcription factor composed of several domains important for hormone binding, DNA binding, and activation of transcription. The protein localizes to the nucleus where it may form a homodimer or a heterodimer with estrogen receptor 2. Estrogen and its receptors are essential for sexual development and reproductive function, but also play a role in other tissues such as bone. Estrogen receptors are also involved in pathological processes including breast cancer, endometrial cancer, and osteoporosis. Alternative promoter usage and alternative splicing result in dozens of transcript variants, but the full-length nature of many of these variants has not been determined. [provided by RefSeq, Mar 2014] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes an estrogen receptor and ligand-activated transcription factor. The canonical protein contains an N-terminal ligand-independent transactivation domain, a central DNA binding domain, a hinge domain, and a C-terminal ligand-dependent transactivation domain. The protein localizes to the nucleus where it may form either a homodimer or a heterodimer with estrogen receptor 2. The protein encoded by this gene regulates the transcription of many estrogen-inducible genes that play a role in growth, metabolism, sexual development, gestation, and other reproductive functions and is expressed in many non-reproductive tissues. The receptor encoded by this gene plays a key role in breast cancer, endometrial cancer, and osteoporosis. This gene is reported to have dozens of transcript variants due to the use of alternate promoters and alternative splicing, however, the full-length nature of many of these variants remain uncertain. [provided by RefSeq, Jul 2020] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
@@ -458,7 +458,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ESR1 gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ESR1 gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -478,6 +478,22 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Predefined cutoffs were: ESR1 (positive ≥6.5), PGR (positive ≥5.5), and ERBB2 (negative &amp;lt;10.7). […] ER IHC concordance with central ESR1 was 96.8% (biopsies) and 97.6% (excisions). […] Biopsy and excisional medians were: Recurrence Score results 16 (each); ESR1 10.2 (each); PGR 7.7 and 7.6; ERBB2 9.4 and 9.2, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32983259&#34; target=&#34;_blank&#34;&gt;32983259&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The top ten core targets are EGFR, CASP3, STAT3, ESR1, FPR2, F2, BCL2L1, BDKRB2, MPO, and ACE.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33041827&#34; target=&#34;_blank&#34;&gt;33041827&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Results of systems pharmacology identified 49 active compounds of SFH and their 69 potential targets, including GSK3β, ESR1, PPARG, PTGS2, AKR1B10, and MAPK14.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

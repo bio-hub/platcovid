@@ -5,12 +5,20 @@
     <link>/author/guangyu-wang/</link>
       <atom:link href="/author/guangyu-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Guangyu Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Guangyu Wang</title>
       <link>/author/guangyu-wang/</link>
     </image>
+    
+    <item>
+      <title>Seroprevalence of immunoglobulin M and G antibodies against SARS-CoV-2 in China.</title>
+      <link>/publication/32504052/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32504052/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clinically Applicable AI System for Accurate Diagnosis, Quantitative Measurements, and Prognosis of COVID-19 Pneumonia Using Computed Tomography.</title>

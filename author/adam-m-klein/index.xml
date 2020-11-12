@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam M Klein | PlatCOVID</title>
+    <link>/author/adam-m-klein/</link>
+      <atom:link href="/author/adam-m-klein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adam M Klein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Adam M Klein</title>
+      <link>/author/adam-m-klein/</link>
+    </image>
+    
+    <item>
+      <title>Intubation Containment System for Improved Protection From Aerosolized Particles During Airway Management.</title>
+      <link>/publication/32518738/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32518738/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

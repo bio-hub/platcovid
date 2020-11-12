@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lennard Y W Lee | PlatCOVID</title>
+    <link>/author/lennard-y-w-lee/</link>
+      <atom:link href="/author/lennard-y-w-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lennard Y W Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Lennard Y W Lee</title>
+      <link>/author/lennard-y-w-lee/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 mortality in patients with cancer on chemotherapy or other anticancer treatments: a prospective cohort study.</title>
+      <link>/publication/32473682/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32473682/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immune checkpoint blockade: releasing the breaks or a protective barrier to COVID-19 severe acute respiratory syndrome?</title>
+      <link>/publication/32546835/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32546835/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

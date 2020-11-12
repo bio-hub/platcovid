@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Baciarello | PlatCOVID</title>
+    <link>/author/marco-baciarello/</link>
+      <atom:link href="/author/marco-baciarello/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marco Baciarello</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Marco Baciarello</title>
+      <link>/author/marco-baciarello/</link>
+    </image>
+    
+    <item>
+      <title>Point-of-Care Chest Ultrasonography as a Diagnostic Resource for COVID-19 Outbreak in Nursing Homes.</title>
+      <link>/publication/32571651/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32571651/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lung Ultrasound in COVID-19 Pneumonia: Correlations with Chest CT on Hospital admission.</title>
+      <link>/publication/32570265/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32570265/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

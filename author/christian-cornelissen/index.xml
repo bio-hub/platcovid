@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Cornelissen | PlatCOVID</title>
+    <link>/author/christian-cornelissen/</link>
+      <atom:link href="/author/christian-cornelissen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Cornelissen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Christian Cornelissen</title>
+      <link>/author/christian-cornelissen/</link>
+    </image>
+    
+    <item>
+      <title>Favorable COVID-19 course despite significant comorbidities in a ruxolitinib-treated patient with primary myelofibrosis.</title>
+      <link>/publication/32593209/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32593209/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Characteristics of 50 Hospitalized COVID-19 Patients With and Without ARDS.</title>
+      <link>/publication/32519944/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32519944/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

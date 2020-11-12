@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanjay Kalra | PlatCOVID</title>
+    <link>/author/sanjay-kalra/</link>
+      <atom:link href="/author/sanjay-kalra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sanjay Kalra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Sanjay Kalra</title>
+      <link>/author/sanjay-kalra/</link>
+    </image>
+    
+    <item>
+      <title>Cardiovigilance in COVID 19.</title>
+      <link>/publication/32515382/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32515382/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glucovigilance in COVID-19.</title>
+      <link>/publication/32515386/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32515386/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource husbandry in challenging times.</title>
+      <link>/publication/32515372/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32515372/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19: The Endocrine opportunity in a pandemic.</title>
+      <link>/publication/32548995/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32548995/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

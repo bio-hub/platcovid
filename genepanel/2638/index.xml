@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>EGFR</title>
+      <title>GC</title>
       <link>/genepanel/2638/info/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/2638/info/</guid>
@@ -21,23 +21,23 @@
 
 
 &lt;hr /&gt;
-&lt;p&gt;epidermal growth factor receptor&lt;/p&gt;
+&lt;p&gt;GC vitamin D binding protein&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/1956&#34; target=&#34;_blank&#34;&gt;1956&lt;/a&gt; | Type: Protein Coding |
-Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=1956&#34; target=&#34;_blank&#34;&gt; 7p11.2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/616069&#39; target=&#39;_blank&#39;&gt;616069&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/211980&#39; target=&#39;_blank&#39;&gt;211980&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/131550&#39; target=&#39;_blank&#39;&gt;131550&lt;/a&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/2638&#34; target=&#34;_blank&#34;&gt;2638&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=2638&#34; target=&#34;_blank&#34;&gt; 4q13.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/139200&#39; target=&#39;_blank&#39;&gt;139200&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene is a transmembrane glycoprotein that is a member of the protein kinase superfamily. This protein is a receptor for members of the epidermal growth factor family. EGFR is a cell surface protein that binds to epidermal growth factor. Binding of the protein to a ligand induces receptor dimerization and tyrosine autophosphorylation and leads to cell proliferation. Mutations in this gene are associated with lung cancer. EGFR is a component of the cytokine storm which contributes to a severe form of coronavirus disease 2019 (COVID-19) resulting from infection with severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2). [provided by RefSeq, Jun 2020] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene belongs to the albumin gene family. It is a multifunctional protein found in plasma, ascitic fluid, cerebrospinal fluid and on the surface of many cell types. It binds to vitamin D and its plasma metabolites and transports them to target tissues. Alternatively spliced transcript variants encoding different isoforms have been found for this gene.[provided by RefSeq, Feb 2011] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
     </item>
     
     <item>
-      <title>EGFR</title>
+      <title>GC</title>
       <link>/genepanel/2638/gene_expression/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/2638/gene_expression/</guid>
@@ -46,13 +46,13 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/616069&#39; target=&#39;_blank&#39;
 
 
 &lt;hr /&gt;
-&lt;p&gt;epidermal growth factor receptor&lt;/p&gt;
+&lt;p&gt;GC vitamin D binding protein&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Expression&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; EGFR expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;strong&gt;Table 1.&lt;/strong&gt; GC expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -74,21 +74,133 @@ mRNA
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
+ENSG00000145321
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-placenta
+appendix
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-High
+Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-100.0
+0.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bronchus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 liver
@@ -97,26 +209,110 @@ liver
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-19.0
+3875.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
+ENSG00000145321
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-skeletal muscle
+lung
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2.9
+0.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 skin
@@ -125,12 +321,68 @@ skin
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-58.7
+0.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+49.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 testis
@@ -139,26 +391,12 @@ testis
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-8.2
+0.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-tonsil
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-7.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
+ENSG00000145321
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 urinary bladder
@@ -167,12 +405,12 @@ urinary bladder
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-11.8
+0.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
+ENSG00000145321
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 vagina
@@ -186,203 +424,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-adrenal gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-14.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-appendix
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-5.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-breast
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-23.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-cerebral cortex
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-22.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-cervix, uterine
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-32.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-colon
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-12.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-duodenum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-6.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-endometrium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-18.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-epididymis
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-12.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-esophagus
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-28.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-fallopian tube
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-20.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-gallbladder
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-14.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-heart muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-3.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-kidney
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-13.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
+ENSG00000145321
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 liver
@@ -391,273 +433,147 @@ liver
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-19.0
+3875.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
+ENSG00000145321
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-lung
+breast
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
+Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-22.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-lymph node
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2.9
+0.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
+ENSG00000145321
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ovary
+colon
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
+Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-20.2
+0.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+53.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+712.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+42.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000145321
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 pancreas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
+Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-3.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-parathyroid gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-4.4
+9.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-placenta
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-100.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
+ENSG00000145321
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 prostate
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
+Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-26.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-rectum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-12.0
+0.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-salivary gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-9.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-seminal vesicle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-21.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-skin
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-58.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-small intestine
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-7.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-smooth muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-14.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-spleen
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-7.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
+ENSG00000145321
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 stomach
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
+Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-9.3
+49.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
+ENSG00000145321
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 testis
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
+Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-8.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-thyroid gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-35.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-tonsil
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-7.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000146648
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-adipose tissue
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-31.0
+0.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -667,7 +583,7 @@ NA
     </item>
     
     <item>
-      <title>EGFR</title>
+      <title>GC</title>
       <link>/genepanel/2638/gene_context/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/2638/gene_context/</guid>
@@ -676,13 +592,13 @@ NA
 
 
 &lt;hr /&gt;
-&lt;p&gt;epidermal growth factor receptor&lt;/p&gt;
+&lt;p&gt;GC vitamin D binding protein&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of EGFR gene in 10 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of GC gene in 35 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -698,82 +614,282 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32275643&#34; target=&#34;_blank&#34;&gt;32275643&lt;/a&gt;
+&lt;a href=&#34;/publication/32291076&#34; target=&#34;_blank&#34;&gt;32291076&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-The parameters including homocysteine, urea, creatinine and serum cystatin C were significantly higher in imaging progression patients (all p &amp;lt; 0.05), while eGFR decreased (p &amp;lt; 0.001).
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32354634&#34; target=&#34;_blank&#34;&gt;32354634&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-We describe 20 kidney transplant recipients (median age 59 years [inter quartile range 51-64 years], median age of transplant 13 years [9-20 years], baseline eGFR 36.5 [23-47.5]) with SARS-CoV2 induced pneumonia.
+Notably, RNA-seq result showed that reduction of H3K27me3, but not H3K4/9/36me3, led to upregulation of Ace2 expression in mouse germ cell line GC-2.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32393985&#34; target=&#34;_blank&#34;&gt;32393985&lt;/a&gt;
+&lt;a href=&#34;/publication/32363255&#34; target=&#34;_blank&#34;&gt;32363255&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-These core targets were epidermal growth factor receptor (EGFR), mitogen-activated protein kinase-1 (MAPK1), proto-oncogene c (JUN), and signal transducer and activator of transcription-3 (STAT3).
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32497778&#34; target=&#34;_blank&#34;&gt;32497778&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-CCL2, CCR5 or EGFR inhibitors) drugs to treat high risk or severe COVID-19 cases.
+Eighteen active substances, including 17 organosulfur compounds found in garlic essential oil (T), were identified by GC-MS analysis.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32503620&#34; target=&#34;_blank&#34;&gt;32503620&lt;/a&gt;
+&lt;a href=&#34;/publication/32455894&#34; target=&#34;_blank&#34;&gt;32455894&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-The patients are not severely hypoxic, do not need intubation or invasive oxygenation. known hypersensitivity to colchicine; known hepatic failure; estimated glomerular filtration rate (eGFR)&amp;lt;30 ml/min/1.73m&lt;sup&gt;2&lt;/sup&gt; (by the CKD-EPI Creatinine Equation for Glomerular Filtration Rate (GFR) which estimates GFR based on serum creatinine. ; kidney transplant recipients, using Digoxin, QTc &amp;gt;450 msec.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32505821&#34; target=&#34;_blank&#34;&gt;32505821&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-It might inhibit the cytokine storm by affecting C-reactive protein (CRP), interferon-γ (IFN-γ), interleukin- 6 (IL-6), interleukin- 10 (IL-10), tumor necrosis factor (TNF), epidermal growth factor receptor (EGFR), C-C motif chemokine ligand 5 (CCL5), transforming growth factor-β1 (TGFβ1), and other proteins.
+In addition to taking standard precautions for minimizing COVID-19 risk of exposure for those entering a healthcare facility (screening all personnel upon entry and donning facemasks at all times), we suggest the following three measures: (1) delay post-treatment surveillance visits until there is a decrease in local COVID-19 cases, (2) continue curative intent treatments for localized bladder cancer with COVID-19 precautions (i.e., choosing gemcitabine/cisplatin (GC) over dose-dense methotrexate, vinblastine, doxorubicin, cisplatin (ddMVAC) neoadjuvant chemotherapy), and (3) increase the off-treatment period between cycles of palliative systemic therapy in metastatic urothelial carcinoma patients.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32522282&#34; target=&#34;_blank&#34;&gt;32522282&lt;/a&gt;
+&lt;a href=&#34;/publication/32471056&#34; target=&#34;_blank&#34;&gt;32471056&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Fertile women* must not be pregnant, i.e. negative pregnancy test must be available at inclusion • Informed consent signed by the patient *Defined as after menarche and until postmenopausal (no menstruation for 12 months) Exclusion criteria: • At the time of recruitment, the patient uses &amp;gt;5 LO2/min (equivalent to 40% FiO2 if measured) • Known intolerance/allergy to azithromycin or hydroxychloroquine or hypersensitivity to quinine or 4-aminoquinoline derivatives • Neurogenic hearing loss • Psoriasis • Retinopathy • Maculopathy • Visual field changes • Breastfeeding • Severe liver diseases other than amoebiasis (INR&amp;gt; 1.5 spontaneously) • Severe gastrointestinal, neurological and hematological disorders (investigator-assessed) • eGFR &amp;lt;45 ml/min/1.73 m2 • Clinically significant cardiac conduction disorders/arrhythmias or prolonged QTc interval (QTc (f) of&amp;gt; 480/470 ms).
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32547891&#34; target=&#34;_blank&#34;&gt;32547891&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-PANTHER gene function analysis results indicated that viral derived miRNA candidates could target various human genes involved in crucial cellular processes including transcription, metabolism, defense system and several signaling pathways such as Wnt and EGFR signalings.
+Moreover, immunization with rASP-1 co-administered with the alum-adjuvanted RBD vaccine in separate sites resulted in an enhanced frequency of TfH and GC B cells within the draining lymph nodes, both of which were positively associated with the titers of the neutralizing antibody response related to anti-MERS-CoV protective immunity.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32554965&#34; target=&#34;_blank&#34;&gt;32554965&lt;/a&gt;
+&lt;a href=&#34;/publication/32489523&#34; target=&#34;_blank&#34;&gt;32489523&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Patients with AKI had a significantly lower baseline estimated glomerular filtration rate (eGFR) and higher FiO2 requirement and D-dimer levels on admission. […] A history of heart failure was significantly associated with AKI after adjusting for baseline eGFR (OR 3.382, 95% CI 1.121-13.231, p = 0.032).
+This letter provides an update on the activities of “The Global Collaboration on Traumatic Stress” (GC-TS) as first described by Schnyder et al. in 2017. […] Since the start of the GC-TS, new themes have been introduced to focus on in the coming years: a) Forcibly displaced persons, b) Global prevalence of stress and trauma related disorders, c) Socio-emotional development across cultures, and d) Collaborating to make traumatic stress research data “FAIR”.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32586394&#34; target=&#34;_blank&#34;&gt;32586394&lt;/a&gt;
+&lt;a href=&#34;/publication/32532461&#34; target=&#34;_blank&#34;&gt;32532461&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Impaired renal function (eGFR calculated by CKD-EPI Creatinine equation &amp;lt; 30 ml/min) 6.
+The use of glucocorticoids (GC) is controversial. […] Our objective is to evaluate the efficacy of GC in the CSS by COVID-19. […] We included 92 patients with CSS associated to COVID-19 who received GC, GC, and tocilizumab and only tocilizumab. […] In all cases the percentages of events were lower in the group of patients with GC was administered. […] The hazard ratio of the final variables with GC versus the group in which only tocilizumab was administered was lower as CGs were considered, with statistical significance for survival. […] The early use of GC pulses could control SLC, with a lower requirement to use tocilizumab and a decrease in events such as intubation and death.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32541865&#34; target=&#34;_blank&#34;&gt;32541865&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using the FRET-based enzymatic assay, several inhibitors including boceprevir, GC-376, and calpain inhibitors II, and XII were identified to have potent activity with single-digit to submicromolar IC&lt;sub&gt;50&lt;/sub&gt; values in the enzymatic assay. […] Significantly, four compounds (boceprevir, GC-376, calpain inhibitors II and XII) inhibit SARS-CoV-2 viral replication in cell culture with EC&lt;sub&gt;50&lt;/sub&gt; values ranging from 0.49 to 3.37 µM. […] A complex crystal structure of SARS-CoV-2 M&lt;sup&gt;pro&lt;/sup&gt; with GC-376, determined at 2.15 Å resolution with three protomers per asymmetric unit, revealed two unique binding configurations, shedding light on the molecular interactions and protein conformational flexibility underlying substrate and inhibitor binding by M&lt;sup&gt;pro&lt;/sup&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32552595&#34; target=&#34;_blank&#34;&gt;32552595&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this context, the present study employed an &lt;i&gt;in silico&lt;/i&gt; approach to assess the inhibitory potential of the phytochemicals obtained from GC-MS analysis of twelve &lt;i&gt;Clerodendrum&lt;/i&gt; species against the imperative spike protein, main protease enzyme M&lt;sup&gt;pro&lt;/sup&gt; and RNA-dependent RNA polymerase (RdRp) of SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32555949&#34; target=&#34;_blank&#34;&gt;32555949&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients undergoing glucocorticoid (GC) replacement therapy for adrenal insufficiency (AI) represent a highly vulnerable group that could develop severe complications due to the SARS-CoV-2 infection. […] Once patients with AI present symptoms of COVID-19, the dose of GC replacement therapy should be immediately doubled. […] In the presence of any emergency warning signs or inability to administer oral GC doses, we recommend that patients should immediately seek Emergency services to evaluate COVID-19 symptoms and receive 100 mg hydrocortisone by intravenous injection, followed by 50 mg hydrocortisone intravenously every 6 h or 200 mg/day by continuous intravenous infusion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32564984&#34; target=&#34;_blank&#34;&gt;32564984&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We classified patients as those who received only glucocorticoid (GC) pulses, or GC and tocilizumab pulses. […] All patients received GC pulses and in 2 cases simultaneously tocilizumab. […] Although it seems that the early use of GC pulses could control it, and the use of other treatments such as tocilizumab shouldo be, with the study design and its limitations, this conclusion cannot be stablished.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32572383&#34; target=&#34;_blank&#34;&gt;32572383&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+GC-MS was applied to identify 24 main substances in &lt;i&gt;Melaleuca cajuputi&lt;/i&gt; essential oil (&lt;b&gt;TA&lt;/b&gt;) extracted from fresh cajeput leaves through steam distilling.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32575476&#34; target=&#34;_blank&#34;&gt;32575476&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, the gas chromatography-mass spectrometry (GC-MS) analysis displayed 22 compounds in geranium oil and 9 compounds in lemon oil.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32592845&#34; target=&#34;_blank&#34;&gt;32592845&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All CoVs have more AT.% than GC% in genetic codon compositions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32677533&#34; target=&#34;_blank&#34;&gt;32677533&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Finally, codon optimization based on Escherichia coli K12 resulted in optimal GC content and higher CAI value followed by incorporating it into the cloning vector pET28+(a).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32679506&#34; target=&#34;_blank&#34;&gt;32679506&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results showed that SARS-CoV-2 was detected for both target regions in all samples analyzed in a range of 2,91E+05 to 3,19E+06 GC/L for N1 and from 2,07E+05 to 2,22E+06 GC/L for N2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32730589&#34; target=&#34;_blank&#34;&gt;32730589&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, we show a new pattern of relative absent words (RAWs), characterized by the progressive increase of GC content (Guanine and Cytosine) according to the decrease of RAWs length, contrarily to the virus and host genome distributions. […] At a computational level, we improved the alignment-free method to identify pathogen-specific signatures in balance with GC measures and removed previous size limitations. &lt;a href=&#34;https://github.com/cobilab/eagle&#34; class=&#34;uri&#34;&gt;https://github.com/cobilab/eagle&lt;/a&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32731115&#34; target=&#34;_blank&#34;&gt;32731115&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This research aimed to characterize pyrolysis drivers, behaviors, products, reaction mechanisms, and pathways via TG-FTIR and Py-GC/MS analyses as a function of the two medical plastic wastes of syringes (SY) and medical bottles (MB), conversion degree, degradation stage, and the four heating rates (5,10, 20, and 40 °C/min).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32794674&#34; target=&#34;_blank&#34;&gt;32794674&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Glucocorticoids (GC) have certain application value in patients with COVID-19, but they need to be used with caution and strict indications and dosage. […] Application of large doses of GC can also cause osteonecrosis of femoral head (ONFH).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32801886&#34; target=&#34;_blank&#34;&gt;32801886&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Treatment of gastric cancer (GC) patients in the pandemic era with high hospital burden and under severe oncological/surgical resource constraints should implicate a need for resource re-allocation with a new “pandemic” GC treatment algorithm. […] The neoadjuvant/perioperative (radio-)chemotherapy is applied in the majority of advanced GC cases with poor postoperative therapy compliance. […] The pandemic framework to provide optimal care for GC patients must be based on multidisciplinary decision-making and include all anti-cancer treatment options: surgery, systemic therapy, and radiotherapy. […] We believe that these priorities may improve the delivery of care to all, including elderly GC patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32822775&#34; target=&#34;_blank&#34;&gt;32822775&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eighty RA patients were randomized to tocilizumab (n = 40) or conventional synthetic disease-modifying antirheumatic drugs (csDMARDs) and glucocorticoids (GC) (n = 40) for 3 months. […] Compared with baseline, tocilizumab reduced PBR(2.14 ± 0.2 versus 1.97 ± 0.2 μm; P &amp;lt; 0.05) while no significant differences were observed post-csDMARDs + GC(P &amp;gt; 0.05). […] Compared with csDMARDs + GC, tocilizumab achieved a greater increase of GLS, GWI and reduction of MDA, PCs and CRP(P &amp;lt; 0.05). […] Tocilizumab improves endothelial function leading to a greater increase of effective myocardial work than csDMARDs + GC through a profound reduction of inflammatory burden and oxidative stress.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32835105&#34; target=&#34;_blank&#34;&gt;32835105&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The use of glucocorticoids (GC) is controversial. […] Our objective is to evaluate the efficacy of GC in the CSS by COVID-19. […] We included 92 patients with CSS associated to COVID-19 who received GC, GC, and tocilizumab and only tocilizumab. […] In all cases the percentages of events were lower in the group of patients with GC was administered. […] The hazard ratio of the final variables with GC versus the group in which only tocilizumab was administered was lower as CGs were considered, with statistical significance for survival. […] The early use of GC pulses could control SLC, with a lower requirement to use tocilizumab and a decrease in events such as intubation and death.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32836117&#34; target=&#34;_blank&#34;&gt;32836117&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The abundance of the virus genetic material in both urine (ca. 102-105 gc/ml) and feces (ca. 102-107 gc/ml) is much lower than in nasopharyngeal fluids (ca. 105-1011 gc/ml).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32838298&#34; target=&#34;_blank&#34;&gt;32838298&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This work describes the design and implementation of an automated device for catalytic materials testing by direct modifications to a gas chromatograph (GC). […] The setup can be operated as a plug-flow isothermal reactor and enables the control of relevant parameters such as reaction temperature and reactant partial pressures directly from the GC.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32838301&#34; target=&#34;_blank&#34;&gt;32838301&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the present study, we identified 11 potent bioactive compounds from ethanolic leaf extract of Ipomoea obscura (L.) by using GC-MS analysis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32860209&#34; target=&#34;_blank&#34;&gt;32860209&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Glucocorticoids (GCs), alone or associated to other drugs, were widely used in the management of patients affected by severe acute respiratory syndrome caused by SARS-CoV-2 infection, during the recent COVID-19 outbreak. […] This review summarizes the available data on HPA axis impairment in GC-treated SARS-CoV-2 patients, focusing on the risk of adrenal insufficiency and on potential drug interactions during concomitant treatments. […] Literature on the impact of GCs therapy on HPA axis and on the consequences of coadministration of GCs and other drugs in SARS-CoV-2 patients has been reviewed. […] GC treatment can cause symptoms of hypercortisolism, especially in patients with individual hypersensibility, or hypoadrenalism after drug withdrawal, due to hypothalamic-pituitary-adrenal (HPA) axis suppression, with consequences in terms of increased morbidity and mortality risk. […] Physicians involved in the management of patients affected by COVID-19 should be aware of the need of an appropriate GC dose tapering, and of potential interaction of GCs with antiviral therapy and drugs used to treat associated co-morbidities.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32868909&#34; target=&#34;_blank&#34;&gt;32868909&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Glucocorticoids (GCs) are endogenous hormones that are crucial for the homeostasis of the organism and adaptation to the external environment. […] Because of their anti-inflammatory effects, synthetic GCs are also extensively used in clinical practice. […] However, almost all cells in the body are sensitive to GC regulation. […] We also discuss the complex role of GCs in infectious diseases such as sepsis and COVID-19, in which the balance between pathogen elimination and protection against excessive inflammation and immunopathology needs to be tightly regulated. […] An understanding of the cell type- and context-specific actions of GCs from the molecular to the organismal level would help to optimize their therapeutic use.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32872217&#34; target=&#34;_blank&#34;&gt;32872217&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Therefore, herein, we analyzed the bioactive phytocompounds isolated by gas chromatography-mass spectroscopy (GC-MS) from Tinospora crispa as potential COVID-19 Mpro inhibitors, using molecular docking study.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32888056&#34; target=&#34;_blank&#34;&gt;32888056&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 translates its own proteins by using the host tRNAs, so that its GC or codon usage should fit that of the host cells. […] The SARS-CoV-2 virus has significantly lower GC content and GC3 as compared to human. […] However, when we selected a set of human genes that have similar GC properties to SARS-CoV-2, we found that these genes were enriched in particular pathways. […] Moreover, these human genes have the codon composition perfectly correlated with the SARS-CoV-2, and were extraordinarily highly expressed in human lung tissues, demonstrating that the SARS-CoV-2 genes have similar GC usage as compared to the lung expressed human genes. […] Our study indicates that SARS-CoV-2 might have adapted to the human lung environment by observing the high correlation between GC usage of SARS-CoV-2 and human lung genes, which suggests the GC content of SARS-CoV-2 is optimized to take advantage of human lung tissues.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32893565&#34; target=&#34;_blank&#34;&gt;32893565&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on 16 S rDNA sequencing of gut microbiome and metabolomics(GC-MS and LC-MS/MS), we systematically studied the serum metabolites profile and gut microbiota composition of rats treated with QPD for continued 5 days by oral gavage. […] A total of 23 and 43 differential metabolites were identified based on QPD with GC-MS and LC-MS/MS, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32911141&#34; target=&#34;_blank&#34;&gt;32911141&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Results reveal that estimates of viral RNA in sewage at the entrance of WWTPs ranged from 4.14 × 101 to 5.23 × 103 GC·mL-1 (viable virus concentration from 0.04 to 5.23 PFU·mL-1, respectively).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32971122&#34; target=&#34;_blank&#34;&gt;32971122&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our analysis shows that the genome size and GC content of the genome had a weak influence on SSR frequency and density. […] However, we find a positive correlation of SSRs GC content with genomic GC content.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32995261&#34; target=&#34;_blank&#34;&gt;32995261&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Glucocorticoids (GC) reduce inflammation by different mechanism depending of their concentration. […] Inhibition of excessive inflammation through timely administration of GC in the early stage of inflammatory cytokine storm effectively prevents the occurrence of ARDS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33025384&#34; target=&#34;_blank&#34;&gt;33025384&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thus patients with chronic glucocorticoid (GC) excess may be at high risk of developing COVID-19 infection with a severe clinical course. […] In this review, we aim to discuss and expand some clinical points related to GC excess that may have an impact on COVID-19 infection, in terms of both contagion risk and clinical outcome. […] This document is addressed to all specialists who approach patients with endogenous or exogenous GC excess and COVID-19 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33025686&#34; target=&#34;_blank&#34;&gt;33025686&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SP methodology has been studied with practicing genetic counselors; however, there is minimal empirical evidence characterizing its use in genetic counseling (GC) education. […] The Accreditation Council for Genetic Counseling (ACGC) Standards of Accreditation for Graduate Programs in Genetic Counseling include SP sessions as one way to achieve up to 20% of the 50 participatory cases required for graduation. […] The purpose of the current project was to determine the scope, frequency, and timing of SP methodology in ACGC-accredited programs to establish baseline usage, which happened prior to the SARS-CoV-2 pandemic. […] The survey was distributed through the Association of Genetic Counseling Program Directors’ (AGCPD) listserv to 43 accredited and 6 programs under development. […] Sixteen of the participating programs use SPs to give GC students experience disclosing positive test results. […] Other details vary among the GC programs including the use of trained SPs, volunteer or paid SPs, actors with and without SP training, or GC students acting as patients. […] This study demonstrates that GC program SP experiences differ, but are largely viewed as valuable by the programs. […] Many GC programs report using SP encounters to create multiple opportunities for students to practice and refine clinical skills similar to SPs in medical school.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33025751&#34; target=&#34;_blank&#34;&gt;33025751&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The GC-MS essential oil profile revealed the dominance of acyclic sesquiterpenoids (53.95%), followed by bicyclic sesquiterpenoids (31.69%), monoterpenes (11.89%) and monocyclic sesquiterpenoids (2.44%).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -784,7 +900,7 @@ Impaired renal function (eGFR calculated by CKD-EPI Creatinine equation &amp;lt;
     </item>
     
     <item>
-      <title>EGFR</title>
+      <title>GC</title>
       <link>/genepanel/2638/clinvar/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/2638/clinvar/</guid>
@@ -792,7 +908,7 @@ Impaired renal function (eGFR calculated by CKD-EPI Creatinine equation &amp;lt;
 
 
 &lt;hr /&gt;
-&lt;p&gt;epidermal growth factor receptor&lt;/p&gt;
+&lt;p&gt;GC vitamin D binding protein&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;ClinVar Summary&lt;/h2&gt;
@@ -806,7 +922,7 @@ Under development
     </item>
     
     <item>
-      <title>EGFR</title>
+      <title>GC</title>
       <link>/genepanel/2638/geo/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/2638/geo/</guid>
@@ -814,7 +930,7 @@ Under development
 
 
 &lt;hr /&gt;
-&lt;p&gt;epidermal growth factor receptor&lt;/p&gt;
+&lt;p&gt;GC vitamin D binding protein&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;GEO dataset Summary&lt;/h2&gt;

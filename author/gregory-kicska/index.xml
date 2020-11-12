@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gregory Kicska | PlatCOVID</title>
+    <link>/author/gregory-kicska/</link>
+      <atom:link href="/author/gregory-kicska/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gregory Kicska</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Gregory Kicska</title>
+      <link>/author/gregory-kicska/</link>
+    </image>
+    
+    <item>
+      <title>Review of Chest Radiograph Findings of COVID-19 Pneumonia and Suggested Reporting Language.</title>
+      <link>/publication/32520846/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32520846/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statement from the North American Society for Cardiovascular Imaging on imaging strategies to reduce the scarcity of healthcare resources during the COVID-19 outbreak.</title>
+      <link>/publication/32474676/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32474676/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

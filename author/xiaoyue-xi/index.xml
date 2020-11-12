@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoyue Xi | PlatCOVID</title>
+    <link>/author/xiaoyue-xi/</link>
+      <atom:link href="/author/xiaoyue-xi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoyue Xi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiaoyue Xi</title>
+      <link>/author/xiaoyue-xi/</link>
+    </image>
+    
+    <item>
+      <title>The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries.</title>
+      <link>/publication/32532802/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32532802/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence of initial success for China exiting COVID-19 social distancing policy after achieving containment.</title>
+      <link>/publication/32500100/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32500100/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -33,7 +33,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;apple&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;apple&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,110 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The aim of this paper was to integrate multiple transactional data sets (GPS mobility data from Google and Apple as well as disease statistics from the European Centre for Disease Prevention and Control) to study the role of social distancing policies in 26 countries and analyze the transmission rate of the coronavirus disease (COVID-19) pandemic over the course of 5 weeks. […] Then, we integrated these data with the Google and Apple mobility data sets for the same time frame and used a machine learning approach to investigate the relationship between the mobility factors and β values.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32663901&#34; target=&#34;_blank&#34;&gt;32663901&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, certain advantages of online teaching, such as detailed and high-quality annotation of lecture slides using the Apple Pencil and iPad, were observed.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32723816&#34; target=&#34;_blank&#34;&gt;32723816&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+By leveraging Google and Apple mobility data, we find empirical evidence for a link between global vehicle transportation declines and the reduction of ambient NO2 exposure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32728470&#34; target=&#34;_blank&#34;&gt;32728470&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Google and Apple recently announced the intention to build interfaces to allow Bluetooth contact tracking using Android and iPhone devices. […] In this article, we look at the compatibility of the proposed Apple/Google Bluetooth exposure notification system with Western privacy and data protection regimes and principles, including the General Data Protection Regulation (GDPR).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32738143&#34; target=&#34;_blank&#34;&gt;32738143&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Apple and Google mobility data provided proxies for population movement.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32779002&#34; target=&#34;_blank&#34;&gt;32779002&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Of these, 25 were selected from the Google play store and Apple App store in India, and 19 each from the UK and US. 18 apps were developed for sharing up to date information on COVID-19, and 8 were used for contact tracing while 9 apps showed features of both.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32837287&#34; target=&#34;_blank&#34;&gt;32837287&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Yet, when Apple and Google launched their contact tracing API in April 2020, some of the world’s leading privacy experts applauded this initiative for its privacy-preserving technical specifications. […] This article proposes to view the Apple/Google API in terms of a broader phenomenon whereby tech corporations are encroaching into ever new spheres of social life.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32837774&#34; target=&#34;_blank&#34;&gt;32837774&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Similarly, there were fewer routing requests received by Apple in large cities for public transportation, walking, and driving, with a 10 percentage point greater mean reduction in metropolitan areas under statewide stay-at-home orders.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32944361&#34; target=&#34;_blank&#34;&gt;32944361&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this work, the performance of a non-contact OSA screener App that can run on both Apple and Android smartphones is presented. […] A separate independent test set of 120 recordings was collected across a range of Apple iOS and Android smartphones, and withheld for performance evaluation by a different team.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32983590&#34; target=&#34;_blank&#34;&gt;32983590&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This case demonstrates the use of an Apple Watch (Apple, Cupertino, CA, USA) to monitor for arrhythmias and QT prolongation in a patient with COVID-19 during home isolation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33001828&#34; target=&#34;_blank&#34;&gt;33001828&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The classification task between COVID-19-positive and COVID-19-negative for “high risk” cases among the 460 test cases yielded (sorted by F1 score): Symptoma (F1=0.92, MCC=0.85), Infermedica (F1=0.80, MCC=0.61), US Centers for Disease Control and Prevention (CDC) (F1=0.71, MCC=0.30), Babylon (F1=0.70, MCC=0.29), Cleveland Clinic (F1=0.40, MCC=0.07), Providence (F1=0.40, MCC=0.05), Apple (F1=0.29, MCC=-0.10), Docyet (F1=0.27, MCC=0.29), Ada (F1=0.24, MCC=0.27) and Your.MD (F1=0.24, MCC=0.27). […] For “high risk” and “medium risk” combined the performance was: Symptoma (F1=0.91, MCC=0.83) Infermedica (F1=0.80, MCC=0.61), Cleveland Clinic (F1=0.76, MCC=0.47), Providence (F1=0.75, MCC=0.45), Your.MD (F1=0.72, MCC=0.33), CDC (F1=0.71, MCC=0.30), Babylon (F1=0.70, MCC=0.29), Apple (F1=0.70, MCC=0.25), Ada (F1=0.42, MCC=0.03), and Docyet (F1=0.27, MCC=0.29).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33001831&#34; target=&#34;_blank&#34;&gt;33001831&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We ask if social media is an early indicator of public social distancing measures in the United States by investigating its correlation with the time-varying reproduction number (Rt) as compared to social mobility estimates reported from Google and Apple Maps. […] Social media activity was assessed using queries of “social distancing” or “#socialdistancing” on Google Trends, Instagram, and Twitter, with social mobility assessed using Apple and Google Maps data. […] Significant correlations between Rt and social media manifest earlier in time compared to social mobility measures from Google and Apple Maps, with peaks at -6 and -4 days.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33015374&#34; target=&#34;_blank&#34;&gt;33015374&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this commentary, we examined the state of voice assistants (e.g., Google Assistant, Apple Siri, Amazon Alexa) as an emerging tool for remote healthcare delivery service and discussed the readiness of the health system and technology providers to adapt voice assistants as an alternative healthcare delivery modality during a health crisis and pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33039418&#34; target=&#34;_blank&#34;&gt;33039418&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Baking soda and vinegar have been used as home remedies for generations and today we are only a mouse-click away from claims that baking soda, lemon juice, and apple cider vinegar are miracles cures for everything from cancer to COVID-19.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

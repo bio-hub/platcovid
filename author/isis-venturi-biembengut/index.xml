@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ísis Venturi Biembengut | PlatCOVID</title>
+    <link>/author/isis-venturi-biembengut/</link>
+      <atom:link href="/author/isis-venturi-biembengut/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ísis Venturi Biembengut</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Ísis Venturi Biembengut</title>
+      <link>/author/isis-venturi-biembengut/</link>
+    </image>
+    
+    <item>
+      <title>Coagulation modifiers targeting SARS-CoV-2 main protease Mpro for COVID-19 treatment: an in silico approach.</title>
+      <link>/publication/32490889/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32490889/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

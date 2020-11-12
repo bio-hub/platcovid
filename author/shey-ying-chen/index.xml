@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shey-Ying Chen | PlatCOVID</title>
+    <link>/author/shey-ying-chen/</link>
+      <atom:link href="/author/shey-ying-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shey-Ying Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Shey-Ying Chen</title>
+      <link>/author/shey-ying-chen/</link>
+    </image>
+    
+    <item>
+      <title>Four point-of-care lateral flow immunoassays for diagnosis of COVID-19 and for assessing dynamics of antibody responses to SARS-CoV-2.</title>
+      <link>/publication/32553841/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32553841/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Double Triage and Telemedicine Protocol to Optimize Infection Control in an Emergency Department in Taiwan During the COVID-19 Pandemic: Retrospective Feasibility Study.</title>
+      <link>/publication/32544072/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32544072/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

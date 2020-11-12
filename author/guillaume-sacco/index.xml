@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guillaume Sacco | PlatCOVID</title>
+    <link>/author/guillaume-sacco/</link>
+      <atom:link href="/author/guillaume-sacco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guillaume Sacco</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Guillaume Sacco</title>
+      <link>/author/guillaume-sacco/</link>
+    </image>
+    
+    <item>
+      <title>Symptoms of COVID-19 among older adults: systematic review of biomedical literature.</title>
+      <link>/publication/32554345/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32554345/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National French survey of COVID-19 symptoms in people aged 70 and over.</title>
+      <link>/publication/32556328/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32556328/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

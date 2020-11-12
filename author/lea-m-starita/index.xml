@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lea M Starita | PlatCOVID</title>
+    <link>/author/lea-m-starita/</link>
+      <atom:link href="/author/lea-m-starita/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lea M Starita</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Lea M Starita</title>
+      <link>/author/lea-m-starita/</link>
+    </image>
+    
+    <item>
+      <title>Genomic surveillance reveals multiple introductions of SARS-CoV-2 into Northern California.</title>
+      <link>/publication/32513865/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32513865/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for Limited Early Spread of COVID-19 Within the United States, January-February 2020.</title>
+      <link>/publication/32497028/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32497028/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

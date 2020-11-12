@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mickaël Lesurtel | PlatCOVID</title>
+    <link>/author/mickael-lesurtel/</link>
+      <atom:link href="/author/mickael-lesurtel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mickaël Lesurtel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Mickaël Lesurtel</title>
+      <link>/author/mickael-lesurtel/</link>
+    </image>
+    
+    <item>
+      <title>Delivery of hepato-pancreato-biliary surgery during the COVID-19 pandemic: an European-African Hepato-Pancreato-Biliary Association (E-AHPBA) cross-sectional survey.</title>
+      <link>/publication/32565039/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32565039/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategies for Liver Transplantation during the SARS CoV-2 Outbreak Preliminary Experience from a Single Center in France.</title>
+      <link>/publication/32476233/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32476233/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

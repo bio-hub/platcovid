@@ -33,7 +33,7 @@ Synonymous :recombinant novel coronavirus vaccine (adenovirus type 5 vector)
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ad5-ncov&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ad5-ncov&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 One is named as Ad5-nCoV developed by the Chinese Institute of Biotechnology of the Academy of Military Medical Sciences and Tianjin Cansino Biotechnology Inc. […] Ad5-nCoV is based on the replication-defective adenovirus type 5 as the vector to express 2019-nCoV spike protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32796842&#34; target=&#34;_blank&#34;&gt;32796842&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we find that a single vaccination with a replication-defective human type 5 adenovirus encoding the SARS-CoV-2 spike protein (Ad5-nCoV) protect mice completely against mouse-adapted SARS-CoV-2 infection in the upper and lower respiratory tracts. […] Additionally, a single vaccination with Ad5-nCoV protects ferrets from wild-type SARS-CoV-2 infection in the upper respiratory tract.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

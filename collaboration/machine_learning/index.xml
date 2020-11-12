@@ -18,7 +18,7 @@
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/collaboration/machine_learning/home/</guid>
       <description>&lt;h3 id=&#34;dataset-as-a-template-to-machine-learn-how-to-categorize-new-articles-and-creates-subcluster-of-each-categories-&#34;&gt;Dataset as a template to machine learn how to categorize new articles and creates subcluster of each categories :&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;../../../files/sentimental/dataset_machine_learn.xlsx&#34;&gt; Dataset (xlsx) &lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../../../files/ml/dataset_machine_learn.xlsx&#34;&gt; Dataset (xlsx) &lt;/a&gt; &lt;br&gt;&lt;/p&gt;
 &lt;p style=&#34;font-size:12px&#34;&gt; 
 **Comments:** In .xlsx file there are five categories: Diagnosis, Treatment, Epidemiology, Transmission and Signs. I added six collums to includ this info.
 &lt;p&gt;dataSet Legend&lt;/p&gt;

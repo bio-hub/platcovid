@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bénédicte Demeyere | PlatCOVID</title>
+    <link>/author/benedicte-demeyere/</link>
+      <atom:link href="/author/benedicte-demeyere/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bénédicte Demeyere</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Bénédicte Demeyere</title>
+      <link>/author/benedicte-demeyere/</link>
+    </image>
+    
+    <item>
+      <title>Treatment of severely ill COVID-19 patients with anti-interleukin drugs (COV-AID): A structured summary of a study protocol for a randomised controlled trial.</title>
+      <link>/publication/32493441/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32493441/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sargramostim to treat patients with acute hypoxic respiratory failure due to COVID-19 (SARPAC): A structured summary of a study protocol for a randomised controlled trial.</title>
+      <link>/publication/32503663/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32503663/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

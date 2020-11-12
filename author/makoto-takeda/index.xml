@@ -5,12 +5,36 @@
     <link>/author/makoto-takeda/</link>
       <atom:link href="/author/makoto-takeda/index.xml" rel="self" type="application/rss+xml" />
     <description>Makoto Takeda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Makoto Takeda</title>
       <link>/author/makoto-takeda/</link>
     </image>
+    
+    <item>
+      <title>Antiviral activities of mycophenolic acid and IMD-0354 against SARS-CoV-2.</title>
+      <link>/publication/32579258/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32579258/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syrian hamsters as a small animal model for SARS-CoV-2 infection and countermeasure development.</title>
+      <link>/publication/32571934/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32571934/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Anticoagulant Nafamostat Potently Inhibits SARS-CoV-2 S Protein-Mediated Fusion in a Cell Fusion Assay System and Viral Infection In Vitro in a Cell-Type-Dependent Manner.</title>
+      <link>/publication/32532094/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32532094/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An assessment of real-time RT-PCR kits for SARS-CoV-2 detection.</title>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AF AbdelMassih, J Ye, A Kamel, et al. | PlatCOVID</title>
+    <link>/author/af-abdelmassih-j-ye-a-kamel-et-al./</link>
+      <atom:link href="/author/af-abdelmassih-j-ye-a-kamel-et-al./index.xml" rel="self" type="application/rss+xml" />
+    <description>AF AbdelMassih, J Ye, A Kamel, et al.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>AF AbdelMassih, J Ye, A Kamel, et al.</title>
+      <link>/author/af-abdelmassih-j-ye-a-kamel-et-al./</link>
+    </image>
+    
+    <item>
+      <title>Single cell sequencing unraveling genetic basis of shared immunologic switch between Severe COVID19 and Obesity.</title>
+      <link>/publication/32995660/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32995660/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multicenter consensus: A role of furin in the endothelial tropism in obese patients with COVID-19 infection.</title>
+      <link>/publication/32835124/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32835124/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

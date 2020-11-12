@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/6772&#34; target=&#34;_blank&#34;&gt;6772&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=6772&#34; target=&#34;_blank&#34;&gt; 2q32.2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/614892&#39; target=&#39;_blank&#39;&gt;614892&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/614162&#39; target=&#39;_blank&#39;&gt;614162&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/613796&#39; target=&#39;_blank&#39;&gt;613796&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/600555&#39; target=&#39;_blank&#39;&gt;600555&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/600589&#39; target=&#39;_blank&#39;&gt;600589&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -738,7 +738,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of STAT1 gene in 4 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of STAT1 gene in 10 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -782,6 +782,54 @@ A number of convergent findings suggest de-mono-ADP-ribosylation (de-MARylation)
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Further investigations suggested that this attenuated immune response to SARS-CoV-2 in moDCs was associated with viral antagonism of STAT1 phosphorylation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32643603&#34; target=&#34;_blank&#34;&gt;32643603&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Type I interferon, T cells, and, most importantly, signal transducer and activator of transcription 1 (STAT1) are critical for virus clearance and disease resolution in these mice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32676080&#34; target=&#34;_blank&#34;&gt;32676080&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using this model, we demonstrate that (i) CRS is characterized by a rapid rise in systemic levels of several Th1/Th2/Th17/Th22 type cytokines within a few hours, followed by a quick decline. (ii) Even though multiple organs are affected, small intestinal immunopathology is the major contributor to mortality in CRS. (iii) IFN-γ deficiency significantly protected from lethal CRS by attenuating small bowel pathology, whereas IL-17A deficiency significantly increased mortality by augmenting small bowel pathology. (iv) RNA sequencing of small intestinal tissues indicated that IFN-γ-STAT1-driven inflammatory pathways combined with enhanced expression of pro-apoptotic molecules as well as extracellular matrix degradation contributed to small bowel pathology in CRS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32783921&#34; target=&#34;_blank&#34;&gt;32783921&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Further analyses revealed distinct signaling pathways activated in COVID-19 (STAT1 and IRF3) versus IAV (STAT3 and NFκB) patients and substantial differences in the expression of key factors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32938761&#34; target=&#34;_blank&#34;&gt;32938761&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In line with these findings, SARS-CoV-2 fails to counteract phosphorylation of STAT1 and expression of ISG proteins, while SARS-CoV is able to suppress both. […] Comparing SARS-CoV-2 and influenza A virus in human airway epithelial cultures (HAEC), we observe the absence of IFN-I stimulation by SARS-CoV-2 alone, but detect failure to counteract STAT1 phosphorylation upon IFN-I pretreatment resulting in near ablation of SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32979938&#34; target=&#34;_blank&#34;&gt;32979938&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We identify two sets of viral proteins that antagonize IFN-I signaling through blocking signal transducer and activator of transcription 1 (STAT1)/STAT2 phosphorylation or nuclear translocation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33037393&#34; target=&#34;_blank&#34;&gt;33037393&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These viral components induce signal transducer and activator of transcription 1 (STAT1) dysfunction and compensatory hyperactivation of STAT3. […] This perspective suggests to enhance STAT1 activity and/or inhibit STAT3 functions for COVID-19 treatment.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

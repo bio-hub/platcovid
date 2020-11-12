@@ -5,12 +5,20 @@
     <link>/author/etienne-decroly/</link>
       <atom:link href="/author/etienne-decroly/index.xml" rel="self" type="application/rss+xml" />
     <description>Etienne Decroly</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Etienne Decroly</title>
       <link>/author/etienne-decroly/</link>
     </image>
+    
+    <item>
+      <title>Synthesis of adenine dinucleosides SAM analogs as specific inhibitors of SARS-CoV nsp14 RNA cap guanine-N7-methyltransferase.</title>
+      <link>/publication/32563813/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32563813/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Remdesivir and SARS-CoV-2: structural requirements at both nsp12 RdRp and nsp14 Exonuclease active-sites.</title>

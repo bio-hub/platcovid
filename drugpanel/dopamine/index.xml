@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/dopamine/</link>
+      <atom:link href="/drugpanel/dopamine/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/dopamine/</link>
+    </image>
+    
+    <item>
+      <title>DOPAMINE</title>
+      <link>/drugpanel/dopamine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/dopamine/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00988&#39; target=&#39;_blank&#39;&gt;db00988&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=dopamine&#34; target=&#34;_blank&#34;&gt;dopamine&lt;/a&gt; &lt;br&gt;
+Synonymous :2-(3,4-dihydroxyphenyl)ethylamine | 3-hydroxytyramine | 3,4-dihydroxyphenethylamine | 4-(2-aminoethyl)-1,2-benzenediol | 4-(2-aminoethyl)benzene-1,2-diol | 4-(2-aminoethyl)catechol | 4-(2-aminoethyl)pyrocatechol | dopamina | dopamine | dopaminum | oxytyramine
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;dopamine&lt;/em&gt; gene in 10 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32641525&#34; target=&#34;_blank&#34;&gt;32641525&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+[123I]-ioflupane dopamine transporter (DaT) SPECT images were acquired 4 hours after a single dose of 185 MBq of 123I-FP-CIT. […] DaT-SPECT confirmed a bilateral decrease in presynaptic dopamine uptake asymmetrically involving both putamina.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32848776&#34; target=&#34;_blank&#34;&gt;32848776&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Initial candidate interventions include prophylaxis to augment epithelial defense (e.g., AT1 receptor blockade, type III and type I interferons, melatonin, calcitriol, camostat, and lopinavir) and to reduce viral load (e.g., remdesivir, ivermectin, emetine, Abelson kinase inhibitors, dopamine D2 antagonists, and selective estrogen receptor modulators).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32881656&#34; target=&#34;_blank&#34;&gt;32881656&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Alteration in dopaminergic neurons or deficiency of dopamine in PD patients is the most common symptoms affecting 1% population above the age of 60 years. […] Presently, clinically US FDA approved drugs in PD includes Levodopa, catechol-O-methyl transferase (COMT) inhibitors, (Entacapone and Tolcapone), Dopamine agonists (Bromocriptine, Ropinirole, Pramipexole, and Rotigotine), Monoamine oxidase B (MAO-B) inhibitors (Selegiline and Rasagiline), Amantadine and Antimuscarinic drugs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32934824&#34; target=&#34;_blank&#34;&gt;32934824&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This manuscript reports on the systemic benefits of restoring and achieving dopamine homeostasis to reverse and normalize thoughts and behaviors of Reward Deficiency Syndrome (RDS) dysfunctional conditions and their effects on behavioral physiology; function of reward genes; and focuses on digestive, immune, eye health, and the constellation of symptomatic behaviors. […] We demonstrate that modulation of dopamine homeostasis using nutrigenomic dopamine agonists, instead of pharmaceutical interventions, is achievable. […] In conjunction, the role of dopamine in aspects of sleep, rapid eye movement and waking are extensively discussed. […] The detailed mechanistic insight of dopamine, immune competence and the allied aspects of autoimmune disorders are also highlighted. […] Finally, the integration of dopamine homeostasis utilizing a patented gene test and a research-validated nutrigenomic intervention are presented. […] Overall, a cutting-edge nutrigenomic intervention could prove to be a technological paradigm shift in our understanding of the extent to which achieving dopamine homeostasis will benefit overall health.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32957797&#34; target=&#34;_blank&#34;&gt;32957797&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+DDC is a crucial enzyme that participates in the synthesis of both dopamine and serotonin. […] SARS-CoV2-induced downregulation of ACE2 expression might reduce dopamine and serotonin synthesis, causing hypodopaminergia. […] Discussion: Indeed, added to the known reduced dopamine function during periods of stress, including social distancing the consequence being both genetic and epigenetic vulnerability to all Reward Deficiency Syndrome (RDS) addictive behaviors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33039415&#34; target=&#34;_blank&#34;&gt;33039415&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The dopaminergic system is particularly interesting to investigate the RAS as important functional interactions between dopamine and RAS have been observed in the brain and several peripheral tissues.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

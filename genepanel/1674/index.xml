@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/genepanel/1674/</link>
+      <atom:link href="/genepanel/1674/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/genepanel/1674/</link>
+    </image>
+    
+    <item>
+      <title>DES</title>
+      <link>/genepanel/1674/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/1674/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;desmin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/1674&#34; target=&#34;_blank&#34;&gt;1674&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=1674&#34; target=&#34;_blank&#34;&gt; 2q35&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/155730&#39; target=&#39;_blank&#39;&gt;155730&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a muscle-specific class III intermediate filament. Homopolymers of this protein form a stable intracytoplasmic filamentous network connecting myofibrils to each other and to the plasma membrane. Mutations in this gene are associated with desmin-related myopathy, a familial cardiac and skeletal myopathy (CSM), and with distal myopathies. [provided by RefSeq, Jul 2008] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DES</title>
+      <link>/genepanel/1674/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/1674/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;desmin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; DES expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4151.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skeletal muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5462.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3601.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+72.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+591.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+30.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+160.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+603.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+297.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+872.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+104.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1644.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+358.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+687.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+50.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+38.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+74.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1477.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+277.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3128.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+241.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spleen
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+54.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1388.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000175084
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+129.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DES</title>
+      <link>/genepanel/1674/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/1674/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;desmin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of DES gene in 75 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32215896&#34; target=&#34;_blank&#34;&gt;32215896&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Die Übersichtarbeit fasst die aktuellen Erkenntnisse der Auswirkung der COVID-19 Pandemie für die Arbeit der HNO-Ärztin und des HNO-Arztes zusammen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32259853&#34; target=&#34;_blank&#34;&gt;32259853&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Der Ausbruch des Coronavirus SARS-CoV-2 hat inzwischen viele Länder weltweit erreicht. […] Die Diagnose der durch SARS-CoV-2 hervorgerufenen COVID-19 Erkrankung erfolgt mittels Polymerasekettenreaktion aus Proben des Respirationstrakts und computertomographischer Bildgebung der Lunge.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32267109&#34; target=&#34;_blank&#34;&gt;32267109&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Le diagnostic repose, le plus souvent, sur la détection du génome viral au niveau du nasopharynx par des méthodes de biologie moléculaire. […] Les mesures de prévention reposent, principalement, sur l’application de mesures d’hygiène des mains adéquates et la désinfection de l’environnement, ainsi que sur des mesures de distance sociale visant à limiter les contacts dans la population et à protéger les populations à risque.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32267110&#34; target=&#34;_blank&#34;&gt;32267110&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Aussi, de par le nombre croissant de cas infectés, force est de constater, qu’en plus des symptômes respiratoires typiques causés par l’infection, certains patients souffrent d’atteintes cardiovasculaires. […] Cette affection peut, en effet, entraîner des dommages myocardiques importants, qui aggravent la maladie et affectent le pronostic. […] Sur base des résultats des recherches actuellement publiées, il nous semble important de discuter des manifestations et des caractéristiques des atteintes myocardiques induites par le COVID-19 et de son impact sur le pronostic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32270938&#34; target=&#34;_blank&#34;&gt;32270938&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+La pandémie actuelle du Covid-19 impose une stratégie diagnostique pour la prise en charge des patients. […] La performance du frottis nasopharyngé avec analyse par PCR peut être estimée sur la base des premières données bibliographiques. […] Un seul test négatif permet d’infirmer un Covid-19 dans la majorité des situations. […] Pour ceux qui présentent des symptômes typiques, qui auraient une probabilité prétest présumée à 40-50 %, un test négatif doit être interprété avec précaution et un deuxième test peut être indiqué.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32274774&#34; target=&#34;_blank&#34;&gt;32274774&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Despite all efforts to reduce the surgical lists and to cancel or postpone non-time-critical surgical interventions, some surgical and anesthetic interventions outside of intensive care medicine are still necessary and must be performed. […] Dies trifft im besonderen Maße für geburtshilfliche Eingriffe und die neuraxiale Analgesie im Rahmen des Spontanpartus zu. […] Gleichwohl ergeben sich durch die besonderen Vorgaben seitens der Hygiene bzw. des Infektionsschutzes besondere Umstände, die bei der Versorgung schwangerer Patientinnen berücksichtigt werden sollten.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32294796&#34; target=&#34;_blank&#34;&gt;32294796&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Die Übereinstimmung zwischen der nicht-invasiven Beurteilung des Ultraschalls am Krankenbett und der CT für Lungenläsionen bei COVID-19-Patienten war moderat (Kappa = 0,529).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32315171&#34; target=&#34;_blank&#34;&gt;32315171&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is very efficient to apply computer-aided drug design techniques to quickly identify promising drug repurposing candidates, especially after the detailed 3D structures of key viral proteins are resolved. […] Comput.-Aided Drug Des. 2006, 2, 287; Wang; ; Hou &lt;i&gt;J. […] The findings of this study can facilitate rational drug design targeting the SARS-CoV-2 main protease. &lt;/i&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32323287&#34; target=&#34;_blank&#34;&gt;32323287&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Against the background of the pandemic caused by infection with the SARS-CoV-2, the German Society for Pneumology and Respiratory Medicine (DGP e.V.), in cooperation with other associations, has designated a team of experts in order to answer the currently pressing questions about therapy strategies in dealing with COVID-19 patients suffering from acute respiratory insufficiency (ARI). […] Bezüglich pathophysiologischer Aspekte der akuten respiratorischen Insuffizienz (ARI) verläuft die pulmonale Infektion mit SARS-CoV-2 COVID-19 in drei Phasen: Frühe Infektion, pulmonale Manifestation und schwere hyperinflammatorische Phase.Der fortgeschrittene COVID-19-induzierte Lungenschaden weist häufig Unterschiede zu den bekannten Veränderungen entsprechend der Definition des Acute Respiratory Distress Syndrome (ARDS) nach den Berlin-Kriterien auf.In einem pathophysiologisch plausiblen – zur Zeit aber noch nicht histopathologisch untermauerten – Modell wird in zwei Typen (L-Typ und H-Typ) unterschieden, die einer frühen und späten Phase entsprechen. […] Diese Unterscheidung kann für die apparative Differenzialtherapie der ARI erwogen werden.Die Einschätzung des Ausmaßes der ARI soll durch eine arterielle oder kapilläre Blutgasanalyse bei Raumluft erfolgen und die Errechnung des Sauerstoffangebotes (bemisst sich aus den Variablen der Sauerstoffsättigung, des Hb-Wertes, der Hüfnerʼschen Korrekturzahl sowie des Herzminutenvolumens) beinhalten.Durch Aerosole ist eine Übertragung von infektiösen, Viren-haltigen Partikeln prinzipiell möglich. […] Prozeduren, bei denen das invasive Beatmungssystem geöffnet werden muss, sowie die endotracheale Intubation sind mit einem erhöhten Infektionsrisiko verbunden.Der Schutz des Personals durch persönliche Schutzausrüstung soll sehr hohe Priorität haben, weil die Angst vor Ansteckung kein primärer Intubationsgrund sein darf. […] Kommt es unter CPAP/NIV zur weiteren Progression des ARI, sollte ohne zeitliche Verzögerung die Intubation und nachfolgende invasive Beatmung erfolgen, wenn keine DNI-Order vorliegt.Bei Patienten, bei denen eine invasive Beatmung unter Ausschöpfung aller leitliniengerechter Maßnahmen nicht ausreicht, um eine ausreichende Sauerstoffaufnahme und CO&lt;sub&gt;2&lt;/sub&gt;-Abgabe zu gewährleisten, soll ein extrakorporales Lungenersatzverfahren erwogen werden (ECMO).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32325535&#34; target=&#34;_blank&#34;&gt;32325535&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Besides partially implemented approaches, such as isolation areas or cluster quarantine, plans to evacuate overcrowded facilities should also be considered. […] Um einerseits Routineaufgaben des Infektionsschutzes wahrnehmen zu können, andererseits ein effizientes gesundheitliches Management von Flüchtlingsunterkünften zu unterstützen, sollte der ÖGD dringend personell wie materiell gestärkt werden. […] Wege für einen schnellen, Bundesländer übergreifenden Austausch von Best-Practice-Beispielen zu Covid-19-Maßnahmen, sowie Kapazitäten und kollaborative Strukturen innerhalb des ÖGD für operative Begleitforschung wären wichtig.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32338605&#34; target=&#34;_blank&#34;&gt;32338605&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 enters the cell via ACE2 that next to its role in RAAS is needed to inactivate des-Arg9 bradykinin, the potent ligand of the B1R. […] If that work provides a proof of concept, it means that existing treatments and registered drugs could potentially help patients with COVID-19, by preventing the need for mechanical ventilation and saving many lives.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32340047&#34; target=&#34;_blank&#34;&gt;32340047&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Präventions- und Interventionsansätze zur Reduktion der psychosozialen Folgen sollten integraler Bestandteil des Krisenmanagements unter Pandemiebedingungen sein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32340048&#34; target=&#34;_blank&#34;&gt;32340048&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+„Letter to the editor“) zur Belastung des medizinischen Personals im Zeitraum von Januar bis März 2020. […] Die Stichprobengröße schwankte zwischen 37 und 1257 Personen des überwiegend pflegerischen und ärztlichen Personals.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32344439&#34; target=&#34;_blank&#34;&gt;32344439&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Retrospective, narrative process description and analysis of the time period between end of January and beginning of April 2020, performed by representatives of the involved departments and institutes. […] Additionally a retrospective observational cohort study with descriptive analysis of epidemiological and clinical data of COVID patients admitted until March 31st was performed. […] Die vorliegende Arbeit fasst die Strategie, Organisation und Maßnahmen der COVID-Taskforce des Universitätsklinikums Freiburg zusammen und berichtet über Erfahrungen und Behandlungsergebnisse von der Versorgung der ersten 115 COVID-19-Patienten. […] Retrospektive, narrative Prozessbeschreibung und -analyse des Zeitraums Ende Januar bis Anfang April 2020, durchgeführt unter Mitwirken der beteiligten Departments, Kliniken und Institute des Universitätsklinikums Freiburg. […] Ergänzend erfolgte eine retrospektive Beobachtungsstudie mit deskriptiver statistischer Auswertung der epidemiologischen und klinischen Daten aller bis 31. […] Durch Zusammenwirken sämtlicher Disziplinen und Abteilungen des Universitätsklinikums Freiburg konnte eine adäquate Versorgung von COVID-19-Patienten sichergestellt und die Handlungsfähigkeit des Klinikums in der aktuellen Ausbruchsituation erhalten werden.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32344440&#34; target=&#34;_blank&#34;&gt;32344440&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Die Pandemie des Coronavirus Disease 2019 (COVID-19), die durch das Severe Acute Respiratory Syndrome-related Coronavirus 2 (SARS-CoV-2) verursacht wird, begann im Dezember 2019 in China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32348041&#34; target=&#34;_blank&#34;&gt;32348041&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+L’épidémie de COVID-19 a nécessité de la part des services d’urgence préhospitaliers des adaptations rapides et fréquentes. […] L’exposition des intervenants au risque infectieux est significative, notamment en cas de procédures à risque d’aérosolisation (réanimation cardiopulmonaire, gestion des voies aériennes supérieures). […] Les transferts interhospitaliers médicalisés de patients COVID-19 concernent surtout des patients intubés et sont complexes. […] L’éventuelle pénurie des ressources motiverait la mise en application de directives préhospitalières spécifiques rédigées en cohérence avec les processus de triage hospitaliers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348042&#34; target=&#34;_blank&#34;&gt;32348042&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It also discusses therapeutic strategies and provides general recommendations on how to proceed with transplantation programs in a time when health care resources may become scarce. […] Dans cet article nous décrivons les connaissances actuelles quant à l’incidence et à l’évolution de l’infection SARS-CoV-2 chez des patients greffés. […] En accord avec les sociétés de discipline, nous proposons des recommandations de prise en charge thérapeutique, et amenons quelques éléments de réflexion en tenant compte d’une possible limitation des ressources et d’une situation pandémique évolutive.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348044&#34; target=&#34;_blank&#34;&gt;32348044&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Les chimiothérapies intensives pour les lymphomes agressifs et les leucémies aiguës, les traitements du myélome multiple, ainsi que la plupart des greffes de cellules souches hématopoïétiques doivent continuer à être pratiquées. […] Les lymphomes de bas grade seront traités uniquement avec des indications claires ; et la maintenance repoussée. […] Les autres néoplasies myéloïdes et leurs traitements causent une immunosuppression ; on recommande une adaptation des doses, mais pas d’arrêt brusque.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32348045&#34; target=&#34;_blank&#34;&gt;32348045&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+À l’heure actuelle, il n’y a pas d’évidence indiquant une augmentation des complications sévères en lien avec le COVID-19 chez ces patients. […] Cet article passe en revue les aspects particuliers des patients souffrant de MAI durant l’épidémie COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348046&#34; target=&#34;_blank&#34;&gt;32348046&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+La pandémie a impliqué une réorganisation des soins en rhumatologie pour limiter les déplacements des patients : espacement des prises de sang, administration sous-cutanée des traitements, téléconsultations. […] Les patients traités par immunosuppresseurs sont reconnus comme vulnérables par les autorités et bénéficient des protections qui en découlent.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348047&#34; target=&#34;_blank&#34;&gt;32348047&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+La majorité des patients COVID-19 hospitalisés ont plus de 70 ans et 50 % de ceux qui en décèdent ont plus de 83 ans. […] La clinique typique n’est pas toujours présente chez les personnes très âgées qui peuvent être et rester totalement asymptomatiques (dépistage contact) ou avoir des manifestations aspécifiques (baisse de l’état général, chutes, delirium, fatigue).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348048&#34; target=&#34;_blank&#34;&gt;32348048&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No vertical transmission of SARS-CoV-2 has been described so far. […] Contrairement aux autres virus respiratoires, dans la majorité des clusters familiaux, ce sont les parents qui infectent les enfants. […] Toutefois, plus de cas de pneumonies ont été reportés chez des enfants infectés par SARS-CoV-2 que chez ceux qui le sont par H1N1.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348050&#34; target=&#34;_blank&#34;&gt;32348050&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+L’épidémie actuelle d’infection par le SARS-CoV-2 pose de nouveaux défis dans la prise en charge des patients avec pathologies gastroentérologique ou hépatologique. […] Les interventions urgentes doivent être effectuées en appliquant des mesures de protection adéquates.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348051&#34; target=&#34;_blank&#34;&gt;32348051&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ces patients devraient donc s’auto-isoler et rester attentifs à l’apparition des autres symptômes évocateurs de l’infection et/ou se faire tester. […] Les corticoïdes topiques et systémiques ainsi que les rinçages nasaux sont contre-indiqués. […] L’évolution naturelle de l’anosmie semble favorable dans la plupart des cas.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348052&#34; target=&#34;_blank&#34;&gt;32348052&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+La sécurité des AINS, corticoïdes et antihypertenseurs agissant sur le système rénine-angiotensine lors d’infection à COVID-19 est mise en question. […] Les corticoïdes systémiques n’ont pas montré de bénéfice lors d’infections virales, y compris à d’autres coronavirus ; ils sont à éviter, sauf si prescrits pour une autre indication. […] Le rapport bénéfice/risque est en revanche clairement en faveur de la poursuite des corticostéroïdes inhalés chez les asthmatiques ou BPCO.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348053&#34; target=&#34;_blank&#34;&gt;32348053&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sur un plan populationnel, les interventions envisagées (e.g. hotlines, soutien aux professionnels et aux équipes) doivent trouver un équilibre entre une « psychiatrisation » des vécus d’ordre existentiel et une banalisation des effets psychologiques d’une pandémie.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348054&#34; target=&#34;_blank&#34;&gt;32348054&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Depuis l’apparition de la pandémie du COVID-19, la Confédération évoque comme potentiellement à risque les « populations vulnérables » de plus de 65 ans et/ou présentant des comorbidités.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348055&#34; target=&#34;_blank&#34;&gt;32348055&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+En effet, près de 5 % des patients infectés nécessitent une ventilation invasive et une part importante de ces patients restent aux soins intensifs durant une longue période. […] Toutefois, en l’état actuel des connaissances, le SDRA sur COVID-19 présente des caractéristiques particulières qui nécessitent une approche spécifique que nous résumons dans cet article.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348056&#34; target=&#34;_blank&#34;&gt;32348056&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Despite the peak of the pandemic appearing to have passed, the next phase could be just as complicated. […] Pour opérer ces changements majeurs, l’organisation de crise mise en place s’est appuyée sur trois piliers : une cellule de conduite, des documents de pilotage et une communication interne. […] Si les enjeux organisationnels ont été majeurs, la gestion des situations complexes, comme les manifestations respiratoires et les multiples incertitudes cliniques diagnostiques et thérapeutiques, ont été également une gageure.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32356298&#34; target=&#34;_blank&#34;&gt;32356298&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SMR analyses can also be used to assess and evaluate both desired and undesired effects of measures taken against SARS-CoV-2/COVID-19 - and possibly other epidemics or pandemics. […] Kürzlich haben Colombo und Impicciatore die Todesfallzahlen in 1084 ausgewählten Gemeinden im Zeitfenster 21.2.2020 bis zum 21.3.2020 mit den entsprechenden Todesfallzahlen in den gleichen Zeitfenstern 2015 bis 2019 verglichen. […] Wir erweitern Auswertungen von Daten des Nationalen Instituts für Statistik Italiens (ISTAT) und berechnen Standardisierte Mortalitäts-Ratios (SMRs) in den neun ausgewählten Regionen Italiens, getrennt für Männer und Frauen und zusammengefasst. […] Wir schlussfolgern: In Übereinstimmung mit Colombo und Impicciatore kann in der besonderen Corona-Situation diese „Mortalitäts-Exzess-Lupe“ – bei Annahme sonst konstanter Determinanten für Todesfälle – ein Virus-Test-unabhängiges Instrument sein, Mortalitätseffekte von SARS-CoV-2 zu bestimmen. […] Die aktuelle „Lupe“ ist fokussiert auf Gemeinden mit Zunahmen um mehr als 20% an Todesfällen im März 2020 im Vergleich zu den durchschnittlichen Todesfällen an denselben Tagen in den Jahren 2015–2019. […] Man könnte das Zeitfenster der Untersuchung vor dem 21.2.2020 öffnen, um maskierte Mortalitätszunahmen bereits vor der ersten Meldung eines „COVID-19-Todesfalls“ festzustellen. […] In der Gesamtschau ist es angezeigt, SMR-Analysen für Deutschland regelmäßig durchzuführen, differenziert nach Regionen, Geschlechtern, Altersgruppen und Todesursachen. […] Solche Analysen können zur Früherkennung und Beurteilung des Schweregrads einer tödlichen Pandemie („Krankheitslast“) sowie zur Überwachung der dynamischen Verbreitung eines Faktors wie SARS-CoV-2 beitragen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32356301&#34; target=&#34;_blank&#34;&gt;32356301&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This article includes the analysis and evaluation of studies and recommendations from organizations such as the World Health Organization (WHO) that have examined the psychological consequences of epidemics/pandemics on people and their impact on the further course. […] ZIEL: Das Ziel des Beitrages besteht darin, auf die bedeutsame Rolle der Prävention und Reduktion der psychischen Belastungen in der Allgemeinbevölkerung und in sensiblen Gruppen im Rahmen der Coronavirus-Krankheit-2019 (COVID-19) -Pandemie hinzuweisen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32356672&#34; target=&#34;_blank&#34;&gt;32356672&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angesichts der Kontagiosität des SARS-CoV-2 (Severe Acute Respiratory Syndrome Corona Virus) ist der Lungen-Point-of-Care-Ultraschall (PoCUS), insbesondere in der Anwendung als Taschenkittelgerät, eine noch zu wenig genutzte, wertvolle Alternative.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32359101&#34; target=&#34;_blank&#34;&gt;32359101&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this paper, we use established and emerging evidence to propose a testable hypothesis that, a vicious positive feedback loop of des-Arg(9)-bradykinin- and bradykinin-mediated inflammation → injury → inflammation, likely precipitates life threatening respiratory complications in COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32374537&#34; target=&#34;_blank&#34;&gt;32374537&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Des milliers d’études ont déjà été publiés et la recherche scientifique est en constante évolution. […] Dans cette multitude d’informations, nous proposons une mise à jour des connaissances actuellement disponibles. […] Une limitation de la propagation, la compréhension du fonctionnement du virus et de ses manifestations cliniques, l’administration de traitements spécifiques et des outils diagnostiques rapides et fiables, sont à la base de la lutte contre ce germe à présent encore méconnu.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32374538&#34; target=&#34;_blank&#34;&gt;32374538&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Les services d’urgences sont en première ligne dans la gestion des cas de COVID-19, qu’il s’agisse du dépistage ou de la prise en charge des cas les plus sévères. […] Le passage de la stratégie de reconnaissance systématique des cas potentiels à celle de la mitigation de l’épidémie a impliqué pour les services d’urgences hospitaliers la mise en place de mesures exceptionnelles afin de garantir une capacité d’accueil et d’hospitalisation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32374540&#34; target=&#34;_blank&#34;&gt;32374540&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Usual recommendations for management of asthma and COPD remain valid despite the ongoing epidemic. […] Un soin particulier doit être apporté à l’identification et la protection des patients particulièrement vulnérables à l’infection COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32374541&#34; target=&#34;_blank&#34;&gt;32374541&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Il est cependant associé à une maladie plus sévère principalement en raison de sa haute prévalence chez les personnes âgées et polymorbides dont l’évolution est plus souvent défavorable. […] Comme lors de n’importe quelle autre infection, un diabète préexistant, surtout s’il est mal contrôlé, peut favoriser les surinfections et entraîner des complications aiguës liées à l’hyperglycémie, elle-même majorée par l’infection. […] Il est important de recommander aux patients d’avoir suffisamment de matériel à domicile, d’effectuer des automesures régulières de la glycémie, ainsi que de contacter un soignant immédiatement en cas de déséquilibre glycémique ou d’infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32374542&#34; target=&#34;_blank&#34;&gt;32374542&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+La vulnérabilité des femmes enceintes aux infections ainsi que l’expérience des précédentes épidémies de coronavirus ont fait naître des interrogations quant aux risques de complications materno-fœtales. […] La rapidité avec laquelle l’infection a progressé, ainsi que l’incertitude de son impact sur la grossesse due à l’absence de données scientifiques solides a forcé les obstétriciens à adapter leur pratique en se basant sur des attitudes pragmatiques. […] Cet article revoit la prise en charge obstétricale des patientes infectées par SARS-CoV-2 sur la base des connaissances actuelles.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32374544&#34; target=&#34;_blank&#34;&gt;32374544&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Depuis le début de l’épidémie de SARS-CoV-2, des faisceaux d’évidences suggèrent que les patients souffrant de COVID-19 sont à risque augmenté d’événements thrombotiques. […] L’activation de la coagulation secondaire au sepsis associée à des facteurs de risques thrombotiques classiques pourrait contribuer à cet état prothrombotique. […] Dans ce contexte, de nombreuses sociétés savantes ont émis des recommandations pour la prévention de la MTEV. […] Nous proposons une mise à jour des connaissances actuelles sur les données épidémiologiques disponibles et sur les recommandations pour la prévention de la MTEV dans le COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32374545&#34; target=&#34;_blank&#34;&gt;32374545&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Son utilité dans les centres d’urgence est cependant limitée du fait de sa sensibilité imparfaite (56 à 83 %), de sa disponibilité restreinte et du délai pour l’obtention des résultats. […] Des données complémentaires sont nécessaires pour confirmer son utilité et lui attribuer une éventuelle valeur pronostique, capable de déceler des lésions associées à une mauvaise évolution, indiquant la nécessité d’une admission aux soins intensifs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32374546&#34; target=&#34;_blank&#34;&gt;32374546&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Dans un contexte de ressources humaines médico-soignantes limitées, les étudiant·e·s en médecine avancé·e·s dans leur cursus représentent un renfort très précieux, rapidement mobilisable auprès des patient·e·s. […] Nous terminons par des considérations importantes quant à l’accueil et l’accompagnement de ces étudiant·e·s.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32375197&#34; target=&#34;_blank&#34;&gt;32375197&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These articles could be classified into the topics “Modes and prevention of (ocular) transmission”, “Ophthalmological manifestations of COVID-19”, “Clinical guidance concerning ophthalmological practice during the COVID-19 pandemic”, and “Practical recommendations for clinical infrastructure”. […] Darüber hinaus wurde eine Analyse der Empfehlungen der ophthalmologischen Fachgesellschaften durchgeführt, insbesondere der American Academy of Ophthalmology (AAO) und des Royal College of Ophthalmologists (RCOphth). […] Letztere wurden den Empfehlungen der AAO und des RCOphth entnommen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32392587&#34; target=&#34;_blank&#34;&gt;32392587&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The present article provides an overview of the current and expected effects of plastic surgery in Europe. […] Der vorliegende Beitrag bietet einen Überblick über die aktuellen und bevorstehenden Auswirkungen von COVID-19 auf die Plastische Chirurgie in Europa und enthält die Erfahrungen der Abteilungen für Plastische Chirurgie, die durch Interviews von Mitgliedern des Exekutivkomitees (ExCo) der European Society of Plastic, Reconstructive and Aesthetic Surgery (ESPRAS) bewertet wurde. […] Insbesondere bei der raschen Entwicklung des Wissens in der aktuellen Pandemie kann natürlich nur eine Momentaufnahme angeboten werden, und es kann kein Anspruch auf Vollständigkeit erhoben werden.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32401442&#34; target=&#34;_blank&#34;&gt;32401442&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cette double fonction a suscité des craintes par rapport à une augmentation du risque d’infection ou de complications chez les patient·es traité·es par cette classe d’antihypertenseurs. […] Toutefois il existe des arguments opposés faisant penser que ces médicaments seraient plutôt protecteurs dans certaines affections pulmonaires virales aiguës.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32403153&#34; target=&#34;_blank&#34;&gt;32403153&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This casuistic describes a case of COVID-19 associated pneumonia presenting with typical clinical features, laboratory and radiological findings. […] Detection of viral RNA was not successful from deep oral swab-samples despite repeated attempts. […] In der nachgeschalteten CT-Untersuchung des Thorax zeigten sich für COVID-19 typische bipulmonale laterale milchglasartige Infiltrate, woraufhin ein dritter Rachenabstrich durchgeführt wurde, der erneut negativ blieb. […] Bei zunächst noch ausstehendem Ergebnis des Rachenabstrichs auf SARS-CoV-2 wurde der Patient prophylaktisch isoliert.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32413909&#34; target=&#34;_blank&#34;&gt;32413909&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Die geltenden verschärften Hygieneempfehlungen des Robert-Koch-Instituts zur Eindämmung der Ausbreitung des Coronavirus mit Versammlungsverbot und Mindestabstand sind im innerklinischen Alltag nicht umsetzbar. […] Mitarbeiterkonferenzen im Videoformat können mit geringem personellem und technischem Aufwand etabliert werden, um der Ausbreitung des Coronavirus unter medizinischem Personal entgegenzuwirken.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32422662&#34; target=&#34;_blank&#34;&gt;32422662&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Wir präsentieren das in der Universitätsmedizin Essen (UME) entwickelte und verwendete Modell einer möglichst sicheren und effizienten Triage außerhalb des Katastrophenfalls. […] Im Rahmen des Regelbetriebs ergab sich in den ersten 2 Wochen eine gute Trennschärfe zwischen stationär behandlungsbedürftigen und ambulanten Patienten.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32422664&#34; target=&#34;_blank&#34;&gt;32422664&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Aufgrund des sich schnell entwickelnden Charakters der COVID-19-Pandemie gibt die vorliegende Übersichtsarbeit Empfehlungen statt fester Richtlinien, welche möglicherweise in naher Zukunft überarbeitet werden müssen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32428957&#34; target=&#34;_blank&#34;&gt;32428957&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In der klinischen Untersuchung fallen feinblasige Rasselgeräusche über beiden Lungen beider Patienten und eine respiratorische Insuffizienz des Ehemanns auf. […] Intubation und Beatmung des männlichen Patienten bei mittelschwerem ARDS mit langer intensivmedizinischer Behandlung.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32449178&#34; target=&#34;_blank&#34;&gt;32449178&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Prenatal distress and psychiatric symptomatology were measured with the Kessler Distress Scale (K10), Post-traumatic Checklist for DSM-5 (PCL-5), Dissociative Experiences Scale (DES-II) and Positive and Negative Affect Schedule (PANAS).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32462841&#34; target=&#34;_blank&#34;&gt;32462841&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Les raisons en sont multiples : altération de la mécanique ventilatoire, présence de comorbidités comme le diabète, l’hypertension ou les apnées obstructives du sommeil, enfin, des réactions immunologique et inflammatoire inappropriées et excessives, possiblement encore accentuées par des dépôts de graisse ectopique intrathoraciques.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32464670&#34; target=&#34;_blank&#34;&gt;32464670&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, patient safety and employee protection are equally important.In cooperation with the Institute for Medical Microbiology and Hospital Hygiene and the occupational medical service, interventions were defined to develop solutions to minimize the COVID-19 transmission risk for examiners and patients despite limited diagnostic and equipment resources. […] Es musste kurzfristig ein Betriebskonzept entwickelt werden, das den aktuellen Hygiene-Empfehlungen des Robert Koch-Instituts (RKI), den Empfehlungen der führenden Fachgesellschaften und dem daraus abgeleiteten internen Hygieneplan entsprach. […] Nach ersten Erfahrungen aus dem Realbetrieb und mehreren „Hygienebegehungen“ waren lediglich geringfügige Nachbesserungen des Konzeptes erforderlich. […] Da es sich bei der SARS-CoV-2-Pandemie um einen dynamischen Prozess mit regelmäßiger Änderung des Entwicklungs- und Informationsstandes handelt, wird das Betriebskonzept regelmäßig neu auf Gültigkeit überprüft und ggf. angepasst.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32496707&#34; target=&#34;_blank&#34;&gt;32496707&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Les survivants d’une forme sévère de COVID-19 peuvent présenter des complications graves de cette infection virale, notamment sur les plans respiratoire et cardiovasculaire, avec asthénie et fatigue importantes. […] Plusieurs études ont déjà démontré le bénéfice d’une réhabilitation précoce après la phase aiguë, surtout chez les patients qui ont séjourné aux soins intensifs. […] Les auteurs présentent un programme de réhabilitation incluant une prise en charge interdisciplinaire avec des critères cliniques simples et reproductibles.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32498097&#34; target=&#34;_blank&#34;&gt;32498097&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Während das Risiko für eine venöse Thromboembolie (VTE) bei Intensivpatienten höher zu sein scheint als bei Patienten auf der Normalstation, deuten aktuelle Obduktionsbefunde und Analysen des zeitlichen Zusammenhangs zwischen VTE-Diagnose und Krankenhausaufnahme darauf hin, dass Thromboembolien auch im ambulanten Bereich signifikant zur Morbidität und Mortalität beitragen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32504925&#34; target=&#34;_blank&#34;&gt;32504925&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2 also hydrolizes des-Arg&lt;sup&gt;9&lt;/sup&gt;-bradykinin (DABK), an active BK metabolite, agonist at BK type 1 receptors (BKB1R), which is upregulated by inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32521557&#34; target=&#34;_blank&#34;&gt;32521557&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eine Unterscheidung zwischen Schmeck- und Geschmacksstörungen, also eine Abgrenzung des retronasalen Aromaschmeckens über das olfaktorische System von der Dysfunktion von Geschmackspapillen und der weiterführenden Hirnnerven, erfolgte in den bisher verfügbaren Studien zumeist nicht.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32534626&#34; target=&#34;_blank&#34;&gt;32534626&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These results suggest that most of the population of Geneva remained uninfected during this wave of the pandemic, despite the high prevalence of COVID-19 in the region (5000 reported clinical cases over &amp;lt;2·5 months in the population of half a million people). […] Swiss Federal Office of Public Health, Swiss School of Public Health (Corona Immunitas research program), Fondation de Bienfaisance du Groupe Pictet, Fondation Ancrage, Fondation Privée des Hôpitaux Universitaires de Genève, and Center for Emerging Viral Diseases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32543338&#34; target=&#34;_blank&#34;&gt;32543338&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It concludes with a call for stronger political leadership for UHC and SRHR as the global community strives to “build back better” after COVID-19. &lt;b&gt;Résumé&lt;/b&gt; La pandémie de COVID-19 n’est pas seulement une crise sanitaire, c’est une véritable crise économique et sociale qui a des conséquences sur la vie et les moyens d’existence de milliards de personnes. […] Il aborde aussi la vulnérabilité des services de santé et droits sexuels et reproductifs en temps de crise, une vulnérabilité qui est aggravée quand ces services ne sont pas inclus et bien intégrés dans les paniers nationaux de la CSU. […] Il se termine par un appel pour un leadership politique plus énergique autour de la CSU ainsi que de la santé et des droits sexuels et reproductifs, tandis que la communauté internationale s’efforce de « se reconstruire en mieux » après le COVID-19. &lt;b&gt;Resumen&lt;/b&gt; La pandemia de COVID-19 no es solo una crisis de salud, sino también una crisis económica y social generalizada, que está impactando la vida y el sustento de miles de millones de personas. […] Concluye con un llamado a mejor liderazgo político para la CUS y SDSR, a medida que la comunidad mundial lucha por ‘reconstruir mejor’ después de COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32544563&#34; target=&#34;_blank&#34;&gt;32544563&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The virus-mediated down-regulation of ACE2 causes a burst of inflammatory cytokine release through dysregulation of the renin-angiotensin-aldosterone system (ACE/angiotensin II/AT1R axis), attenuation of Mas receptor (ACE2/MasR axis), increased activation of [des-Arg9]-bradykinin (ACE2/bradykinin B1R/DABK axis), and activation of the complement system including C5a and C5b-9 components.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32547908&#34; target=&#34;_blank&#34;&gt;32547908&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The upper limit determined for the log-reduction dose (90% reduction) is approximately 10.6 mJ/cm&lt;sup&gt;2&lt;/sup&gt; (median), while the true value is probably only 3.7 mJ/cm&lt;sup&gt;2&lt;/sup&gt; (median). &lt;b&gt;Conclusion:&lt;/b&gt; Since coronaviruses do not differ structurally to any great exent, the SARS-CoV-2 virus - as well as possible future mutations - will very likely be highly UV sensitive, so that common UV disinfection procedures will inactivate the new SARS-CoV-2 virus without any further modification. &lt;b&gt;Hintergrund:&lt;/b&gt; Um die weltweite Ausbreitung des SARS-CoV-2 Virus zu verlangsamen, werden geeignete Desinfektionstechniken benötigt. […] Der ermittelte obere Grenzwert für die log-Reduktionsdosis (90% Reduktion) beträgt ungefähr 10.6 mJ/cm&lt;sup&gt;2&lt;/sup&gt; (Median), während der wahre Wert vermutlich nur etwa 3.7 mJ/cm&lt;sup&gt;2&lt;/sup&gt; (Median) beträgt.&lt;b&gt;Schlussfolgerung:&lt;/b&gt; Da sich Coronaviren in ihrer Struktur nicht stark unterscheiden, wird auch das neue SARS-CoV-2 Virus – und mögliche zukünftige Mutationen – sehr UV-empfindlich sein, vermutlich sogar so UV-empfindlich, dass etablierte UV-Desinfektionsverfahren das neue SARS-CoV-2 Virus ohne zusätzliche Modifikationen effizient inaktivieren können.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32547911&#34; target=&#34;_blank&#34;&gt;32547911&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nach Ansicht der unterzeichnenden Hygiene- und Pädiatrie-Fachgesellschaften zeigen die bislang veröffentlichten Analysen über die Ausbreitungsdynamik von SARS-CoV-2 und die Verläufe von CoVid-19, dass Kinder im Vergleich zu Erwachsenen eine deutlich untergeordnetere Rolle in der Verbreitung des Virus einnehmen.Kinder und Jugendliche erkranken nach den bislang vorliegenden Erkenntnissen nicht nur seltener, sondern auch im Falle einer Infektion in der Regel weniger schwer als Erwachsene. […] Die übergroße Mehrzahl der Infektionen im Kindes- und Jugendalter verläuft asymptomatisch oder oligosymptomatisch. […] Unabhängig von den bei Kindern und Jugendlichen umgesetzten Präventionsmaßnahmen ist der Schutz des Lehr-, Erziehungs- und Betreuungspersonals ganz entscheidend (Abstandswahrung untereinander, Mund-Nasen-Schutz, situationsabhängige Möglichkeit zur Händedesinfektion, ggfls. unterstützt durch regelmäßige Pooltestung). […] Hier erlauben eine weitgehende Abstandswahrung (1,5 m), das Tragen einer Mund-Nasen-Bedeckung (solange die Schüler nicht an dem ihnen zugewiesenen Platz sitzen) und die konsequente Erziehung in den Grundregeln der Infektionsprävention größere Spielräume für eine Normalisierung des Unterrichtsbetriebes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32558456&#34; target=&#34;_blank&#34;&gt;32558456&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+La pandémie actuelle liée au nouveau coronavirus a mis en évidence l’importance de prendre en considération des catégories de population particulièrement à risque de contracter la maladie Covid-19 et/ou d’y développer des formes sévères. […] Cependant, derrière cette expression englobante se cache des réalités diverses, souvent interdépendantes, dont la prise en compte spécifique et la compréhension semblent indispensables à une bonne gestion de l’épidémie et de ses conséquences sanitaires et socio-économiques.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32558641&#34; target=&#34;_blank&#34;&gt;32558641&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Les coronavirus sont des virus enveloppés à ARN simple brin de polarité positive, qui, comme tous les virus, exploitent la machinerie cellulaire pour se multiplier.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32558642&#34; target=&#34;_blank&#34;&gt;32558642&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Des observateurs étrangersl s’étonnent que le confinement jusqu’ici ait été dans l’ensemble respecté en France sans révoltes véritables. […] La peur du virus inconnu, invisible et sournois, qui a frappé la population, mais aussi la peur de l’autorité et des contrôles, celle de l’Autre et celle de l’étranger possibles porteurs, sont probablement pour beaucoup dans cette résignation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32636131&#34; target=&#34;_blank&#34;&gt;32636131&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To describe how lockdown has affected the evolution of the weekly rate of myocardial infarctions (non-ST-segment and ST-segment elevation) hospital admissions in Lyon, the second largest city in France. […] Based on the national hospitalisation database [Programme de médicalisation des systèmes d’information (PMSI)], all patients admitted to the main public hospitals for a principal diagnosis of myocardial infarction or birth during the 2nd to the 14th week of 2020 were included.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32669938&#34; target=&#34;_blank&#34;&gt;32669938&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The Quebec Lung Cancer Network, which oversees thoracic oncology services in the province of Quebec under the direction of the Ministère de la Santé et des Services sociaux, convened to develop recommendations to deal with the potential disruption of services in thoracic oncology in the province of Quebec.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32761647&#34; target=&#34;_blank&#34;&gt;32761647&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-COV-2-induced ACE2 inhibition leads to the augmentation of bradykinin 1-receptor effects, as ACE2 inactivates des-Arg9-bradykinin, a bradykinin metabolite.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32814095&#34; target=&#34;_blank&#34;&gt;32814095&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The most worrisome of all arrhythmogenic mechanisms is the QT prolonging effect of various anti-COVID pharmacotherapies that can lead to polymorphic ventricular tachycardia in the form of torsade des pointes and sudden cardiac death.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32834893&#34; target=&#34;_blank&#34;&gt;32834893&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The depletion of ACE2 results in the accumulation of des-Arg (9)-bradykinin and possible bradykinin, both of which bind to bradykinin receptors and induce vasodilation, lung injury, and inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32849666&#34; target=&#34;_blank&#34;&gt;32849666&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+B1-receptors, binding the metabolite [des-Arg9]-BK (DABK), are up-regulated during infections and mediate lung inflammatory responses. […] BK could play a relevant role in COVID-19 as already described for other viral models.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32871606&#34; target=&#34;_blank&#34;&gt;32871606&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In der Kinder- und Jugendmedizin stehen die Fragen und Probleme des Schulunterrichts, der fehlenden sozialen Kontakte innerhalb der peer group und der häuslichen Gewalt im Vordergrund der Fragen zur Auswirkung der Pandemie auf die Gesundheit (Wade M et al., Psychiatry Res 2020; 290:113-143). […] Mögliche Auswirkungen auf die Umsetzung der Richtlinie des Gemeinsamen Bundesausschuss (G-BA) über die Früherkennung von Krankheiten bei Kinder (Vorsorge-Untersuchungen U1-U9) sind bislang nicht bekannt.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32871886&#34; target=&#34;_blank&#34;&gt;32871886&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this study was to survey the prevalence of dry eye symptoms (DES) among doctors and nurses in the period of 2019, novel coronavirus (COVID-19) outbreak.To evaluate the DES of doctors and nurses worked at front-line hospitals with protective glasses for a mean time of 4 to 6 hours, a questionnaire developed by the researchers with the Ocular Surface Disease Index (OSDI) was used. […] These data were evaluated using descriptive statistics and correlation test with SPSS 22.0. […] According to the OSDI scores, 64.15, 24.52, 7.54, and 3.77% of the participants experienced occasional, mild, moderate, and severe DES, respectively. […] The factors significantly correlated with OSDI scores were age and duration of wearing protective glasses, while the duration of wearing protective glasses may be a protective factor of dry eye symptoms.Our study showed that most of the doctors and nurses worked at the front-line of combating COVID-19 did not experience DES, while the symptoms of those who experienced DES might be improved by wearing protective glasses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32881293&#34; target=&#34;_blank&#34;&gt;32881293&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vor kurzem zwang die durch das schwere akute respiratorische Syndrom-Coronavirus 2 (SARS-CoV-2) verursachte Pandemie die gesamte medizinische Gemeinschaft, ihre Gewohnheiten bezüglich der medizinischen Fortbildung und Lehre sowie des Lernens in der Medizin zu ändern. […] Infolgedessen rückten über soziale Medien (Social Media) verbreitete digitale Aus-, Fortbildungs- und Lehrformate, medizinische Online-Enzyklopädien, webbasierte medizinische Lernportale und medizinische Podcasts in den Vordergrund.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32889019&#34; target=&#34;_blank&#34;&gt;32889019&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A sample of 205 patients was randomly drawn from the RICO (Observatoire des infarctus de Côte d’Or) cohort.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32890937&#34; target=&#34;_blank&#34;&gt;32890937&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We herein evaluated the analytical performances of the CE IVD-labeled Abbott SARS-CoV-2 IgG assay (Des Plaines, IL, USA) carried out with the automated Abbott Architect™ i2000 platform at Hôpital Européen Georges Pompidou, Paris, France, using serum sample panels obtained from health-workers with COVID-19 history confirmed by positive nucleic acid amplification-based diagnosis and from patients randomly selected for whom serum samples were collected before the COVID-19 epidemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DES</title>
+      <link>/genepanel/1674/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/1674/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;desmin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DES</title>
+      <link>/genepanel/1674/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/1674/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;desmin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

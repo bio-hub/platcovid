@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>G6PD</title>
+      <title>IL6</title>
       <link>/genepanel/3569/info/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/3569/info/</guid>
@@ -21,23 +21,23 @@
 
 
 &lt;hr /&gt;
-&lt;p&gt;glucose-6-phosphate dehydrogenase&lt;/p&gt;
+&lt;p&gt;interleukin 6&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/2539&#34; target=&#34;_blank&#34;&gt;2539&lt;/a&gt; | Type: Protein Coding |
-Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=2539&#34; target=&#34;_blank&#34;&gt; Xq28&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/611162&#39; target=&#39;_blank&#39;&gt;611162&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/305900&#39; target=&#39;_blank&#39;&gt;305900&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/300908&#39; target=&#39;_blank&#39;&gt;300908&lt;/a&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/3569&#34; target=&#34;_blank&#34;&gt;3569&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=3569&#34; target=&#34;_blank&#34;&gt; 7p15.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/604302&#39; target=&#39;_blank&#39;&gt;604302&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/266600&#39; target=&#39;_blank&#39;&gt;266600&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/222100&#39; target=&#39;_blank&#39;&gt;222100&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/148000&#39; target=&#39;_blank&#39;&gt;148000&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/147620&#39; target=&#39;_blank&#39;&gt;147620&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/108010&#39; target=&#39;_blank&#39;&gt;108010&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes glucose-6-phosphate dehydrogenase. This protein is a cytosolic enzyme encoded by a housekeeping X-linked gene whose main function is to produce NADPH, a key electron donor in the defense against oxidizing agents and in reductive biosynthetic reactions. G6PD is remarkable for its genetic diversity. Many variants of G6PD, mostly produced from missense mutations, have been described with wide ranging levels of enzyme activity and associated clinical symptoms. G6PD deficiency may cause neonatal jaundice, acute hemolysis, or severe chronic non-spherocytic hemolytic anemia. Two transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jul 2008] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a cytokine that functions in inflammation and the maturation of B cells. In addition, the encoded protein has been shown to be an endogenous pyrogen capable of inducing fever in people with autoimmune diseases or infections. The protein is primarily produced at sites of acute and chronic inflammation, where it is secreted into the serum and induces a transcriptional inflammatory response through interleukin 6 receptor, alpha. The functioning of this gene is implicated in a wide variety of inflammation-associated disease states, including suspectibility to diabetes mellitus and systemic juvenile rheumatoid arthritis. Elevated levels of the encoded protein have been found in virus infections, including COVID-19 (disease caused by SARS-CoV-2). [provided by RefSeq, Aug 2020] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
     </item>
     
     <item>
-      <title>G6PD</title>
+      <title>IL6</title>
       <link>/genepanel/3569/gene_expression/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/3569/gene_expression/</guid>
@@ -46,13 +46,13 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/611162&#39; target=&#39;_blank&#39;
 
 
 &lt;hr /&gt;
-&lt;p&gt;glucose-6-phosphate dehydrogenase&lt;/p&gt;
+&lt;p&gt;interleukin 6&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Expression&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; G6PD expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;strong&gt;Table 1.&lt;/strong&gt; IL6 expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -74,35 +74,7 @@ mRNA
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-bone marrow
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-70.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ovary
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-30.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000159339
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 spleen
@@ -111,295 +83,211 @@ spleen
 High
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-36.7
+5.9
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-testis
+appendix
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-High
+Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-107.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-thyroid gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-78.1
+41.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+41.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 breast
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Low
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.9
+5.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 cerebral cortex
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Low
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.4
+3.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 colon
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Low
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-13.9
+5.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 duodenum
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Low
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-12.9
+2.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 endometrium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Low
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-23.5
+8.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+37.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 fallopian tube
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Low
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-hippocampus
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
+5.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+61.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 kidney
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-11.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-lymph node
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-33.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-pancreas
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-salivary gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-9.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-skin
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-25.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-soft tissue
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-spleen
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-36.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-tonsil
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-34.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-vagina
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-cerebral cortex
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-40.4
+2.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-endometrium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-23.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-heart muscle
+liver
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
@@ -410,21 +298,7 @@ Not detected
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-liver
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-3.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 lung
@@ -433,15 +307,85 @@ lung
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-44.1
+50.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+21.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
@@ -452,21 +396,21 @@ Not detected
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-skeletal muscle
+seminal vesicle
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.2
+2.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 small intestine
@@ -475,194 +419,138 @@ small intestine
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-13.8
+1.1
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-adrenal gland
+smooth muscle
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-35.5
+29.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spleen
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+73.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000159339
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 appendix
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-41.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-breast
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-41.9
+1.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000159339
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-bronchus
+spleen
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
+Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-NA
+5.9
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-cervix, uterine
+bone marrow
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-32.3
+27.3
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-colon
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-13.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-endometrium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-23.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-epididymis
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-16.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-esophagus
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-60.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-gallbladder
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-74.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-kidney
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-11.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-liver
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-3.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-lung
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-44.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 lymph node
@@ -671,194 +559,12 @@ lymph node
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-33.2
+9.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-nasopharynx
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-oral mucosa
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ovary
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-30.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-parathyroid gland
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-16.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-placenta
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-19.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-prostate
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-19.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-rectum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-14.5
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-seminal vesicle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-20.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-skin
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-25.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-smooth muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-37.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-soft tissue
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-NA
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-stomach
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-17.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-testis
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Medium
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-107.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 tonsil
@@ -867,12 +573,26 @@ tonsil
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-34.4
+2.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000159339
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+71.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000136244
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 adipose tissue
@@ -881,21 +601,21 @@ adipose tissue
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-47.4
+136.4
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000160211
+ENSG00000159339
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-urinary bladder
+adipose tissue
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-30.1
+1.6
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -905,7 +625,7 @@ NA
     </item>
     
     <item>
-      <title>G6PD</title>
+      <title>IL6</title>
       <link>/genepanel/3569/gene_context/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/3569/gene_context/</guid>
@@ -914,13 +634,13 @@ NA
 
 
 &lt;hr /&gt;
-&lt;p&gt;glucose-6-phosphate dehydrogenase&lt;/p&gt;
+&lt;p&gt;interleukin 6&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of G6PD gene in 6 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of IL6 gene in 55 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -936,50 +656,442 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32281268&#34; target=&#34;_blank&#34;&gt;32281268&lt;/a&gt;
+&lt;a href=&#34;/publication/32176772&#34; target=&#34;_blank&#34;&gt;32176772&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-HCov-229E is one of the four flu-causing coronaviruses which share great sequence similitude, while many symptoms of patients infected with COVID-19 resemble those of patients infected with these known flu-causing coronaviruses.&lt;sup&gt;2&lt;/sup&gt; A previous study reported that human lung epithelial A549 cells treated with glucose 6-phosphate dehydrogenase (G6PD) interfering RNA (RNAi) to lower G6PD activity displayed augmented (12-fold) viral production in comparison to normal counterparts when infected with coronavirus HCov-229E. […] Moreover, viral replication in these G6PD-deficient cells was found to be 3-fold higher than normal cells, following a 10-h incubation, as estimated by quantitative polymerase chain reaction (qPCR).&lt;sup&gt;3&lt;/sup&gt; G6PD deficiency remains the most common human enzymatic disorder of red blood cells worldwide.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32316233&#34; target=&#34;_blank&#34;&gt;32316233&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Glucose-6-Phosphate Dehydrogenase (G6PD) deficiency screening test is essential for malaria treatment, control, and elimination programs. […] G6PD deficient individuals are at high risk of severe hemolysis when given anti-malarial drugs such as primaquine, quinine, other sulphonamide-containing medicines, and chloroquine, which has recently been shown to be potent for the treatment of coronavirus disease (COVID-19). […] We evaluated the geographical accessibility to POC testing for G6PD deficiency in Ghana, a malaria-endemic country. […] We also obtained the geolocated data of all public hospitals providing G6PD deficiency testing services in the region. […] Using ArcGIS 10.5, we quantified geographical access to G6PD deficiency screening test and identified clinics as well as visualize locations with poor access for targeted improvement. […] Access to G6PD deficiency screening test was varied across the districts, and G6PD deficiency screening test was available in all eight public hospitals. […] This implies that the health facility-to-population ratio for G6PD deficiency testing service was approximately 1:159,210 (8/1,273,677) population. […] The spatial analysis quantified the current mean distance to a G6PD deficiency testing service from all locations in the region to be 34 ± 14 km, and travel time (68 ± 27 min). […] The estimated mean distance from a clinic to a district hospital for G6PD deficiency testing services was 15 ± 11 km, and travel time (46 ± 33 min). […] Access to POC testing for G6PD deficiency in Ghana was poor. […] Given the challenges associated with G6PD deficiency, it would be essential to improve access to G6PD deficiency POC testing to facilitate administration of sulphadoxine-pyrimethamine to pregnant women, full implementation of the malaria control program in Ghana, and treatment of COVID-19 patients with chloroquine in malaria-endemic countries. […] To enable the World Health Organization include appropriate G6PD POC diagnostic tests in its list of essential in-vitro diagnostics for use in resource-limited settings, we recommend a wider evaluation of available POC diagnostic tests for G6PD deficiency, particularly in malaria-endemic countries.
+Compared with SpO2≥90% group, patients of the SpO2&amp;lt;90% group were older, and showed more comorbidities and higher plasma levels of IL6, IL10, lactate dehydrogenase, and c reactive protein.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32324284&#34; target=&#34;_blank&#34;&gt;32324284&lt;/a&gt;
+&lt;a href=&#34;/publication/32259129&#34; target=&#34;_blank&#34;&gt;32259129&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Glucose-6-phosphate dehydrogenase (G6PD) deficiency is an inherited genetic disorder caused by red cell enzymatic defects and is associated with haemolytic crisis when patients are exposed to oxidative agents (fava beans, drugs, infections). […] Hydroxychloroquine is suspected to trigger haemolytic crisis in G6PD-deficient patients, and off-label administration of this drug to patients infected with the novel coronavirus (SARS-CoV-2) could cause concern. […] We report here the first case of severe haemolytic crisis in a patient with G6PD deficiency, initiated by severe COVID-19 infection and hydroxychloroquine use. […] With worldwide spread of COVID-19, especially in regions with a high prevalence of G6PD deficiency, our case should alert physicians to this possible correlation.
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32493447&#34; target=&#34;_blank&#34;&gt;32493447&lt;/a&gt;
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Exclusion criteria include: History of COVID -19 virus infection, clinical symptoms such as fever, nausea, dyspnea and myalgia in the past two months, history of underlying diseases hypersensitivity to hydroxychloroquine and G6PD enzyme deficiency.
+In this context, both &lt;i&gt;in vitro&lt;/i&gt; and &lt;i&gt;in vivo&lt;/i&gt; studies have revealed that metronidazole could decrease the levels of several cytokines, which are known to increase during the COVID-19 infection, including interleukin (IL)8, IL6, IL1B, tumor necrosis factor (TNF)α, IL12, IL1α, and interferon (IFN)γ, as well as the levels of C-reactive protein (CRP) and neutrophil count.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32496938&#34; target=&#34;_blank&#34;&gt;32496938&lt;/a&gt;
+&lt;a href=&#34;/publication/32371479&#34; target=&#34;_blank&#34;&gt;32371479&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Hydroxychloroquine (HCQ) has its own side effects, some of which are very serious like acute haemolysis in glucose-6-phosphate dehydrogenase (G6PD) deficient patients. […] We report a case of acute haemolysis leading to admission in intensive care unit and renal failure in a patient with uncovered G6PD deficiency.
+Early reports suggest that tocilizumab, an IL6 receptor-blocking antibody used to manage toxicities associated with chimeric antigen receptor T-cell therapy, may help control cytokine storms in people infected with COVID-19.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32500556&#34; target=&#34;_blank&#34;&gt;32500556&lt;/a&gt;
+&lt;a href=&#34;/publication/32376394&#34; target=&#34;_blank&#34;&gt;32376394&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-However, the article also suggested that hydroxychloroquine possibly worsened the hemolysis, and further cautioned the use of hydroxychloroquine in glucose-6-phosphate dehydrogenase (G6PD)-deficient patients.
+Herein, we discuss the pathogenesis and the possible role played by drugs such as: antimalarials, anti-IL6, anti-IL-1, calcineurin and JAK inhibitors, corticosteroids, immunoglobulins, heparins, angiotensin-converting enzyme agonists and statins in severe COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32413736&#34; target=&#34;_blank&#34;&gt;32413736&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Also, the pro-inflammatory cytokine IL6 is the best-documented cytokine in COVID-19 correlated with severity, criticality, viral load, and prognosis of patients with COVID-19. […] Tocilizumab, a monoclonal antibody against IL6, could confer clinical benefit in patients with high IL6 levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32416121&#34; target=&#34;_blank&#34;&gt;32416121&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There were significant differences in SaO&lt;sub&gt;2&lt;/sub&gt;, serum ferritin level, C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), fibrinogen (Fbg) level, and IL6 level among the three groups. […] A pairwise comparison of the groups showed that groups B and C were significantly different from group A in terms of CRP, ESR, and Fbg, IL6, and serum ferritin levels (P &amp;lt; 0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32427582&#34; target=&#34;_blank&#34;&gt;32427582&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Circulating cytokines, including IL8, IL6, TNFα, IP10, MCP1, and RANTES, were significantly elevated in severe COVID-19 patients. […] Dynamic IL6 and IL8 were associated with disease progression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32436994&#34; target=&#34;_blank&#34;&gt;32436994&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is suggestive that anti-IL6 results in the improvement of this hyperinflammatory state.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32462717&#34; target=&#34;_blank&#34;&gt;32462717&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In order to reduce the cytokine storm, we would like to propose the IL6 receptor antagonist therapy for the COVID-19 patients. […] Two humanized monoclonal antibodies are in clinical trial following IL6R antagonist therapies namely tocilizumab and sarilumab. […] However, researchers and physicians should look for more IL6 receptor antagonists for the therapy of cytokine storm syndrome SARS-CoV-2 infected persons to enhance the therapeutic options for cytokine storm.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32472461&#34; target=&#34;_blank&#34;&gt;32472461&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The rational use of these anti-rheumatic drugs is based on the cytokinic storm (hyperproduction of IL1, IL6, TNF α) in the body by COVID-19 in its severe form.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32489026&#34; target=&#34;_blank&#34;&gt;32489026&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Total 219 core target proteins were predicted, such as NFKB1, STAT1, RAF1, IL2, JAK1, IL6, TNF, BCL2 and other important targets, and 221 core target pathways were enriched, including cancer pathway, Kaposi’s sarcoma-associated herpes virus infection, chemokine signal pathway, PI3 K-AKT signal pathway, EB virus infection, virus carcinogenesis and T cell receptor signaling pathways, a collection of which were highly related to cytokine storms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32492562&#34; target=&#34;_blank&#34;&gt;32492562&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Immune cells accumulate in visceral adipose tissue and together with paracrine adipocytes release a wide range of biologically active cytokines (including IL-1β, IL5, IL6 and IL8) that can result in both local, pulmonary and systemic inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32503815&#34; target=&#34;_blank&#34;&gt;32503815&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lung destruction appears to be associated with a cytokine storm related to an increased level of interleukin-6 (IL6). […] This article demonstrates the importance of IL6 in progression of disease and the possibility of inhibition of IL6 signaling in COVID-19 therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32504923&#34; target=&#34;_blank&#34;&gt;32504923&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+T cell exhaustion, high viral load, and high levels of TNF-ɑ, IL1β, IL6, IL10 have been associated with severe SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32511971&#34; target=&#34;_blank&#34;&gt;32511971&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Some certain laboratory inspections could predict the progress of the COVID-19 changes, especially lymphocytes, CRP, PCT, ALT, AST, LDH, D-dimer, CD4 T cells and IL6, which provide valuable signals for preventing the deterioration of the disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32533777&#34; target=&#34;_blank&#34;&gt;32533777&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, logistic regression models showed neutrophils counts, pro-inflammatory cytokines (TNF-α, IL6, IL1β, IL2R), and coagulation dysfunction biomarkers (D-Dimer, PT, Fbg) were significantly associated with the poor clinical outcomes of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32536965&#34; target=&#34;_blank&#34;&gt;32536965&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Finally, before and after application of DYY, the core target gene IL6 of COVID-19 patients was detected by ELISA to validate the clinical effects. […] This study demonstrated that the use of DYY in the treatment of COVID-19 involved a variety of biological processes, and DYY acted on key targets such as IL6, ILIB, and CCL2 through signaling pathways such as the IL-17 signaling pathway, AGE-RAGE signaling pathway in diabetic complications, and cytokine-cytokine receptor interaction. […] Second, the molecular docking results showed that there was a certain affinity between the core compounds (kaempferol, quercetin, 7-Methoxy-2-methyl isoflavone, naringenin, formononetin) and core target genes (IL6, IL1B, CCL2). […] Finally, clinical studies showed that the level of IL6 was elevated in COVID-19 patients, and DYY can reduce its levels.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32541085&#34; target=&#34;_blank&#34;&gt;32541085&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on the current knowledge, interleukin-6 (IL6) plays a pivotal role in COVID-19 associated CRS. […] Case reports and result of small case series suggest efficacy of an IL6 inhibitor monoclonal antibody (tocilizumab) in treating CRS. […] To our knowledge, the first case of severe COVID-19-associated cytokine storm syndrome - treated succesfully with IL6 monoclocal antibody at a Hungarian department of infectology - is presented here.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32547309&#34; target=&#34;_blank&#34;&gt;32547309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The positive rate of ESR, CRP, PT, IL6, lymphocyte count, GGT, Prealbumin and CD4 was more than 50%. […] Although there is no statistical difference in GGT, 100% of the 7 patients tested decreased. &lt;b&gt;Conclusion:&lt;/b&gt; Our data recommended that the ESR, CRP, PT, IL6, lymphocyte count, GGT, prealbumin and CD4 have important value in the diagnosis of COVID-19, and the decrease of GGT may be an important indicator for judging the intestinal dysfunction of patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32593183&#34; target=&#34;_blank&#34;&gt;32593183&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Anti-IL6 therapy has shown promise in restraining the hyperinflammatory syndrome and while IL-6 is a pleiotropic mediatory of the inflammatory response, redundancy within inflammatory pathways means that the use of such targeted monoclonal therapy may have too restricted a repertoire in some patients. […] We present the case of a 53-year-old haematopoetic stem cell transplant recipient who developed a severe COVID-19 that was refractory to anti-IL6 therapy, but responded to Jak-Stat inhibition with ruxolitinib, demonstrating its safety and efficacy in this setting.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32595353&#34; target=&#34;_blank&#34;&gt;32595353&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our results are in accordance with the literature on response of IL6 family of cytokines and their importance, in addition, we find that matrix metalloproteinase 2 (MMP2) and matrix metalloproteinase 9 (MMP9) with keratan sulfate synthesis pathway may play a key role in the infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32626680&#34; target=&#34;_blank&#34;&gt;32626680&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Older age, elevated aspartate aminotransferase, total bilirubin, serum lactate dehydrogenase, blood urea nitrogen, prothrombin time, D-dimer, Procalcitonin, and C-reactive protein levels, decreased albumin, elevated serum cytokines (IL2R, IL6, IL8, IL10, and TNF-α) levels, and a decreased lymphocyte count indicated poor outcome in patients with COVID-19 pneumonia. […] Serum IL6 levels were positively correlated with leucocyte count, neutrophil count, and eosinophil count and negatively correlated with lymphocyte count.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32631405&#34; target=&#34;_blank&#34;&gt;32631405&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Serum levels of WBC, CRP, ESR, IL6, IFN-G, and TNF-α 6.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32643448&#34; target=&#34;_blank&#34;&gt;32643448&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Key targets contained MAPK3, MAPK8, TP53, CASP3, IL6, TNF, MAPK1, CCL2, PTGS2, etc.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32645207&#34; target=&#34;_blank&#34;&gt;32645207&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Antimalarials, anti-IL6-Anti-IL6 receptor, anti-IL1, anti-GM-CSF receptor and JAK1/2/3 inhibitors, are under investigation in COVID-dedicated clinical trials to control the inflammation raised by SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32652164&#34; target=&#34;_blank&#34;&gt;32652164&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report the safety and efficacy (in terms of overall survival and hospital discharge) of the anti-IL6 tocilizumab (TCZ) in subjects with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32665090&#34; target=&#34;_blank&#34;&gt;32665090&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The rationale for their use is based on the immune system runaway and the secretion of pro-inflammatory cytokines (Il1, IL6, TNFα) in severe forms of the disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32673995&#34; target=&#34;_blank&#34;&gt;32673995&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pro-inflammatory cytokines were assessed during hospitalization, and we calculated a prediction paradigm for 30-day mortality based on the serum levels of interleukin1β (IL1β), interleukin6 (IL6), interleukin8 (IL8), and tumor necrosis factor alpha (TNFα) measured by next-generation ELISA. […] Levels of IL6 and TNFα were significantly higher in patients that did not survive. […] IL6 predicted mortality at the cut-off value of 163.4 pg/ml, with a sensitivity of 91.7% and specificity of 57.6%. […] Our findings demonstrate that IL6 expression is significant for the prediction of 30-day mortality in hospitalized COVID19 patients and, therefore, may assist in treatment decisions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32698440&#34; target=&#34;_blank&#34;&gt;32698440&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results indicated that the SARS-CoV-2 infection strongly activates TNF and NFκB-signaling pathways through significant upregulation of the TNF, IL1B, IL6, IL8, NFKB1, NFKB2 and RELB genes. […] Accordingly, a literature search summarized that tiotropium reduced expressions of IL1B, IL6, IL8, RELA, NFKB1 and TNF in vitro or in vivo, and many of them have been known to be deregulated in COPD patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32726008&#34; target=&#34;_blank&#34;&gt;32726008&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After further mining the action targets of these three prescriptions, it was found that COVID-19 disease-specific factors Ccl2, IL10, IL6 and TNF were all the targets of three prescriptions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32727465&#34; target=&#34;_blank&#34;&gt;32727465&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In multivariate analysis, log IL6 was the only independent explanatory variables for CT severity score (β = 0.397, p &amp;lt; 0.001) and PaO2/FiO2 (β = - 0.434, p = 0.003).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32750019&#34; target=&#34;_blank&#34;&gt;32750019&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Stop (kidney transplanted patients) or decrease (liver transplanted patients) immunosuppression and maintain corticosteroids when pulmonal injury develops and consider anti-IL1 and anti-IL6 monoclonal antibody use when hyperinflammatory syndrome is evolving.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32754224&#34; target=&#34;_blank&#34;&gt;32754224&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In hub target analysis, the top hub target IL6, and ACE2, the receptor via which SARS-CoV-2 typically enters host cells, were selected for molecular docking analyses, and revealed good binding activities.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32761495&#34; target=&#34;_blank&#34;&gt;32761495&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The level of ATIII was significantly negatively correlated with the levels of neutrophils, ferritin, LDH, total bilirubin, IL2R, IL6 and IL8 (p &amp;lt; 0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32779733&#34; target=&#34;_blank&#34;&gt;32779733&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Blood vessels exhibited extensive complement deposition with endothelial cell localization of SARS-CoV-2 protein, IL6, and caspase 3; SARS CoV-2 RNA was not seen.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32782109&#34; target=&#34;_blank&#34;&gt;32782109&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Age, AST, LDH, BUN, PT, D-D, IL6, white blood cell and neutrophil counts, T cell and T cell subset counts can efficiently predict clinical outcomes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32789663&#34; target=&#34;_blank&#34;&gt;32789663&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since timing is important, the immune deficiency induced by IL6 blockade at the late immunodeficiency phase of sepsis that follows the initial inflammatory response may be detrimental. […] Finally, monitoring the degree and duration of IL6 blockade may be challenging because of the long half-life of Mabs (2-3 weeks). […] Ruxolitinib, a tyrosine kinase inhibitor selective for JAK1, 2, blocks many pro- and anti-inflammatory cytokines including IL6.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32816392&#34; target=&#34;_blank&#34;&gt;32816392&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Increased expression of inflammatory markers reminiscent of the type 1 interferon pathway (IL6, IL8, CCL2, INFB1) underlaid the immunophenotype associated with T2D.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32826388&#34; target=&#34;_blank&#34;&gt;32826388&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Most severely ill COVID-19 patients manifest a hyperactivated immune response, instigated by interleukin 6 (IL6) that triggers a so called “cytokine storm” and coagulopathy. […] So far overlooked is the fact that both IL6 and hypoxia depress the abundance of a key anticoagulant, Protein S. […] We speculate that the IL6-driven cytokine explosion plus hypoxemia causes a severe drop in Protein S level that exacerbates the thrombotic risk in COVID-19 patients. […] Here we highlight a mechanism by which the IL6-hypoxia curse causes a deadly hypercoagulable state in COVID-19 patients, and we suggest a path to therapy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32837217&#34; target=&#34;_blank&#34;&gt;32837217&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The ingredients (quercetin, formononetin, kaempferol, etc.,) from core herbs could modulate targets (PTGS2 (COX2), PTGS1 (COX1), IL6, CASP3, NOS2, and TNF, etc.), and thereby prevent the pharmacological and non-pharmacological renal injury comparable to that from COVID-19 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32875925&#34; target=&#34;_blank&#34;&gt;32875925&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A ‘cytokine storm’ namely, interleukin IL6-IL1 receptors i.e. […] IL6R-IL1R over-functioning was reported. […] (NS) commonly known as black-cumin-seed was analyzed for COVID-19 protein-targeting and IL1R-IL6R inhibition through molecular-docking-study and biochemical-study in experimental-rat to evaluate antioxidative-capacity. […] The NMR/X-ray-crystallographic/Electron-microscopic structures of COVID-19 Main-protease (6LU7)/Spike-glycoprotein(6vsb)/NSP2(QHD43415_2)/Nucleocapsid(QHD43423), Human IL1R(1itb)-IL6R(1pm9) from PDB were retrieved-analyzed for receptor-ligand interaction.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32883328&#34; target=&#34;_blank&#34;&gt;32883328&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Evidence of hyper inflammatory state as evidenced by at least three of the following: Documented temperature &amp;gt;38°C in the past 48 hours, IL6 &amp;gt;40 pg/ml, or in its absence D-dimer &amp;gt;1.5 μgFEU /ml, Elevated CRP (&amp;gt;100mg/L) and/or a three-fold increase since presentation, Elevated ferritin X5 ULN, Elevated LDH (above the ULN), Elevated fibrinogen (above the ULN).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32891160&#34; target=&#34;_blank&#34;&gt;32891160&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To study the effect of GA on the level of cytokines, TNFα, IL8, IL6 IL10, CRP and the viral load. […] Changes of the level of Tumor Necrosis Factor (TNFα), interleukin IL8, IL6, and IL10 from the baseline values (Four weeks from the start of randomization).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32891582&#34; target=&#34;_blank&#34;&gt;32891582&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Treatment strategies included intravenous immunoglobulin (63%) and intravenous steroids (44%). 29 cases received Infliximab, 47 received IL1 (interleukin) receptor antagonist, and 47 received IL6-receptor antagonist.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32920000&#34; target=&#34;_blank&#34;&gt;32920000&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our results have demonstrated that lopinavir/ritonavir increased the expression of the genes involved in immune response and lipid metabolism (IL6, ICAM1, CCL2, TNF, APOA1, etc.). […] Chloroquine/hydroxychloroquine + azithromycin interacted with 6 genes (CCL2, CTSB, CXCL8, IL1B, IL6 and TNF), whereas chloroquine and azithromycin affected two additional genes (BCL2L1 and CYP3A4), which might be a reason behind a greater number of consequential diseases. […] In contrast to lopinavir/ritonavir, chloroquine/hydroxychloroquine + azithromycin downregulated the expression of TNF and IL6.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32922212&#34; target=&#34;_blank&#34;&gt;32922212&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+IL6, CRP, fibrinogen, and ferritin), without reducing the risk of thrombotic events in this population, creating instead a façade of an improved prognostic outcome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32938496&#34; target=&#34;_blank&#34;&gt;32938496&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Anti-IL6 inhibitors are among the therapeutic armamentarium for preventing the fatal consequences of acute respiratory and multi organ failure in around 20% of the COVID-19 infected patients. […] At present, their use is prioritized to patients with severe interstitial pneumonia (Brescia-COVID Scale-COVID 2-3) with hyperinflammation as determined by the presence of elevated IL6 and/or d-dimer, or progressive d-dimer increase, in patients who otherwise are subsidiary to ICU admission. […] However, many uncertainties remain on the actual role of anti-IL6 inhibitors in this setting, and whether current use and timing is the right one. […] There is the hypothesis that the use of anti-IL6 inhibitors at an earlier state during the hyperinflammatory syndrome would be beneficial and may avoid progressing to ARDS. […] Our limited experience suggests that better treatment outcomes can be achieved when combining IL6-inhibitors (e.g. sarilumab) with corticosteroids.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32952690&#34; target=&#34;_blank&#34;&gt;32952690&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The virus is capable of producing an excessive immune reaction in the host; for some patients, the disaster starts from a ‘cytokine storm’ with tissue damage (one of the protagonists is IL6) (6).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32978039&#34; target=&#34;_blank&#34;&gt;32978039&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Four compounds (baicalin, glycyrrhizic acid, hesperidin, and hyperoside) and 7 targets (AKT1, TNF-α, IL6, PTGS2, HMOX1, IL10, and TP53) were key molecules related to QFPDD’s effects. […] At last, in intro experiments validated QFPDD’s important effects, including the inhibition of IL6, CCL2, TNF-α, NF-κB, PTGS1/2, CYP1A1, CYP3A4 activity, the up-regulation of IL10 expression, and repressing platelet aggregation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33025599&#34; target=&#34;_blank&#34;&gt;33025599&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After a series of bioinformatics assays, seven kernel targets were obtained, including TNF, IL6, IFNG, IL1B, IL10, IL4, and TLR9.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33029094&#34; target=&#34;_blank&#34;&gt;33029094&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+RELA, MAPK1, MAPK14, CASP3, CASP8 and IL6 were the key target genes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33040779&#34; target=&#34;_blank&#34;&gt;33040779&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ICU admitted patients had higher IL6 levels (p=0.001). […] Our study shows that there may be possible associations of IL6 and disease severity and ICU stay length.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33041797&#34; target=&#34;_blank&#34;&gt;33041797&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The shared genes included MMP13, NLRP3, TRIM21, GBP1, ADORA2A, PTAFR, TNF, MLNR, IL1B, NFKBIA, ADRB2, and IL6.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33046317&#34; target=&#34;_blank&#34;&gt;33046317&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The majority of patients was subjected to the off - label protocol with antivirals and hydroxychloroquine therapy, we used cortisone support therapy under surveillance and in 3 cases the protocol with anti - IL6 monoclonal antibody (Tolicizumab).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33046696&#34; target=&#34;_blank&#34;&gt;33046696&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Finally, we define airway responses to common coronavirus infections in children, finding that these infections generate host responses similar to other viral species, including upregulation of IL6 and ACE2.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -990,7 +1102,7 @@ However, the article also suggested that hydroxychloroquine possibly worsened th
     </item>
     
     <item>
-      <title>G6PD</title>
+      <title>IL6</title>
       <link>/genepanel/3569/clinvar/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/3569/clinvar/</guid>
@@ -998,7 +1110,7 @@ However, the article also suggested that hydroxychloroquine possibly worsened th
 
 
 &lt;hr /&gt;
-&lt;p&gt;glucose-6-phosphate dehydrogenase&lt;/p&gt;
+&lt;p&gt;interleukin 6&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;ClinVar Summary&lt;/h2&gt;
@@ -1012,7 +1124,7 @@ Under development
     </item>
     
     <item>
-      <title>G6PD</title>
+      <title>IL6</title>
       <link>/genepanel/3569/geo/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/3569/geo/</guid>
@@ -1020,7 +1132,7 @@ Under development
 
 
 &lt;hr /&gt;
-&lt;p&gt;glucose-6-phosphate dehydrogenase&lt;/p&gt;
+&lt;p&gt;interleukin 6&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;GEO dataset Summary&lt;/h2&gt;

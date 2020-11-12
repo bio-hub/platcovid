@@ -5,12 +5,28 @@
     <link>/author/yoon-seok-chung/</link>
       <atom:link href="/author/yoon-seok-chung/index.xml" rel="self" type="application/rss+xml" />
     <description>Yoon Seok Chung</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Yoon Seok Chung</title>
       <link>/author/yoon-seok-chung/</link>
     </image>
+    
+    <item>
+      <title>Detection and Isolation of SARS-CoV-2 in Serum, Urine, and Stool Specimens of COVID-19 Patients from the Republic of Korea.</title>
+      <link>/publication/32528816/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32528816/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-Wide Identification and Characterization of Point Mutations in the SARS-CoV-2 Genome.</title>
+      <link>/publication/32528815/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32528815/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Viral Load Kinetics of SARS-CoV-2 Infection in First Two Patients in Korea.</title>

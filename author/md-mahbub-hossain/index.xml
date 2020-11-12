@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Md Mahbub Hossain | PlatCOVID</title>
+    <link>/author/md-mahbub-hossain/</link>
+      <atom:link href="/author/md-mahbub-hossain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Md Mahbub Hossain</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Md Mahbub Hossain</title>
+      <link>/author/md-mahbub-hossain/</link>
+    </image>
+    
+    <item>
+      <title>Impact of Rumors and Misinformation on COVID-19 in Social Media.</title>
+      <link>/publication/32498140/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32498140/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geriatric Health in Bangladesh during COVID-19: Challenges and Recommendations.</title>
+      <link>/publication/32501147/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32501147/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

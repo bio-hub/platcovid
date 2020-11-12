@@ -32,7 +32,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;zoledronic&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;zoledronic&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -52,6 +52,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 IV zoledronic acid infusions can be delayed for 6-9 months during the pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32600410&#34; target=&#34;_blank&#34;&gt;32600410&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Amino-bisphosphonates such as zoledronic acid (ZA) can possibly ameliorate or prevent severe COVID-19 disease by at least three distinct mechanisms: (1) as immunostimulants which could boost γδ T cell expansion, important in the acute response in the lung; (2) as DC modulators, limiting their ability to only partially activate T cells; and (3) as prenylation inhibitors of small GTPases in the endosomal pathway of the DC to prevent expulsion of lysosomes containing SARS-CoV-2 virions.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

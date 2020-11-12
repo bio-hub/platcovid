@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giulio Perrone | PlatCOVID</title>
+    <link>/author/giulio-perrone/</link>
+      <atom:link href="/author/giulio-perrone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giulio Perrone</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Giulio Perrone</title>
+      <link>/author/giulio-perrone/</link>
+    </image>
+    
+    <item>
+      <title>Telemedicine during Covid-19 pandemic: Advantage or critical issue?</title>
+      <link>/publication/32490720/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32490720/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The medico-legal implications in medical malpractice claims during Covid-19 pandemic: Increase or trend reversal?</title>
+      <link>/publication/32519568/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32519568/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychological support and psychotherapy via digital devices in Covid-19 emergency time: Some critical issues.</title>
+      <link>/publication/32490713/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32490713/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

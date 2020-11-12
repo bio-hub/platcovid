@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>María Dolores Folgueira | PlatCOVID</title>
+    <link>/author/maria-dolores-folgueira/</link>
+      <atom:link href="/author/maria-dolores-folgueira/index.xml" rel="self" type="application/rss+xml" />
+    <description>María Dolores Folgueira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>María Dolores Folgueira</title>
+      <link>/author/maria-dolores-folgueira/</link>
+    </image>
+    
+    <item>
+      <title>SARS-CoV-2 infection in cancer patients undergoing active treatment: analysis of clinical features and predictive factors for severe respiratory failure and death.</title>
+      <link>/publication/32586724/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32586724/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Varied clinical presentation and outcome of SARS-CoV-2 infection in liver transplant recipients: initial experience at a single center in Madrid, Spain.</title>
+      <link>/publication/32562561/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32562561/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

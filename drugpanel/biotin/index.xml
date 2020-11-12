@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/biotin/</link>
+      <atom:link href="/drugpanel/biotin/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/biotin/</link>
+    </image>
+    
+    <item>
+      <title>BIOTIN</title>
+      <link>/drugpanel/biotin/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/biotin/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db00121&#39; target=&#39;_blank&#39;&gt;db00121&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=biotin&#34; target=&#34;_blank&#34;&gt;biotin&lt;/a&gt; &lt;br&gt;
+Synonymous :(+)-cis-hexahydro-2-oxo-1h-thieno[3,4]imidazole-4-valeric acid | (3as,4s,6ar)-hexahydro-2-oxo-1h-thieno[3,4-d]imidazole-4-valeric acid | 5-(2-oxohexahydro-1h-thieno[3,4-d]imidazol-4-yl)pentanoic acid | biotin | biotina | biotine | biotinum | cis-(+)-tetrahydro-2-oxothieno[3,4]imidazoline-4-valeric acid | cis-hexahydro-2-oxo-1h-thieno(3,4)imidazole-4-valeric acid | cis-tetrahydro-2-oxothieno(3,4-d)imidazoline-4-valeric acid | coenzyme r | d-(+)-biotin | d-biotin | vitamin b7 | vitamin h
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;biotin&lt;/em&gt; gene in 2 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32492196&#34; target=&#34;_blank&#34;&gt;32492196&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This universal SARS-CoV-2 enrichment probe set contains 502 120 nt single-stranded DNA biotin-labeled probes designed based on all available SARS-CoV-2 viral sequences and it can be used to enrich for SARS-CoV-2 sequences without prior knowledge of type or subtype.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32562705&#34; target=&#34;_blank&#34;&gt;32562705&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+While all 11 molecules tested displayed incorporation, 6 exhibited immediate termination of the polymerase reaction (triphosphates of Carbovir, Ganciclovir, Stavudine and Entecavir; 3’-OMe-UTP and Biotin-16-dUTP), 2 showed delayed termination (Cidofovir diphosphate and 2’-OMe-UTP), and 3 did not terminate the polymerase reaction (2’-F-dUTP, 2’-NH&lt;sub&gt;2&lt;/sub&gt;-dUTP and Desthiobiotin-16-UTP).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32631405&#34; target=&#34;_blank&#34;&gt;32631405&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Duration of intervention: 7 days from randomization Intervention in the treatment group: Vitamin A 25,000 IU daily Vitamin D 600,000 IU once during study Vitamin E 300 IU twice daily Vitamin C is taken four times per day B vitamins are taken as a daily Soluvit [which included thiamine nitrate 3.1 mg, sodium riboflavin phosphate 4.9 mg (corresponding to vitamin B2 3.6 mg), nicotinamide 40 mg, pyridoxine hydrochloride 4.9 mg (corresponding to vitamin B6 4.0 mg), sodium pantothenate 16.5 mg (corresponding to pantothenic acid 15 mg), sodium ascorbate 113 mg (corresponding to vitamin C 100 mg), biotin 60 μg, folic acid 400 μg, and cyanocobalamin 5 μg] The control group will not receive any supplements or placebo.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32679620&#34; target=&#34;_blank&#34;&gt;32679620&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Biotinylated peptide amphiphile (Biotin-PA) nanofibers, are designed as a noncovalent binding location for antigens, which are adjuvants to enhance, accelerate, and prolong the immune response triggered by antigens. […] Presenting antigens on synthetic Biotin-PA nanofibers generated a higher immune response than the free antigens delivered with a cytosine-phosphate-guanine oligodeoxynucleotides (CpG ODN) (TLR9 agonist) adjuvant. […] Antigen attached Biotin-PA nanofibers trigger splenocytes to produce high levels of cytokines (IFN-γ, IL-12, TNF-α, and IL-6) and to exhibit a superior cross-presentation of the antigen. […] Both Biotin-PA nanofibers and CpG ODN induce a Th-1-biased IgG subclass response; however, delivering the antigen with Biotin-PA nanofibers induce significantly greater production of total IgG and subclasses of IgG compared to delivering the antigen with CpG ODN. […] Contrary to CpG ODN, Biotin-PA nanofibers also enhance antigen-specific splenocyte proliferation and increase the proportion of the antigen-specific CD8(+) T cells. […] Given their biodegradability and biocompatibility, Biotin-PA nanofibers have a significant potential in immunoengineering applications as a biomaterial for the delivery of a diverse set of antigens derived from intracellular pathogens, emerging viral diseases such as COVID-19, or cancer cells to induce humoral and cellular immune responses against the antigens.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32692666&#34; target=&#34;_blank&#34;&gt;32692666&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In presence of FITC (fluorescein)-/digoxin- and biotin-labeled primers, mRT-LAMP produced numerous FITC-/digoxin- and biotin-attached duplex amplicons, which were determined by LFB through immunoreactions (FITC/digoxin on the duplex and anti-FITC/digoxin on the test line of LFB) and biotin/treptavidin interaction (biotin on the duplex and strptavidin on the polymerase nanoparticle).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32833213&#34; target=&#34;_blank&#34;&gt;32833213&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Biotin-based proximity labeling circumvents major pitfalls of classical biochemical approaches to identify protein-protein interactions. […] It consists of enzyme-catalyzed biotin tags ubiquitously apposed on proteins located in close proximity of the labeling enzyme, followed by affinity purification and identification of biotinylated proteins by mass spectrometry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32938700&#34; target=&#34;_blank&#34;&gt;32938700&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this approach based on the use of enzyme-linked immunosorbent assays (ELISA), we present natively folded viral Spike protein receptor-binding domain (RBD)-containing antigens via avidin-biotin interactions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott H Livingston | PlatCOVID</title>
+    <link>/author/scott-h-livingston/</link>
+      <atom:link href="/author/scott-h-livingston/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scott H Livingston</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Scott H Livingston</title>
+      <link>/author/scott-h-livingston/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of an Electrostatic Spray Disinfectant Technology for Rapid Decontamination of Portable Equipment and Large Open Areas in the Era of SARS-CoV-2.</title>
+      <link>/publication/32522608/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32522608/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

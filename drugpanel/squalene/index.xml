@@ -33,7 +33,7 @@ Synonymous :(all-e)-2,6,10,15,19,23-hexamethyl-2,6,10,14,18,22-tetracosahexaene 
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;squalene&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;squalene&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The nanoparticles are made by conjugating squalene, a natural lipid, to adenosine, an endogenous immunomodulator, and then encapsulating α-tocopherol, as antioxidant.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32864794&#34; target=&#34;_blank&#34;&gt;32864794&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To address this, alum is packed on the squalene/water interphase is packed, forming an alum-stabilized Pickering emulsion (PAPE). […] “Inheriting” from alum and squalene, PAPE demonstrates a good biosafety profile.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

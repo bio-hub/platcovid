@@ -33,7 +33,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;danoprevir&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;danoprevir&lt;/em&gt; gene in 6 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,30 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Patients were divided into two groups according to different treatment plans (danoprevir and lopinavir/ritonavir). […] COVID-19 patients treated with danoprevir or lopinavir/ritonavir were all improved and discharged. […] Additionally, under the circumstance that there was no significant difference in patients’ general information between the two groups, we found that the mean time to achieve both negative nucleic acid testing and hospital stays of patients treated with danoprevir were significantly shorter than those of patients with lopinavir/ritonavir. […] Collectively, applying danoprevir is a good treatment plan for COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32643436&#34; target=&#34;_blank&#34;&gt;32643436&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Initial findings from antivirals such as remdesivir, favipiravir, danoprevir or lopinavir with ritonavir are presented.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32696811&#34; target=&#34;_blank&#34;&gt;32696811&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After treatment with ritonavir-boosted danoprevir (DNVr, 100/100 mg, once daily), all four patients showed two to three consecutive negative SARS-CoV-2 RNA and were thus discharged from hospital.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32798373&#34; target=&#34;_blank&#34;&gt;32798373&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among the drugs that are being tested in clinical trials for COVID-19, Danoprevir and Darunavir have the highest binding affinity for the target main protease of SARS-CoV-2.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

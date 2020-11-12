@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ji Chan Shi | PlatCOVID</title>
+    <link>/author/ji-chan-shi/</link>
+      <atom:link href="/author/ji-chan-shi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ji Chan Shi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Ji Chan Shi</title>
+      <link>/author/ji-chan-shi/</link>
+    </image>
+    
+    <item>
+      <title>Risk factors for adverse clinical outcomes with COVID-19 in China: a multicenter, retrospective, observational study.</title>
+      <link>/publication/32483458/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32483458/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

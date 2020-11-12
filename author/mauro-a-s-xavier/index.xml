@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mauro A S Xavier | PlatCOVID</title>
+    <link>/author/mauro-a-s-xavier/</link>
+      <atom:link href="/author/mauro-a-s-xavier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mauro A S Xavier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Mauro A S Xavier</title>
+      <link>/author/mauro-a-s-xavier/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19: therapeutic approaches description and discussion.</title>
+      <link>/publication/32556054/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32556054/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

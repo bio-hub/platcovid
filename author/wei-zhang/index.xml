@@ -5,12 +5,100 @@
     <link>/author/wei-zhang/</link>
       <atom:link href="/author/wei-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Wei Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Wei Zhang</title>
       <link>/author/wei-zhang/</link>
     </image>
+    
+    <item>
+      <title>Statistical Evaluation of Clinical Trials Under COVID-19 Pandemic.</title>
+      <link>/publication/32583289/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32583289/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-end automatic differentiation of the coronavirus disease 2019 (COVID-19) from viral pneumonia based on chest CT.</title>
+      <link>/publication/32567006/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32567006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathogenesis of SARS-CoV-2 in Transgenic Mice Expressing Human Angiotensin-Converting Enzyme 2.</title>
+      <link>/publication/32516571/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32516571/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of common deletions in the spike protein of SARS-CoV-2.</title>
+      <link>/publication/32571797/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32571797/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-coverage SARS-CoV-2 genome sequences acquired by target capture sequencing.</title>
+      <link>/publication/32492196/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32492196/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-analysis investigating the relationship between clinical features, outcomes, and severity of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pneumonia.</title>
+      <link>/publication/32540370/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32540370/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Analysis on the theory and clinical ideas of acupuncture and moxibustion for the prevention and treatment of coronavirus disease 2019].</title>
+      <link>/publication/32538003/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32538003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Convalescent Plasma Therapy on Time to Clinical Improvement in Patients With Severe and Life-threatening COVID-19: A Randomized Clinical Trial.</title>
+      <link>/publication/32492084/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32492084/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk factors for adverse clinical outcomes with COVID-19 in China: a multicenter, retrospective, observational study.</title>
+      <link>/publication/32483458/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32483458/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Management of critically ill patients with COVID-19 in ICU: statement from front-line intensive care experts in Wuhan, China.</title>
+      <link>/publication/32506258/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32506258/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiating Between 2019 Novel Coronavirus Pneumonia and Influenza Using a Nonspecific Laboratory Marker-Based Dynamic Nomogram.</title>
+      <link>/publication/32490031/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32490031/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clinically Applicable AI System for Accurate Diagnosis, Quantitative Measurements, and Prognosis of COVID-19 Pneumonia Using Computed Tomography.</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L H Sng | PlatCOVID</title>
+    <link>/author/l-h-sng/</link>
+      <atom:link href="/author/l-h-sng/index.xml" rel="self" type="application/rss+xml" />
+    <description>L H Sng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>L H Sng</title>
+      <link>/author/l-h-sng/</link>
+    </image>
+    
+    <item>
+      <title>Initial data from an experiment to implement a safe procedure to perform PA erect chest radiographs for COVID-19 patients with a mobile radiographic system in a clean zone of the hospital ward.</title>
+      <link>/publication/32517970/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32517970/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

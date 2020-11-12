@@ -33,7 +33,7 @@ Synonymous :carmofur
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;carmofur&lt;/em&gt; gene in 4 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;carmofur&lt;/em&gt; gene in 6 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The antineoplastic drug carmofur is shown to inhibit the SARS-CoV-2 main protease (M&lt;sup&gt;pro&lt;/sup&gt;). […] Here, the X-ray crystal structure of M&lt;sup&gt;pro&lt;/sup&gt; in complex with carmofur reveals that the carbonyl reactive group of carmofur is covalently bound to catalytic Cys145, whereas its fatty acid tail occupies the hydrophobic S2 subsite. […] Carmofur inhibits viral replication in cells (EC&lt;sub&gt;50&lt;/sub&gt; = 24.30 μM) and is a promising lead compound to develop new antiviral treatment for COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32787337&#34; target=&#34;_blank&#34;&gt;32787337&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We further searched for low-molecular-weight drugs containing niacin or hit 1 pharmacophores with enhanced inhibiting activity, e.g., carmofur, bendamustine, triclabendazole, emedastine, and omeprazole, in which omeprazole is the only one binding to the C-terminal domain of SARS-CoV-2 Mpro.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

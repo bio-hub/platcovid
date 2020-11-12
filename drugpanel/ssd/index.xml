@@ -32,7 +32,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ssd&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;ssd&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -60,6 +60,14 @@ In treating highly infectious COVID-19 pneumonia, ICU nurses face a high risk of
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Somatic symptom disorder (SSD) is characterized by a dysfunctional preoccupation with physical symptoms leading to excessive and unnecessary healthcare utilization. […] Based on his medical history and current presentation, he received a diagnosis of SSD. […] When COVID-19-like symptoms occur, we highlight the importance of differentially diagnosing a possible exacerbation of a pre-existing SSD, triggered by fear of being infected.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32982615&#34; target=&#34;_blank&#34;&gt;32982615&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The GSA was compared to another approach called SSD-DenseNet121, which depends on the DenseNet121 and the optimization algorithm called social ski driver (SSD). […] As it was able to diagnose COVID-19 better than SSD-DenseNet121 as the second was able to diagnose only 94% of the test set.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

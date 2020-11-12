@@ -33,7 +33,7 @@ Synonymous :1-beta-d-ribofuranosylcytosine | 1β-d-ribofuranosylcytosine | 4-ami
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cytidine&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cytidine&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,30 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The antiviral effect of gemcitabine was suppressed efficiently by the cytidine nucleosides.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32797103&#34; target=&#34;_blank&#34;&gt;32797103&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These enzymes are cytidine deaminases which transform cytosine into uracil. […] They preferentially mutate cytidine preceded by thymidine making the 5’TC motif their favored target.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32933166&#34; target=&#34;_blank&#34;&gt;32933166&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Anti-Neu5Gc appeared in hominins following the inactivation of the cytidine-monophosphate-N-acetyl-neuraminic acid hydroxylase gene, which led to the loss of Neu5Gc &amp;lt;6 million-years-ago.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33006981&#34; target=&#34;_blank&#34;&gt;33006981&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Similarly, to what was previously reported for rubella virus, C to U changes showed enrichment in the uCn motif, which suggested a subclass of APOBEC cytidine deaminase being a source of these substitutions.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

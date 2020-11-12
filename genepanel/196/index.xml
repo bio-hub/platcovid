@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/genepanel/196/</link>
+      <atom:link href="/genepanel/196/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/genepanel/196/</link>
+    </image>
+    
+    <item>
+      <title>AHR</title>
+      <link>/genepanel/196/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/196/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;aryl hydrocarbon receptor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/196&#34; target=&#34;_blank&#34;&gt;196&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=196&#34; target=&#34;_blank&#34;&gt; 7p21.1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/267430&#39; target=&#39;_blank&#39;&gt;267430&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/145500&#39; target=&#39;_blank&#39;&gt;145500&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/106165&#39; target=&#39;_blank&#39;&gt;106165&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene is a ligand-activated helix-loop-helix transcription factor involved in the regulation of biological responses to planar aromatic hydrocarbons. This receptor has been shown to regulate xenobiotic-metabolizing enzymes such as cytochrome P450. Before ligand binding, the encoded protein is sequestered in the cytoplasm; upon ligand binding, this protein moves to the nucleus and stimulates transcription of target genes. [provided by RefSeq, Sep 2015] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AHR</title>
+      <link>/genepanel/196/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/196/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;aryl hydrocarbon receptor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; AHR expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+35.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+caudate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+53.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+hippocampus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+56.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+21.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+spleen
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+25.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+23.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+appendix
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+35.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+56.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+17.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+19.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+24.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bronchus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+caudate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebellum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebral cortex
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+8.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+19.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+hippocampus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+nasopharynx
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skeletal muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+0.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+26.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+21.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+51.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+vagina
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000106546
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adipose tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+23.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AHR</title>
+      <link>/genepanel/196/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/196/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;aryl hydrocarbon receptor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of AHR gene in 30 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32291094&#34; target=&#34;_blank&#34;&gt;32291094&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Age (adjusted hazard ratio (aHR) 1.05/per year, 95%CI 1.004-1.01) and coagulopathy, defined as spontaneous prolongation of the prothrombin time &amp;gt; 3 s or activated partial thromboplastin time &amp;gt; 5 s (aHR 4.1, 95%CI 1.9-9.1), were independent predictors of thrombotic complications.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32442528&#34; target=&#34;_blank&#34;&gt;32442528&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the multivariable Cox model, older age (adjusted hazard ratio [aHR] 1·31 [1·09-1·57] per 10-year increase), chronic cardiac disease (aHR 1·76 [1·08-2·86]), chronic pulmonary disease (aHR 2·94 [1·48-5·84]), higher concentrations of interleukin-6 (aHR 1·11 [95%CI 1·02-1·20] per decile increase), and higher concentrations of D-dimer (aHR 1·10 [1·01-1·19] per decile increase) were independently associated with in-hospital mortality.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32446795&#34; target=&#34;_blank&#34;&gt;32446795&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cox proportional hazard model showed that diabetes (adjusted hazard ratio [aHR]=3.64; 95% confidence interval [CI]: 1.09, 12.21) and fasting blood glucose (aHR=1.19; 95% CI: 1.08, 1.31) were associated with the fatality due to COVID-19, adjusting for potential confounders.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32446978&#34; target=&#34;_blank&#34;&gt;32446978&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Age (adjusted hazard ratio [aHR] 2.08, 95% CI 1.48-2.92 per ten years more) and obesity (aHR 3.04, 95% CI 1.42-6.49) were independently associated with an increased risk of death, which was also associated with critical disease (aHR 8.26, 95% CI 1.41-48.29), C-reactive protein levels (aHR 1.17, 95% CI 1.02-1.35 per 50 mg/L more) and creatinine kinase levels above 185 U/L (aHR 2.58, 95% CI 1.37-4.87) upon admission.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32536150&#34; target=&#34;_blank&#34;&gt;32536150&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Treatment with lopinavir-ritonavir (adjusted hazard ratio [aHR], 2.28; 95% confidence interval [CI], 1.24 to 4.21) and younger age (aHR, 2.64; 95% CI 1.43 to 4.87) was associated with negative conversion of viral RNA.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32597823&#34; target=&#34;_blank&#34;&gt;32597823&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After entry into cells, corona viruses (CoV) activate aryl hydrocarbon receptors (AhRs) by an indoleamine 2,3-dioxygenase (IDO1)-independent mechanism, bypassing the IDO1-kynurenine-AhR pathway. […] The IDO1-kynurenine-AhR signaling pathway is used by multiple viral, microbial and parasitic pathogens to activate AhRs and to establish infections. […] AhRs enhance their own activity through an IDO1-AhR-IDO1 positive feedback loop prolonging activation induced by pathogens. […] Direct activation of AhRs by CoV induces immediate and simultaneous up-regulation of diverse AhR-dependent downstream effectors, and this, in turn, results in a “Systemic AhR Activation Syndrome” (SAAS) consisting of inflammation, thromboembolism, and fibrosis, culminating in multiple organ injuries, and death. […] Activation of AhRs by CoV may lead to diverse sets of phenotypic disease pictures depending on time after infection, overall state of health, hormonal balance, age, gender, comorbidities, but also diet and environmental factors modulating AhRs. […] We hypothesize that elimination of factors known to up-regulate AhRs, or implementation of measures known to down-regulate AhRs, should decrease severity of infection. […] Although therapies selectively down-regulating both AhR and IDO1 are currently lacking, medications in clinical use such as dexamethasone may down-regulate both AhR and IDO1 genes, as calcitriol/vitamin D3 may down-regulate the AhR gene, and tocopherol/vitamin E may down-regulate the IDO1 gene. […] Because lack of physical exercise activates AhRs via the IDO1-kynurenine-AhR signaling pathway increasing risk of infection, physical exercise should be encouraged during quarantines and stay-at-home orders during pandemic outbreaks. […] Understanding which factors affect gene expression of both AhR and IDO1 may help in designing therapies to prevent and treat humans suffering from Covid-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32634602&#34; target=&#34;_blank&#34;&gt;32634602&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The ‘after’ period was associated with a lower risk of death [adjusted hazard ratio (aHR) = 0.47, 95% confidence interval (CI) 0.23-0.97; P = 0.04] and a lower risk of ICU admission or of death before ICU admission (aHR = 0.37, 95% CI 0.21-0.64; P = 0.0005) by multivariate analysis adjusted for age, National Early Warning score and institutionalisation status.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32672840&#34; target=&#34;_blank&#34;&gt;32672840&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Detectable viral RNA in anal swabs (adjusted hazard ratio [aHR], 2.50; 95% confidence interval [CI], 1.20-5.24), increased C-reactive protein (aHR, 3.14; 95% CI, 1.35-7.32) and lymphocytopenia (aHR, 3.12; 95% CI, 1.46-6.67) were independently associated with ICU admission.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32688447&#34; target=&#34;_blank&#34;&gt;32688447&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Multivariable analysis showed that increasing risk of occurrence of COVID-19 among household contacts was associated with female index patients (adjusted hazard ratio [aHR] = 3.84, 95% CI = 1.07-13.78), critical disease index patients (aHR = 7.58, 95% CI = 1.66-34.66), effective contact duration with index patients &amp;gt; 2 days (aHR = 4.21, 95% CI = 1.29-13.73), and effective contact duration &amp;gt; 11 days (aHR = 17.88, 95% CI = 3.26-98.01).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32697835&#34; target=&#34;_blank&#34;&gt;32697835&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Both anti-müllerian hormone (AMH) and estradiol (E2) showed a negative correlation with severity of infection (AHR=0.146/0.304, 95%CI = [0.026-0.824]/[0.092-1.001], p=0.029/0.05).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32702463&#34; target=&#34;_blank&#34;&gt;32702463&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The primary outcome was the time to all-cause mortality (estimated with an adjusted hazard ratio (aHR)), and secondary outcomes were day 7 mortality and the time-to-discharge. […] In the primary analysis, NC infection was associated with lower mortality rate (aHR: 0.71; 95% confidence interval (CI): 0.51-0.98). […] Secondary outcomes found no difference in day 7 mortality (adjusted odds ratio: 0.79; 95% CI: 0.47-1.31), but NC patients required longer time in hospital during convalescence (aHR: 0.49, 95% CI: 0.37-0.66).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32721528&#34; target=&#34;_blank&#34;&gt;32721528&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients treated in stage IIB had lower mortality than those treated in stage III (adjusted hazard ratio (aHR) 0.24, 95% confidence interval (CI) 0.08-0.74). […] Patients treated in stage IIB were more likely to be discharged (aHR 1.43, 95% CI 1.06-1.93) and were less likely to be intubated (aHR 0.43, 95% CI 0.24-0.79).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32748812&#34; target=&#34;_blank&#34;&gt;32748812&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The bioinformatic analysis of the ACE-2 gene identified nine putative consensus motifs for the aryl hydrocarbon receptor (AHR).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32763357&#34; target=&#34;_blank&#34;&gt;32763357&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, HCQ did not decrease the risk of COVID-19 in-hospital death (aHR 1.67; 95% CI: 0.29-9.36).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32785086&#34; target=&#34;_blank&#34;&gt;32785086&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Univariate results suggested a modest protective effect from the use of NSAIDs, but in the multivariable analysis, there was no association between prior NSAID use and time to mortality (adjusted HR (aHR) = 0.89, 95% CI 0.52-1.53, p = 0.67) or length of stay (aHR 0.89, 95% CI 0.59-1.35, p = 0.58).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32838355&#34; target=&#34;_blank&#34;&gt;32838355&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared to the no HC group, after propensity score adjustment for clinical characteristics, the risk of death from any cause was higher in the HC group (adjusted hazard ratio [aHR], 1.83; 95% confidence interval [CI], 1.16-2.89; p = 0.009), but not in the HC+AZ group (aHR, 1.31; 95% CI, 0.80-2.15; p = 0.28). […] Both the propensity-score-adjusted risks of mechanical ventilation and death after mechanical ventilation were not significantly different in the HC group (aHR, 1.19; 95% CI, 0.78-1.82; p = 0.42 and aHR, 2.11; 95% CI, 0.96-4.62; p = 0.06, respectively) or in the HC+AZ group (aHR, 1.09; 95% CI, 0.72-1.66; p = 0.69 and aHR, 1.25; 95% CI, 0.59-2.68; p = 0.56, respectively) compared to the no HC group.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32853673&#34; target=&#34;_blank&#34;&gt;32853673&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the multivariable analysis, mortality was lower in the HCQ group compared with the no-HCQ group [adjusted hazard ratio (aHR) = 0.684, 95% confidence interval (CI) 0.617-0.758]. […] Compared with the no-HCQ group, mortality in the HCQ group was reduced both in patients diagnosed ≤5 days (n = 3975) and &amp;gt;5 days (n = 3487) after symptom onset [aHR = 0.701 (95% CI 0.617-0.796) and aHR = 0.647 (95% CI 0.525-0.797), respectively].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32860699&#34; target=&#34;_blank&#34;&gt;32860699&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+HIV was associated with COVID-19 mortality (adjusted hazard ratio [aHR] 2.14; 95% confidence interval [CI] 1.70-2.70), with similar risks across strata of viral load and immunosuppression. […] Current and previous tuberculosis were associated with COVID-19 death (aHR [95%CI] 2.70 [1.81-4.04] and 1.51 [1.18-1.93] respectively).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32860872&#34; target=&#34;_blank&#34;&gt;32860872&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared with no AC (n = 1,530; 34.9%), therapeutic AC (n = 900; 20.5%) and prophylactic AC (n = 1,959; 44.6%) were associated with lower in-hospital mortality (adjusted hazard ratio [aHR]: 0.53; 95% confidence interval [CI]: 0.45 to 0.62 and aHR: 0.50; 95% CI: 0.45 to 0.57, respectively), and intubation (aHR: 0.69; 95% CI: 0.51 to 0.94 and aHR: 0.72; 95% CI: 0.58 to 0.89, respectively). […] When initiated ≤48 h from admission, there was no statistically significant difference between therapeutic (n = 766) versus prophylactic AC (n = 1,860) (aHR: 0.86; 95% CI: 0.73 to 1.02; p = 0.08).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32867244&#34; target=&#34;_blank&#34;&gt;32867244&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There is an under-recognized role of the aryl hydrocarbon receptor (AhR) in co-ordinating the entry and pathophysiology of the severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2) that underpins the COVID-19 pandemic. […] The rise in pro-inflammatory cytokines during the ‘cytokine storm’ induce indoleamine 2,3-dioxygenase (IDO), leading to an increase in kynurenine that activates the AhR, thereby heightening the initial pro-inflammatory cytokine phase and suppressing the endogenous anti-viral response. […] Such AhR-driven changes underpin the heightened severity and fatality associated with pre-existent high-risk medical conditions, such as type II diabetes, as well as to how racial discrimination stress contributes to the raised severity/fatality in people from the Black Asian and Minority Ethnic (BAME) communities. […] The AhR is pivotal in modulating mitochondrial metabolism and co-ordinating specialized, pro-resolving mediators (SPMs), the melatonergic pathways, acetyl-coenzyme A, and the cyclooxygenase (COX) 2-prostaglandin (PG) E2 pathway that underpin ‘exhaustion’ in the endogenous anti-viral cells, paralleling similar metabolic suppression in cytolytic immune cells that is evident across all cancers. […] The pro-inflammatory cytokine induced gut permeability/dysbiosis and suppression of pineal melatonin are aspects of the wider pathophysiological underpinnings regulated by the AhR.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32902028&#34; target=&#34;_blank&#34;&gt;32902028&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The immunosuppressed cohort (n = 31) had significantly higher mortality rates (aHR: 2.067, 95% CI: 1.20-3.57, P = 0.009). […] There was no association between immunosuppression and the composite end-point of mortality or intubation (aHR: 1.49 95% CI: 0.88-2.51, P = 0.14) and of the composite end-point of mortality, intubation or CPAP (aHR: 1.36 95% CI: 0.81-2.30 P = 0.245).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32958718&#34; target=&#34;_blank&#34;&gt;32958718&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Viral clearance occurred within 6 days in 66.7% and 56.1% of the early and late treatment groups (adjusted hazard ratio [aHR], 1.42; 95% confidence interval [95% CI], 0.76-2.62). […] Of 30 patients who had a fever (≥37.5°C) on day 1, time to defervescence was 2.1 days and 3.2 days in the early and late treatment groups (aHR, 1.88; 95%CI, 0.81-4.35).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32965502&#34; target=&#34;_blank&#34;&gt;32965502&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared with patients who tested negative for SARS-CoV-2, those who tested positive had higher rates of 30-day hospitalization (30.4% vs 29.3%; adjusted hazard ratio [aHR], 1.13; 95% CI, 1.08-1.13), mechanical ventilation (6.7% vs 1.7%; aHR, 4.15; 95% CI, 3.74-4.61), and death (10.8% vs 2.4%; aHR, 4.44; 95% CI, 4.07-4.83). […] Among patients who tested positive for SARS-CoV-2, characteristics significantly associated with mortality included older age (eg, ≥80 years vs &amp;lt;50 years: aHR, 60.80; 95% CI, 29.67-124.61), high regional COVID-19 disease burden (eg, ≥700 vs &amp;lt;130 deaths per 1 million residents: aHR, 1.21; 95% CI, 1.02-1.45), higher Charlson comorbidity index score (eg, ≥5 vs 0: aHR, 1.93; 95% CI, 1.54-2.42), fever (aHR, 1.51; 95% CI, 1.32-1.72), dyspnea (aHR, 1.78; 95% CI, 1.53-2.07), and abnormalities in the certain blood tests, which exhibited dose-response associations with mortality, including aspartate aminotransferase (&amp;gt;89 U/L vs ≤25 U/L: aHR, 1.86; 95% CI, 1.35-2.57), creatinine (&amp;gt;3.80 mg/dL vs 0.98 mg/dL: aHR, 3.79; 95% CI, 2.62-5.48), and neutrophil to lymphocyte ratio (&amp;gt;12.70 vs ≤2.71: aHR, 2.88; 95% CI, 2.12-3.91). […] With the exception of geographic region, the same covariates were independently associated with mechanical ventilation along with Black race (aHR, 1.52; 95% CI, 1.25-1.85), male sex (aHR, 2.07; 95% CI, 1.30-3.32), diabetes (aHR, 1.40; 95% CI, 1.18-1.67), and hypertension (aHR, 1.30; 95% CI, 1.03-1.64). […] Notable characteristics that were not significantly associated with mortality in adjusted analyses included obesity (body mass index ≥35 vs 18.5-24.9: aHR, 0.97; 95% CI, 0.77-1.21), Black race (aHR, 1.04; 95% CI, 0.88-1.21), Hispanic ethnicity (aHR, 1.03; 95% CI, 0.79-1.35), chronic obstructive pulmonary disease (aHR, 1.02; 95% CI, 0.88-1.19), hypertension (aHR, 0.95; 95% CI, 0.81-1.12), and smoking (eg, current vs never: aHR, 0.87; 95% CI, 0.67-1.13).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32992777&#34; target=&#34;_blank&#34;&gt;32992777&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We assessed the inhibition of important efflux (P-glycoprotein (P-gp), breast cancer resistance protein (BCRP)) and uptake transporters (organic anion transporting polypeptide (OATP)-1B1, OATP1B3, OATP2B1) by hydroxychloroquine, tested its P-gp and BCRP substrate characteristics, and evaluated the induction of pharmacokinetically relevant genes regulated by the nuclear pregnane X (PXR) (CYP3A4, ABCB1) and aryl hydrocarbon receptor (AhR) (CYP1A1, CYP1A2). […] Hydroxychloroquine did not induce genes regulated by PXR or AhR.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33007514&#34; target=&#34;_blank&#34;&gt;33007514&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Individuals with GI symptoms had better outcomes, with a lower likelihood of intubation (aHR 0.66, 95% CI 0.55-0.79) and death (aHR 0.71, 95% CI 0.59-0.87), after adjusting for clinical factors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33009770&#34; target=&#34;_blank&#34;&gt;33009770&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Independent risk factors for death were age &amp;lt; 20 years (adjusted hazard ratio [aHR] = 6.62, 95% CI: 1.85-23.64), 40-59 years (aHR = 4.45, 95% CI: 1.83-10.79), and ≥ 60 years (aHR = 13.63, 95% CI: 5.70-32.60) compared with those aged 20-39 years, with obesity (aHR = 2.30, 95% CI: 1.24-4.27), and with chronic kidney disease (aHR = 5.33, 95% CI: 1.85-15.35).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33023989&#34; target=&#34;_blank&#34;&gt;33023989&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In spite of this, after correction for age and sex, risk of mortality was significantly associated with a history of hypertension (adjusted hazard ratio [aHR] 1.84, 95% CI 1.15-2.95; P = 0.011), coronary artery disease (aHR 1.56, 95% CI 1.04-2.35; P = 0.031), chronic kidney disease (aHR 2.07, 95% CI 1.27-3.38; P = 0.003), stroke (aHR 2.09, 95% CI 1.23-3.55; P = 0.006), and cancer (aHR 1.57, 95% CI 1.08-2.42; P = 0.04) but not with type 2 diabetes (P = 0.170). […] In patients with diabetes, elevated plasma glucose (aHR 1.22, 95% CI 1.04-1.44, per mmol/L; P = 0.015) and IL-6 levels at admission (aHR 2.47, 95% CI 1.28-4.78, per 1-SD increase; P = 0.007) as well as treatments with insulin (aHR 3.05, 95% CI 1.57-5.95; P = 0.001) and β-blockers (aHR 3.20, 95% CI 1.50-6.60; P = 0.001) were independently associated with increased mortality, whereas the use of dipeptidyl peptidase 4 inhibitors was significantly and independently associated with a lower risk of mortality (aHR 0.13, 95% CI 0.02-0.92; P = 0.042).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33038227&#34; target=&#34;_blank&#34;&gt;33038227&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There was no significant difference in the risk of in-hospital mortality between the two groups (adjusted hazard ratio [aHR] 0.93, 95% confidence interval [CI] 0.39 - 2.20).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33043285&#34; target=&#34;_blank&#34;&gt;33043285&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A higher ratio of oxygen saturation/FiO2 to respiratory rate within 6 h (ROX-6 score) after HFNO commencement was associated with HFNO success (ROX-6; AHR 0.43, 0.31-0.60), as was use of steroids (AHR 0.35, 95%CI 0.19-0.64).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33048372&#34; target=&#34;_blank&#34;&gt;33048372&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.7%; aHR,1.12 1.963.42 , p=0.02) and ventricular arrhythmias (15.2% vs. […] 11.4%; aHR,1.00 1.813.29 , p=0.05) in the &amp;gt;1-to-3 years posttransplant. […] 11.4%; aHR,1.02 1.54 2.31 , p=0.04) and pancytopenia (35.9% vs. […] 31.4%; aHR,1.03 1.311.68 , p=0.03) compared to triple immunosuppression without HCQ.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AHR</title>
+      <link>/genepanel/196/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/196/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;aryl hydrocarbon receptor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AHR</title>
+      <link>/genepanel/196/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/196/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;aryl hydrocarbon receptor&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

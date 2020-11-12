@@ -5,12 +5,28 @@
     <link>/author/sebastian-funk/</link>
       <atom:link href="/author/sebastian-funk/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastian Funk</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Sebastian Funk</title>
       <link>/author/sebastian-funk/</link>
     </image>
+    
+    <item>
+      <title>SOCRATES: an online tool leveraging a social contact data sharing initiative to assess mitigation strategies for COVID-19.</title>
+      <link>/publication/32546245/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32546245/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring the number of COVID-19 cases from recently reported deaths.</title>
+      <link>/publication/32518842/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32518842/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The transmissibility of novel Coronavirus in the early stages of the 2019-20 outbreak in Wuhan: Exploring initial point-source exposure sizes and durations using scenario analysis.</title>

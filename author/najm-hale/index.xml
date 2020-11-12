@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAJM Hale | PlatCOVID</title>
+    <link>/author/najm-hale/</link>
+      <atom:link href="/author/najm-hale/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAJM Hale</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAJM Hale</title>
+      <link>/author/najm-hale/</link>
+    </image>
+    
+    <item>
+      <title>Engaging the next generation of plant geneticists through sustained research: an overview of a post-16 project.</title>
+      <link>/publication/32943768/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32943768/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -33,7 +33,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;emetine&lt;/em&gt; gene in 11 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;emetine&lt;/em&gt; gene in 34 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -93,6 +93,46 @@ We also screened 136 safe-in-man broad-spectrum antivirals against the SARS-CoV-
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 They are all old drugs as follows, anisomycin, antimycin A, atovaquone, chloroquine, conivaptan, emetine, gemcitabine, homoharringtonine, niclosamide, nitazoxanide, oligomycin, salinomycin, tilorone, valinomycin, and vismodegib.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32714193&#34; target=&#34;_blank&#34;&gt;32714193&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Natural products (carolacton, homoharringtonine, emetine, and cepharanthine) and natural product-inspired small molecules (ivermectin, GS-5734, EIDD-2801, and ebselen) are potential anti-SARS-CoV-2 agents that have attracted significant attention due to their broad-spectrum antiviral activities.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32814759&#34; target=&#34;_blank&#34;&gt;32814759&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These agents include cepharentine, chloroquine, chlorpromazine, clemastine, cloperastine, emetine, hydroxychloroquine, haloperidol, ML240, PB28, ponatinib, siramesine, and zotatifin (eFT226) all of which are likely to inhibit SARS-CoV-2 replication by non-specific (off-target) effects, meaning that they probably do not act on their ‘official’ pharmacological targets, but rather interfere with viral replication through non-specific effects on acidophilic organelles including autophagosomes, endosomes, and lysosomes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32848776&#34; target=&#34;_blank&#34;&gt;32848776&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Initial candidate interventions include prophylaxis to augment epithelial defense (e.g., AT1 receptor blockade, type III and type I interferons, melatonin, calcitriol, camostat, and lopinavir) and to reduce viral load (e.g., remdesivir, ivermectin, emetine, Abelson kinase inhibitors, dopamine D2 antagonists, and selective estrogen receptor modulators).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32985017&#34; target=&#34;_blank&#34;&gt;32985017&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, some alkaloid structures such as homoharringtonine, lycorine, and emetine have strong anti-coronavirus effects.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33025261&#34; target=&#34;_blank&#34;&gt;33025261&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Strikingly, our top hits emetine and lopinavir were independently validated by recent experimental findings that these compounds inhibit the growth of SARS-CoV-2 in vitro.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

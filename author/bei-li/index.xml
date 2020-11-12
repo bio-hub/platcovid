@@ -5,12 +5,28 @@
     <link>/author/bei-li/</link>
       <atom:link href="/author/bei-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Bei Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Bei Li</title>
       <link>/author/bei-li/</link>
     </image>
+    
+    <item>
+      <title>Epidemiological and Clinical Characteristics of Patients With Coronavirus Disease-2019 in Shiyan City, China.</title>
+      <link>/publication/32574282/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32574282/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathogenesis of SARS-CoV-2 in Transgenic Mice Expressing Human Angiotensin-Converting Enzyme 2.</title>
+      <link>/publication/32516571/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32516571/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Effectiveness of convalescent plasma therapy in severe COVID-19 patients.</title>

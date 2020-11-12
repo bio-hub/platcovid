@@ -26,11 +26,11 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/3716&#34; target=&#34;_blank&#34;&gt;3716&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=3716&#34; target=&#34;_blank&#34;&gt; 1p31.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/147795&#39; target=&#39;_blank&#39;&gt;147795&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/616345&#39; target=&#39;_blank&#39;&gt;616345&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/605047&#39; target=&#39;_blank&#39;&gt;605047&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a membrane protein that is a member of a class of protein-tyrosine kinases (PTK) characterized by the presence of a second phosphotransferase-related domain immediately N-terminal to the PTK domain. The encoded kinase phosphorylates STAT proteins (signal transducers and activators of transcription) and plays a key role in interferon-alpha/beta and interferon-gamma signal transduction. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Mar 2016] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene encodes a membrane protein that is a member of a class of protein-tyrosine kinases (PTK) characterized by the presence of a second phosphotransferase-related domain immediately N-terminal to the PTK domain. The encoded kinase phosphorylates STAT proteins (signal transducers and activators of transcription) and plays a key role in interferon-alpha/beta, interferon-gamma, and cytokine signal transduction. This gene plays a crucial role in effecting the expression of genes that mediate inflammation, epithelial remodeling, and metastatic cancer progression. This gene is a key component of the interleukin-6 (IL-6)/JAK1/STAT3 immune and inflammation response and is a therapeutic target for alleviating cytokine storms. The kinase activity of this gene is directly inhibited by the suppressor of cytokine signalling 1 (SOCS1) protein. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jul 2020] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
@@ -878,7 +878,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of JAK1 gene in 8 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of JAK1 gene in 15 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -954,6 +954,62 @@ In this review, we discuss the rationales and perspectives for using JAK1/2 inhi
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Here, we report a compelling case of a 55-yo patient with proven COVID-19 pneumonia, who was taking the JAK1/2 inhibitor ruxolitinib in-label for co-existing primary myelofibrosis for 15 months prior to coronavirus infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32629531&#34; target=&#34;_blank&#34;&gt;32629531&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The selective JAK1/2 inhibitor ruxolitinib has shown promising results in the context of GVHD, and different trials are currently underway in patients with severe COVID-19; nevertheless, no clinical observation of safety or efficacy of treatment with ruxolitinib in this context has been published yet.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32636055&#34; target=&#34;_blank&#34;&gt;32636055&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ruxolitinib is the first approved JAK1 and JAK2 inhibitor, and is known to interfere with the JAK / STAT signaling pathway, one of the critical cellular signaling pathways involved in the inflammatory response.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32645207&#34; target=&#34;_blank&#34;&gt;32645207&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Antimalarials, anti-IL6-Anti-IL6 receptor, anti-IL1, anti-GM-CSF receptor and JAK1/2/3 inhibitors, are under investigation in COVID-dedicated clinical trials to control the inflammation raised by SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32645632&#34; target=&#34;_blank&#34;&gt;32645632&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Baricitinib intracellularly inhibits the proinflammatory signal of several cytokines by suppressing Janus kinase (JAK) JAK1/JAK2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32789663&#34; target=&#34;_blank&#34;&gt;32789663&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ruxolitinib, a tyrosine kinase inhibitor selective for JAK1, 2, blocks many pro- and anti-inflammatory cytokines including IL6.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32814839&#34; target=&#34;_blank&#34;&gt;32814839&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ruxolitinib is a JAK1/JAK2 inhibitor with potent anti-inflammatory properties.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32850921&#34; target=&#34;_blank&#34;&gt;32850921&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Methods: Ruxolitinib, a JAK1 and JAK2 inhibitor, has been successfully used to treat severe immune-mediated diseases, such as graft vs. host disease and Hemophagocytic lymphohistiocytosis.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

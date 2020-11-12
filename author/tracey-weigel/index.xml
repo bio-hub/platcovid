@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tracey Weigel | PlatCOVID</title>
+    <link>/author/tracey-weigel/</link>
+      <atom:link href="/author/tracey-weigel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tracey Weigel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Tracey Weigel</title>
+      <link>/author/tracey-weigel/</link>
+    </image>
+    
+    <item>
+      <title>An Innovative Way to Achieve Safe Lung Deflation During One-Lung Ventilation in a Potential Coronavirus Disease 2019 Patient: A Case Report.</title>
+      <link>/publication/32539283/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32539283/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

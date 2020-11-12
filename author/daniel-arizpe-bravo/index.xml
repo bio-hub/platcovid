@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Arizpe-Bravo | PlatCOVID</title>
+    <link>/author/daniel-arizpe-bravo/</link>
+      <atom:link href="/author/daniel-arizpe-bravo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Arizpe-Bravo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Daniel Arizpe-Bravo</title>
+      <link>/author/daniel-arizpe-bravo/</link>
+    </image>
+    
+    <item>
+      <title>INFUSION OF CONVALESCENT PLASMA IS ASSOCIATED WITH CLINICAL IMPROVEMENT IN CRITICALLY ILL PATIENTS WITH COVID-19: A PILOT STUDY.</title>
+      <link>/publication/32584322/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32584322/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

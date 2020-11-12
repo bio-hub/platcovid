@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subhasish Bose | PlatCOVID</title>
+    <link>/author/subhasish-bose/</link>
+      <atom:link href="/author/subhasish-bose/index.xml" rel="self" type="application/rss+xml" />
+    <description>Subhasish Bose</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Subhasish Bose</title>
+      <link>/author/subhasish-bose/</link>
+    </image>
+    
+    <item>
+      <title>Medical Management of COVID-19: Evidence and Experience.</title>
+      <link>/publication/32587649/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32587649/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atypical Presentation of Novel Coronavirus Disease 2019 in a Peritoneal Dialysis Patient.</title>
+      <link>/publication/32525402/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32525402/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 and Renal Failure: Challenges in the Delivery of Renal Replacement Therapy.</title>
+      <link>/publication/32489502/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32489502/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/6364&#34; target=&#34;_blank&#34;&gt;6364&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=6364&#34; target=&#34;_blank&#34;&gt; 2q36.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/601960&#39; target=&#39;_blank&#39;&gt;601960&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/601520&#39; target=&#39;_blank&#39;&gt;601520&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -430,7 +430,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CCL20 gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CCL20 gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -450,6 +450,38 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Compared to moderate cases, critical cases exhibited stronger interactions between epithelial and immune cells, as indicated by ligand-receptor expression profiles, and activated immune cells, including inflammatory macrophages expressing CCL2, CCL3, CCL20, CXCL1, CXCL3, CXCL10, IL8, IL1B and TNF.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32668803&#34; target=&#34;_blank&#34;&gt;32668803&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lysosomotropic compounds affect prominent inflammatory messengers (e.g., IL-1B, CCL4, CCL20, and IL-6), cathepsin-L-dependent viral entry of host cells, and products of lysosomal enzymes that promote endothelial stress response in systemic inflammation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32752138&#34; target=&#34;_blank&#34;&gt;32752138&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Specifically, chemokines including CCL20 and CXCL8 are upregulated in smokers, and CCL5 and CCR1 are upregulated in flavor/nicotine-containing e-cig users.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32866033&#34; target=&#34;_blank&#34;&gt;32866033&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+COVID-19 patients showed profound and sustained T CD4+ (p=0.002), CD8+ (p&amp;lt;0.0001) and B (p&amp;lt;0.0001) lymphopenia, higher HLA-DR expression on monocytes (p&amp;lt;0.001) and higher serum concentrations of EGF, GM-CSF, IL-10, CCL2/MCP-1, CCL3/MIP-1a, CXCL10/IP-10, CCL5/RANTES, and CCL20/MIP-3a.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32991843&#34; target=&#34;_blank&#34;&gt;32991843&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cytokine profiling identified elevated signatures of inflammation (IL-18 and IL-6), lymphocytic and myeloid chemotaxis and activation (CCL3, CCL4, and CDCP1), and mucosal immune dysregulation (IL-17A, CCL20, and CCL28).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

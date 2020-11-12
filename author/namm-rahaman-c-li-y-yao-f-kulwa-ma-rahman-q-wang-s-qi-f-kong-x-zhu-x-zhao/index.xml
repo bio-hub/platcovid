@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAMM Rahaman, C Li, Y Yao, F Kulwa, MA Rahman, Q Wang, S Qi, F Kong, X Zhu, X Zhao | PlatCOVID</title>
+    <link>/author/namm-rahaman-c-li-y-yao-f-kulwa-ma-rahman-q-wang-s-qi-f-kong-x-zhu-x-zhao/</link>
+      <atom:link href="/author/namm-rahaman-c-li-y-yao-f-kulwa-ma-rahman-q-wang-s-qi-f-kong-x-zhu-x-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAMM Rahaman, C Li, Y Yao, F Kulwa, MA Rahman, Q Wang, S Qi, F Kong, X Zhu, X Zhao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAMM Rahaman, C Li, Y Yao, F Kulwa, MA Rahman, Q Wang, S Qi, F Kong, X Zhu, X Zhao</title>
+      <link>/author/namm-rahaman-c-li-y-yao-f-kulwa-ma-rahman-q-wang-s-qi-f-kong-x-zhu-x-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Identification of COVID-19 samples from chest X-Ray images using deep learning: A comparison of transfer learning approaches.</title>
+      <link>/publication/32773400/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32773400/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

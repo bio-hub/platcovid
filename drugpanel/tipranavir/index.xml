@@ -33,7 +33,7 @@ Synonymous :tipranavir
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;tipranavir&lt;/em&gt; gene in 4 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;tipranavir&lt;/em&gt; gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -69,6 +69,30 @@ Molecular docking studies revealed that among the 77 drugs, screened top ten dru
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Eight compounds (Nilotinib, Saquinavir, Tipranavir, Lonafarnib, Tegobuvir, Olysio, Filibuvir and Cepharanthine) were selected for binding free energy calculations based on virtual screening and docking scores.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32698693&#34; target=&#34;_blank&#34;&gt;32698693&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among them are nelfinavir, tipranavir and licochalcone-D, which has shown better binding characteristics with both the proteases compared to lopinavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32752938&#34; target=&#34;_blank&#34;&gt;32752938&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Similar analysis with RdRp showed that eltrombopag, tipranavir, ergotamine, and conivaptan bound to the enzyme with high binding free energies. […] Docking results suggest that ergotamine, dihydroergotamine, bromocriptine, dutasteride, conivaptan, paliperidone, and tipranavir can bind to both enzymes with high affinity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33046764&#34; target=&#34;_blank&#34;&gt;33046764&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Seven HIV inhibitors, darunavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, and tipranavir, were used as the potential lead drugs to investigate access to the drug binding sites in Mpro.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

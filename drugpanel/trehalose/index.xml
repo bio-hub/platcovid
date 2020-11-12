@@ -33,7 +33,7 @@ Synonymous :cabaletta
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;trehalose&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;trehalose&lt;/em&gt; gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Certain medications such as chloroquine, trehalose, antihistaminics, and interferons used topically for various ocular conditions with reasonably good safety records are known to have anti-viral properties.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32733488&#34; target=&#34;_blank&#34;&gt;32733488&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Trehalose, a natural glucose disaccharide, is known to impair viral function through the autophagy system. […] Here, we propose trehalose as a potential preventative treatment for SARS-CoV-2 infection and transmission.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

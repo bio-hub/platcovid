@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/sphingosine/</link>
+      <atom:link href="/drugpanel/sphingosine/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/sphingosine/</link>
+    </image>
+    
+    <item>
+      <title>SPHINGOSINE</title>
+      <link>/drugpanel/sphingosine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/sphingosine/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db03203&#39; target=&#39;_blank&#39;&gt;db03203&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=sphingosine&#34; target=&#34;_blank&#34;&gt;sphingosine&lt;/a&gt; &lt;br&gt;
+Synonymous : &lt;em&gt;None&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;sphingosine&lt;/em&gt; gene in 6 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32646885&#34; target=&#34;_blank&#34;&gt;32646885&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Of the entire group, 64 (84%) patients were on disease-modifying therapy (DMT) including anti-CD20 therapies (n = 34, 44.7%) and sphingosine-1-phosphate receptor modulators (n = 10, 13.5%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32670273&#34; target=&#34;_blank&#34;&gt;32670273&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sphingosine-1-phosphate receptor 1 (S1PR1) analogs, AAL-R and RP-002, have earlier provided in-vivo protection from the pathophysiological response during H1N1 influenza infection and improved mortality. […] Recently, it was shown that the treatment with sphingosine-1-phosphate receptor 1 analog, CYM5442, resulted in the significant dampening of the immune response upon H1N1 challenge in mice and improved survival of H1N1 infected mice in combination with an antiviral drug, oseltamivir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32769063&#34; target=&#34;_blank&#34;&gt;32769063&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Vaccine responses were reduced to varying degrees in those treated with glatiramer acetate, teriflunomide, sphingosine-1-phosphate receptor modulators, and natalizumab.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32917722&#34; target=&#34;_blank&#34;&gt;32917722&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sphingosine has been shown to prevent and eliminate bacterial infections of the respiratory tract, but it is unknown whether sphingosine can be also employed to prevent viral infections. […] To test this hypothesis, we analyzed whether sphingosine regulates the infection of cultured and freshly isolated ex vivohuman epithelial cells with pseudoviral particles expressing SARS-CoV-2 spike (pp-VSV-SARS-CoV-2 spike) that served as a bona fide system mimicking SARS-CoV-2 infection. […] We demonstrate that exogenously applied sphingosine suspended in 0.9% NaCl prevents cellular infection with pp-SARS-CoV-2 spike. […] Pre-treatment of cultured Vero epithelial cells or freshly isolated human nasal epithelial cells with low concentrations of sphingosine prevented adhesion of and infection with pp-VSV-SARS-CoV-2 spike. […] Mechanistically, we demonstrate that sphingosine binds to ACE2, the cellular receptor of SARS-CoV-2, and prevents the interaction of the receptor binding domain of the viral spike protein with ACE2. […] These data indicate that sphingosine prevents at least some viral infections by interfering with the interaction of the virus with its receptor. […] Our data also suggest that further preclinical and finally clinical examination of sphingosine is warranted for potential use as a prophylactic or early treatment for coronavirus disease-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32942748&#34; target=&#34;_blank&#34;&gt;32942748&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sphingosine 1-phosphate (S1P) is a bioactive sphingolipid with pleiotropic properties and functions in many tissues, including the nervous system.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33003377&#34; target=&#34;_blank&#34;&gt;33003377&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The sphingolipid rheostat plays integral roles in viral replication, activation/modulation of the immune response, and importantly in maintaining vasculature integrity, with sphingosine 1 phosphate (S1P) and its cognate receptors (SIPRs: G-protein-coupled receptors) being key factors in vascular protection against endotheliitus. […] Hence, modulation of sphingosine kinase (SphK), S1P, and the S1P receptor pathway may provide significant beneficial effects towards counteracting the life-threatening, acute, and chronic complications associated with SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

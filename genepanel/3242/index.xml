@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/3242&#34; target=&#34;_blank&#34;&gt;3242&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=3242&#34; target=&#34;_blank&#34;&gt; 12q24.31&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/609695&#39; target=&#39;_blank&#39;&gt;609695&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/276710&#39; target=&#39;_blank&#39;&gt;276710&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/140350&#39; target=&#39;_blank&#39;&gt;140350&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/600807&#39; target=&#39;_blank&#39;&gt;600807&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/142871&#39; target=&#39;_blank&#39;&gt;142871&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -360,7 +360,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of HPD gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of HPD gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -380,6 +380,14 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The current outbreak of SARS-CoV-2 was estimated to have originated on 12/11/2019 (95% HPD 11/13/2019-12/23/2019).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32724171&#34; target=&#34;_blank&#34;&gt;32724171&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Divergence dates between SARS-CoV-2 and the bat sarbecovirus reservoir were estimated as 1948 (95% highest posterior density (HPD): 1879-1999), 1969 (95% HPD: 1930-2000) and 1982 (95% HPD: 1948-2009), indicating that the lineage giving rise to SARS-CoV-2 has been circulating unnoticed in bats for decades.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

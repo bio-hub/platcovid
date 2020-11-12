@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takayuki Kawashima | PlatCOVID</title>
+    <link>/author/takayuki-kawashima/</link>
+      <atom:link href="/author/takayuki-kawashima/index.xml" rel="self" type="application/rss+xml" />
+    <description>Takayuki Kawashima</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Takayuki Kawashima</title>
+      <link>/author/takayuki-kawashima/</link>
+    </image>
+    
+    <item>
+      <title>Mental health of family, friends, and co-workers of COVID-19 patients in Japan.</title>
+      <link>/publication/32535504/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32535504/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early SNS-based monitoring system for the COVID-19 outbreak in Japan: a population-level observational study.</title>
+      <link>/publication/32475884/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32475884/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

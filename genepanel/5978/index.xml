@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>ARG1</title>
+      <title>REST</title>
       <link>/genepanel/5978/info/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/5978/info/</guid>
@@ -21,23 +21,23 @@
 
 
 &lt;hr /&gt;
-&lt;p&gt;arginase 1&lt;/p&gt;
+&lt;p&gt;RE1 silencing transcription factor&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/383&#34; target=&#34;_blank&#34;&gt;383&lt;/a&gt; | Type: Protein Coding |
-Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=383&#34; target=&#34;_blank&#34;&gt; 6q23.2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/608313&#39; target=&#39;_blank&#39;&gt;608313&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/207800&#39; target=&#39;_blank&#39;&gt;207800&lt;/a&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/5978&#34; target=&#34;_blank&#34;&gt;5978&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=5978&#34; target=&#34;_blank&#34;&gt; 4q12&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/617585&#39; target=&#39;_blank&#39;&gt;617585&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/604758&#39; target=&#39;_blank&#39;&gt;604758&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;Arginase catalyzes the hydrolysis of arginine to ornithine and urea. At least two isoforms of mammalian arginase exist (types I and II) which differ in their tissue distribution, subcellular localization, immunologic crossreactivity and physiologic function. The type I isoform encoded by this gene, is a cytosolic enzyme and expressed predominantly in the liver as a component of the urea cycle. Inherited deficiency of this enzyme results in argininemia, an autosomal recessive disorder characterized by hyperammonemia. Two transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Sep 2011] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;This gene was initially identified as a transcriptional repressor that represses neuronal genes in non-neuronal tissues. However, depending on the cellular context, this gene can act as either an oncogene or a tumor suppressor. The encoded protein is a member of the Kruppel-type zinc finger transcription factor family. It represses transcription by binding a DNA sequence element called the neuron-restrictive silencer element. The protein is also found in undifferentiated neuronal progenitor cells and it is thought that this repressor may act as a master negative regulator of neurogenesis. Alternatively spliced transcript variants have been described. [provided by RefSeq, May 2018] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
     </item>
     
     <item>
-      <title>ARG1</title>
+      <title>REST</title>
       <link>/genepanel/5978/gene_expression/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/5978/gene_expression/</guid>
@@ -46,13 +46,13 @@ OMIM: &lt;a href=&#39;https://omim.org/entry/608313&#39; target=&#39;_blank&#39;
 
 
 &lt;hr /&gt;
-&lt;p&gt;arginase 1&lt;/p&gt;
+&lt;p&gt;RE1 silencing transcription factor&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Expression&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; ARG1 expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;strong&gt;Table 1.&lt;/strong&gt; REST expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -74,63 +74,231 @@ mRNA
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000118520
+ENSG00000084093
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-liver
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-High
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-566.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-bone marrow
+bronchus
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 High
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-14.7
+NA
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000118520
+ENSG00000084093
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-bone marrow
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+esophagus
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+fallopian tube
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+nasopharynx
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+rectum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+18.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-171.2
+12.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
+ENSG00000084093
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-adrenal gland
+caudate
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.3
+NA
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cerebellum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 cerebral cortex
@@ -139,26 +307,40 @@ cerebral cortex
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.2
+4.9
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
+ENSG00000084093
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-heart muscle
+cervix, uterine
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
+13.5
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 hippocampus
@@ -172,7 +354,63 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+liver
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Low
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 parathyroid gland
@@ -181,68 +419,12 @@ parathyroid gland
 Low
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-0.3
+32.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-rectum
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.7
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-seminal vesicle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-skeletal muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.0
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-skin
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-0.8
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
+ENSG00000084093
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 soft tissue
@@ -256,119 +438,7 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-urinary bladder
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Low
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2.3
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000118520
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-breast
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-5.9
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000118520
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-esophagus
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000118520
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-liver
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-566.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000118520
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-placenta
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2.1
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000118520
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-skin
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-78.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000118520
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-spleen
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-5.2
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-appendix
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-11.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
+ENSG00000084093
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 cerebral cortex
@@ -377,68 +447,26 @@ cerebral cortex
 Not detected
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.2
+4.9
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
+ENSG00000084093
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-gallbladder
+adrenal gland
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
+Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-1.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-lung
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-1.2
+7.0
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-placenta
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-4.4
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-smooth muscle
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-Not detected
-&lt;/td&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-2.6
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
+ENSG00000084093
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 appendix
@@ -447,15 +475,155 @@ appendix
 Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-11.6
+12.2
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
+ENSG00000084093
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-caudate
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+breast
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+colon
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+duodenum
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lung
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+oral mucosa
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Medium
@@ -466,10 +634,150 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
+ENSG00000084093
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-cerebellum
+ovary
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+pancreas
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+placenta
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+16.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+salivary gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skeletal muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.7
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+10.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+small intestine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+6.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+smooth muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+11.8
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+soft tissue
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Medium
@@ -480,21 +788,77 @@ NA
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000118520
+ENSG00000084093
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-adipose tissue
+spleen
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-NA
+Medium
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-2.3
+14.7
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-ENSG00000139572
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+stomach
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+7.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+22.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+tonsil
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+vagina
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Medium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000084093
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 adipose tissue
@@ -503,7 +867,7 @@ adipose tissue
 NA
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-6.0
+7.8
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -513,7 +877,7 @@ NA
     </item>
     
     <item>
-      <title>ARG1</title>
+      <title>REST</title>
       <link>/genepanel/5978/gene_context/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/5978/gene_context/</guid>
@@ -522,13 +886,13 @@ NA
 
 
 &lt;hr /&gt;
-&lt;p&gt;arginase 1&lt;/p&gt;
+&lt;p&gt;RE1 silencing transcription factor&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of ARG1 gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of REST gene in 251 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -544,10 +908,2010 @@ Gene Context Sentence
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-&lt;a href=&#34;/publication/32582303&#34; target=&#34;_blank&#34;&gt;32582303&lt;/a&gt;
+&lt;a href=&#34;/publication/32064853&#34; target=&#34;_blank&#34;&gt;32064853&lt;/a&gt;
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
-Co-expression network analysis by WGCNA suggested that highly preserved 833 turquoise module with genes were significantly related to SARS-CoV infection. &lt;i&gt;ELANE, ORM2, RETN, BPI, ARG1, DEFA4, CXCL1, and CAMP&lt;/i&gt; were the most important genes involved in this disease according to GEO2R analysis as well.
+It only took 30 days to expand from Hubei to the rest of Mainland China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32109279&#34; target=&#34;_blank&#34;&gt;32109279&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Except for 3 severe patients, the rest of the 77 patients exhibited mild or moderate symptoms. 9 patients were unconfirmed until a third-time nucleic acid test. 38 cases had a history of chronic diseases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32109443&#34; target=&#34;_blank&#34;&gt;32109443&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Fifty patients were enrolled, including mild type in nine, common in 28, severe in 10 and critically severe in the rest three.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32146694&#34; target=&#34;_blank&#34;&gt;32146694&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These 7 cases were younger (median age: 14.0 years; P=0.012) than the rest.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32175637&#34; target=&#34;_blank&#34;&gt;32175637&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The case fatality rate was significantly higher in Hubei province than the rest of China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32204922&#34; target=&#34;_blank&#34;&gt;32204922&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A new coronavirus outbreak emerged on the 31&lt;sup&gt;st&lt;/sup&gt; of December 2019 in Wuhan, China, causing commotion among the medical community and the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32217900&#34; target=&#34;_blank&#34;&gt;32217900&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two patients had fever and dry cough, whereas the rest of 3 patients were asymptomatic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32219006&#34; target=&#34;_blank&#34;&gt;32219006&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A total of 80,511 individuals are estimated to be infected in China, among which 49,510 are from Wuhan, 17,679 from Hubei (excluding Wuhan), and the rest 13,322 from other regions of China (excluding Hubei).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32220557&#34; target=&#34;_blank&#34;&gt;32220557&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Severe acute respiratory syndrome coronavirus-2 is still active in Wuhan, China, and is spreading to the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32220655&#34; target=&#34;_blank&#34;&gt;32220655&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We aimed to estimate the effects of physical distancing measures on the progression of the COVID-19 epidemic, hoping to provide some insights for the rest of the world. […] Restrictions on activities in Wuhan, if maintained until April, would probably help to delay the epidemic peak.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32224550&#34; target=&#34;_blank&#34;&gt;32224550&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The threat of Coronavirus Disease 2019 (COVID-19) to health systems in sub-Saharan Africa (SSA) can be compared metaphorically to a lake in Africa infested with a bask of crocodiles and the saying: “the eye of the crocodile.” In the lake, only the eyes of the crocodile appear on the surface while the rest of the body is submerged in water.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32232652&#34; target=&#34;_blank&#34;&gt;32232652&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nineteen (76%) of the infected cases were confirmed by SARS-CoV-2 nucleic acid test, the rest were clinically diagnosed as suspected Covid-19 cases, and 19 (76%) of the infected cases had positive exposure history.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32237566&#34; target=&#34;_blank&#34;&gt;32237566&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The cases of Covid-19 occurred in mainland China and the rest of the world are mentioned. […] Se hace un recuento de los casos ocurridos en China continental y en el resto del mundo y se enfatiza el arduo trabajo que el gobierno de China y otros países están realizando para contener la epidemia.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32238221&#34; target=&#34;_blank&#34;&gt;32238221&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A cross section of autocratic nations currently experiencing the impact of COVID-19 (coronavirus disease 2019) are reviewed to demonstrate the manner where self-serving regimes fail to manage health crises and place the rest of the world at increasing risk.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32249918&#34; target=&#34;_blank&#34;&gt;32249918&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two had vaginal delivery and the rest took cesarean section.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32253759&#34; target=&#34;_blank&#34;&gt;32253759&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although TCZ treatment ameliorated the increased CRP in all patients rapidly, for the four critically ill patients who received an only single dose of TCZ, three of them (No. 1, 2, and 3) still dead and the CRP level in the rest one patient (No. 7) failed to return to normal range with a clinical outcome of disease aggravation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32276778&#34; target=&#34;_blank&#34;&gt;32276778&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Prioritising food, rest and exercise are important.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32293582&#34; target=&#34;_blank&#34;&gt;32293582&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This effect size was also larger than what was observed for the rest of China excluding Hubei provenance (where Wuhan is the capital city) and also held when comparing the number of Weibo posts to the incidence proportion of cases in Hubei province.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32294289&#34; target=&#34;_blank&#34;&gt;32294289&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We read with interest the study published by Tang and coll.&lt;sup&gt;1&lt;/sup&gt; in a recent issue of the Journal of Thrombosis and Haemostasis. […] The definition of severe COVID-19 was the presence of at least one of following: respiratory rate ≥30 breaths /min; arterial oxygen saturation ≤93% at rest; PaO2/FiO2 ≤300 mmHg.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32298029&#34; target=&#34;_blank&#34;&gt;32298029&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Italy and the rest of the world are experiencing an outbreak of a novel beta-coronavirus known as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). […] As initial actions, we recommended that routine screening be suspended and that patients with early and advanced cancer be treated as outpatients as much as possible and at the nearest medical center.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32304192&#34; target=&#34;_blank&#34;&gt;32304192&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Various preventive measures were implemented including flight restrictions to certain countries, gradually expanded to suspending all flights and prohibiting the entry of foreign nationals, 14-day isolation and symptom monitoring for those that came from countries under risk. […] Persons with chronic diseases have been granted an administrative leave, on campus education at schools and activities of public rest and entertainment areas were temporarily suspended.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32304737&#34; target=&#34;_blank&#34;&gt;32304737&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since February 20, 2020, the SARS-COV2 infection has spread in Lombardy, and in the rest of the Italian regions, forcing our government to impose a national lockdown.&lt;sup&gt;1&lt;/sup&gt; Hospitals have been forced to adapt and to restructure their units to cope with this urgent new critical situation.&lt;sup&gt;2&lt;/sup&gt; Alternative solutions have been found to manage patients with inflammatory bowel disease (IBD), including remote monitoring, drug home delivery, limitations for infusion units, and patient education on measures to prevent infection&lt;sup&gt;3&lt;/sup&gt; to maintain high-quality care.&lt;sup&gt;4&lt;/sup&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32307014&#34; target=&#34;_blank&#34;&gt;32307014&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since December 2019, a novel type of coronavirus disease (COVID-19) in Wuhan led to an outbreak throughout China and the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32308536&#34; target=&#34;_blank&#34;&gt;32308536&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Many were surprised at the extreme steps that China had subsequently taken to seal Wuhan from the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32327608&#34; target=&#34;_blank&#34;&gt;32327608&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We test modeling options of the spatially explicit type, suggested by the wave of infections spreading from the initial foci to the rest of Italy. […] The model includes the implementation of progressive restrictions after the first case confirmed in Italy (February 21, 2020) and runs until March 25, 2020. […] Results suggest that the sequence of restrictions posed to mobility and human-to-human interactions have reduced transmission by 45% (42 to 49%). […] Averted hospitalizations are measured by running scenarios obtained by selectively relaxing the imposed restrictions and total about 200,000 individuals (as of March 25, 2020).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32328378&#34; target=&#34;_blank&#34;&gt;32328378&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The pandemic then fanned out rapidly, involving Italy, Japan, South Korea, Iran, and the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32330352&#34; target=&#34;_blank&#34;&gt;32330352&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The rest of the country continued with the regular allocation policy (1).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32334162&#34; target=&#34;_blank&#34;&gt;32334162&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The findings of this study will help World Health Organization and health regulators such as Center for Disease Control (CDC) to combat COVID-19 in New York and the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32334207&#34; target=&#34;_blank&#34;&gt;32334207&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The death rates based on PIBA were used to predict the daily numbers of deaths since the week of February 25, 2020, in China overall, Hubei province, Wuhan city, and the rest of the country except Hubei province.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32340566&#34; target=&#34;_blank&#34;&gt;32340566&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nonetheless, we as healthcare professionals have taken oaths that we are honouring and will continue to do so, till this virus is put to rest.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32348545&#34; target=&#34;_blank&#34;&gt;32348545&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The pseudo-chilblain pattern frequently appears late in the evolution of the COVID-19 disease (59% after other symptoms), while the rest tend to appear with other symptoms of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32349824&#34; target=&#34;_blank&#34;&gt;32349824&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In late March, the parliament granted the government emergency powers for swift regulations and restrictions. […] Uusimaa province was isolated from the rest of the country for a fortnight, restaurants were closed, meetings of more than 10 people were forbidden, and schools and universities assumed distant-working modes, as did businesses and civil services where this was feasible.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32354030&#34; target=&#34;_blank&#34;&gt;32354030&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The infection spread first in China and then in the rest of the world, and on the 11th of March, the WHO declared that COVID-19 was a pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32357424&#34; target=&#34;_blank&#34;&gt;32357424&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The package outlines the actions that team leaders can take to provide psychologically safe spaces for staff, together with guidance on communication and reducing social stigma, peer and family support, signposting others through psychological first aid (PFA), self-care strategies (e.g., rest, work breaks, sleep, shift work, fatigue, healthy lifestyle behaviours), and managing emotions (e.g., moral injury, coping, guilt, grief, fear, anxiety, depression, preventing burnout and psychological trauma).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32360181&#34; target=&#34;_blank&#34;&gt;32360181&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pharmacy students made 35.3% of the sample while the rest were pharmacists.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32361161&#34; target=&#34;_blank&#34;&gt;32361161&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The epidemic is spreading to the rest of the world, posing a grave challenge to prevention and control.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32371231&#34; target=&#34;_blank&#34;&gt;32371231&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Important limitations of WBE rest with its inability to identify individuals and to pinpoint their specific locations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32371466&#34; target=&#34;_blank&#34;&gt;32371466&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Clear communication, access to adequate personal protection, adequate rest, and both practical and psychological support were associated with reduced morbidity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32373996&#34; target=&#34;_blank&#34;&gt;32373996&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As of this writing, all plans have failed to contain the novel coronavirus disease, and it has continued to spread to the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32374806&#34; target=&#34;_blank&#34;&gt;32374806&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although levels of symptoms were generally low at the start of the alert, younger individuals with chronic diseases reported more symptoms than the rest of the population. […] Los resultados demuestran que, aunque los niveles de sintomatología han sido bajos en general al principio de la alarma, la población más joven y con enfermedades crónicas ha referido sintomatología más alta que el resto de población. […] Os resultados mostram que, ainda que os níveis de sintomas tenham sido baixos no início do confinamento, os indivíduos mais jovens e com comorbidades referiram mais sintomas que o restante da população.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32379637&#34; target=&#34;_blank&#34;&gt;32379637&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This paper reported the findings of an observational, prospective, quasi-experimental study, which totally recruited 72 participants, of which 36 patients underwent respiratory rehabilitation and the rest without any rehabilitation intervention.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32390091&#34; target=&#34;_blank&#34;&gt;32390091&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Except for 37 severe or critically ill patients, the rest of the 157 patients exhibited mild or moderate symptoms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32391410&#34; target=&#34;_blank&#34;&gt;32391410&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The data were collected through the Twitter REST API search.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32391664&#34; target=&#34;_blank&#34;&gt;32391664&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The 35 cases of moderate type included 3 (8.6%) single lesions, the 22 cases of severe cases included 1 (4.5%) single lesion and the rest cases were with multiple lesions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32394816&#34; target=&#34;_blank&#34;&gt;32394816&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This paper describes the impact of sedentarism on the human body at the level of the muscular, cardiovascular, metabolic, endocrine and nervous systems and is based on evidence from several models of inactivity, including bed rest, unilateral limb suspension, and step-reduction. […] Inactivity also affects glucose homeostasis as just few days of step reduction or bed rest, reduce insulin sensitivity, principally in muscle.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32404225&#34; target=&#34;_blank&#34;&gt;32404225&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The country’s “go hard, go early” policy serves as an exemplar for the rest of the world to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32404451&#34; target=&#34;_blank&#34;&gt;32404451&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No specific therapy is available and supportive care with rest, fluids, and antipyretics for children is the recommended approach.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405285&#34; target=&#34;_blank&#34;&gt;32405285&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The new corona virus disease has started in Wuhan - China at the end of 2019 and quickly spread with a pandemic trend across the rest of the world. […] Based on the most recent scientific literature and strong statements by the most prestigious international health institutions, the Italian Society of Digestive Endoscopy has drawn up some recommendations about the use of personal protective equipment, the correct way of dressing and undressing of endoscopists and nurses, before and after digestive endoscopy procedures.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32405452&#34; target=&#34;_blank&#34;&gt;32405452&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We calculated the proportion of COVID-19-suspect patients and compared their demographics, clinical characteristics, and DMT categories with the rest of survey-responders, using univariable and multivariable models.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32407126&#34; target=&#34;_blank&#34;&gt;32407126&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On March 26, 2020, the United States reported its first death of an incarcerated patient, in Georgia, and New York City jails reported an infection rate seven times higher than in the rest of the city, a current US epicenter of COVID-19. (&lt;i&gt;Am J Public Health&lt;/i&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32407131&#34; target=&#34;_blank&#34;&gt;32407131&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As in the rest of the world, in Chile COVID-19 has affected the national food system-which has been observed but mostly not yet documented. (&lt;i&gt;Am J Public Health&lt;/i&gt;.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32407411&#34; target=&#34;_blank&#34;&gt;32407411&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Across the country, there was also a significant difference in the disease severity, with Wuhan being the most severe (17.3%), followed by Hubei Province (10.2%), and the rest of China (6.6%). […] The more severe conditions in Wuhan compared to the rest of the country may be attributable to the draconian lockdown.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32410412&#34; target=&#34;_blank&#34;&gt;32410412&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thirty-two patients recovered and were discharged during the study period with a median length of admission of 16 days (range, 9 to 25 days), while the rest remained hospitalized at the end of this study (median, 17.5 days; range, 4 to 27 days).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32412513&#34; target=&#34;_blank&#34;&gt;32412513&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The health system in Mexico, as well as in the rest of the world, will face an enormous problem in the months to come.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32419564&#34; target=&#34;_blank&#34;&gt;32419564&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The evidence supports that gas exchange and countering the negative effects of bed rest and immobility are priorities in severely affected patients admitted to the intensive care unit (ICU).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32420930&#34; target=&#34;_blank&#34;&gt;32420930&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Maybe a bad strategy and lack of timely intervention togheter with concurrent social events, comorbidities of oldest persons, bed rest, inadequate nutritional support and drugs’ side effects and infection of health professionals proved fatal for many.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32420956&#34; target=&#34;_blank&#34;&gt;32420956&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Italy, as well as the rest of Europe, has often been affected by these phenomena and, Lombardy, due to his position, was, as today by COVID-19, severely stroked in Italy that is, after China, the second most affected country [3].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32423504&#34; target=&#34;_blank&#34;&gt;32423504&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Provinces, municipalities and autonomous regions of China have launched first-level response to major public health emergencies one after another from 23 January 2020, which means restricting movement of people among provinces, municipalities and autonomous regions. […] The aim of this study was to explore the correlation between the migration scale index and the number of confirmed coronavirus disease 2019 (COVID-19) cases and to depict the effect of restricting population movement. […] Our findings suggested that people who left Wuhan from 9 January to 22 January, and those who left Hubei province from 10 January to 24 January, led to the outbreak in the rest of China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32427227&#34; target=&#34;_blank&#34;&gt;32427227&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The rest of the microdroplets can transport in the air farther than 3.05 m (10 feet) due to wind convection, causing a potential health risk to nearby people.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32428909&#34; target=&#34;_blank&#34;&gt;32428909&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, trained dedicated COVID-19 teams consisting of physicians were coming from different specialties (intensivists or pneumologists and infectiologists), while respiratory therapists and nurses have been recruited to work on and on without rest.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32439306&#34; target=&#34;_blank&#34;&gt;32439306&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, aggressive quarantine measures included the complete isolation of Wuhan and then later Hubei Province and the rest of the country, as well as closure of all schools and nonessential businesses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32441574&#34; target=&#34;_blank&#34;&gt;32441574&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Only one elderly patient developed severe pneumonia, while all the rest were mild disease and had a self-limiting course.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32452804&#34; target=&#34;_blank&#34;&gt;32452804&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For a subset of geotagged posts (3.10% of all retrieved posts), we also ran separate predictive models for Hubei province, the epicenter of the initial outbreak, and the rest of mainland China. […] For the subset of geotagged posts, we found that the predictive pattern held true for both Hubei province and the rest of mainland China regardless of the unequal distribution of health care resources and the outbreak timeline.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32455503&#34; target=&#34;_blank&#34;&gt;32455503&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is time to lay straw men to rest and embrace the full range of evidence in the context of the perilous threat the world is now facing.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32460086&#34; target=&#34;_blank&#34;&gt;32460086&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We calculated the proportion of COVID-19-suspect patients and compared their demographics, clinical characteristics, and DMT categories with the rest of survey-responders, using univariable and multivariable models.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32461418&#34; target=&#34;_blank&#34;&gt;32461418&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Out of 45 patients, 35 (77.77%) were males and the rest were females.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32468890&#34; target=&#34;_blank&#34;&gt;32468890&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We hope that these lessons may be helpful to our colleagues in the rest of China and around the world, who are engaged in medical educational reform.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32472898&#34; target=&#34;_blank&#34;&gt;32472898&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since the rest of the airways are affected, and so is the nose and nasopharynx, it seems possible that the lining of the Eustachian tube, middle ear and mastoid air cell system would all be polluted.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32473036&#34; target=&#34;_blank&#34;&gt;32473036&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Five centers used surgical mask and the rest used N95 mask. […] Five centers selected isolation gowns and the rest selected protective suits.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32481672&#34; target=&#34;_blank&#34;&gt;32481672&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This survey demonstrated that dentists in the COVID-19 highest prevalence area, albeit reported to have more symptoms/signs than the rest of the sample, were the ones who adopted several precautionary measures less frequently and were the more confident of avoiding infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32483768&#34; target=&#34;_blank&#34;&gt;32483768&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+While training restrictions may result in a decrease in some physical and psychological qualities, athletes can return in a positive state following an enforced period of rest and recovery.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32483934&#34; target=&#34;_blank&#34;&gt;32483934&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the spring of 2003, an epidemic of coronavirus pneumonia spread from Guangzhou to Hong Kong and subsequently to the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32490842&#34; target=&#34;_blank&#34;&gt;32490842&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The scientific community, citizens, politicians, and mass media are expressing concerns regarding data suggesting that the number of COVID-19-related deaths in Italy is significantly higher than in the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32490972&#34; target=&#34;_blank&#34;&gt;32490972&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To identify and classify available information regarding COVID-19 and eye care according to the level of evidence, within four main topics of interest: evidence of the virus in tears and the ocular surface, infection via the conjunctival route, ocular manifestations, and best practice recommendations. […] Seventeen out of 26 records (65%) were categorized as level 5 within the Oxford CBME methodology grading system, the rest were level 4.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32493468&#34; target=&#34;_blank&#34;&gt;32493468&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Of the 60 patients who underwent randomization, 20 patients were assigned to receive Interferon beta-1a, 20 patients were assigned to receive Interferon beta 1b plus standard care and the rest of patients were assigned to receive the standard care alone. […] In the interest in expediting dissemination of this material, the familiar formatting has been eliminated; this Letter serves as a summary of the key elements of the full protocol.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32494567&#34; target=&#34;_blank&#34;&gt;32494567&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) epidemic outbreak emerged in December 2019 from Wuhan City, Hubei Province, China and spread to the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32495916&#34; target=&#34;_blank&#34;&gt;32495916&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In December 2019, Coronavirus disease 2019 (COVID-19) emerged in Wuhan and rapidly spread throughout China and the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32496249&#34; target=&#34;_blank&#34;&gt;32496249&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The test positivity rate in Mumbai is much higher than the rest of India.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32496988&#34; target=&#34;_blank&#34;&gt;32496988&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There have been few works regarding detection of the coronavirus but there are many cases where it can be misclassified as some techniques do not provide any goodness if it can only identify type of diseases and ignore the rest.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32497257&#34; target=&#34;_blank&#34;&gt;32497257&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a newly identified coronavirus which has spread from China to the rest of the world causing the pandemic coronavirus disease 19 (COVID-19).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32497852&#34; target=&#34;_blank&#34;&gt;32497852&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+His CSF leakage had not resolve spontaneously within 1 week after the injury with strict bed rest.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32507105&#34; target=&#34;_blank&#34;&gt;32507105&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Genetic diversity of SARS-CoV-2 collected from China is two times higher than those derived from the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32507536&#34; target=&#34;_blank&#34;&gt;32507536&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The rest of them received treatments with the active protocols.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32509960&#34; target=&#34;_blank&#34;&gt;32509960&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Background and study aim&lt;/b&gt; Outbreak of COVID-19 began in Wuhan in December 2019 and has rapidly spread from China to the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32512089&#34; target=&#34;_blank&#34;&gt;32512089&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Rest 67% is distributed among different NSPs (such as M&lt;sup&gt;pro&lt;/sup&gt;, helicase, and RNA-dependent RNA polymerase) encoding genes across the ORFs, which are involved in virus-cell receptor interactions during viral entry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32516020&#34; target=&#34;_blank&#34;&gt;32516020&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The relationship between meal timing in reference to sunset, utilized as a gross surrogate marker of the activity/rest synchronizer of circadian rhythms, and death rate was negative and even slightly stronger, &lt;i&gt;R&lt;/i&gt; = -0.8025 (two-tailed &lt;i&gt;p&lt;/i&gt; = 0.0092), with &lt;i&gt;R&lt;/i&gt;&lt;sup&gt;2&lt;/sup&gt; explaining 64% of the variation within the data.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32519406&#34; target=&#34;_blank&#34;&gt;32519406&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Initially the patient presented with a transient episode of fever and sore throat but no other symptoms, in particular no cough or dyspnea at rest.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32535302&#34; target=&#34;_blank&#34;&gt;32535302&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The impact of non-3 terminal mismatches should not be underestimated, especially in a diagnostic environment (Stadhouders et al., 2010; Whiley and Sloots, 2005). […] We also thank the QIAstat-Dx Barcelona team for their support in their corresponding roles.Conflict of interests: LP, RP, MR, SNR, MJF,DM,MLF and JP are QIAGEN employees.No ethical approval was required to conduct this work. […] Available from: &lt;a href=&#34;https://apps.who.int/iris/rest/bitstreams/1271387/retrieve.Wu&#34; class=&#34;uri&#34;&gt;https://apps.who.int/iris/rest/bitstreams/1271387/retrieve.Wu&lt;/a&gt; F, Zhao S, Yu B, Chen YM, Wang W, Song ZG, et al.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32535304&#34; target=&#34;_blank&#34;&gt;32535304&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Africa, together with the rest of world have had to swiftly undertake measures necessary to protect the continent from irreversible effects of the COVID-19 pandemic that is claiming lives and destroying livelihoods. […] Closure of borders and movements of people restrictions within the country as measures to prevent the spread of COVID-19; this has resulted in the sector being adversely affected by the loss of income.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32538813&#34; target=&#34;_blank&#34;&gt;32538813&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A modified nominal group technique has been used due to the extraordinary restrictions of assembly and mobility during the COVID pandemic. […] The proposal was sent to the rest of the authors, in order to unify criteria and experiences to reach a quick consensus on the relative priority of the different activities, problems and solutions. […] Se ha utilizado una técnica de grupo nominal modificada debido a las restricciones extraordinarias de reunión y movilidad durante la pandemia COVID. […] Se remitió la propuesta al resto de autores, con el fin de unificar criterios y experiencias para llegar a un rápido consenso sobre la importancia relativa de las distintas actividades, problemas y soluciones.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32539273&#34; target=&#34;_blank&#34;&gt;32539273&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Second, cardiorespiratory variables (heart rate, peripheral oxygen saturation, end-tidal carbon dioxide tension, and inspired fraction of carbon dioxide) were measured at rest and during moderate exercise.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32539692&#34; target=&#34;_blank&#34;&gt;32539692&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+COVID-19, which is caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has spread quickly across China and the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32542131&#34; target=&#34;_blank&#34;&gt;32542131&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The disease outbreak started in China in late December 2019 and quickly spread to the rest of the world, resulting in a pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32546823&#34; target=&#34;_blank&#34;&gt;32546823&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The epidemic threatens to overwhelm healthcare systems, and identifying those regions where the disease burden is likely to be high relative to the rest of the country is critical for enabling prudent and effective distribution of emergency medical care and public health resources. […] We identified counties that will probably be consistently, heavily affected relative to the rest of the country across a range of assumptions about transmission patterns, such as the basic reproductive rate, contact patterns and the efficacy of quarantine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32548651&#34; target=&#34;_blank&#34;&gt;32548651&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The transmission dynamics of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in Wuhan and Hubei Province differ considerably from those in the rest of China. […] Intensive control measures (travel restrictions, isolation of cases, quarantine of contacts and others) led to the control of the outbreak. […] Despite travel restrictions SARS-CoV‑2 was detected in other provinces in the following weeks.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32551776&#34; target=&#34;_blank&#34;&gt;32551776&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On one island nation, North Cyprus, that has been politically isolated from the rest of the world due to a very complicated history and political stance, the rapid enforcement of lockdown measures, despite having negative psychological effects, helped interfere with the spread of COVID-19 and flatten the curve.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32561661&#34; target=&#34;_blank&#34;&gt;32561661&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In order to prevent the rapid spread of COVID-19, governments have placed significant restrictions on liberty, including preventing all non-essential travel. […] These restrictions were justified on the basis the health system may be overwhelmed by COVID-19 cases and in order to prevent deaths. […] Governments are now considering how they may de-escalate these restrictions. […] While this discriminates against the elderly, there is a morally relevant difference-the elderly are far more likely to require hospitalisation and die than the rest of the population. […] It suggests that in order for the elderly to avoid contracting the virus, the whole population should have their liberty deprived, even though the same result could be achieved by only restricting the liberty of the elderly. […] Such selective discrimination will be most justified when the liberty restriction to a group promotes the well-being of that group (apart from its wider social benefits).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32565626&#34; target=&#34;_blank&#34;&gt;32565626&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, based on the size of the dataset, the determined mutation rate is categorized for four different regions: China, Australia, the United States, and the rest of the World.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32566139&#34; target=&#34;_blank&#34;&gt;32566139&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this equation, the role of the Indian pharmaceutical industry will not only be critical to meet the domestic need of over 1.3 billion inhabitants but will equally be important for the rest of the world, including wealthy economies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32568620&#34; target=&#34;_blank&#34;&gt;32568620&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Complete genome sequence analysis, structural and molecular docking results revealed that Remdesivir is having a better binding affinity with -8.2&lt;b&gt; &lt;/b&gt;kcal/mol than the rest of protease inhibitors, and peptide.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574341&#34; target=&#34;_blank&#34;&gt;32574341&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The battle against this epidemic in China has provided valuable experiences for the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32574433&#34; target=&#34;_blank&#34;&gt;32574433&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Each met at least one of the following criteria: shortness of breath; respiratory rate (RR) ≥30 breaths/minute; finger pulse oxygen saturation (SpO2) ≤93% at rest; and oxygen index (P/F ratio: PaO2/FiO2 ≤300 mmHg).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32575366&#34; target=&#34;_blank&#34;&gt;32575366&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Respiratory safety was evaluated by measuring end-tidal CO&lt;sub&gt;2&lt;/sub&gt; and oxygen saturation while wearing the masks in rest and during physical exercise.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32575958&#34; target=&#34;_blank&#34;&gt;32575958&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results are not only informative locally but also useful for the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32576232&#34; target=&#34;_blank&#34;&gt;32576232&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The infection has moved from China to the rest of the world and Italy represents one of the most affected countries.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32577428&#34; target=&#34;_blank&#34;&gt;32577428&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eight out of 13 subjects had a higher viral load in the early morning than the rest of the 4 time points (before lunch, before teatime at 3 pm, before dinner, before bedtime).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32578820&#34; target=&#34;_blank&#34;&gt;32578820&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In Brazil, as in the rest of the world, the number of COVID-19 cases has grown alarmingly, leading to an increase in the number of hospitalizations as well as in mortality from the disease. […] No Brasil, assim como no restante do mundo o número de casos de COVID-19 tem crescido de maneira alarmante levando a um aumento do número de internações assim como da mortalidade pela doença.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32583169&#34; target=&#34;_blank&#34;&gt;32583169&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Finally, one patient was deceased and rest discharged.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32586394&#34; target=&#34;_blank&#34;&gt;32586394&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Severe pneumonia defined by the presence of at least one of the following criteria: a.Respiratory Rate ≥25 breaths /minb.Arterial oxygen saturation≤93% at rest on ambient airc.PaO2/FiO2 ≤300 mmHg 4. […] In the interest in expediting dissemination of this material, the familiar formatting has been eliminated; this Letter serves as a summary of the key elements of the full protocol.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32587172&#34; target=&#34;_blank&#34;&gt;32587172&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Rest of the 33% were given telephonic advice. […] Pivoting teleconsultation platform can provide primary eye care to most of the patients and work as essential forward triage for rest.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32589267&#34; target=&#34;_blank&#34;&gt;32589267&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We are mindful not to generalize the United States’ reality to the rest of the world, recognizing that issues discussed in this paper could potentially contribute to international discourse.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32590483&#34; target=&#34;_blank&#34;&gt;32590483&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Descriptions of ICU utilization and mechanical ventilation were stratified by admission type (elective surgery, emergent/urgent/trauma surgery, and medical admissions), and by geographic location (New York metropolitan region versus the rest of New York State).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32599633&#34; target=&#34;_blank&#34;&gt;32599633&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Few days later, he monitored an increase in his resting heart rate. […] Shortness of breath at rest or gastrointestinal symptoms were absent. […] All patients made full recoveries without signs of organ dysfunction, and with full restitution of physical strength. […] An increase in resting heart rate can occur in the absence of raised temperature or fever.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32600935&#34; target=&#34;_blank&#34;&gt;32600935&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Rest homes for the elderly have been particularly hit during the crisis due the current COVID-19 pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32609284&#34; target=&#34;_blank&#34;&gt;32609284&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is recommended to confirm pregnancy and disease early on, to use technological resources for screening and providing guidance and support to pregnant women. recommendations emphasize isolation, proper rest, sleep, nutrition, hydration, medications, and in the more severe cases, oxygen support, monitoring of vital signs, emotional support, and multiprofessional and individualized care.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32610729&#34; target=&#34;_blank&#34;&gt;32610729&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This could have theoretically saved thousands of lives by reducing inequities between Hubei and the rest of China in healthcare capacity for treating COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32613133&#34; target=&#34;_blank&#34;&gt;32613133&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on this scientific evidence, maintaining a regular exercise routine is a key strategy for physical and mental health during a forced rest period like the current coronavirus emergency.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32617314&#34; target=&#34;_blank&#34;&gt;32617314&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Rest of the countries need to act urgently as well to bring an immediate halt in the community transmission.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32626719&#34; target=&#34;_blank&#34;&gt;32626719&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Background: Coronavirus disease 2019 (COVID-19) was first identified in Wuhan, China, in December 2019 and quickly spread throughout China and the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32630032&#34; target=&#34;_blank&#34;&gt;32630032&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Obesity is a characteristic of COVID-19 patients and the risk of malnutrition can be underestimated due to excess of fat: a paradoxical danger. […] These could be co-caused by COVID-19, prolonged bed rest, the complex medical nutritional therapy, and the starting condition of low-grade inflammation of the obese.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32634321&#34; target=&#34;_blank&#34;&gt;32634321&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is premature, however, to conclude that such work is being retracted at higher rates than the rest of the literature.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32644871&#34; target=&#34;_blank&#34;&gt;32644871&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+With India’s population of more than 1.3 billion people at a significant population density compared with the rest of the world, the lack of universal access to clean water and overall poor socioeconomic status, all have posed a major challenge to India’s fight against COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32649427&#34; target=&#34;_blank&#34;&gt;32649427&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Along with the rest of the world, the United States is inundated by the COVID-19 pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32649650&#34; target=&#34;_blank&#34;&gt;32649650&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Education and intervention should lay particular stress on HCWs featured rest at home before return, doctor, lower education and lower title to ensure the safety, accuracy and quality of work after they return to work for a better occupational environment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32649661&#34; target=&#34;_blank&#34;&gt;32649661&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A comprehensive strategy was conducted in PubMed/Medline; Science direct and LILACS from December 2002 to May 2020 without language restriction. […] The Heterogeneity among the included studies was checked with forest plot, χ2 test, I2 test, and the p-values. […] All observational studies reporting rate of ICU admission, the prevalence of mortality and its determinants among ICU admitted patients with coronavirus were included and the rest were excluded.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32654411&#34; target=&#34;_blank&#34;&gt;32654411&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Major sources of stress for the workforce include: (a) a threat to the worker’s personal/family health and life (traumatic injury), (b) a loss of colleagues or threat to professional mastery and identity (grief injury), (c) an inner conflict between ones’ values and aspirations and what they are able to accomplish in their work (moral injury), and (d) fatigue, simply feeling worn out by the relentless work and need, without time for rest and recovery (fatigue injury).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32655021&#34; target=&#34;_blank&#34;&gt;32655021&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Five of 43 patients (11.6%) died on follow-up and the rest were discharged.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32655733&#34; target=&#34;_blank&#34;&gt;32655733&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Five studies were selected from a pool of 12 studies with a total of 854 liver transplant recipients of whom 700 were children and the rest 154 were adults.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32657805&#34; target=&#34;_blank&#34;&gt;32657805&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Like the rest of the health care services in Singapore, the practice of ophthalmology has also had to adapt to this rapidly changing crisis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32659199&#34; target=&#34;_blank&#34;&gt;32659199&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+COVID-19 is an ongoing viral pandemic that emerged from East Asia and quickly spread to the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32660520&#34; target=&#34;_blank&#34;&gt;32660520&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our systematic review included data from 37 articles: twelve retrospective studies, two prospective studies, and the rest case reports/series.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32665054&#34; target=&#34;_blank&#34;&gt;32665054&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Most patients with neurological complications survived (n = 14); a considerable number of patients died (n = 7); and the rest had unclear outcomes (n = 12).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32665726&#34; target=&#34;_blank&#34;&gt;32665726&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The COVID-19 pandemic is having a profound impact across the United States and the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32668058&#34; target=&#34;_blank&#34;&gt;32668058&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Bed rest, obesity, hypoxia, coagulopathy, and acute excessive inflammation are potential mechanisms reported by previous studies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32679362&#34; target=&#34;_blank&#34;&gt;32679362&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The pandemic in the Indian subcontinent, compared with the rest of the world, is relatively delayed. […] Of respondents, 46% were practicing restricted outpatient services, more in public institutions (P = 0.22) which also had a higher incidence of tele-outpatient services (26% vs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32685692&#34; target=&#34;_blank&#34;&gt;32685692&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This community experience in Wuhan provides important lessons for the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32692228&#34; target=&#34;_blank&#34;&gt;32692228&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The rest of the 30 patients that received standardized oxygen therapy in our unit were included in the study.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32693067&#34; target=&#34;_blank&#34;&gt;32693067&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In modern societies, human rest-activity rhythms and sleep result from the tensions and dynamics between the conflicting poles of external social time (e.g., work hours and leisure activities) and an individual’s internal biological time. […] A mismatch between the two has been suggested to induce ‘social jetlag’ [1] and ‘social sleep restriction’, that is, shifts in sleep timing and differences in sleep duration between work days and free days. […] Social jetlag [2,3] and sleep restrictions [4] have repeatedly been associated with negative consequences on health, mental wellbeing, and performance. […] In a large-scale quasi-experimental design, we investigated the effects of the phase with the most rigorous COVID-19 restrictions on the relationship between social and biological rhythms as well as sleep during a six-week period (mid-March until end of April 2020) in three European societies (Austria, Germany, Switzerland). […] We found that, on one hand, the restrictions reduced the mismatch between external (social) and internal (biological) sleep-wake timing, as indexed by significant reductions in social jetlag and social sleep restriction, with a concomitant increase in sleep duration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32694221&#34; target=&#34;_blank&#34;&gt;32694221&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To construct the model, several parameters were set as fixed using existing evidence and the rest of the parameters were estimated by fitting the model to a smoothed curve of the cumulative confirmed cases in Wuhan from 24 January 2020 to 6 March 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32699916&#34; target=&#34;_blank&#34;&gt;32699916&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thus, winter sport resorts became a starting point for COVID-19 infections spreading towards the rest of the state, Austria and other countries, leading to a mandatory quarantine for almost a million people, who were placed under a curfew and restrictions in daily life.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32701916&#34; target=&#34;_blank&#34;&gt;32701916&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During the COVID-19 pandemics, balneotherapic establishments were closed in Italy like in the rest of Europe. […] The Italian Foundation for Research in balneotherapy (FoRST) was asked to prepare a safety protocol to be proposed to the National Health Authorities to allow the establishments to restart their activity when possible, under safe conditions (the so-called Phase-2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32702272&#34; target=&#34;_blank&#34;&gt;32702272&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared with the rest of Asia, SARS-CoV-2 exhibited attenuated rates of expansion with limited COVID-19 infection severity along the Tibetan plateau.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32702365&#34; target=&#34;_blank&#34;&gt;32702365&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since February 2020, Italian hospitals registered COVID-19 (COronaVIrus Disease 19) cases more often than the rest of the Europe.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32705962&#34; target=&#34;_blank&#34;&gt;32705962&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among all, a total of 14 compounds were filtered where Carinol, Albanin, Myricetin were had better binding profile than the rest of the compounds with having binding energy of -8.476, -8.036, -8.439 kcal/mol, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32707538&#34; target=&#34;_blank&#34;&gt;32707538&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Wuhan had a much higher mortality rate than the rest of China. […] However, a large number of asymptomatic infections in Wuhan may have never been diagnosed, contributing to an overestimated mortality rate. […] Our study indicates that a large number of infections in Wuhan were not diagnosed, which has resulted in an overestimated case fatality rate. […] Increased awareness of the original infection rate of Wuhan is critical for proper public health measures at all levels, as well as to eliminate panic caused by overestimated mortality rates that may bias health policy actions by the authorities.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32712376&#34; target=&#34;_blank&#34;&gt;32712376&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In rest of the patients, the query of the caregiver included unavailability of AED/prescribed commercial brand in the locality, query related to the dose of drugs, proxy for a scheduled routine visit (no active issues), and concern regarding COVID-19 related symptoms and effect of COVID-19 and lockdown in children with epilepsy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32719281&#34; target=&#34;_blank&#34;&gt;32719281&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Covid19 has become a major public health problem in India and the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32723327&#34; target=&#34;_blank&#34;&gt;32723327&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Many patients present with a remarkable disconnect in rest between profound hypoxemia yet without proportional signs of respiratory distress (i.e. happy hypoxemia) and rapid deterioration can occur.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32723452&#34; target=&#34;_blank&#34;&gt;32723452&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One patient had ground glass opacity only, while the rest four patients mainly had ground glass opacity accompanied by consolidation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32725271&#34; target=&#34;_blank&#34;&gt;32725271&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Healthcare workers (HCW) are overexposed and infection rates are higher than in the rest of the population.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32729312&#34; target=&#34;_blank&#34;&gt;32729312&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The majority (87.3%) were from China (45.3%), the rest of Asia (22.0%) and Europe (20.0%), and mostly examined the general population (37.3%), healthcare workers (31.3%) and those with pre-existing mental and physical illnesses (14.7%).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32735524&#34; target=&#34;_blank&#34;&gt;32735524&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The latter proved to be way more elevated in the North of Italy -with a peak of 18.4% in region Lombardia and even 31% in the city of Bergamo and surrounding county- than in the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32738843&#34; target=&#34;_blank&#34;&gt;32738843&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One patient needed oxygen support while hospital course was uncomplicated in the rest.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32742969&#34; target=&#34;_blank&#34;&gt;32742969&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The rest 30 patients were discharged from the medical college hospital after being negative for SARS-CoV-2 in two subsequent assessments and improvement of their COVID-related symptoms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32745249&#34; target=&#34;_blank&#34;&gt;32745249&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These patterns were then applied to the rest of the images and further refined.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32746940&#34; target=&#34;_blank&#34;&gt;32746940&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The non-survivors presented lower levels of oximetry saturation (90 vs 97%) at rest and lactate (2.40 vs 1.90 mmol/L) (P &amp;lt; 0.001).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32753985&#34; target=&#34;_blank&#34;&gt;32753985&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study describes the administrative mechanism of joint participation and cooperation during the early stages of the COVID-19 outbreak in Wuhan and the rest of the country by health practitioners and administrative authorities.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32758857&#34; target=&#34;_blank&#34;&gt;32758857&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+COVID-19 suddenly struck Wuhan at the end of 2019 and soon spread to the whole country and the rest of world in 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32766285&#34; target=&#34;_blank&#34;&gt;32766285&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study aims to investigate, factors associated with COVID-19 positivity in hospital for 1,436 UK Biobank participants; compared with individuals who tested negative, and with the untested, presumed negative, rest of the cohort.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32767827&#34; target=&#34;_blank&#34;&gt;32767827&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+They need to implement stress-reduction strategies for nurses through providing consecutive rest days, rotating allocations of complex patients, arranging support services and being accessible to staff.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32771867&#34; target=&#34;_blank&#34;&gt;32771867&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In conclusion, although many variables must be taken into account in the analysis of the pandemic, our observations suggest that obesity may act as effect modifier of smog-induced lung-injury, and the concomitant presence of these two factors could better explain the higher virulence, faster spread and greater mortality of SARS-CoV-2 in Northern Italy compared to the rest of the country.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32773400&#34; target=&#34;_blank&#34;&gt;32773400&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A total of 860 images (260 COVID-19 cases, 300 healthy and 300 pneumonia cases) have been employed to investigate the performance of the proposed algorithm, where 70% images of each class are accepted for training, 15% is used for validation, and rest is for testing.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32773471&#34; target=&#34;_blank&#34;&gt;32773471&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PLWH with COVID-19 did not differ from the rest of the HIV cohort.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32773749&#34; target=&#34;_blank&#34;&gt;32773749&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The novel SARS-CoV-21 pandemic arose in China in the late 20192 and soon after spread in the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32774009&#34; target=&#34;_blank&#34;&gt;32774009&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Three of them were covid-19 positive, one was not tested and the rest five were covid-19 negative.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32777170&#34; target=&#34;_blank&#34;&gt;32777170&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Baseline characteristics of admitted patients with COVID-19 show that adiposity, diabetes, and hypertension are risk factors for developing severe disease, but so far immunosuppressed patients who are listed as high-risk patients have not been more susceptible to severe COVID-19 than the rest of the population.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32778180&#34; target=&#34;_blank&#34;&gt;32778180&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The rest 55% are currently active cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32784499&#34; target=&#34;_blank&#34;&gt;32784499&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The rest ~14% of clinical efforts are aimed at evaluating vaccines and convalescent plasma-based therapies to mitigate the disease’s symptoms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32787496&#34; target=&#34;_blank&#34;&gt;32787496&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spread from the early epicenter, Wuhan, to the rest of China, the virulence of SARS-CoV-2 might have evolved at different phases of the pandemic. […] Wuhan patients had longest (27 days, 18-28), those transmitted by Wuhan patients had intermediate (16 days, 8-23), and the rest of the patients had shortest (13 days, 8.5-22.5) hospital stay.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32787752&#34; target=&#34;_blank&#34;&gt;32787752&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thus, the selected works were those that presented drugs repositioned against the emerging viral diseases presented here by means of computational, high-throughput screening or phenotype-based strategies, with no time limit and of relevant scientific value. 291 papers were selected, 24 of which were CHIKV; 52 for ZIKV; 43 for DENV; 35 for EBOV; 10 for MARV; and 56 for CoV and the rest (72 papers) related to the drugs repurposing and emerging viral diseases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32794462&#34; target=&#34;_blank&#34;&gt;32794462&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+There were 6 cases in Dhaka district excluding metropolitan areas and rest of 43 (20%) cases in the 19 other regions. […] Our analysis suggests that relaxed travel restriction could play an important role to spread COVID-19 transmission domestically.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32796792&#34; target=&#34;_blank&#34;&gt;32796792&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Infection with the new corona virus (SARS-CoV-2) was first registered in December 2019 in China, and then later spread rapidly to the rest of the world. […] The entrry of the virus into the brain can lead to neurological and psychiatric manifestationss, which are not uncommon, including headache, paresthesia, myalgia, impaired consciousnessm, confusion or delirum and cerebrovascular diseases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32798345&#34; target=&#34;_blank&#34;&gt;32798345&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A simple 6-minute walk test (6MWT) to look for inducible hypoxia for a patient who looks comfortable and is not hypoxic at rest, helps in early detection of hypoxia and initiating early higher-level care.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32799740&#34; target=&#34;_blank&#34;&gt;32799740&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Subsequently, the disease spread to more provinces in China, then the rest of the world, and the World Health Organization declared it a pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32800237&#34; target=&#34;_blank&#34;&gt;32800237&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The present article, therefore, describes the SARS-CoV-2 paths of contagion such as drinking water, solid waste, sewer water, ambient air, and the rest of emerging likely paths.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32805023&#34; target=&#34;_blank&#34;&gt;32805023&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, we demonstrate that viral coding proteins of SARS-CoV-2 have distinct features and are most, medium and least conserved with SARS-CoV, MERS-CoV, and the rest four mild coronaviruses (HCoV-229E, HCoV-OC43, HCoV-NL63, and HCoV-HKU1), respectively. […] Interestingly, enrichment of overactivation of neutrophil by HRGs is only and commonly found in infections of severe SARS-CoV-2, SARS-CoV, and MERS-CoV but not in the other four mild coronaviruses, and the related gene networks show different patterns.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32806613&#34; target=&#34;_blank&#34;&gt;32806613&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The evolution of the COVID-19 epidemy in China is considered for validation purposes, by taking the first part of the dataset of accumulated reported infectious individuals to estimate the related parameters, and retaining the rest of the evolution data for direct comparison with the predicted results.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32809913&#34; target=&#34;_blank&#34;&gt;32809913&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The other essential element is a universal payment system that puts the United States at par with the rest of the industrialized countries, regardless of variation among them.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32817988&#34; target=&#34;_blank&#34;&gt;32817988&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+After the first case of COVID-19 pneumonia was reported in Wuhan, Hubei Province, China, in December 2019, the infection quickly spread to the rest of China and then to the wider world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32819125&#34; target=&#34;_blank&#34;&gt;32819125&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among the 43 COVID-19 patients. including 9 third generation infected cases, 16 (37.2%) were imported, who infected the rest.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32822206&#34; target=&#34;_blank&#34;&gt;32822206&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In a narrative review of 96 articles addressing clinician mental health in COVID-19 and prior pandemics, 7 themes emerged: 1) the need for resilience and stress reduction training; 2) providing for clinicians’ basic needs (food, drink, adequate rest, quarantine-appropriate housing, transportation, child care, personal protective equipment); 3) the importance of specialized training for pandemic-induced changes in job roles; 4) recognition and clear communication from leadership; 5) acknowledgment of and strategies for addressing moral injury; 6) the need for peer and social support interventions; and 7) normalization and provision of mental health support programs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32831319&#34; target=&#34;_blank&#34;&gt;32831319&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Since maybe not all COVID-19 neurological manifestations are due to SARS-CoV-2 direct effects, it is important to monitor the rest of the clinical parameters such as, for example, oxygen saturation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32834380&#34; target=&#34;_blank&#34;&gt;32834380&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+First, social protection systems are less common in the Pacific than in the rest of the world, meaning the region is not particularly well equipped to deal with the sharp decline in economic activity associated with the disease and standard policy responses (e.g., lockdowns) without plunging a large share of the population into poverty. […] Second, aggressive travel restrictions and effective domestic policy responses have spared many Pacific countries from the worst impacts of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32834629&#34; target=&#34;_blank&#34;&gt;32834629&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The disease is presently a major health concern in Ghana and the rest of the world. […] We used forward-backward sweep Runge-Kutta scheme which gave interesting results in the main text, for example, the cost-effectiveness analysis shows that, Strategy 4 (safety measures adopted by the asymptomatic and symptomatic individuals such as practicing proper coughing etiquette by maintaining a distance, covering coughs and sneezes with disposable tissues or clothing and washing of hands after coughing or sneezing) is the most cost-effective strategy among all the six control intervention strategies under consideration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32834660&#34; target=&#34;_blank&#34;&gt;32834660&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Thereafter, the number of active cases has been forecasted for the rest of 2020 to predict the impact of lockdown relaxation on spread of COVID-19 and indicate preparatory measures necessary to counter it.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32835055&#34; target=&#34;_blank&#34;&gt;32835055&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The country’s laboratory leading the fight has also introduced some innovative testing methods allowing the country to test a far greater scale per million than the rest of Africa.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32836304&#34; target=&#34;_blank&#34;&gt;32836304&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Psychological support is upset by this disease, like the rest. […] Psychological support is disrupted by this disease, as is the rest. […] Adaptation and creation of a clinic requiring to be as close as possible to the patient to allow the psychological restructuring having been disorganized in connection with the disease but also with the hospital and family environment, strongly impacted by anxiety.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32837661&#34; target=&#34;_blank&#34;&gt;32837661&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The story of food stockpiling during the COVID-19 pandemic in China is similar with the rest of world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32838040&#34; target=&#34;_blank&#34;&gt;32838040&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The rest of them received treatments with the active protocols.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32838153&#34; target=&#34;_blank&#34;&gt;32838153&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Starting from Wuhan (China) where it was firstly reported, it rapidly spread to the rest of the world, causing a pandemic with more than 300,000 deaths to date.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32840841&#34; target=&#34;_blank&#34;&gt;32840841&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Only by rendering the rest of humanity morally visible to ourselves can we overcome capitalism and stop treating other people as invisible enemies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32845013&#34; target=&#34;_blank&#34;&gt;32845013&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Like the rest of the world, the Philippines has been greatly impacted by the coronavirus pandemic and we argue that a stable and robust NR is needed to bounce back from the challenges and adversities of the crisis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32848492&#34; target=&#34;_blank&#34;&gt;32848492&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Three were articles, 5 short or special communications, and the rest editorials and perspectives.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32850610&#34; target=&#34;_blank&#34;&gt;32850610&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Related management departments should further improve the job satisfaction of frontline medical staff by meeting their reasonable demands, strengthening the emergency response and practical operation training of junior staff, and ensuring their ample time for sleep and rest.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32853557&#34; target=&#34;_blank&#34;&gt;32853557&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compared with the rest of the UKCCMP cohort, patients with leukaemia showed a significantly increased case-fatality rate (2·25, 1·13-4·57; p=0·023).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32857824&#34; target=&#34;_blank&#34;&gt;32857824&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The lockdown of Wuhan city substantially reduced the α value for the rest of China excluding Hubei province, while only slightly reducing the α value for the city itself. […] City lockdown was efficient in controlling the spread of the epidemic from Wuhan to the rest of the country.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32860395&#34; target=&#34;_blank&#34;&gt;32860395&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not only China, the first country that experienced the health crisis since last December, but the rest of the world, is facing an unprecedented global health crisis, the most serious crisis in a century, with social and economic impact.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32865523&#34; target=&#34;_blank&#34;&gt;32865523&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Respiratory physiology at rest and performing intense physical exercise was described, explaining how the use of masks during high-intensity physical exercise affects it in relation to gas exchange.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32866409&#34; target=&#34;_blank&#34;&gt;32866409&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Importantly, we identified six modifiable determinants of symptoms of mental health disorders: fear of being infected, inability to rest, inability to care for family, struggling with difficult emotions, regret about the restrictions in visitation policies, and witnessing hasty end-of-life decisions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32868974&#34; target=&#34;_blank&#34;&gt;32868974&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A 51- year old male, with no prior medical history, no medication, and non-smoker arrived at the emergency department with exercise induced dyspnea during 4-5 weeks and for the last 48 h dyspnea at rest. […] Oxygen saturation at rest was 93%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32874021&#34; target=&#34;_blank&#34;&gt;32874021&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, the findings confirm that traders in Western countries are more responsive to recent information than the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32874861&#34; target=&#34;_blank&#34;&gt;32874861&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The hospitalization rates in the northern regions are over 70% lower as compared to the rest of the country (18 vs 66 per 100,000 inhabitants, respectively). […] Differences between the Bible Belt and the rest of the country were hardly detectable. the Dutch have shown a way to effectively slow down transmission while allowing more personal and economic freedom than most other countries.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32874935&#34; target=&#34;_blank&#34;&gt;32874935&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Despite predictions that the number of deaths in Africa due to COVID-19 will reach 10 million, overall, the continent has reported relatively few cases compared to the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32876832&#34; target=&#34;_blank&#34;&gt;32876832&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Teleworking should be extended to the rest of non-medical radiology department areas. […] • Teleworking should be extended to the rest of non-medical radiology department areas whenever possible.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32879116&#34; target=&#34;_blank&#34;&gt;32879116&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The front-line workers should manage work and rest time reasonably to adjust their negative mood and fatigue. […] Thus, front-line staff can be obtained mental intervention or be taken a rest from the high-intensive work.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32900597&#34; target=&#34;_blank&#34;&gt;32900597&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Coronavirus disease 2019 (COVID-19) is a disease spreading rapidly in Sudan, the rest of the African continent and the world with no known definitive treatment or vaccines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32904086&#34; target=&#34;_blank&#34;&gt;32904086&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+PHC teams must secure systems for patient retrieval and managing equipment and resources including providing for situations where supply chains may fail and staff need rest.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32904414&#34; target=&#34;_blank&#34;&gt;32904414&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As one example, amongst the 21,542 documents in Scopus, 47.6% were research articles, 22.4% were letters, and the rest were reviews, editorials, notes and other.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32904733&#34; target=&#34;_blank&#34;&gt;32904733&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Morocco and the rest of the world are experiencing a pandemic of a new coronavirus known as COVID-19 or SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32907673&#34; target=&#34;_blank&#34;&gt;32907673&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It is unclear when the rest of the states in the US will reach the first peak.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32912707&#34; target=&#34;_blank&#34;&gt;32912707&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two studies that disagreed with the rest were included, although after withdrawing them from the MA, smoking was maintained as a risk factor for worse progress.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32918076&#34; target=&#34;_blank&#34;&gt;32918076&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mobility restrictions imposed to suppress transmission of COVID-19 can alter physical activity (PA) and sleep patterns that are important for health and wellbeing. […] We obtained wearable data covering baseline, incremental mobility restriction and lockdown periods from 1824 city-dwelling, working adults aged 21-40 years, incorporating 206,381 nights of sleep and 334,038 days of PA. […] Distinct rest-activity rhythm (RAR) profiles were identified using k-means clustering, indicating participants’ temporal distribution of step counts over the day. […] Resting heart rate declined ~2 bpm. […] In the early aftermath of COVID-19 mobility restriction, physical activity appears to be more severely affected than sleep.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32921332&#34; target=&#34;_blank&#34;&gt;32921332&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although the African continent is, for the moment, less impacted than the rest of the world, it still faces the risk of a spread of COVID-19. […] Difficulties in access to diagnostic tests, lack of hospital equipment, but also the large number of people working in the informal sector (such as trading, businesses, transport and restoration) makes it difficult to apply preventive measures, namely physical distancing and containment.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32921865&#34; target=&#34;_blank&#34;&gt;32921865&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The data was considered up to two different dates to study the climatic effect (10th May in the first study and then updated up to 16th of July in the next study when the rest of the data was available).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32922409&#34; target=&#34;_blank&#34;&gt;32922409&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with evidence of progressive disease after 24 h including an oxygen saturation &amp;lt;93% at rest in ambient air were included at the University Hospital Basel, Switzerland in April 2020.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32926883&#34; target=&#34;_blank&#34;&gt;32926883&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A discrete event simulation was used to explore the impact of different permutations of staff roster, including the number of shifts per day, the number of staff on duty per shift, overall number of staff accessible to work in the laboratory (i.e. overall staff pool), the frequency of shift changes (i.e. number of consecutive days worked), fixed work-rest days and split team arrangement on workplace transmission of COVID-19 by a simulated index staff who acquired the infection from the community over 21 days. […] Having fixed work-rest arrangement did not significantly reduce the transmission rate unless the workplace outbreak was prolonged.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32929400&#34; target=&#34;_blank&#34;&gt;32929400&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Out of this 2 were corona positive (both eventually succumbed) and rest 74 was corona negative.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32930863&#34; target=&#34;_blank&#34;&gt;32930863&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Although the World Health Organization recently reported that pregnant patients do not have a higher risk of infection than the rest of the population, Royal College of Obstetricians &amp;amp; Gynecologists and The Royal College of Midwives for COVID-19 infection in pregnancy published Guidelines for pregnant women with suspected SARS-CoV-2 infection.Considerations about patients with rheumatic diseases on the immunosuppressive treatment required European League Against Rheumatism, American College of Rheumatology, British Society for Rheumatology, and Australian Rheumatology Association to publish recommendations for patients with rheumatic diseases and COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32934172&#34; target=&#34;_blank&#34;&gt;32934172&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A clinical phenotype characterized by older age, a higher burden of comorbidities, and severe COVID-19 respiratory symptoms, was associated with the highest in-hospital mortality (58.6%) and a 3x higher risk of death than the rest of the cohort (OR 3.52, 95%CI 1.53-8.09, P=0.003).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32935498&#34; target=&#34;_blank&#34;&gt;32935498&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+82.4% in rest of Europe).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32943078&#34; target=&#34;_blank&#34;&gt;32943078&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Mali, like the rest of the world, has seen a rapid spread of COVID-19 since the first report of imported cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32958973&#34; target=&#34;_blank&#34;&gt;32958973&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Utilizing web scraping techniques to extract data from different online sources to determine the probable transmission rate in Tamilnadu from the rest of the Indian states.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32963059&#34; target=&#34;_blank&#34;&gt;32963059&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Random forest (RF) model was developed on randomly drawn 70% of the cohort (training set) and its performance was evaluated on the rest of 30% (the test set).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32963773&#34; target=&#34;_blank&#34;&gt;32963773&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, restaurants were allowed to serve the only takeout. […] Seventy-three female patients (09.54%) and138 males (20.65%) sustain their weight during and two months after the outbreak, while the rest (n = 554, 72.41%) gained different amounts of weight.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32963831&#34; target=&#34;_blank&#34;&gt;32963831&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Coronavirus disease 2019 (COVID-19) is caused by severe acute respiratory syndrome coronavirus 2 (SAR2-COV-2) and was first identified in Wuhan, China, in December of 2019, but quickly spread to the rest of the world, causing a pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32968181&#34; target=&#34;_blank&#34;&gt;32968181&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We perform statistical analyses averaging on different level of human interaction across Europe and with the rest of the World.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32973089&#34; target=&#34;_blank&#34;&gt;32973089&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Across the three populations, though, we find that targeted “salutary sheltering” by 50% of a single age group may substantially curtail transmission when combined with the adoption of physical distancing measures by the rest of the population.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32973631&#34; target=&#34;_blank&#34;&gt;32973631&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Amongst the enacted restrictions, all non-essential activities were prohibited as well as all outdoor activities banned. […] Through an adequate fit of the hypothesized model and a multi-group analysis, we compared the most COVID-19 hit Italian region - Lombardy - to the rest of Italy, finding that anxiety was significantly higher in the Lombardy region than the rest of the country. […] Giving the potential deleterious effects of physical inactivity due to personal restrictions, these data may increase preparedness of public health measures and attractiveness of recommendations, including on the beneficial effects of exercise, under circumstances of social distancing to control an outbreak of a novel infectious disease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32980228&#34; target=&#34;_blank&#34;&gt;32980228&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+All three cases (ages 11 months, 2 years, and 9 years old) presented with non-specific upper-respiratory-tract symptoms that developed into a barky cough with associated stridor at rest and respiratory distress. […] All had a prolonged period of time from ED presentation until the resolution of their stridor at rest (13, 19, and 21 h).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32982532&#34; target=&#34;_blank&#34;&gt;32982532&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The emotional exhaustion level of 18-23-year-old physicians was lower than the rest of the physicians.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32983915&#34; target=&#34;_blank&#34;&gt;32983915&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In contrast, the rest forty percent of countries (N = 25) still had a rising trend.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32983949&#34; target=&#34;_blank&#34;&gt;32983949&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The end of the year 2019 was marked by novel coronavirus (severe acute respiratory syndrome coronavirus-2, SARS-CoV-2) outbreak in China that rapidly spread to the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32990244&#34; target=&#34;_blank&#34;&gt;32990244&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We analyze the economic impact and the future relationship we can expect with the rest of the medical industry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32991237&#34; target=&#34;_blank&#34;&gt;32991237&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Nigeria and other sub-Sahara Africa countries like the rest of the world introduced several lockdown measures as part of their public health response to mitigate the spread of the virus.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32995557&#34; target=&#34;_blank&#34;&gt;32995557&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From March 2020 onwards, the importation of cases from countries in the rest of the world followed by seeding of local transmission triggered further outbreaks in India.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33001410&#34; target=&#34;_blank&#34;&gt;33001410&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here we review mechanisms of sarcopenia and their relation to the current data on the effects of COVID-19 confinement on physical activity, dietary habits, sleep, and stress as well as extended bed rest due to COVID-19 hospitalization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33007400&#34; target=&#34;_blank&#34;&gt;33007400&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The disease rapidly spread to the rest of China, to Southern-East Asia, then to Europe, America, and on to the rest of the world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33009735&#34; target=&#34;_blank&#34;&gt;33009735&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Epidemiological investigations found that COVID-19 fatality rates in Wuhan, rest parts of Hubei province except Wuhan (Rest of Hubei) and rest parts of Mainland China except Hubei province (Rest of China) were different. […] Infected cases from Mainland China were divided into three populations: Wuhan, Rest of Hubei and Rest of China. […] Total confirmed cases, daily severe cases, total deaths from February 12 to April 20 were collected for statistical analysis. 50,333 total confirmed cases in Wuhan made up the most substantial part by comparison with 17,795 in Rest of Hubei and 14,630 in Rest of China, respectively. […] Total deaths in Wuhan constituted the most significant proportion, with the highest 3869 in contrast to 643 in Rest of Hubei and 120 in Rest of China. […] The fatality rates in Wuhan ranged from 2.82% to 7.69%, much higher than 1.80-3.61% in Rest of Hubei, and 0.49-0.88% in Rest of China.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33010961&#34; target=&#34;_blank&#34;&gt;33010961&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+At the end of the study, fourteen patients were successfully decannulated, three patients died, and the rest of the patients were still on ECMO.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33019856&#34; target=&#34;_blank&#34;&gt;33019856&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Eighty-eight percent (N=14 of 16) of tested asymptomatic patients in building zero were positive, compared with 12% (N=6 of 51) of randomly selected asymptomatic patients in a sample from the rest of the hospital.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33022331&#34; target=&#34;_blank&#34;&gt;33022331&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pressure data shows the isolation space maintained an average (standard deviation) hourly value of -2.3 Pa (0.12 Pa) pressure differential between it and the external hallway connected to the rest of the facility.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33023616&#34; target=&#34;_blank&#34;&gt;33023616&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Data confirmed that in the North part of Italy the rate of patients referred is higher than in the rest of Italy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33029562&#34; target=&#34;_blank&#34;&gt;33029562&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The objective of the present study is to analyze research on population surveillance, identifying the main topics of interest for investigators in the area. […] The rest of the clusters addressed “Neoplasms,” “HIV,” “Pregnancy,” “Substance Abuse/Obesity,” and “Tuberculosis.”
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33031955&#34; target=&#34;_blank&#34;&gt;33031955&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This multicentre study project includes a single-arm phase 2 study and a further parallel cohort, enrolling hospitalized patients with COVID-19 pneumonia and oxygen saturation at rest in ambient air ≤93% or requiring respiratory support.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33035253&#34; target=&#34;_blank&#34;&gt;33035253&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+An excess of 84.2% (73.8% to 93.4%) was also estimated at the same time for males in the city of Pesaro (Central Italy), in stark contrast with the rest of the region, which does not show evidence of excess deaths.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33035564&#34; target=&#34;_blank&#34;&gt;33035564&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Beekeepers comorbidity correlated with problems with breathing at rest, fever, and diarrhea.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33037070&#34; target=&#34;_blank&#34;&gt;33037070&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our objective was to compare testing for, diagnosis of and death after severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection across 3 settings (residents of long-term care homes, people living in shelters and the rest of the population). […] Cumulatively, compared with the rest of the population, the diagnosed cases per capita was 64-fold and 19-fold higher among long-term care home and shelter residents, respectively. […] By May 20, 2020, 76.3% (21 617/28 316) of long-term care home residents and 2.2% (150 077/6 808 890) of the rest of the population had been tested. […] After adjusting for age and sex, residents of long-term care homes were 2.4 (95% confidence interval [CI] 2.2-2.7) times more likely to test positive, and those who received a diagnosis of COVID-19 were 1.4-fold (95% CI 1.1-1.8) more likely to die than the rest of the population. […] Long-term care homes and shelters had disproportionate diagnosed cases per capita, and residents of long-term care homes diagnosed with COVID-19 had higher case fatality than the rest of the population.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33041543&#34; target=&#34;_blank&#34;&gt;33041543&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Approximately 80% of the infected patients are largely asymptomatic or have mild symptoms such as fever or cough, while rest of the patients display varying degrees of severity of symptoms, with an average mortality rate of 3-4%.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33041811&#34; target=&#34;_blank&#34;&gt;33041811&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Patients with antecedents of allergic diseases were about ten years younger (P = 0.003) and had fewer comorbidities (P = 0.026) than the rest of the patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33043172&#34; target=&#34;_blank&#34;&gt;33043172&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The PROPER SMS fabric is designed for single-use and not intended for reuse, as they may start to tear and fail but the rest of the parts can be disinfected and reused.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33047790&#34; target=&#34;_blank&#34;&gt;33047790&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Overall, despite similar rates of testing, there was a significantly lower incidence in the Eastern Mediterranean Region versus the rest of the world, in addition to a lower mortality per million-population, particularly in countries with low to moderate testing rates. […] The overall testing frequency was similar in the Eastern Mediterranean Region compared to the rest of the world; this would be expected to lead to a similar cumulative incidence and case fatality rate. […] Nevertheless, the average incidence was 70% lower than the rest of the world, and mortality per million-population was lower (90%).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -558,7 +2922,7 @@ Co-expression network analysis by WGCNA suggested that highly preserved 833 turq
     </item>
     
     <item>
-      <title>ARG1</title>
+      <title>REST</title>
       <link>/genepanel/5978/clinvar/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/5978/clinvar/</guid>
@@ -566,7 +2930,7 @@ Co-expression network analysis by WGCNA suggested that highly preserved 833 turq
 
 
 &lt;hr /&gt;
-&lt;p&gt;arginase 1&lt;/p&gt;
+&lt;p&gt;RE1 silencing transcription factor&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;ClinVar Summary&lt;/h2&gt;
@@ -580,7 +2944,7 @@ Under development
     </item>
     
     <item>
-      <title>ARG1</title>
+      <title>REST</title>
       <link>/genepanel/5978/geo/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/genepanel/5978/geo/</guid>
@@ -588,7 +2952,7 @@ Under development
 
 
 &lt;hr /&gt;
-&lt;p&gt;arginase 1&lt;/p&gt;
+&lt;p&gt;RE1 silencing transcription factor&lt;/p&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;GEO dataset Summary&lt;/h2&gt;

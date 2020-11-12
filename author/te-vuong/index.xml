@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Te Vuong | PlatCOVID</title>
+    <link>/author/te-vuong/</link>
+      <atom:link href="/author/te-vuong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Te Vuong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Te Vuong</title>
+      <link>/author/te-vuong/</link>
+    </image>
+    
+    <item>
+      <title>Whole-lung Low Dose Irradiation for SARS-Cov2 Induced Pneumonia in the Geriatric Population: An Old Effective Treatment for a New Disease? Recommendation of the International Geriatric Radiotherapy Group.</title>
+      <link>/publication/32489696/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32489696/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

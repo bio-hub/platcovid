@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michail Sideris | PlatCOVID</title>
+    <link>/author/michail-sideris/</link>
+      <atom:link href="/author/michail-sideris/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michail Sideris</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Michail Sideris</title>
+      <link>/author/michail-sideris/</link>
+    </image>
+    
+    <item>
+      <title>Medical and Surgical Education Challenges and Innovations in the COVID-19 Era: A Systematic Review.</title>
+      <link>/publication/32503818/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32503818/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sally Inglis | PlatCOVID</title>
+    <link>/author/sally-inglis/</link>
+      <atom:link href="/author/sally-inglis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sally Inglis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Sally Inglis</title>
+      <link>/author/sally-inglis/</link>
+    </image>
+    
+    <item>
+      <title>Rural and Remote Cardiology During the COVID-19 Pandemic: Cardiac Society of Australia and New Zealand (CSANZ) Consensus Statement.</title>
+      <link>/publication/32487432/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32487432/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimising Secondary Prevention and Cardiac Rehabilitation for Atherosclerotic Cardiovascular Disease During the COVID-19 Pandemic: A Position Statement from the Cardiac Society of Australia and New Zealand (CSANZ).</title>
+      <link>/publication/32473781/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32473781/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

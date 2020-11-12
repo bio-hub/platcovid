@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/1234&#34; target=&#34;_blank&#34;&gt;1234&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=1234&#34; target=&#34;_blank&#34;&gt; 3p21.31&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/612522&#39; target=&#39;_blank&#39;&gt;612522&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/610379&#39; target=&#39;_blank&#39;&gt;610379&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/609532&#39; target=&#39;_blank&#39;&gt;609532&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/601373&#39; target=&#39;_blank&#39;&gt;601373&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/300034&#39; target=&#39;_blank&#39;&gt;300034&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -556,7 +556,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CCR5 gene in 3 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CCR5 gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -592,6 +592,22 @@ Since SARS-CoV-2 related ARDS has a strong immunological component, many investi
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Our data suggest that pharmacologic inhibition of the CCR1 and/or CCR5 pathways might suppress immune hyperactivation in critical COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32739404&#34; target=&#34;_blank&#34;&gt;32739404&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cenicriviroc (CVC) is a small-molecule chemokine receptor antagonist with highly potent and selective anti-human immunodeficiency virus type 1 (HIV-1) activity through antagonizing C-C chemokine receptor type 5 (CCR5) as a coreceptor of HIV-1. […] Interestingly, the CCR5-specific antagonist maraviroc did not show any anti-SARS-CoV-2 activity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32923679&#34; target=&#34;_blank&#34;&gt;32923679&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our results showed upregulation of chemotactic factors, including CCL4, CCL8, and CCL11, that all shared CCR5 as their receptor, as a common derangement observed in both diseases; RA and COVID-19. […] In addition to its ability to block CCR5 rich immune cell recruitment that also was upregulated in the SARS-COV-2 infected lungs.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

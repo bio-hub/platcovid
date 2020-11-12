@@ -5,12 +5,28 @@
     <link>/author/carlos-lumbreras/</link>
       <atom:link href="/author/carlos-lumbreras/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlos Lumbreras</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Carlos Lumbreras</title>
       <link>/author/carlos-lumbreras/</link>
     </image>
+    
+    <item>
+      <title>SARS-CoV-2 infection in cancer patients undergoing active treatment: analysis of clinical features and predictive factors for severe respiratory failure and death.</title>
+      <link>/publication/32586724/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32586724/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Varied clinical presentation and outcome of SARS-CoV-2 infection in liver transplant recipients: initial experience at a single center in Madrid, Spain.</title>
+      <link>/publication/32562561/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32562561/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>COVID-19 in solid organ transplant recipients: A single-center case series from Spain.</title>

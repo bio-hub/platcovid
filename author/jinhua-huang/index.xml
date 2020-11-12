@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinhua Huang | PlatCOVID</title>
+    <link>/author/jinhua-huang/</link>
+      <atom:link href="/author/jinhua-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jinhua Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Jinhua Huang</title>
+      <link>/author/jinhua-huang/</link>
+    </image>
+    
+    <item>
+      <title>CSCO ablation expert workshop report: Recommendations for the management of tumor ablation during the coronavirus disease 2019 epidemic.</title>
+      <link>/publication/32474523/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32474523/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

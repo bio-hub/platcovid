@@ -33,7 +33,7 @@ Synonymous :bms-790052 | daclatasvir
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;daclatasvir&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;daclatasvir&lt;/em&gt; gene in 10 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,54 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Minimum estimated costs of production were US $0.93/day for remdesivir, $1.45/day for favipiravir, $0.08/day for hydroxychloroquine, $0.02/day for chloroquine, $0.10/day for azithromycin, $0.28/day for lopinavir/ritonavir, $0.39/day for sofosbuvir/daclatasvir and $1.09/day for pirfenidone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32720571&#34; target=&#34;_blank&#34;&gt;32720571&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among 76 prescription antiviral drugs, four drugs (Raltegravir, Simeprevir, Cobicistat, and Daclatasvir) that are previously used for human immunodeficiency virus (HIV), hepatitis C virus (HCV), Ebola, and Marburg virus show higher binding energy and strong interaction with active sites of the receptor proteins.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32812025&#34; target=&#34;_blank&#34;&gt;32812025&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We assessed the efficacy of sofosbuvir and daclatasvir with ribavirin for treating patients with COVID-19. […] Patients were randomly assigned to 400 mg sofosbuvir, 60 mg daclatasvir and 1200 mg ribavirin (intervention group) or to standard care (control group). […] The number of ICU admissions in the sofosbuvir/daclatasvir/ribavirin group was not significantly lower than the control group (0 versus 4, P = 0.109). […] The cumulative incidence of recovery was higher in the sofosbuvir/daclatasvir/ribavirin arm (Gray’s P = 0.033). […] There were trends in favour of the sofosbuvir/daclatasvir/ribavirin arm for recovery and lower death rates.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32812039&#34; target=&#34;_blank&#34;&gt;32812039&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this trial was to assess if the addition of sofosbuvir and daclatasvir improved clinical outcomes in patients with moderate or severe COVID-19. […] Patients were randomized into a treatment arm receiving sofosbuvir and daclatasvir plus standard care, or a control arm receiving standard care alone. […] The addition of sofosbuvir and daclatasvir to standard care significantly reduced the duration of hospital stay compared with standard care alone.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32812051&#34; target=&#34;_blank&#34;&gt;32812051&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Sofosbuvir and daclatasvir are direct-acting antivirals highly effective against hepatitis C virus. […] This trial evaluated the effectiveness of sofosbuvir in combination with daclatasvir in treating patients with COVID-19. […] Subjects were divided into two arms with one arm receiving ribavirin and the other receiving sofosbuvir/daclatasvir. […] Sixty-two subjects met the inclusion criteria, with 35 enrolled in the sofosbuvir/daclatasvir arm and 27 in the ribavirin arm. […] The median duration of stay was 5 days for the sofosbuvir/daclatasvir group and 9 days for the ribavirin group. […] The mortality in the sofosbuvir/daclatasvir group was 2/35 (6%) and 9/27 (33%) for the ribavirin group. […] The relative risk of death for patients treated with sofosbuvir/daclatasvir was 0.17 (95% CI 0.04-0.73, P = 0.02) and the number needed to treat for benefit was 3.6 (95% CI 2.1-12.1, P &amp;lt; 0.01).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32837113&#34; target=&#34;_blank&#34;&gt;32837113&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A few promising leads with dual inhibition potential were identified among FDA approved antiviral drugs which include DB13879 (Glecaprevir), DB09102 (Daclatasvir), molecule DB09297 (Paritaprevir) and DB01072 (Atazanavir).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33024223&#34; target=&#34;_blank&#34;&gt;33024223&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Other investigators have since demonstrated the ability of Sofosbuvir to inhibit SARS-CoV-2 replication in lung and brain cells; additionally, COVID-19 clinical trials with EPCLUSA and with Sofosbuvir plus Daclatasvir have been initiated in several countries.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

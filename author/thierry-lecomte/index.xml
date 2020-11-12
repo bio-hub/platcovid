@@ -5,12 +5,20 @@
     <link>/author/thierry-lecomte/</link>
       <atom:link href="/author/thierry-lecomte/index.xml" rel="self" type="application/rss+xml" />
     <description>Thierry Lecomte</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Thierry Lecomte</title>
       <link>/author/thierry-lecomte/</link>
     </image>
+    
+    <item>
+      <title>Impact of the COVID-19 pandemic on the gastrointestinal endoscopic activity in France.</title>
+      <link>/publication/32557489/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32557489/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>COVID-19 epidemic: Proposed alternatives in the management of digestive cancers: A French intergroup clinical point of view (SNFGE, FFCD, GERCOR, UNICANCER, SFCD, SFED, SFRO, SFR).</title>

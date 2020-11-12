@@ -5,12 +5,28 @@
     <link>/author/alain-borczuk/</link>
       <atom:link href="/author/alain-borczuk/index.xml" rel="self" type="application/rss+xml" />
     <description>Alain Borczuk</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Alain Borczuk</title>
       <link>/author/alain-borczuk/</link>
     </image>
+    
+    <item>
+      <title>A Human Pluripotent Stem Cell-based Platform to Study SARS-CoV-2 Tropism and Model Virus Infection in Human Cells and Organoids.</title>
+      <link>/publication/32579880/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32579880/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2 Reverse Genetics Reveals a Variable Infection Gradient in the Respiratory Tract.</title>
+      <link>/publication/32526206/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32526206/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Targeting potential drivers of COVID-19: Neutrophil extracellular traps.</title>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Klamroth | PlatCOVID</title>
+    <link>/author/robert-klamroth/</link>
+      <atom:link href="/author/robert-klamroth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Klamroth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Robert Klamroth</title>
+      <link>/author/robert-klamroth/</link>
+    </image>
+    
+    <item>
+      <title>Venous thromboembolism in patients with COVID-19 (SARS-CoV-2 infection) - a position paper of the German Society of Angiology (DGA).</title>
+      <link>/publication/32501145/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32501145/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coagulopathy in COVID-19 and Its Implication for Safe and Efficacious Thromboprophylaxis.</title>
+      <link>/publication/32498097/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32498097/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

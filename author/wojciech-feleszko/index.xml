@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wojciech Feleszko | PlatCOVID</title>
+    <link>/author/wojciech-feleszko/</link>
+      <atom:link href="/author/wojciech-feleszko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wojciech Feleszko</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Wojciech Feleszko</title>
+      <link>/author/wojciech-feleszko/</link>
+    </image>
+    
+    <item>
+      <title>Impact of COVID-19 on pediatric asthma: practice adjustments and disease burden.</title>
+      <link>/publication/32561497/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32561497/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Considerations on Biologicals for Patients with allergic disease in times of the COVID-19 pandemic: an EAACI Statement.</title>
+      <link>/publication/32500526/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32500526/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

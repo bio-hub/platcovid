@@ -33,7 +33,7 @@ Synonymous :papaína
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;papain&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;papain&lt;/em&gt; gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -173,6 +173,334 @@ The study design was composed of some major aspects: (a) classification QSAR bas
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 MPA targets coronaviral papain-like protease and its study would be useful in the development of novel anti-SARS-CoV-2 drugs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32597315&#34; target=&#34;_blank&#34;&gt;32597315&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 papain-like protease (PLpro) was used to virtually screen 1697 clinical FDA-approved drugs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32617527&#34; target=&#34;_blank&#34;&gt;32617527&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Molecular docking results against protein targets Furin, papain like proteases, RdRp and Spike glycoprotein had shown paritaprevir, ritonavir, entecavir and chloroquine derivatives are the best drugs to inhibit multi targets of coronavirus infection including natural compounds corosolic acid, baicalin and glycyrrhizic acid with minimal inhibitory concentrations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32686993&#34; target=&#34;_blank&#34;&gt;32686993&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among the predicted drugs compounds, clemizole, monorden, spironolactone and tanespimycin showed high binding energies; among the studied repurposing compounds, remdesivir, simeprevir and valinomycin showed high binding energies; among the predicted acidic compounds, acetylursolic acid and hardwickiic acid gave high binding energies; while among the studied anthraquinones and glycosides compounds, ellagitannin and friedelanone showed high binding energies against 3-Chymotrypsin-like protease (3CLpro), Papain-like protease (PLpro), helicase (nsp13), RNA-dependent RNA polymerase (nsp12), 2’-O-ribose methyltransferase (nsp16) of SARS-CoV-2 and DNA-PK and CK2alpha in human.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32691680&#34; target=&#34;_blank&#34;&gt;32691680&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the present research endeavour the inhibitory prospects of cyanobacterial metabolites were assessed at the active binding pockets of the two vital SARS-CoV-2 proteases namely, main protease (Mpro) and the papain-like protease (PLpro) that proteolytically process viral polyproteins and facilitate viral replication, employing an in silico molecular interaction-based approach.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32718300&#34; target=&#34;_blank&#34;&gt;32718300&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During infection, the ssRNA of SARS-CoV2 is translated into large polyproteins forming viral replication complex by specific proteases like 3CL protease and papain protease. […] This is also another target to control the virus infection where darinaparsin also perform the inhibitory role to proteases of 3CL protease (-7.69 kcal/mol) and papain protease (-8.43 kcal/mol).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32722864&#34; target=&#34;_blank&#34;&gt;32722864&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We present a docking-based screening using a quantum mechanical scoring of a library built from approved drugs and compounds undergoing clinical trials, against three SARS-CoV-2 target proteins: the spike or S-protein, and two proteases, the main protease and the papain-like protease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32726803&#34; target=&#34;_blank&#34;&gt;32726803&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The papain-like protease PLpro is an essential coronavirus enzyme that is required for processing viral polyproteins to generate a functional replicase complex and enable viral spread1,2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32729180&#34; target=&#34;_blank&#34;&gt;32729180&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The targets include spike glycoprotein and various host proteases mediating the entry of the virus into the cells, viral chymotrypsin- and papain-like proteases, and RNA dependent RNA polymerase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32729392&#34; target=&#34;_blank&#34;&gt;32729392&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, drug re-purposing and computational approaches were employed to identify high affinity inhibitors of SARS-CoV-2 Main protease (3CLpro), Papain-like protease (PLpro) and the receptor domain of Spike protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32738628&#34; target=&#34;_blank&#34;&gt;32738628&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Considering the published literature on medicinal importance, 154 phytochemicals with analogous structure from limonoids and triterpenoids were selected to search potential inhibitors for the five therapeutic protein targets of SARS-CoV-2, i.e., 3CLpro (main protease), PLpro (papain-like protease), SGp-RBD (spike glycoprotein-receptor binding domain), RdRp (RNA dependent RNA polymerase) and ACE2 (angiotensin-converting enzyme 2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32744711&#34; target=&#34;_blank&#34;&gt;32744711&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this work, we choose resveratrol (RV) derivatives (22 cases) and two newly released coordinate structures for COVID-19 as receptors [Papain-like Protease of SARS CoV-2 (PBD ID: 6W9C) and 2019-nCoV RNA-dependent RNA Polymerase (PBD ID: 6M71)].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32770392&#34; target=&#34;_blank&#34;&gt;32770392&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The 217-kDa large Nsp3 spans one polypeptide chain, but comprises multiple independent, yet functionally related domains including the viral papain-like protease.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32772313&#34; target=&#34;_blank&#34;&gt;32772313&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3C-like protease, papain-like protease, and spike protein. […] Finally, the docking was performed using autodock4 to identify the binding efficacy of anthraquinone derivatives with 3C-like protease, papain-like protease, and spike protein. […] Similarly, docking study revealed torososide B to possess the highest binding affinity with papain-like protease and 3C-like protease and 1,3,6-trihydroxy-2-methyl-9,10-anthraquinone-3-O-(6’-O-acetyl)-β-D-xylopyranosyl-(1 → 2)-β-D-glucopyranoside with spike protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32803496&#34; target=&#34;_blank&#34;&gt;32803496&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The 217-kDa large Nsp3 protein contains multiple structurally independent, yet functionally related domains including the viral papain-like protease and Nsp3b, a macrodomain (MD).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32828694&#34; target=&#34;_blank&#34;&gt;32828694&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The identification of the antibodies, showed the presence of an alloantibody with anti-Lewis b specificity, which was reactive at room temperature, in the anti-human globulin phase (AGH) and with papain-treated red blood cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32837954&#34; target=&#34;_blank&#34;&gt;32837954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For this purpose, five proteins of COVID-19 (3-chymotrypsin-like protease (3CLpro), Papain-Like protease (PLpro), cleavage site, HR1 and RBD in Spike protein) were selected as target proteins for drug repositioning.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32845033&#34; target=&#34;_blank&#34;&gt;32845033&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The SARS-CoV-2 coronavirus encodes an essential papain-like protease domain as part of its non-structural protein (nsp)-3, namely SARS2 PLpro, that cleaves the viral polyprotein, but also removes ubiquitin-like ISG15 protein modifications as well as, with lower activity, Lys48-linked polyubiquitin.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32848790&#34; target=&#34;_blank&#34;&gt;32848790&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In addition, natural products were shown to inhibit the SARS-CoV-2 life-cycle related proteins such as papain-like or chymotrypsin-like proteases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32850963&#34; target=&#34;_blank&#34;&gt;32850963&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This virus, termed SARS-CoV-2 (CoV2), contains Papain-like protease (PLpro) involved in viral replication and immune response evasion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32874702&#34; target=&#34;_blank&#34;&gt;32874702&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The papain-like protease (PLpro) is vital for the replication of coronaviruses (CoVs), as well as for escaping innate-immune responses of the host.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32881661&#34; target=&#34;_blank&#34;&gt;32881661&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We had perform molecular docking studies on three different proteins of novel corona virus namely COVID-19 main protease (3CL pro), papain-like protease (PL pro) and spike protein (S) attached to ACE2 binding domain.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32895623&#34; target=&#34;_blank&#34;&gt;32895623&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The papain-like protease (PLpro) of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) plays essential roles in virus replication and immune evasion, presenting a charming drug target.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32902889&#34; target=&#34;_blank&#34;&gt;32902889&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The papain-like protease (PLpro) is an important enzyme for coronavirus polyprotein processing, as well as for virus-host immune suppression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32911757&#34; target=&#34;_blank&#34;&gt;32911757&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the current literature scenario, the papain-like and the 3-chymotrypsin-like proteases seem to be the most deeply investigated and a number of isolated natural (poly)phenols has been screened for their efficacy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32915473&#34; target=&#34;_blank&#34;&gt;32915473&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The gold metallodrugs were also efficient inhibitors of the papain-like protease (PLpro) of SARS-CoV-1 and SARS-CoV-2, which is a key enzyme in the viral replication.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32927129&#34; target=&#34;_blank&#34;&gt;32927129&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Swiss-model was used to construct the structure of the N-terminal RNA-binding domain (NRBD) of the nucleoprotein (NC), papain-like protease (PLpro), and RNA-directed RNA polymerase (RdRp) of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32930481&#34; target=&#34;_blank&#34;&gt;32930481&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Inhibition of coronavirus (CoV)-encoded papain-like cysteine proteases (PLpro) represents an attractive strategy to treat infections by these important human pathogens.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32947136&#34; target=&#34;_blank&#34;&gt;32947136&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3-Chymotrypsin like protease (also known as Mpro) and papain-like protease, have emerged as the potential therapeutic targets for drug discovery against coronaviruses owing to their crucial role in viral entry and host-cell invasion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32962355&#34; target=&#34;_blank&#34;&gt;32962355&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The papain-like protease (PLpro) is an attractive drug target due to its essential roles in the viral life cycle.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32964796&#34; target=&#34;_blank&#34;&gt;32964796&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Abbreviations: 3-MA: 3-methyladenine (autophagy inhibitor); AKT/protein kinase B: AKT serine/threonine kinase; ATG: autophagy related; ATPase: adenosine triphosphatase; BMM: bone marrow macrophage; CGAS: cyclic GMP-AMP synthase; CHO: Chinese hamster ovary/cell line; CoV: coronaviruses; COVID-19: Coronavirus disease 2019; DMV: double-membrane vesicle; EAV: equine arteritis virus; EDEM1: ER degradation enhancing alpha-mannosidase like protein 1; ER: endoplasmic reticulum; ERAD: ER-associated degradation; GFP: green fluorescent protein; HCoV: human coronavirus; HIV: human immunodeficiency virus; HSV: herpes simplex virus; IBV: infectious bronchitis virus; IFN: interferon; LAMP1: lysosomal associated membrane protein 1; MAP1LC3/LC3: microtubule associated protein 1 light chain 3; MCoV: mouse coronavirus; MERS-CoV: Middle East respiratory syndrome coronavirus; MHV: mouse hepatitis virus; NBR1: NBR1 autophagy cargo receptor; CALCOCO2/NDP52: calcium binding and coiled-coil domain 2 (autophagy receptor that directs cargo to phagophores); nsp: non-structural protein; OS9: OS9 endoplasmic reticulum lectin; PEDV: porcine epidemic diarrhea virus; PtdIns3K: class III phosphatidylinositol 3-kinase; PLP: papain-like protease; pMEF: primary mouse embryonic fibroblasts; SARS-CoV: severe acute respiratory syndrome coronavirus; SKP2: S-phase kinase associated protein 2; SQSTM1: sequestosome 1; STING1: stimulator of interferon response cGAMP interactor 1; ULK1: unc-51 like autophagy activating kinase 1; Vps: vacuolar protein sorting.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32979476&#34; target=&#34;_blank&#34;&gt;32979476&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These targets including an important host cell receptor, i.e., angiotensin-converting enzyme ACE2 and several viral proteins e.g. spike glycoprotein (S) containing S1 and S2 domains, SARS CoV Chymotrypsin-like cysteine protease (3CLpro), papain-like cysteine protease (PLpro), helicases and RNA-dependent RNA polymerase (RdRp).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32979815&#34; target=&#34;_blank&#34;&gt;32979815&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Human ubiquitin carboxyl-terminal hydrolase-2 (USP2) inhibitors, such as thiopurine analogs, have been reported to inhibit SARS-CoV papain-like proteases (PLpro).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32982616&#34; target=&#34;_blank&#34;&gt;32982616&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In fact, numerous flavonoids were found to have antiviral effects against SARS-and MERS-CoV by mainly inhibiting the enzymes 3-chymotrypsin-like protease (3CLpro) and papain-like protease (PLpro).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32993173&#34; target=&#34;_blank&#34;&gt;32993173&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Frequent targets are the viral RNA-dependent RNA polymerase (RdRp) and the viral proteases such as papain-like protease (PLpro) and main protease (Mpro).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32998368&#34; target=&#34;_blank&#34;&gt;32998368&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Papain-like proteases (PLpro) of coronaviruses (CoVs) support viral reproduction and suppress the immune response of the host, which makes CoV PLpro perspective pharmaceutical targets.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32999768&#34; target=&#34;_blank&#34;&gt;32999768&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using the crystal structure of SARS-CoV-2 papain-like protease (PLpro) as a template, we developed a pharmacophore model of functional centers of the PLpro inhibitor-binding pocket.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33016666&#34; target=&#34;_blank&#34;&gt;33016666&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The major druggable targets of SARS-CoV-2 include 3-chymotrypsin-like protease (3CLpro), papain-like protease (PLpro), RNA-dependent 26 RNA polymerase, and spike (S) protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33034398&#34; target=&#34;_blank&#34;&gt;33034398&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The major druggable targets of SARS-CoV-2 include 3-chymotrypsin-like protease (3CLpro), papain-like protease (PLpro), RNA-dependent RNA polymerase, and spike (S) protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33035337&#34; target=&#34;_blank&#34;&gt;33035337&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Currently, we know that the SARS-CoV-2 virus encodes about 29 proteins such as spike protein, 3C-like protease (3CLpro), RNA-dependent RNA polymerase (RdRp), Papain-like protease (PLpro), and nucleocapsid (N) protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33041371&#34; target=&#34;_blank&#34;&gt;33041371&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The present work examines the inhibitory activity of Neem extracts on Papain like protease (PLpro) of the novel coronavirus SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33043784&#34; target=&#34;_blank&#34;&gt;33043784&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To identify therapeutics that can be repurposed as SARS-CoV-2 antivirals, we developed and initiated a high-throughput cell-based screen that incorporates the essential viral papain-like protease (PLpro) and its peptide cleavage site into a luciferase complementation assay to evaluate the efficacy of known drugs encompassing approximately 15,000 clinical-stage or US Food and Drug Administration (FDA)-approved small molecules.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

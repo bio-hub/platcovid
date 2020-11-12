@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/genepanel/7038/</link>
+      <atom:link href="/genepanel/7038/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/genepanel/7038/</link>
+    </image>
+    
+    <item>
+      <title>TG</title>
+      <link>/genepanel/7038/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/7038/info/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;thyroglobulin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/7038&#34; target=&#34;_blank&#34;&gt;7038&lt;/a&gt; | Type: Protein Coding |
+Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=7038&#34; target=&#34;_blank&#34;&gt; 8q24.22&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/308100&#39; target=&#39;_blank&#39;&gt;308100&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/300747&#39; target=&#39;_blank&#39;&gt;300747&lt;/a&gt;
+&lt;/p&gt;
+&lt;br&gt;
+&lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;Thyroglobulin (Tg) is a glycoprotein homodimer produced predominantly by the thryroid gland. It acts as a substrate for the synthesis of thyroxine and triiodothyronine as well as the storage of the inactive forms of thyroid hormone and iodine. Thyroglobulin is secreted from the endoplasmic reticulum to its site of iodination, and subsequent thyroxine biosynthesis, in the follicular lumen. Mutations in this gene cause thyroid dyshormonogenesis, manifested as goiter, and are associated with moderate to severe congenital hypothyroidism. Polymorphisms in this gene are associated with susceptibility to autoimmune thyroid diseases (AITD) such as Graves disease and Hashimoto thryoiditis. [provided by RefSeq, Nov 2009] &lt;br&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TG</title>
+      <link>/genepanel/7038/gene_expression/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/7038/gene_expression/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;thyroglobulin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-expression&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Expression&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; TG expression overview from &lt;em&gt;human protein atlas database&lt;/em&gt;.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+ENSEMBL
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Tissue
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Protein
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+mRNA
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+thyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+15620.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+adrenal gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+bone marrow
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+5.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+cervix, uterine
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+endometrium
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+3.4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+epididymis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+gallbladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+14.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+heart muscle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+9.2
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+kidney
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+lymph node
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+13.1
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+parathyroid gland
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+12.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+prostate
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.9
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+seminal vesicle
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+2.6
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+skin
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+testis
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ENSG00000042832
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+urinary bladder
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not detected
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+1.3
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TG</title>
+      <link>/genepanel/7038/gene_context/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/7038/gene_context/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p&gt;thyroglobulin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;gene-context-sentence&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of TG gene in 8 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+PMID
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+Gene Context Sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32397699&#34; target=&#34;_blank&#34;&gt;32397699&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;b&gt;Objective:&lt;/b&gt; To describe the basic characteristics of clusters of coronavirus diseases 2019 (COVID-19) cases in Ningbo, Zhejiang province, and evaluate the generation time (Tg) and basic reproduction number (&lt;i&gt;R&lt;/i&gt;(0)) of COVID-19. &lt;b&gt;Methods:&lt;/b&gt; The basic information and onset times of the clusters of COVID-19 cases in Ningbo were investigated, the inter-generational interval of the cases were fitted by using gamma distribution, and the &lt;i&gt;R&lt;/i&gt;(0) was calculated based on the SEIR model. &lt;b&gt;Results:&lt;/b&gt; In the 15 clusters of COVID-19 cases, a total of 52 confirmed cases, 5 cases of nucleic acid- positive asymptomatic cases. […] The Tg was (6.93±3.70) days. […] There were no significant differences in Tg between age group &amp;lt;60 years and age group 60 years and above, and between men and women (&lt;i&gt;P&lt;/i&gt;=0.551). […] According to the Tg calculated in this paper, the &lt;i&gt;R&lt;/i&gt;(0) of COVID-19 in Ningbo was 3.06 (95%&lt;i&gt;CI&lt;/i&gt;: 2.64 - 3.51); according to the reported case transmission interval of 7.5 days in the literature, the &lt;i&gt;R&lt;/i&gt;(0) was 3.32 (95%&lt;i&gt;CI&lt;/i&gt;: 2.51-9.38 ). &lt;b&gt;Conclusion:&lt;/b&gt; There is no age and gender specific differences in the Tg of clusters of COVID-19 cases in Ningbo, and COVID-19 has high infectivity and spreading power in early phase. &lt;b&gt;目的：&lt;/b&gt; 描述新型冠状病毒肺炎（COVID-19）聚集性疫情病例的基本特征。 […] &lt;b&gt;方法：&lt;/b&gt; 收集15起COVID-19聚集性疫情病例的基本信息，采用伽马分布拟合病例代际间隔时间（Tg），使用基于SEIR模型计算基本再生数（&lt;i&gt;R&lt;/i&gt;(0)）。 […] Tg为（6.93±3.70） d，在&amp;lt;60岁、≥60岁组及男、女性之间，Tg差异无统计学意义（&lt;i&gt;P&lt;/i&gt;＝0.551）。 […] 按照本研究估算的Tg计算，宁波市新冠肺炎感染的&lt;i&gt;R&lt;/i&gt;(0)为3.06 （95%&lt;i&gt;CI&lt;/i&gt;：2.64～3.51）；按照文献报告的病例Tg为7.5 d计算，&lt;i&gt;R&lt;/i&gt;(0)为3.32（95%&lt;i&gt;CI&lt;/i&gt;：2.51～9.38）。 […] &lt;b&gt;结论：&lt;/b&gt; COVID-19聚集性疫情病例的Tg在不同年龄、性别间差异不大，COVID-19早期致病和传播力较高。.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32667555&#34; target=&#34;_blank&#34;&gt;32667555&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Despite the dismantling experienced today in the Brazilian public scene, the PEH Thematic Group (TG) of the Brazilian Association of Public Health (ABRASCO) has been helping to foster, design, and express the voicing of the construction and development of participatory educational and democratic processes in Brazil. […] This paper showcases the experiences and elaborations of the TG members through the report of the collegiate coordination center members of the last administrations, a period of changes in the political, social, economic, educational and health scenarios, including the influence of the current planetary crisis brought about by the effects of COVID-19, especially in the Brazilian society.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32731115&#34; target=&#34;_blank&#34;&gt;32731115&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This research aimed to characterize pyrolysis drivers, behaviors, products, reaction mechanisms, and pathways via TG-FTIR and Py-GC/MS analyses as a function of the two medical plastic wastes of syringes (SY) and medical bottles (MB), conversion degree, degradation stage, and the four heating rates (5,10, 20, and 40 °C/min).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32733785&#34; target=&#34;_blank&#34;&gt;32733785&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To characterize changes in global gene expression in the hearts and kidneys of rtTA/hACE2 double transgenic (dTg) mice in response to hACE2 overexpression, total RNA extracted from these tissues from dTg mice after doxycycline (Dox) treatment was hybridized to oligonucleotide microarrays. […] Briefly, dTg mice were generated by cross-mating pα-MHC/rtTA Tg mice with pTRE/hACE2 Tg mice. […] The expression level of hACE2 protein was determined to be high in hearts, kidneys, and brains of dTg mice, whereas lung, liver, and testis tissues expressed low levels. […] The level of hACE2 was significantly enhanced in hearts and kidneys of the Dox+dTg group compared to that in Vehicle+dTg mice although consistent levels of mouse ACE2 (mACE2) remained in the same tissues. […] Based on the microarray analysis of heart tissue, 385 genes were differentially expressed, including 168 upregulated and 217 downregulated, when comparing non-Tg and Vehicle+dTg mice, whereas 216 genes were differentially expressed, including 136 upregulated and 80 downregulated, between Vehicle+dTg and Dox+dTg mice. […] In the kidneys, 402 genes were differentially expressed, including 159 upregulated and 243 downregulated, between non-Tg and Vehicle+dTg mice. […] Dox-treated dTg mice exhibited the differential expression of 4735 genes including 1636 upregulated and 3109 downregulated. […] Taken together, these findings suggested that several functional groups and individual genes can be considered biomarkers that respond to hACE2 overexpression in dTg mice. […] Moreover, our results provided a lot of useful information to predict physiological responses when these dTg mice are applied as a susceptible model for novel coronavirus (SARS-CoV, COVID-19) in both vaccine and drug development.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32790951&#34; target=&#34;_blank&#34;&gt;32790951&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We read with much interest the recent observational study of Nougier et al., which aimed at studying thrombin generation (TG) and fibrinolysis profiles of COVID-19 patients admitted to an intensive care unit (ICU) or to an internal medicine ward and receiving various schemes of prophylactic heparin.[
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32808185&#34; target=&#34;_blank&#34;&gt;32808185&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using transcriptomic datasets, Toxicogenomic Project-Genomics Assisted Toxicity Evaluation System (Open TG-GATEs) and GSE30351, we have tested the ability of ninety common medications to regulate COVID-19 receptors expression in human primary hepatocytes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32974230&#34; target=&#34;_blank&#34;&gt;32974230&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+An article published by Ksiazek TG et al in the New England Journal of Medicine had the maximum citation (n=2175); 90% of the research outputs were articles, broadly classified under Infectious diseases (n=5341); and the most commonly used keyword was ‘Coronavirus’.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32987541&#34; target=&#34;_blank&#34;&gt;32987541&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Due to the unobservability, the time interval between transmission generations (TG), though important for understanding the disease transmission patterns, of COVID-19 cannot be directly summarized from surveillance data. […] In this study, we develop a likelihood framework to estimate the TG and the pre-symptomatic transmission period from the serial interval observations from the individual transmission events. […] As the results, we estimate the mean of TG at 4.0 days (95%CI: 3.3-4.6), and the mean of pre-symptomatic transmission period at 2.2 days (95%CI: 1.3-4.7).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TG</title>
+      <link>/genepanel/7038/clinvar/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/7038/clinvar/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;thyroglobulin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;clinvar-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;ClinVar Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TG</title>
+      <link>/genepanel/7038/geo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/genepanel/7038/geo/</guid>
+      <description>
+
+
+&lt;hr /&gt;
+&lt;p&gt;thyroglobulin&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;geo-dataset-summary&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GEO dataset Summary&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:16px&#34; align=&#34;center&#34;&gt;
+Under development
+&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

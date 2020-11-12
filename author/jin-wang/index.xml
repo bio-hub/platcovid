@@ -5,12 +5,44 @@
     <link>/author/jin-wang/</link>
       <atom:link href="/author/jin-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jin Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>Jin Wang</title>
       <link>/author/jin-wang/</link>
     </image>
+    
+    <item>
+      <title>Room-temperature-storable PCR Mixes for SARS-CoV-2 Detection.</title>
+      <link>/publication/32592724/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32592724/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The epidemiologic and clinical features of suspected and confirmed cases of imported 2019 novel coronavirus pneumonia in north Shanghai, China.</title>
+      <link>/publication/32566574/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32566574/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cytokine storm and leukocyte changes in mild versus severe SARS-CoV-2 infection: Review of 3939 COVID-19 patients in China and emerging pathogenesis and therapy concepts.</title>
+      <link>/publication/32534467/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32534467/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical characteristics and risk factors associated with COVID-19 disease severity in patients with cancer in Wuhan, China: a multicentre, retrospective, cohort study.</title>
+      <link>/publication/32479790/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32479790/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clinically Applicable AI System for Accurate Diagnosis, Quantitative Measurements, and Prognosis of COVID-19 Pneumonia Using Computed Tomography.</title>

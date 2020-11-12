@@ -514,7 +514,7 @@ Medium
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of TMPRSS2 gene in 79 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of TMPRSS2 gene in 220 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -1158,6 +1158,1134 @@ We detected the expression of the ACE2 receptor but not TMPRSS2 in the model.
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Entrance of SARS-CoV-2 depends on the surface (S) protein interaction with host ACE2 protein and cleavage by TMPRSS2. […] To investigate bats and pangolin as hosts in SARS-CoV-2 cross-species transmission, we perform an evolutionary analysis combining viral and host phylogenies and divergence of ACE2 and TMPRSS2 amino acid sequences between CoV hosts. […] In contrast to TMPRSS2, pangolin ACE2 amino acid sequence has low evolutionary divergence compared with humans and is more divergent from bats.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32595355&#34; target=&#34;_blank&#34;&gt;32595355&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One of the important SARS-CoV-2 targets namely type 2 transmembrane serine protease (TMPRSS2) was screened with NPC’s NIH small molecule library which includes approved drugs by FDA and compounds in clinical investigation. […] Both binding energy results as well as crucial residues in ligand binding were also compared with a positive control TMPRSS2 inhibitor, Camostat mesylate. […] Based on these numerical calculations we proposed a compound (benzquercin) as strong TMPRSS2 inhibitor. […] If these results can be validated by in vitro and in vivo studies, benzquercin can be considered to be used as inhibitor of TMPRSS2 at the clinical studies.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32595360&#34; target=&#34;_blank&#34;&gt;32595360&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this study was to investigate the molecular interactions between monoterpenoids and spike protein of 2019-nCoV together with the cellular proteases [transmembrane serine protease 2 (TMPRSS2), cathepsin B (CatB), and cathepsin L (CatL)].
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32602823&#34; target=&#34;_blank&#34;&gt;32602823&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, WIV1 could exploit the airway protease TMPRSS2 to partially evade the IFITM3 restriction.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32620366&#34; target=&#34;_blank&#34;&gt;32620366&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The aim of this brief communication is to describe the pathophysiology of this sex-discrepancy, based on the infectivity mechanism of the coronavirus including the Angiotensin-Converting Enzyme 2 (ACE2), the Type II transmembrane Serine Protease (TMPRSS2), and the androgen receptor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32622411&#34; target=&#34;_blank&#34;&gt;32622411&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Identification of cell types coexpressing the key angiotensin-converting enzyme 2 (ACE2) and transmembrane serine protease 2 (TMPRSS2) genes and proteins as well as other candidates potentially involved in SARS-CoV-2 cell entry. […] On the basis of single-cell RNA sequencing data, coexpression of ACE2 and TMPRSS2 was not detected in testicular cells, including sperm. […] A subpopulation of oocytes in nonhuman primate ovarian tissue was found to express ACE2 and TMPRSS2, but coexpression was not observed in ovarian somatic cells. […] RNA expression of TMPRSS2 in 18 samples of human cumulus cells was shown to be low or absent. […] There was general agreement between publicly available bulk RNA and protein datasets in terms of ACE2 and TMPRSS2 expression patterns in testis, ovary, endometrial, and placental cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32635752&#34; target=&#34;_blank&#34;&gt;32635752&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The mechanism of virus entry inside the host cell depends upon the cellular proteases including cathepsins, HAT, and TMPRSS2, which splits up the spike protein and causes further penetration.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32638018&#34; target=&#34;_blank&#34;&gt;32638018&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Inversely, the most important S protein cleavage protease TMPRSS2 (transmembrane protease serine protease-2) in the heart exhibits an extremely lower expression than that in the lung (adjusted P &amp;lt; 0.0001), which may restrict entry of SARS-CoV-2 into cardiac cells. […] Furthermore, we discovered that other S protein proteases, CTSL (cathepsin L) and FURIN (furin, paired basic amino acid cleaving enzyme), were expressed in the adult heart at a similar level to that in the lung, which may compensate for TMPRSS2, mediating cardiac involvement in COVID-19. […] Compared with the lung, ACE2 is relatively more highly expressed in the human heart, while the key S protein priming protease, TMPRSS2, is rarely expressed. […] The low percentage of ACE2+/TMPRSS2+ cells reduced heart vulnerability to SARS-CoV-2 to some degree.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32641214&#34; target=&#34;_blank&#34;&gt;32641214&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Gene expression was high for TMPRSS4, CTSL, CTSB, FURIN, MX1, and BSG; medium for TMPRSS2; and low for ACE2. […] TMPRSS4 expression was positively correlated with ACE2, CTSB, CTSL, MX1, and FURIN during several cycle phases; TMPRSS2 was not statistically significantly altered across the cycle. […] Endometrial tissue is likely safe from SARS-CoV-2 cell entry based on ACE2 and TMPRSS2 expression, but susceptibility increases with age.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32641482&#34; target=&#34;_blank&#34;&gt;32641482&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interestingly, overexpression of serine protease TMPRSS2 or amphotericin treatment significantly neutralized the IFN-inducible transmembrane 3 (IFITM3) restriction of human coronavirus (CoV) entry, but did not compromise the effect of LY6E on the entry of human coronaviruses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32645344&#34; target=&#34;_blank&#34;&gt;32645344&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The spike (S) glycoprotein of betacoronavirus SARS-CoV-2 is a homotrimeric class I fusion protein that exists in a metastable conformation for cleavage by host cell proteases furin and TMPRSS2, thereby undergoing substantial structural rearrangement for ACE2 host cell receptor binding and subsequent viral entry by membrane fusion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32660890&#34; target=&#34;_blank&#34;&gt;32660890&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, an important protease involved in viral entry, TMPRSS2, is regulated by androgens.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32661206&#34; target=&#34;_blank&#34;&gt;32661206&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cellular receptor ACE2, serine protease TMPRSS2 and exopeptidase CD26 (also known as DPP4) are the three membrane bound proteins potentially implicated in SARS-CoV-2 infection. […] We hypothesised that common variants from TMPRSS2 and CD26 may play critical role in infection susceptibility of predisposed population or group of individuals. […] Coding (missense) and regulatory variants from TMPRSS2 and CD26 were studied across 26 global populations. […] However, two missense SNPs, rs12329760 (TMPRSS2) and rs1129599 (CD26), were not found to be involved physically in the said interaction. […] Four regulatory variants (rs112657409, rs11910678, rs77675406 and rs713400) from TMPRSS2 were found to influence the expression of TMPRSS2 and pathologically relevant MX1. rs13015258 a 50 UTR variant from CD26 have significant role in regulation of expression of key regulatory genes that could be involved in SARS-CoV-2 internalization.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32662421&#34; target=&#34;_blank&#34;&gt;32662421&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The novel coronavirus canonically utilizes the angiotensin-converting enzyme 2 (ACE2) receptor and the serine protease TMPRSS2 for cell entry. […] Herein, building upon our previous single-cell study (Pique-Regi et al., 2019), another study, and new single-cell/nuclei RNA-sequencing data, we investigated the expression of ACE2 and TMPRSS2 throughout pregnancy in the placenta as well as in third-trimester chorioamniotic membranes. […] We report that co-transcription of ACE2 and TMPRSS2 is negligible in the placenta, thus not a likely path of vertical transmission for SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32664879&#34; target=&#34;_blank&#34;&gt;32664879&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, we investigated genetic susceptibility to COVID-19 by examining DNA polymorphisms in ACE2 and TMPRSS2 (two key host factors of SARS-CoV-2) from ~ 81,000 human genomes. […] We found unique genetic susceptibility across different populations in ACE2 and TMPRSS2. […] Unique but prevalent polymorphisms (including p.Val160Met (rs12329760), an expression quantitative trait locus (eQTL)) in TMPRSS2, offer potential explanations for differential genetic susceptibility to COVID-19 as well as for risk factors, including those with cancer and the high-risk group of male patients. […] We further discussed that polymorphisms in ACE2 or TMPRSS2 could guide effective treatments (i.e., hydroxychloroquine and camostat) for COVID-19. […] This study suggested that ACE2 or TMPRSS2 DNA polymorphisms were likely associated with genetic susceptibility of COVID-19, which calls for a human genetics initiative for fighting the COVID-19 pandemic.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32664949&#34; target=&#34;_blank&#34;&gt;32664949&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+TMPRSS2, ADAM17, tissue inhibitor of metalloproteinase (TIMP)3, angiotensinogen (AGT), transformation growth factor beta (TGFB1), connective tissue growth factor (CTGF), vascular endothelial growth factor (VEGF) A and fibronectin (FN) were interacted with ACE2, and the mRNA and protein of these molecules were expressed in lung epithelial cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32668165&#34; target=&#34;_blank&#34;&gt;32668165&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Second, mRNA for ACE2 is elevated and mRNA for TMPRSS2, a serine protease, is decreased in CF airway epithelial cells. […] Moreover, decreased TMPRSS2 would reduce SARS-CoV-2 entry into airway epithelial cells. […] Finally, the CF lung contains high levels of serine protease inhibitors including ecotin and SERPINB1, which are predicted to reduce the ability of TMPRSS2 to facilitate SARS-CoV-2 entry into airway epithelial cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32672528&#34; target=&#34;_blank&#34;&gt;32672528&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Transmembrane serine protease 2 (TMPRSS2) has been established as one of the host proteins that facilitate entry of coronaviruses into host cells. […] The top 3000 compounds retrieved were docked into the active sites of a homology-modelled TMPRSS2. […] Two lead compounds, ZINC64606047 and ZINC05296775, were identified having binding affinities higher than those of the reference inhibitors, favorable interactions with TMPRSS2 active site residues and good ADME and medicinal chemistry properties. […] Molecular dynamics simulation was used to assess the stability and dynamics of the interactions of these compounds with TMPRSS2. […] Analyses of the trajectory dynamics collectively established further that the lead compounds bound and interacted stably with active site residues of TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32675206&#34; target=&#34;_blank&#34;&gt;32675206&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV, the agent responsible for the 2003 SARS outbreak, utilises angiotensin-converting enzyme 2 (ACE2) and transmembrane serine protease 2 (TMPRSS2) host molecules for viral entry. […] ACE2 and TMPRSS2 have recently been implicated in SARS-CoV-2 viral infection. […] We present confirmatory evidence for the presence of TMPRSS2, CD147 and GRP78 protein in vitro in airway epithelial cells and confirm broad in situ protein expression of CD147 and GRP78 in the respiratory mucosa.Collectively, our data suggest the presence of a mechanism dynamically regulating ACE2 expression in human lung, perhaps in periods of SARS-CoV-2 infection, and also suggest that alternative receptors for SARS-CoV-2 exist to facilitate initial host cell infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32675312&#34; target=&#34;_blank&#34;&gt;32675312&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Pandemic COVID-19 by severe acute respiratory syndrome (SARS) coronavirus 2 (SARS-CoV-2) infection is facilitated by the ACE2 receptor and protease TMPRSS2. […] Modestly sized case series have described clinical factors associated with COVID-19, while ACE2 and TMPRSS2 expression analyses have been described in some cell types. […] We performed an integrated study of ACE2 and TMPRSS2 gene expression across and within organ systems, by normal versus tumor, across several existing databases (The Cancer Genome Atlas, Census of Immune Single Cell Expression Atlas, The Human Cell Landscape, and more). […] Matched normal tissues generally display higher ACE2 and TMPRSS2 expression compared with cancer, with normal and tumor from digestive organs expressing the highest levels. […] TMPRSS2 was less associated with immune gene expression but was strongly associated with epithelial cell abundance. […] Single-cell sequencing analysis across nine independent studies demonstrated little to no ACE2 or TMPRSS2 expression in lymphocytes or macrophages. […] ACE2 and TMPRSS2 gene expression associated with commensal microbiota in matched normal tissues particularly from colorectal cancers, with distinct bacterial populations showing strong associations. […] We performed a large-scale integration of ACE2 and TMPRSS2 gene expression across clinical, genetic, and microbiome domains.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32679424&#34; target=&#34;_blank&#34;&gt;32679424&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This is surprising, considering the recent discovery of the presence of viral receptors (ACE2 and TMPRSS2) in ocular surface tissue.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32686577&#34; target=&#34;_blank&#34;&gt;32686577&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Structural analyses have elucidated hot spots in viral binding domains, mutations, and specific proteins in the host such as the receptor angiotensin-converting enzyme 2 (ACE2) and the transmembrane protease serine 2 (TMPRSS2) to be implicated in cell entry and viral infectivity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32690544&#34; target=&#34;_blank&#34;&gt;32690544&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The coronaviral entry requires the spike (S)-protein for attachment to the host cell surface, and employs human angiotensin-converting enzyme 2 (hACE2) for entry and transmembrane protease serine 2 (TMPRSS2) for S-protein priming. […] Here, we describe the single nucleotide variations (SNVs) in human ACE2 and TMPRSS2. […] We detected 349 and 551 SNVs in ACE2 and TMPRSS2, respectively, in a total of 156 513 individuals. […] Using regression analysis, the total numbers of genetic variations in ACE2 and TMPRSS2 were 1.1×103 and 1.5×103, respectively, for a population of one million people. […] The majority of SNVs in ACE2 and TMPRSS2 are rare, population-specific and deleterious, and a multitude of very rare SNVs may explain different susceptibility to SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32691370&#34; target=&#34;_blank&#34;&gt;32691370&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We demonstrate for the first time that ACE2 and the entry-facilitating transmembrane protease TMPRSS2 are expressed on very small CD133+CD34+Lin-CD45- cells in human umbilical cord blood (UCB), which can be specified into functional HSCs and EPCs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32691890&#34; target=&#34;_blank&#34;&gt;32691890&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It has been suggested that some individuals may present genetic susceptibility to SARS-CoV-2 infection, with particular research interest in variants of the ACE2 and TMPRSS2 genes, involved in viral penetration into cells, in different populations and geographic regions, although insufficient information is currently available. […] Through whole-exome sequencing, the frequency of exonic variants of the ACE2, TMPRSS2, and Furin genes was analyzed in relation to presence or absence of SARS-CoV-2 infection in a familial multiple sclerosis cohort including 120 individuals from Madrid. […] While TMPRSS2 is highly polymorphic, the variants found do not coincide with those described in other studies, with the exception of rs75603675, which may be associated with SARS-CoV-2 infection. […] Despite the limited number of patients with SARS-CoV-2 infection, some variants, especially in TMPRSS2, may be associated with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32696234&#34; target=&#34;_blank&#34;&gt;32696234&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We scanned the literature for evidence on drugs that target the virus entry machinery into host cells and consist mainly of ACE2 and TMPRSS2, as well as other cellular molecules regulating ACE2 expression, such as ADAM-17 and calmodulin. […] They include recombinant soluble ACE2, indirect ACE2 modulators (angiotensin receptor blockers, calmodulin antagonists, selective oestrogen receptor modifiers), TMPRSS2 inhibitors (camostat mesylate, nafamostat mesylate, antiandrogens, inhaled corticosteroids) and ADAM-17 enhancers (5-fluorouracil).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32698190&#34; target=&#34;_blank&#34;&gt;32698190&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here we show that engineered expression of TMPRSS2, a cellular protease that activates SARS-CoV-2 for entry into lung cells4, renders SARS-CoV-2 infection of Vero cells insensitive to chloroquine. […] Moreover, we report that chloroquine does not block infection with SARS-CoV-2 in the TMPRSS2-expressing human lung cell line Calu-3.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32703421&#34; target=&#34;_blank&#34;&gt;32703421&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Following receptor binding, transmembrane protease serine 2 (encoded by TMPRSS2) primes the S protein to allow cellular uptake. […] Therefore, individual expression of TMPRSS2 may be a crucial determinant of SARS-CoV-2 infection susceptibility. […] Here, we utilized multiple large genome databases, including the GTEx portal, SNP nexus, and Ensembl genome project, to identify gene expression profiles for TMPRSS2 and its important expression quantitative trait loci. […] Our results show that four variants (rs464397, rs469390, rs2070788 and rs383510) affect expression of TMPRSS2 in lung tissue. […] Interestingly, our data shows that TMPRSS2-upregulating variants are at higher frequencies in European and American populations than in the Asian populations, which implies that these populations might be relatively susceptible to SARS-CoV-2 infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32703818&#34; target=&#34;_blank&#34;&gt;32703818&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the present study, we show that S can be cleaved by the proprotein convertase furin at the S1/S2 site and the transmembrane serine protease 2 (TMPRSS2) at the S2’ site. […] We demonstrate that TMPRSS2 is essential for activation of SARS-CoV-2 S in Calu-3 human airway epithelial cells through antisense-mediated knockdown of TMPRSS2 expression. […] Combining various TMPRSS2 inhibitors with furin inhibitor MI-1851 produced more potent antiviral activity against SARS-CoV-2 than an equimolar amount of any single serine protease inhibitor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32709978&#34; target=&#34;_blank&#34;&gt;32709978&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Delving into the possible mechanisms underlying the crosstalk between COVID-19 and PCa alludes a potential association between SARS-CoV-2 targets on host epithelial cells and PCa genetic aberrations and molecular signatures, including AR and TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32721806&#34; target=&#34;_blank&#34;&gt;32721806&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme-2 (ACE2) receptor, regulation of the renin-angiotensin-aldosterone system (RAAS), and transmembrane serine protease 2 (TMPRSS2) action are critical for the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) cell entry and infectivity. […] ACE2 expression and RAAS are abnormal in hypertension and obesity, while TMPRSS2 is overexpressed when exposed to androgens, which may justify why these factors are overrepresented in COVID-19. […] Current data shows that spironolactone may concurrently mitigate abnormal ACE2 expression, correct the balances membrane-attached and free circulating ACE2 and between angiotensin II and Angiotensin-(1-7) (Ang-(1-7)), suppress androgen-mediated TMPRSS2 activity, and inhibit obesity-related RAAS dysfunctions, with consequent decrease of viral priming.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32726128&#34; target=&#34;_blank&#34;&gt;32726128&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Testosterone on the contrary enhances the levels of the two most critical molecules, angiotensin-converting enzyme 2 (ACE2) and the transmembrane protease serine-type 2 (TMPRSS2), transcriptionally and posttranslationally, thereby increasing viral load and delaying viral clearance in men as compared with women.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32726325&#34; target=&#34;_blank&#34;&gt;32726325&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Development of novel approaches for regulating the expression of angiotensin-converting enzyme 2 (ACE2) and transmembrane serine protease 2 (TMPRSS2) is becoming increasingly important within the context of the ongoing COVID-19 pandemic since these enzymes play a crucial role in cell infection. […] In this work we searched for putative ACE2 and TMPRSS2 expression regulation networks mediated by various miRNA isoforms (isomiR) across different human organs using publicly available paired miRNA/mRNA-sequencing data from The Cancer Genome Atlas (TCGA) project. […] As a result, we identified several miRNA families targeting ACE2 and TMPRSS2 genes in multiple tissues. […] In particular, we found that lysine-specific demethylase 5B (JARID1B), encoded by the KDM5B gene, can indirectly affect ACE2 / TMPRSS2 expression by repressing transcription of hsa-let-7e / hsa-mir-125a and hsa-mir-141 / hsa-miR-200 miRNA families which are targeting these genes.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32730512&#34; target=&#34;_blank&#34;&gt;32730512&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent studies have shown that ACE2 corresponds to the main SARS-CoV-2 receptor, which together with other receptors such as the TMPRSS2, allows the virus to attach, fuse, and enter the host cell.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32730844&#34; target=&#34;_blank&#34;&gt;32730844&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A putative target to interfere with the virus is the host transmembrane serine protease family member II (TMPRSS2). […] Repositioning approved, investigational and experimental drugs on the serine protease domain of TMPRSS2 could thus be valuable. […] There is no experimental structure for TMPRSS2 but it is possible to develop quality structural models for the serine protease domain using comparative modeling strategies as such domains are highly structurally conserved. […] Beside the TMPRSS2 catalytic site, we predicted on our structural models a main exosite that could be important for the binding of protein partners and/or substrates. […] To block the catalytic site or the exosite of TMPRSS2 we used structure-based virtual screening computations and two different collections of approved, investigational and experimental drugs. […] These small molecules should now be tested in vitro to gain novel insights over the roles of TMPRSS2 or as starting point for the development of second generation analogs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32731090&#34; target=&#34;_blank&#34;&gt;32731090&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Underlying immunosuppression, elevated cytokine levels, altered expression of the angiotensin converting enzyme (ACE-2) and TMPRSS2, and a prothrombotic status may fuel the effects of a SARS-CoV-2 in some cancer patients, but have the potential to be used as biomarkers for severe disease and therapeutic targets.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32734518&#34; target=&#34;_blank&#34;&gt;32734518&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As a result, the COVID-19 lifecycle were categorized as following steps: “Host Cell Attachment” which is mainly conducted with ACE2 receptors and TMPRSS2 from the host cell and Spike (S) protein, “Endocytosis Pathway” which is performed mainly by clathrin-mediated endocytosis, and “Viral Replication” which contains translation and replication of RNA viral genome.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32741259&#34; target=&#34;_blank&#34;&gt;32741259&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV and SARS-CoV-2 employ the host cellular serine protease TMPRSS2 for spike (S) protein priming for viral entry into host cells. […] A potential way to reduce the initial site of SARS-CoV-2 infection may be to inhibit the activity of TMPRSS2. […] In the current study, the three-dimensional structure of TMPRSS2 was generated by homology modelling and subsequently validated with a number of parameters. […] The structure-based virtual screening of Selleckchem database was performed through ‘Virtual Work Flow’ (VSW) to find out potential lead-like TMPRSS2 inhibitors. […] Camostat and bromhexine are known TMPRSS2 inhibitor drugs, hence these were used as control molecules throughout the study. […] Based on better dock score, binding-free energy and binding interactions compared to the control molecules, six molecules (Neohesperidin, Myricitrin, Quercitrin, Naringin, Icariin, and Ambroxol) were found to be promising against the TMPRSS2. […] Binding interactions analysis revealed a number of significant binding interactions with binding site amino residues of TMPRSS2. […] The binding energy calculated from the MD simulation trajectories also favour the strong affinity of the molecules towards the TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32741970&#34; target=&#34;_blank&#34;&gt;32741970&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+None have shown placental expression of the ACE2 or TMPRSS2 protein, both required for viral infection. […] We examined 19 COVID-19 exposed placentas for histopathologic findings, and for expression of ACE2, and TMPRSS2 by immunohistochemistry. […] TMPRSS2 expression was only present weakly in the villous endothelium and rarely in the ST. […] We propose one explanation could be the polarized expression of ACE2 away from the maternal blood and pronounced paucity of TMPRSS2 expression in trophoblast.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32744436&#34; target=&#34;_blank&#34;&gt;32744436&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our study provided the cellular evidence that SARS-Cov-2 invaded human kidney tissue via proximal convoluted tubule, proximal tubule, proximal straight tubule cells, and glomerular parietal cells by means of ACE2-related pathway and used their cellular protease TMPRSS2 for priming.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32748331&#34; target=&#34;_blank&#34;&gt;32748331&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It has been reported that SARS-CoV-2 enters into the host cell through interaction between conserved residues of viral spike protein and angiotensin converting enzyme 2 (ACE2) receptor which is highly expressed in host’s cardiac and pulmonary cells and finally transmembrane protease, serine-2 (TMPRSS2), helps in priming of the surface protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32750256&#34; target=&#34;_blank&#34;&gt;32750256&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we examine human pre-gastrulation embryos to determine the expression patterns of the genes ACE2, encoding the SARS-CoV-2 receptor, and TMPRSS2, encoding a protease that cleaves both the viral spike protein and the ACE2 receptor to facilitate infection. […] Expression of ACE2 and TMPRSS2 in these tissues raises the possibility for vertical transmission and indicates that further work is required to understand potential risks to implantation, placental health and fetal health that require further study.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32755524&#34; target=&#34;_blank&#34;&gt;32755524&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2, which is an enveloped, RNA virus has been shown to attach to the host cell receptor angiotensin converting enzyme 2 with spike (S) protein and membrane fusion is provided by transmembrane protease serine 2 (TMPRSS2) of the host cell.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32757420&#34; target=&#34;_blank&#34;&gt;32757420&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We therefore performed data mining of two independent NCBI GEO genome-wide RNA expression files (GSE7894 and GSE994) and report that in both data sets, current smokers and never smokers have, on average, closely similar bronchial epithelial cell mRNA levels of ACE2, as well as TMPRSS2, coding for a serine protease priming SARS-Cov-2 for cell entry, and ADAM17, coding for a protease implicated in ACE2 membrane shedding. […] In contrast, the expression levels of TMPRSS4, coding for a protease that primes SARS-CoV-2 for cell entry similarly to TMPRSS2, were elevated in bronchial epithelial cells from current smokers compared with never smokers, suggesting that higher bronchial TMPRSS4 levels in smokers might put them at higher SARS-Cov-2 infection risk.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32758873&#34; target=&#34;_blank&#34;&gt;32758873&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These viral calcium-dependent binding domains can facilitate membrane fusion only after cleavage by the host surface protease TMPRSS2. […] Importantly, TMPRSS2 also requires calcium for its SRCR (scavenger receptor cysteine-rich) domain and itsLDLRA(LDL receptor class A) domain.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32759995&#34; target=&#34;_blank&#34;&gt;32759995&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The entry of SARS-CoV-2 into host cells is dependent upon angiotensin-converting enzyme 2 (ACE2), which serves as a functional attachment receptor for the viral spike glycoprotein, and the serine protease TMPRSS2 which allows fusion of the viral and host cell membranes. […] We devised a quantitative measure to estimate genetic determinants of ACE2 and TMPRSS2 expression and applied this measure to &amp;gt;2500 individuals. […] Our data show significant variability in genetic determinants of ACE2 and TMPRSS2 expression among individuals and between populations, and indicate a genetic predisposition for lower expression levels of both key viral entry genes in African populations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32764200&#34; target=&#34;_blank&#34;&gt;32764200&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among 126 potential convalescent plasma donors, the humoral immune response was evaluated using a severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus neutralization assay with Vero-E6-TMPRSS2 cells; a commercial IgG and IgA ELISA to detect the spike (S) protein S1 domain (EUROIMMUN); IgA, IgG, and IgM indirect ELISAs to detect the full-length S protein or S receptor-binding domain (S-RBD); and an IgG avidity assay.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32764454&#34; target=&#34;_blank&#34;&gt;32764454&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+On the other hand, it has been reported that SARS-CoV-2 spike (S) protein binds to angiotensin-converting enzyme 2 (ACE-2), that promotes cellular entry of this virus in concert with host proteases, principally transmembrane serine protease 2 (TMPRSS2). […] We herein provide a comprehensive and up-to-date overview of the role of ACE-2 and TMPRSS2 genes, as key entry elements as well as therapeutic targets for SARS-CoV-2 infection, which can help to better understand the applications and capacities of various remedial approaches for infected individuals, especially those with lung cancer.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32764907&#34; target=&#34;_blank&#34;&gt;32764907&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The SARS-CoV-2 infection depends on ACE2, TMPRSS2, and CD147, which are expressed on host cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32768580&#34; target=&#34;_blank&#34;&gt;32768580&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This study investigates the N720D variant, positioned in the collectrin-like domain (CLD) at proximity to type II transmembrane serine protease (TMPRSS2) cleavage site. […] HDOCK was utilised to model TMPRSS2 protease binding to ACE2 WT and D720 variant cleavage site. […] PRODIGY was used to calculate binding affinities and MD simulation tools calculated the at 100 ns for ACE2 apo structure and the ACE2-TMPRSS2 complex. […] As such, introducing a tighter binding affinity of Kd = 3.2 × 10-10 M between TMPRSS2 and N720D variant. […] RMSD, RMSF calculations showed the N720D variant is less stable, however, RMSF values of the D720-TMPRSS2 complex reflected a slower dynamic motion. […] The hotspot N720D variant in the CLD of ACE2 affected the stability and flexibility of ACE2 by increasing the level of motion in the loop region, resulting in a more favourable site for TMPRSS2 binding and cleavage. […] Consequently, this would facilitate S-protein binding and can potentially increase viral entry highlighting the importance of variants affecting the ACE2-TMPRSS2 complex.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32774170&#34; target=&#34;_blank&#34;&gt;32774170&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The sex-prevalent expression of the attachment and permissive molecules ACE2 and TMPRSS2 further supports the concept of a male-oriented vulnerability.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32779305&#34; target=&#34;_blank&#34;&gt;32779305&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Docking analysis identified lead molecules with favorable binding energy, number of poses and hydrogen bond interactions, which indicates the effective modulation of ACE2 and TMPRSS2 receptors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32783758&#34; target=&#34;_blank&#34;&gt;32783758&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+It illustrates new analyses of the structure of ACE2 that provides better understanding of its actions particularly in lung and gut, shedding of ACE2 by ADAM17 (a disintegrin and metallopeptidase domain 17 protein), and role of TMPRSS2 (transmembrane serine proteases 2) in severe acute respiratory syndrome coronavirus-2 entry into host cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32784802&#34; target=&#34;_blank&#34;&gt;32784802&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The entry process involves priming of the S protein by TMPRSS2 and ADAM17, which collectively mediate the binding and promote ACE2 shedding. […] In this study, microarray and RNA-sequencing (RNA-seq) expression data were utilized to profile the expression pattern of ACE2, ADAM17, and TMPRSS2 in type 2 diabetic (T2D) and non-diabetic human pancreatic islets. […] Islets from female donors showed higher ACE2 expression compared to males; the expression of ADAM17 and TMPRSS2 was not affected by gender. […] Obese (BMI &amp;gt; 30) donors have significantly higher expression levels of ADAM17 and TMPRSS2 relative to those from non-obese donors (BMI &amp;lt; 25). […] TMPRSS2 expression correlated positively with HbA1c and negatively with age, while ADAM17 and TMPRSS2 correlated positively with BMI.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32784899&#34; target=&#34;_blank&#34;&gt;32784899&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The inhibition of host TMPRSS2 and cathepsins B/L may represent a complementary strategy to be investigated. […] In this review, we discuss the development entry inhibitors targeting the S protein, as well as the most promising host targeting strategies involving TMPRSS2 and CatB/L, which have been exploited so far against CoVs and other related viruses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32788194&#34; target=&#34;_blank&#34;&gt;32788194&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Stable introduction of the Spike-activating protease TMPRSS2 further enhanced susceptibility to infection by 5- to 10-fold.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32799423&#34; target=&#34;_blank&#34;&gt;32799423&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this study, the effect of commonly used medications on the expression of SARS-CoV-2 receptor, angiotensin-converting enzyme (ACE)2, and TMPRSS2 protein in kidney tissues was evaluated. […] Of 59 tested medications, 56% modified ACE2 expression, whereas 24% modified TMPRSS2 expression. […] The expression level of TMPRSS2 was increased with a number of medications, such as diclofenac, furosemide, and dexamethasone, whereas other medications, such as allopurinol, suppressed the expression of this gene. […] The prolonged exposure to combinations of these medications could regulate the expression of ACE2 and TMPRSS2 in a way that may affect kidney susceptibility to SARS-CoV-2 infection. […] Data presented here suggest that we should be vigilant about the potential effects of commonly used medications on kidney tissue expression of ACE2 and TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32808185&#34; target=&#34;_blank&#34;&gt;32808185&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme 2 (ACE2) and Transmembrane serine protease (TMPRSS2) are the main cell entry receptors of SARS-CoV-2. […] The expression level of TMPRSS2 was increased noticeably with a number of medications such as metformin. […] To confirm the observed effects on primary human hepatocytes, rat hepatocyte treatments data was obtained from DrugMatrix toxicogenomic database (GSE57805), which showed a similar ACE2 and TMPRSS2 expression pattern. […] Treatment of common co-morbidities often require chronic use of multiple medications, which may result in an additive increase in the expression of ACE2 and TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32810867&#34; target=&#34;_blank&#34;&gt;32810867&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent research has confirmed the role of angiotensin-converting enzyme 2 (ACE2) and transmembrane protease serine 2 (TMPRSS2) as key host-specific cellular moieties responsible for the cellular entry of the virus. […] Accordingly, the ongoing medical examinations and the autopsy reports of the deceased individuals indicate that organs/tissues with high expression levels of ACE2, TMPRSS2 and other putative viral entry-associated genes are most vulnerable to the infection. […] Co-expression analysis of ACE2 and TMPRSS2 and protein-protein interaction among the host and viral proteins elected regulatory cytoskeleton protein-enriched SUSs as the most vulnerable cell type of the olfactory epithelium.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32816230&#34; target=&#34;_blank&#34;&gt;32816230&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To review the data regarding the expression of angiotensin converting enzyme-2 (ACE2) and transmembrane protease serine-2 (TMPRSS2) in head and neck tissue. […] Scopus, Cochrane Library, Medrxiv, Google Scholar and PubMED/MEDLINE were searched by four independent investigators for studies investigating ACE2 or TMPRSS2 expressions in head and neck tissues. […] ACE2 and TMPRSS2 were expressed in oral, pharyngeal, sinusonasal human mucosa. […] TMPRSS2 was found in goblet and apical respiratory cells. […] ACE2 and TMPRSS2 were found in the olfactory region, especially in sustentacular non-neural and neural stem cells. […] There was an important heterogeneity between studies in the methods used to detect ACE2 and TMPRSS2, leading to a potential identification bias. […] The SARS-CoV-2 receptors, ACE2 and TMPRSS2, are both expressed in many head and neck tissues, enabling the viral entry into the host organism.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32820005&#34; target=&#34;_blank&#34;&gt;32820005&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, we show that two indole-chloropyridinyl-ester derivatives, GRL-0820 and GRL-0920, exerted potent activity against SARS-CoV-2 in cell-based assays performed using VeroE6 cells and TMPRSS2-overexpressing VeroE6 cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32824674&#34; target=&#34;_blank&#34;&gt;32824674&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+High testosterone levels could upregulate transmembrane serine protease 2 (TMPRSS2), facilitating the entry of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) into host cells via angiotensin-converting enzyme 2 (ACE2). […] Clinical studies on TMPRSS2 inhibitors, such as camostat, nafamostat, and bromhexine, are ongoing.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32825469&#34; target=&#34;_blank&#34;&gt;32825469&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) receptor, angiotensin-converting enzyme 2 (ACE2), transmembrane protease serine 2 (TMPRSS2), and furin, which promote entry of the virus into the host cell, have been identified as determinants of SARS-CoV-2 infection. […] TMPRSS2 was strongly expressed in stratified squamous epithelium in the keratinized surface layer and detected in the saliva and tongue coating samples via Western blot. […] ACE2, TMPRSS2, and furin mRNA expression was observed in taste bud-derived cultured cells, which was similar to the immunofluorescence observations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32826650&#34; target=&#34;_blank&#34;&gt;32826650&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using immunohistochemistry, the samples were tested for the expression of angiotension-converting enzyme 2 (ACE2), dendritic cell-specific intracellular adhesion molecule 3-grabbing nonintegrin (DC-SIGN), DC-SIGN-related protein (DC-SIGNR), and transmembrane serine protease 2 (TMPRSS2). […] In all specimens, both ACE2 and TMPRSS2 were expressed throughout the surface epithelium (corneal, limbal, and conjunctival) and corneal endothelium. […] In corneal stromal cells, ACE2 was sporadically expressed, whereas TMPRSS2 was absent. […] ACE2, TMPRSS2, and DC-SIGN/DC-SIGNR were all expressed in the cultured corneal, limbal, and conjunctival epithelial cells. […] Both corneal and conjunctival epithelia express ACE2, DC-SIGN/DC-SIGNR, and TMPRSS2, suggesting that the ocular surface is a potential route for the transmission of SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32829149&#34; target=&#34;_blank&#34;&gt;32829149&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This paper focuses on the human protein TMPRSS2, which supports coronavirus life cycles by cleaving viral spike proteins. […] The three-dimensional structure of TMPRSS2 is not known and so we have generated models of the TMPRSS2 in the apo state as well as in complex with a peptide substrate and putative inhibitors to aid future work. […] Importantly, many related human proteases have 80% or higher identity with TMPRSS2 in the S1-S1’ subsites, with plasminogen and urokinase-type plasminogen activator (uPA) having 95% identity. […] We highlight 376 approved, investigational or experimental drugs targeting S1A serine proteases that may also inhibit TMPRSS2. […] Whilst the presence of a relatively uncommon lysine residue in the S2/S3 subsites means that some serine protease inhibitors will not inhibit TMPRSS2, this residue is likely to provide a handle for selective targeting in a focused drug discovery project. […] We discuss how experimental drugs targeting related serine proteases might be repurposed as TMPRSS2 inhibitors to treat coronaviruses.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32831324&#34; target=&#34;_blank&#34;&gt;32831324&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To determine the susceptibility of the skin to SARS-CoV-2 infection based on the expression of viral entry factors ACE2 and TMPRSS2 in this organ. […] A comprehensive analysis of human tissue gene expression databases was carried out looking for the presence of the ACE2 and TMPRSS2 genes in the skin. mRNA expression of these genes in skin-derived human cell lines was also assessed. […] The analyses showed high co-expression of ACE2 and TMPRSS2 in the gastrointestinal tract and kidney, but not in the skin. […] Only the human immortalized keratinocyte HaCaT cell line expressed detectable levels of ACE2, and no cell line originating in the skin expressed TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32831326&#34; target=&#34;_blank&#34;&gt;32831326&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2, CD147 and TMPRSS2 receptors expression could indicate poorly explored potential infection targets.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32835083&#34; target=&#34;_blank&#34;&gt;32835083&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Third, nearly 1033 medicinal herbal compounds were collected and docked with ACE2, TMPRSS2, GRP78, and AT1R receptors, which were the most noticeable receptors in causing the COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32835700&#34; target=&#34;_blank&#34;&gt;32835700&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The allelic frequencies of the polymorphisms in the ACE2, TMPRSS2, TMPRSS11A, cathepsin L (CTSL), and elastase (ELANE) genes were obtained in four populations from the American, African, European, and Asian continents reported in the 1000 Genome Project. […] In the coding sequences of these genes, we detected one probably-damaging polymorphism located in the TMPRSS2 gene (rs12329760) that produces a change of amino acid. […] Furthermore, forty-eight polymorphisms with possible functional consequences were detected in the non-coding sequences of the following genes: three in ACE2, seventeen in TMPRSS2, ten in TMPRSS11A, twelve in ELANE, and six in CTSL.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32837754&#34; target=&#34;_blank&#34;&gt;32837754&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In order to investigate the potential risk of SARS-CoV-2 vertical transmission, we explored ACE2 and transmembrane protease serine 2 (TMPRSS2) expression patterns in peri-implantation embryos and the maternal-fetal interface using previously published single-cell transcriptome data. […] The results show that day 6 (D6) trophectoderm cells (TE) in peri-implantation embryos, as well as syncytiotrophoblast (STB) at 8 weeks of gestation (STB_8W) and extravillous trophoblasts cells (EVT) at 24 weeks of gestation (EVT_24W) in the maternal-fetal interface, strongly co-expressed ACE2 and TMPRSS2, indicating SARS-CoV-2 infection susceptibility.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32837954&#34; target=&#34;_blank&#34;&gt;32837954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Virtual screening was then performed for the 18 selected drugs with ACE2, 3CLpro and PLpro and HR1 and TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32842606&#34; target=&#34;_blank&#34;&gt;32842606&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Recent studies have shown that two human proteases, TMPRSS2 and cathepsin L, play a key role in host cell entry of SARS-CoV-2. […] Here, we perform virtual screening of 14,011 phytochemicals produced by Indian medicinal plants to identify natural product inhibitors of TMPRSS2 and cathepsin L. […] AutoDock Vina was used to perform molecular docking of phytochemicals against TMPRSS2 and cathepsin L. […] Potential phytochemical inhibitors were filtered by comparing their docked binding energies with those of known inhibitors of TMPRSS2 and cathepsin L. […] This led to the identification of 96 inhibitors of TMPRSS2 and 9 inhibitors of cathepsin L among phytochemicals of Indian medicinal plants. […] Further, we have performed molecular dynamics (MD) simulations to analyze the stability of the protein-ligand complexes for the three top inhibitors of TMPRSS2 namely, qingdainone, edgeworoside C and adlumidine, and of cathepsin L namely, ararobinol, (+)-oxoturkiyenine and 3α,17α-cinchophylline.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32844538&#34; target=&#34;_blank&#34;&gt;32844538&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A1AT inhibits SARS-CoV-2 infection and two of the most important proteases in the pathophysiology of Covid-19: the transmembrane serine protease 2 (TMPRSS2) and the disintegrin and metalloproteinase 17 (ADAM17). […] TMPRSS2 is essential for SARS-CoV-2-S protein priming and viral infection. […] In this review, we focused on the interplay between A1AT with TMPRSS2, ADAM17 and immune molecules, and the role of A1AT in the pathophysiology of Covid-19, opening new avenues for investigating effective treatments.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32848776&#34; target=&#34;_blank&#34;&gt;32848776&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this proposed pathway, membrane fusion and cytoplasmic entry of SARS-CoV-2 virus via ACE2 and TMPRSS2-expressing respiratory epithelial cells, including pulmonary type-II pneumocytes, provoke an initial immune response featuring inflammatory cytokine production coupled with a weak interferon response, particularly in IFN-λ-dependent epithelial defense.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32851697&#34; target=&#34;_blank&#34;&gt;32851697&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Via bioinformatic analysis, we identified the existence of ACE2 and TMPRSS2 expression in human TE as well as in the first- and second- trimester placentas. […] As for TMPRSS2, 90.7% of TE1 cells, 31.5% of CTBs, 22.1% of EVTs and 70.8% of STBs were TMPRSS2 positive. […] And 1.6% of CTBs, 26.5% of STBs, 1.9% of EVT_8W and 20.1% of EVT_24W were TMPRSS2 positive. […] Pathway analysis revealed associations to morphogenesis of branching structure, extracellular matrix interaction, oxygen binding and antioxidant activity in ACE2+TMPRSS2+ EVT_24W cells. […] The ACE2+TMPRSS2+ TE1 cells were correlated with an increased capacity of viral invasion, epithelial cell proliferation and cell adhesion. […] Based on immunohistochemical results, expression level of ACE2 and TMPRSS2 in first- and second- and third-trimester placentas was observed. […] Our study has demonstrated the presence of ACE2 and TMPRSS2 positive cells in the human TE and placentas at different stages of pregnancy, which indicates the possibility that the SARS-CoV-2 could spread via the placenta and cause intrauterine fetal infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32851855&#34; target=&#34;_blank&#34;&gt;32851855&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2 expression in the lungs is relatively low, but it is present in type II pneumocytes-a cell type also endowed with TMPRSS2 (transmembrane protease serine 2).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32857620&#34; target=&#34;_blank&#34;&gt;32857620&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+TMPRSS2, ACE2 and TMPRSS11D are genes coding for proteins necessary for SARS-CoV-2 activation, infection and transmission. […] Cell cultures treated with 10µg of azithromycin significantly downregulated receptor-mediated endocytosis canonical pathways involving TMPRSS2 and TMPRSS11D genes. […] This proof of concept demonstrates azithromycin downregulates pathways involving serine proteases TMPRSS2 and TMPRSS11D required for SARS-CoV-2 activation and its cell-to-cell transmission while downregulating pro-inflammatory cytokine IL-1β, NDST-1 and their associated pathways.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32858233&#34; target=&#34;_blank&#34;&gt;32858233&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here we investigated whether genetic variation in the key genes for viral entry to host cells-ACE2 and TMPRSS2-and sensing of viral genomic RNAs (i.e., TLR3/7/8) could explain the variation in incidence across diverse ethnic groups.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32861070&#34; target=&#34;_blank&#34;&gt;32861070&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+And transmembrane protease serine 2 (TMPRSS2) could cleave the spike (S) protein of SARS-CoV-2, which facilitates the fusion of SARS-CoV-2 and cellular membranes. […] The mRNA expressions of both ACE2 and TMPRSS2 were observed in the heart, digestive tract, liver, kidney, brain and other organs. […] SARS-CoV-2 may have a capacity to infect extrapulmonary organs due to the expressions of ACE2 and TMPRSS2 in the cells and tissues of these organs. […] It seems that there is a potential involvement of ACE2 and TMPRSS2 expressions in the virus infection of extrapulmonary organs and the manifestation of symptoms related to these organs in patients with COVID-19. […] Here, we revealed the expressions of ACE2 and TMPRSS2 in extrapulmonary organs, and we also summarized the clinical manifestation and the management of extrapulmonary complications in patients with COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32861340&#34; target=&#34;_blank&#34;&gt;32861340&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Transmembrane protease serine 2 (TMPRSS2), which interacts with ACE2, may be a better candidate for targeted therapies. […] Using publicly available expression data, we show that both ACE2 and TMPRSS2 are expressed in many host tissues, including lung. […] The highest expression of ACE2 is found in the testes, whereas the prostate displays the highest expression of TMPRSS2. […] Given the increased severity of disease among older men with SARS-CoV-2 infection, we address the potential roles of ACE2 and TMPRSS2 in their contribution to the sex differences in severity of disease. […] We show that expression levels of ACE2 and TMPRSS2 are overall comparable between men and women in multiple tissues, suggesting that differences in the expression levels of TMPRSS2 and ACE2 in the lung and other non-sex-specific tissues may not explain the gender disparities in severity of SARS CoV-2. […] However, given their instrumental roles for SARS-CoV-2 infection and their pleiotropic expression, targeting the activity and expression levels of TMPRSS2 is a rational approach to treat COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32862058&#34; target=&#34;_blank&#34;&gt;32862058&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Using comparative immunofluorescence, we examined the localization and relative tissue abundance of SARS-CoV2 spike glycoprotein (CoV2 SP) along with the co-localization of two SARS-CoV2 viral entry proteins angiotensin-converting enzyme 2 (ACE2) and transmembrane serine protease 2 (TMPRSS2). […] We further identified the predominance of ACE2 expression in comparison with TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32863223&#34; target=&#34;_blank&#34;&gt;32863223&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 infects human cells by binding to the cellular surface protein angiotensin-converting enzyme 2 (ACE2); in addition, the cellular transmembrane serine protease 2 (TMPRSS2) is needed for priming of the spike (S) protein of the virus. […] Herein, we performed an expression profiling meta-analysis of ACE2, TMPRSS2 and CTSB/L genes (and proteins) in public repository databases and found that all are widely expressed in human tissues; also, the ACE2 and TMPRSS2 genes tend to be co-regulated. […] Finally, we analyzed KEGG pathways modulated by ACE2, TMPRSS2 and CTSB/L and probed DrugBank for drugs that target modules of the affected pathways.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32864545&#34; target=&#34;_blank&#34;&gt;32864545&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Androgens upregulate the protease TMPRSS2 (type II transmembrane serine protease-2), which facilitates efficient virus-host cell fusion with the epithelium of the lungs, thus increasing susceptibility to SARS-CoV-2 infection and development of severe COVID-19. […] Owing to low levels of steroid hormones, prepubertal children may have low expression of TMPRSS2, thereby limiting the viral entry into host cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32866534&#34; target=&#34;_blank&#34;&gt;32866534&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Angiotensin-converting enzyme 2 (ACE2) receptor serves as an entry point for this deadly virus while the proteases like furin, transmembrane protease serine 2 (TMPRSS2) and 3 chymotrypsin-like protease (3CLpro) are involved in the further processing and replication of SARS-CoV-2. […] The representative compounds A_BR4, A_BR9, A_BR18, A_BR22 and A_BR28 restricted the interaction of SARS-CoV-2 SP with ACE2 and host proteases furin and TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32867305&#34; target=&#34;_blank&#34;&gt;32867305&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We analyzed 131 COVID-19 patients by exome sequencing and examined the genetic variants of TMPRSS2, PCSK3, DPP4, and BSG genes. […] In TMPRSS2 gene, we observed a significant difference in the frequency of c.331G&amp;gt;A, c.23G&amp;gt;T, and c.589G&amp;gt;A variant alleles in COVID-19 patients, compared to the corresponding allelic frequency in GnomAD.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32868983&#34; target=&#34;_blank&#34;&gt;32868983&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on the “steric-clashes alleviating receptor (SCAR)” strategy developed in our lab recently, we screened the library of clinic and investigational drugs, and identified nine drugs that might be repurposed as covalent inhibitors of the priming proteases (cathepsin B, cathepsin L, and TMPRSS2) of the spike protein of SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32873611&#34; target=&#34;_blank&#34;&gt;32873611&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The above findings also largely apply to the SARS-CoV-2 entry protease TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32873700&#34; target=&#34;_blank&#34;&gt;32873700&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Transmembrane serine protease 2 is encoded by the TMPRSS2 gene. […] A fusion gene between the TMPRSS2 gene and ERG (erythroblast-specific-related gene), an oncogenic transcription factor, is the most common chromosomal aberration detected in prostate cancer, responsible for driving carcinogenesis. […] The other key role of TMPRSS2 is in priming the viral spike protein which facilitates viral entry essential for viral infectivity. […] Both SARS-CoV and SARS-CoV-2 (COVID-19) use angiotensin-converting enzyme 2 (ACE2) and TMPRSS2 to facilitate entry to cells, but with SARS-CoV-2 human-to-human transmission is much higher than SARS-CoV. […] As TMPRSS2 is expressed outside of the lung, and can therefore contribute to extrapulmonary spread of viruses, it warrants further exploration as a potential target for limiting viral spread and infectivity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32878480&#34; target=&#34;_blank&#34;&gt;32878480&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To date, no study has examined whether an increased fraction of inspired oxygen (FiO2) may affect the expression of SARS-CoV-2 entry receptors and co-receptors, including ACE2 and the transmembrane serine proteases TMPRSS1, TMPRSS2, and TMPRSS11D.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32883010&#34; target=&#34;_blank&#34;&gt;32883010&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The ocular surface and retina have the necessary proteins, Transmembrane Serine Protease 2 (TMPRSS2), CD147, Angiotensin-Converting Enzyme 2 (ACE2) and Cathepsin L (CTSL) necessary to be infected with SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32887532&#34; target=&#34;_blank&#34;&gt;32887532&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The current emphasis is primarily on TMPRSS2, matriptase, and hepsin, yet other TTSPs await validation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32887634&#34; target=&#34;_blank&#34;&gt;32887634&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Platelets expressed ACE2, a host cell receptor for SARS-CoV-2, and TMPRSS2, a serine protease for Spike protein priming.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32890967&#34; target=&#34;_blank&#34;&gt;32890967&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 entry into host cells is characterized by viral spike protein interaction with cellular angiotensin-converting enzyme 2 (ACE2) and serine protease TMPRSS2. […] Propolis components have inhibitory effects on the ACE2, TMPRSS2 and PAK1 signaling pathways; in addition, antiviral activity has been proven in vitro and in vivo.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32897764&#34; target=&#34;_blank&#34;&gt;32897764&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+TMPRSS2 is a host co-receptor for cell entry of SARS-CoV-2. […] One prior report suggested that use of androgen deprivation therapy (ADT), which downregulates TMPRSS2, may protect men with prostate cancer from infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32903321&#34; target=&#34;_blank&#34;&gt;32903321&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The new coronavirus (SARS-CoV-2), which has been responsible for the recent coronavirus disease 2019 (COVID-19) pandemic, uses the cell receptor angiotensin converting enzyme-2 (ACE2) for entry and the serine protease TMPRSS2 for spike (S) protein priming. […] Meanwhile, the presence of B0AT1 (SLC6A19) may prevent TMPRSS2 from accessing the cutting position on ACE2. […] The single-cell transcription datasets of the human cell landscape (HCL) and other relevant single-cell transcription databases were used to analyze the expression of ACE2, TMPRSS2, and SLC6A19 in various organs and tissues, but mainly in the kidney. […] TMPRSS2 was widely expressed in several renal tubule populations extending from the PT cells to the collection system cell type, of which intercalated cells and the distal convoluted tubule cells showed more significant expression than PT cells. […] Although alveolar-type (AT) 2 cells of the lung and intestinal epithelial cells expressed ACE2 as well as PT cells, AT 2 cells significantly expressed TMPRSS2 but not SLC6A19, while all 3 genes were significantly expressed in intestinal epithelial cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32905655&#34; target=&#34;_blank&#34;&gt;32905655&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+During infection, SARS-CoV-2 via its binding target ACE2 and TMPRSS2 can disrupt mitochondrial function.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32914167&#34; target=&#34;_blank&#34;&gt;32914167&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We found that targeting FURIN and TMPRSS2 can provide good results due to their common involvement in current and previous outbreaks.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32918944&#34; target=&#34;_blank&#34;&gt;32918944&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Transmembrane protease serine 2 (TMPRSS2) has been shown to prime the viral spike for its interaction with its receptor. […] In this study, we used several bioinformatics approaches to bring clues in the interaction of ACE2, TMPRSS2, and GRP78 with SARS-CoV-2. […] On the other hand, TMPRSS2 and GRP78 are proteins with high homology in all the evaluated hosts.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32924827&#34; target=&#34;_blank&#34;&gt;32924827&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results indicated that, Ritonavir has the highest potency to block SARS-CoV-2 main protease and human TMPRSS2, a host cell factor that aids viral infection.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32930394&#34; target=&#34;_blank&#34;&gt;32930394&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Immunohistochemistry for the receptor of the SARS-COV 2, ACE2, and its priming activatorTMPRSS2 revealed that both proteins co-localize in airway cells. […] Pneumocytes but not endothelial cells also expressed TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32936429&#34; target=&#34;_blank&#34;&gt;32936429&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+A tentative hypothesis to explain these findings is the role of angiotensin-converting enzyme 2 (ACE2) and serine protease TMPRSS2 involved in viral infection. […] In this review, we summarize the available evidence pointing to gender-related differences in ACE2 and TMPRSS2 expression, from both genetic and endocrine points of view. […] Altogether, available evidence points toward two not-mutually exclusive mechanisms in gender susceptibility to COVID-19 by sex hormonal regulation of ACE2 and TMPRSS2. […] On the other, low levels of androgens in women may keep at low levels TMPRSS2 expression, representing a further protective factor for the development of COVID-19 infection, despite the increased expression of ACE2, which represents the Trojan horse for SARS-CoV-2 entry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32936531&#34; target=&#34;_blank&#34;&gt;32936531&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The SARS-CoV-2 makes its way into the cell via the ACE2 receptor and the proteolytic action of TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32937591&#34; target=&#34;_blank&#34;&gt;32937591&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Bulk sequencing demonstrated that mouse, non-human primate and human olfactory mucosa expresses two key genes involved in CoV-2 entry, ACE2 and TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32940922&#34; target=&#34;_blank&#34;&gt;32940922&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cellular entry of SARS-CoV-2 depends on the binding of its spike protein to a cellular receptor named angiotensin-converting enzyme 2 (ACE2), and the subsequent spike protein-priming by host cell proteases, including transmembrane protease serine 2 (TMPRSS2). […] Thus, high expression of ACE2 and TMPRSS2 is considered to enhance the invading capacity of SARS-CoV-2. […] To elucidate the underlying histological mechanisms of the aerodigestive disorders caused by SARS-CoV-2, we investigated the expression of ACE2 and TMPRSS2 proteins using immunohistochemistry, in the aerodigestive tracts of the tongue, hard palate with partial nasal tissue, larynx with hypopharynx, trachea, esophagus, and lung of rats. […] Co-expression of ACE2 and TMPRSS2 proteins was observed in the taste buds of the tongue, nasal epithelium, trachea, bronchioles, and alveoli with varying degrees of expression. […] Remarkably, TMPRSS2 expression was more distinct in the peripheral alveoli than in the central alveoli. […] A wide range of organs have been speculated to be affected by SARS-CoV-2 depending on the expression levels of ACE2 and TMPRSS2. […] Differential distribution of TMPRSS2 in the lung indicated the COVID-19 symptoms to possibly be exacerbated by TMPRSS2 expression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32944935&#34; target=&#34;_blank&#34;&gt;32944935&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Reports denote SARS-CoV-2 uses angiotensin-converting enzyme 2 (ACE2), transmembrane serine protease 2 (TMPRSS2) as its primary entry point into the host cell. […] Here, we used single-cell RNA sequencing data of human organoids to analyze expressions of ACE2 and TMPRSS2, in addition to an array of RNA receptors to examine their role in SARS-CoV-2 pathogenesis. […] ACE2 is abundant in all organoids, except the prostate and brain, and TMPRSS2 is omnipresent.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32947136&#34; target=&#34;_blank&#34;&gt;32947136&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, studies have indicated that the spike proteins of SARS-CoV-2 use the Angiotensin Converting Enzyme-2 (ACE-2) receptor for its attachment similar to SARS-CoV-1, which is followed by priming of spike protein by Transmembrane protease serine 2 (TMPRSS2) which can be targeted by a proven inhibitor of TMPRSS2, camostat.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32960480&#34; target=&#34;_blank&#34;&gt;32960480&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The plasma serine protease inhibitor alpha-1 antitrypsin was suggested to protect from COVID-19 by inhibiting TMPRSS2, a cell surface serine protease essential for the SARS-CoV-2 cell entry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32967703&#34; target=&#34;_blank&#34;&gt;32967703&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-coronavirus-2 enters host cells through binding of the Spike protein to ACE2 receptor and subsequent S priming by the TMPRSS2 protease. […] We aim to assess differences in both ACE2 and TMPRSS2 expression in normal tissues from oral cavity, pharynx, larynx and lung tissues as well as neoplastic tissues from the same areas. […] TMPRSS2 expression in HNSCC was significantly reduced compared to the normal tissues. […] Functionally, we modeled the multivariate effect of TP53, HPV, and other inherent variables on TMPRSS2. […] All variables had a statistically significant independent effect on TMPRSS2. […] In particular, in tumor tissues, HPV negative, TP53 mutated status and elevated TP53-dependent Myc-target genes were associated with low TMPRSS2 expression. […] The further analysis of both TCGA and our institutional HNSCC datasets identified a signature anti-correlated to TMPRSS2. […] As proof-of-principle we also validated the anti-correlation between microRNAs and TMPRSS2 expression in a SARS-CoV-2 positive HNSCC patient tissues Finally, we did not find TMPRSS2 promoter methylation. […] Collectively, these findings suggest that tumoral tissues, herein exemplified by HNSCC and lung cancers might be more resistant to SARS-CoV-2 infection due to reduced expression of TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32969768&#34; target=&#34;_blank&#34;&gt;32969768&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These cells, C2BBe1 intestinal cells with a brush border having high levels of transmembrane serine protease 2 (TMPRSS2), showed robust viral propagation, and could be persistently infected with SARS-CoV-2, supporting the clinical observations of persistent GI infection in COVID-19 patients. […] Ectopic expression of viral receptors revealed that the levels of angiotensin-converting enzyme 2 (ACE2) expression confer permissiveness to SARS-CoV-2 infection, and TMPRSS2 greatly facilitates ACE2-mediated SARS-CoV-2 dissemination. […] Interestingly, ACE2 but not TMPRSS2 expression was significantly promoted by enterocytic differentiation, suggesting that the state of enterocytic differentiation may serve as a determining factor for viral propagation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32970391&#34; target=&#34;_blank&#34;&gt;32970391&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here, the expression of five genes, known to encode coronavirus receptors/interactors (ACE2, TMPRSS2, CLEC4M, DPP4 and TMPRSS11D), was investigated in normal and cancer tissues, and their molecular relationships with clinical comorbidities were investigated. […] Their expression levels were found to be significantly altered in cancer types, including colon, kidney, liver, testis, thyroid and skin cancers (P &amp;lt; 0.0001); AUC &amp;gt; 0.80 suggests that TMPRSS2, CLEC4M and DPP4 are relevant markers of kidney, liver, and thyroid cancer, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32971472&#34; target=&#34;_blank&#34;&gt;32971472&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In the lung parenchyma, ACE2 protein was found on the apical surface of a small subset of alveolar type II cells and colocalized with TMPRSS2, a cofactor for SARS-CoV2 entry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32972339&#34; target=&#34;_blank&#34;&gt;32972339&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The priming of the spike (S) protein of the virus by proteolytic cleavage by the trans-membrane serine protease-2 (TMPRSS2) is necessary for fusion of the virus to the host cell after it binds to its receptor angiotensin converting enzyme-2 (ACE2). […] In this report, we discuss the tentative therapeutic role of inhibitors of TMPRSS2, cathepsin, trypsin, furin, plasmin, factor X and elastase in infection caused by SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32973879&#34; target=&#34;_blank&#34;&gt;32973879&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We explored and collected five published and one unpublished single-cell respiratory system tissue transcriptome datasets, including idiopathic pulmonary fibrosis (IPF), aging lungs (mouse origin data), lung cancers, and smoked branchial epithelium, for specifically reanalyzing the ACE2 and TMPRSS2 expression profiles. […] Compared to normal people, we found that smoking and lung cancer increase the risk for COVID-19 infection due to a higher expression of ACE2 and TMPRSS2 in lung cells. […] IPF patients may have a lower risk for original COVID-19 infection due to lower expression in AT2 cells but may have a higher risk for severity due to a broader expression spectrum of TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32974340&#34; target=&#34;_blank&#34;&gt;32974340&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 binding receptor ACE2 and the S protein priming protease TMPRSS2 are co-expressed by a subset of syncytiotrophoblasts (STB) in the first trimester and extravillous trophoblasts (EVT) in the second trimester human placenta. […] The ACE2- and TMPRSS2-positive (ACE2 + TMPRSS2 +) placental subsets expressed mRNA for proteins involved in viral budding and replication. […] Further, we discovered unique signatures of genes in ACE2 + TMPRSS2 + STBs and EVTs. […] The ACE2 + TMPRSS2 + STBs are highly differentiated cells and express genes involving mitochondrial metabolism and glucose transport. […] The second trimester ACE2 + TMPRSS2 + EVTs are enriched for markers of endovascular trophoblasts.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32979316&#34; target=&#34;_blank&#34;&gt;32979316&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Drug testing confirms the efficacy of remdesivir as well as TMPRSS2 protease inhibition, validating a putative mechanism used for viral entry in alveolar cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32980345&#34; target=&#34;_blank&#34;&gt;32980345&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Commonly used IBD medications, both biologic and non-biologic, do not significantly impact ACE2 and TMPRSS2 receptor expression in the uninflamed intestines.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32985199&#34; target=&#34;_blank&#34;&gt;32985199&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 has been shown to use the SARS-CoV receptor ACE2 for entry and serine protease TMPRSS2 for S protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32985513&#34; target=&#34;_blank&#34;&gt;32985513&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To facilitate the development of medical approaches and novel treatments, we compared the ACE2 receptor, and TMPRSS2 and Furin proteases usage of the SARS-CoV-2 Spike glycoprotein in human and in a panel of animal models, i.e. guinea pig, dog, cat, rat, rabbit, ferret, mouse, hamster and macaque. […] Here we showed that ACE2, but not TMPRSS2 or Furin, has a higher level of sequence variability in the Spike protein interaction surface, which greatly influences Spike protein binding mode. […] In contrast, TMPRSS2 and Furin are sufficiently similar in the considered hosts not to drive susceptibility differences. […] Since TMPRSS2 and Furin are similar across species, our data also suggest that transgenic animal models expressing human ACE2, such as the hACE2 transgenic mouse, are also likely to be useful models for studies investigating viral entry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32989429&#34; target=&#34;_blank&#34;&gt;32989429&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 cases had higher ACE2, but lower TMPRSS2, BSG/CD147, and CTSB expression compared with negative cases.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32992681&#34; target=&#34;_blank&#34;&gt;32992681&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The present study aims to investigate the microRNAs that regulate the expression of hypothalamic angiotensin-converting enzyme 2 (ACE2) and transmembrane serine protease 2 (TMPRSS2), essential elements for SARS-CoV-2 cell entry. […] To determine potential hypothalamic miRNAs that can directly bind to ACE2 and TMPRSS2, multiple target bioinformatics prediction algorithms were used, including miRBase, Target scan, and miRWalk2.029. […] Our in silico analysis has revealed that, although there are over 5000 hypothalamic miRNAs, around 31 miRNAs and 29 miRNAs have shown binding sites and strong binding capacity against ACE2 and TMPRSS2, respectively. […] These novel potential hypothalamic miRNAs can be used to identify new therapeutic targets to treat neurological symptoms in COVID-19 patients via regulation of ACE2 and TMPRSS2 expression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32992731&#34; target=&#34;_blank&#34;&gt;32992731&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Proposed mechanisms involve host cell membrane-bound angiotensin-converting enzyme 2 (ACE2), type II transmembrane serine proteases (TTSPs), such as transmembrane serine protease isoform 2 (TMPRSS2), lysosomal endopeptidase Cathepsin L (CTSL), subtilisin-like proprotein peptidase furin (FURIN), and even potentially membrane bound heparan sulfate proteoglycans. […] Here, we show that the expression levels of ACE2, TMPRSS2 and other viral entry-related genes, as well as potential downstream effector genes such as bradykinin receptors, are modulated in the target organs of select disease states. […] In tissues, such as the heart, which normally express ACE2 but minimal TMPRSS2, we found that TMPRSS2 as well as other TTSPs are elevated in individuals with comorbidities compared to healthy individuals.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32993622&#34; target=&#34;_blank&#34;&gt;32993622&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Abnormalities in the renin-angiotensin-aldosterone system (RAAS), angiotensin-converting enzyme-2 (ACE2) and the androgen-driven transmembrane serine protease 2 (TMPRSS2) have been elicited as key modulators of SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32993656&#34; target=&#34;_blank&#34;&gt;32993656&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We analyzed publicly available RNA microarray datasets for SARS-CoV-2 entry receptors and cofactors ACE2, TMPRSS2, BSG (CD147) and FURIN. […] We found that ACE2 and TMPRSS2 are upregulated in the airways of smokers. […] In asthmatics, ACE2 tended to be downregulated in nasal epithelium, and TMPRSS2 was upregulated in the bronchi. […] Furthermore, respiratory epithelia were negative for ACE-2 and TMPRSS2 protein expression while positive for BSG and furin, suggesting a possible alternative entry route for SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32994064&#34; target=&#34;_blank&#34;&gt;32994064&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Artificial intelligence can have an important role in analysing such data to identify populations at higher risk of COVID-19-related urological pathologies and to suggest treatments that block viral entry into cells by interrupting the angiotensin-converting enzyme 2-transmembrane serine protease 2 (ACE2-TMPRSS2) pathway.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32994673&#34; target=&#34;_blank&#34;&gt;32994673&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+S consists of two subunits, S1 and S2, which are cleaved by the widely expressed transmembrane protease serine 2 (TMPRSS2) before the virus fuses to the plasma membrane and infects the cell. […] Current trends show that variant alleles resulting from single nucleotide polymorphisms (SNPs) of ACE2, and genetic variants of TMPRSS2, with putative distinct affinities for S clip, may determine a complex multi-factorial spectrum of SARS-CoV2 virulence across patients, and predict CoViD-19 susceptibility.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33007239&#34; target=&#34;_blank&#34;&gt;33007239&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Cleavage and the syncytium are abolished by treatment with the furin inhibitors decanoyl-RVKR-chloromethylketone (CMK) and naphthofluorescein, but not by the transmembrane protease serine 2 (TMPRSS2) inhibitor camostat.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33008593&#34; target=&#34;_blank&#34;&gt;33008593&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We determined the expression levels of receptor ACE2 and CD147, and serine protease TMPRSS2 in human and mouse brain cell lines and mouse different region of brain tissues with qRT-PCR and Western blot. […] ACE2 is lower but CD147 is higher expressed in mostly brain cell lines and mouse brain tissues comparing with lung cell line and tissue, and TMPRSS2 has consistent expression in brain cell lines and mouse lung tissues.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33013423&#34; target=&#34;_blank&#34;&gt;33013423&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Lung immunoblot analysis of smokers, COPD and IPF subjects revealed increased abundance of proteases and receptor/spike protein like TMPRSS2, furin, and DPP4 in association with a slight increase in severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) receptor ACE2 levels. […] Overall, these findings suggest that altered transcription of target genes that regulate mitochondrial function, cellular senescence, and telomere attrition in the pathobiology of lung aging in COPD and IPF is associated with alterations in SARS-CoV-2 ACE2-TMPRSS2-Furin-DPP4 axis as pharmacological targets for COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33015550&#34; target=&#34;_blank&#34;&gt;33015550&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, transmembrane serine protease 2 (TMPRSS2) and furin facilitate virus entry into the host.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33020502&#34; target=&#34;_blank&#34;&gt;33020502&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+To enter host cells, the viral spike protein (S-protein) binds to its receptor, ACE2, and is then processed by TMPRSS2. […] We predict that mutations are more detrimental in ACE2 than TMPRSS2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33024851&#34; target=&#34;_blank&#34;&gt;33024851&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We collect the nasopharyngeal and oropharyngeal swabs of 63 subjects with severe symptoms or contacts with COVID-19 confirmed cases to perform a pilot-study aimed to verify the “in situ” expression of SARS-CoV-2 host invasion genes (ACE2, TMPRSS2, PCSK3, EMILIN1, EMILIN2, MMRN1, MMRN2, DPP4).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33029419&#34; target=&#34;_blank&#34;&gt;33029419&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+ACE2: Angiotensin-converting enzyme 2; COVID-19: coronavirus disease 2019; CRP: C-reactive protein; ESR: erythrocyte sedimentation rate; HIV: human immunodeficiency virus; IRB, Institutional Review Board; ISH, in situ hybridisation; RT-PCR: reverse transcriptase-PCR; SARS-CoV-2, severe acute respiratory syndrome coronavirus-2; TMPRSS2: transmembrane protease, serine 2; WBC: white blood cell.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33029570&#34; target=&#34;_blank&#34;&gt;33029570&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Entry of SARS-CoV-2, etiological agent of COVID-19, in the host cell is driven by the interaction of its spike protein with human ACE2 receptor and a serine protease, TMPRSS2. […] Although complex between SARS-CoV-2 spike protein and ACE2 has been structurally resolved, the molecular details of the SARS-CoV-2 and TMPRSS2 complex are still elusive. […] TMPRSS2 is responsible for priming of the viral spike protein that entails cleavage of the spike protein at two potential sites, Arg685/Ser686 and Arg815/Ser816. […] The present study aims to investigate the conformational attributes of the molecular complex between TMPRSS2 and SARS-CoV-2 spike protein, in order to discern the finer details of the priming of viral spike protein. […] Briefly, full length structural model of TMPRSS2 was developed and docked against the resolved structure of SARS-CoV-2 spike protein with directional restraints of both cleavage sites. […] The docking simulations showed that TMPRSS2 interacts with the two different loops of SARS-CoV-2 spike protein, each containing different cleavage sites. […] Key functional residues of TMPRSS2 (His296, Ser441 and Ser460) were found to interact with immediate flanking residues of cleavage sites of SARS-CoV-2 spike protein. […] Compared to the N-terminal cleavage site (Arg685/Ser686), TMPRSS2 region that interact with C-terminal cleavage site (Arg815/Ser816) of the SARS-CoV-2 spike protein was predicted as relatively more druggable. […] In summary, the present study provides structural characteristics of molecular complex between human TMPRSS2 and SARS-CoV-2 spike protein and points to the candidate drug targets that could further be exploited to direct structure base drug designing.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33031797&#34; target=&#34;_blank&#34;&gt;33031797&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to bulk RNA and single cell RNA sequencing analysis, we found that high expression of both angiotensin converting enzyme 2 (ACE2) and transmembrane Serine Protease 2 (TMPRSS2) makes the lung and intestine vulnerable to SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33032170&#34; target=&#34;_blank&#34;&gt;33032170&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+For ACE2 mediated cell entry of the SARS-CoV-2, co-expression of one more protein-Transmembrane protease serine 2 (TMPRSS2) is essential. […] Existing studies suggested significant expression of ACE2 and TMPRSS2 in human vascular endothelium.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33035337&#34; target=&#34;_blank&#34;&gt;33035337&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 uses human angiotensin-converting enzyme 2 (ACE2) for viral entry and transmembrane serine protease family member II (TMPRSS2) for spike protein priming.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33042335&#34; target=&#34;_blank&#34;&gt;33042335&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+One of the known regulators of endocytosis is the serine protease (TMPRSS2) and AP2-associated protein kinase 1 (AAK1), which also facilitates the passage of viruses into cells. […] Furthermore, the Database of Gene expression profiling interactive analysis suggests that expression levels for ACE2, TMPRSS2, and AAK1 are positively correlated in colon cells.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33042994&#34; target=&#34;_blank&#34;&gt;33042994&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Following the binding of the S1 receptor-binding domain (RBD) to ACE2, transmembrane protease/serine subfamily 2 (TMPRSS2) cleaves the S2 domain to facilitate membrane fusion.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33043253&#34; target=&#34;_blank&#34;&gt;33043253&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+This work makes an assessment of wildlife susceptibility to SARS-CoV-2 by analyzing the similarities of Angiotensin Converting Enzyme 2 (ACE2) and Transmembrane Protease, Serine 2 (TMPRSS2) -both recognized as receptors and protease for coronavirus spike protein- and the genetic variation of the viral protein spike in the recognition sites. […] Comparisons of aligned sequences were made by selecting amino acids residues of ACE2, TMPRSS2 and S protein; phylogenetic trees were reconstructed using the same sequences.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33046696&#34; target=&#34;_blank&#34;&gt;33046696&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Coronavirus disease 2019 (COVID-19) is caused by SARS-CoV-2, an emerging virus that utilizes host proteins ACE2 and TMPRSS2 as entry factors. […] We identify expression quantitative trait loci for both ACE2 and TMPRSS2, that vary in frequency across world populations. […] We find TMPRSS2 is part of a mucus secretory network, highly upregulated by type 2 (T2) inflammation through the action of interleukin-13, and that the interferon response to respiratory viruses highly upregulates ACE2 expression.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33049061&#34; target=&#34;_blank&#34;&gt;33049061&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The co-expression network was constructed by mapping the well-known angiotensin converting enzyme (ACE2), TMPRSS2, and host susceptibility genes implicated in COVID-19 genomewide association study (GWAS) onto a cornea, retinal pigment epithelium, and lung.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33049583&#34; target=&#34;_blank&#34;&gt;33049583&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Then, the spike protein of SARS-CoV-2 can be cleaved and activated by transmembrane protease, serine 2 (TMPRSS2) of the host cells for SARS-CoV-2 infection. […] Therefore, ACE2 and TMPRSS2 are potential antiviral targets for treatment of prevention of SARS-CoV-2 infection. […] In this study, we discovered that 10-250 μg/mL of GB-2, from Tian Shang Sheng Mu of Chiayi Puzi Peitian Temple, can inhibit ACE2 mRNA expression and ACE2 and TMPRSS2 protein expression in HepG2 and 293 T cells without cytotoxicity. […] GB-2 treatment could decrease ACE2 and TMPRSS2 expression level of lung tissue and kidney tissue without adverse effects, including nephrotoxicity and hepatotoxicity, in animal model. […] In the compositions of GB-2, we discovered that 50 μg/mL of theaflavin could inhibit protein expression of ACE2 and TMPRSS2. […] In conclusion, our results suggest that GB-2 and theaflavin could act as potential compounds for ACE2 and TMPRSS2 inhibitors in the further clinical study.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

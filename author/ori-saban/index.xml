@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ori Saban | PlatCOVID</title>
+    <link>/author/ori-saban/</link>
+      <atom:link href="/author/ori-saban/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ori Saban</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Ori Saban</title>
+      <link>/author/ori-saban/</link>
+    </image>
+    
+    <item>
+      <title>Risk of SARS-CoV-2 transmission to medical staff and patients from an exposure to a COVID-19-positive ophthalmologist.</title>
+      <link>/publication/32567041/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32567041/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

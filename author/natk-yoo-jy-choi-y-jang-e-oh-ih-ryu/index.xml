@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NATK Yoo, JY Choi, Y Jang, E Oh, IH Ryu | PlatCOVID</title>
+    <link>/author/natk-yoo-jy-choi-y-jang-e-oh-ih-ryu/</link>
+      <atom:link href="/author/natk-yoo-jy-choi-y-jang-e-oh-ih-ryu/index.xml" rel="self" type="application/rss+xml" />
+    <description>NATK Yoo, JY Choi, Y Jang, E Oh, IH Ryu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NATK Yoo, JY Choi, Y Jang, E Oh, IH Ryu</title>
+      <link>/author/natk-yoo-jy-choi-y-jang-e-oh-ih-ryu/</link>
+    </image>
+    
+    <item>
+      <title>Toward automated severe pharyngitis detection with smartphone camera using deep learning networks.</title>
+      <link>/publication/32871294/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32871294/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Madeleine F Jennewein | PlatCOVID</title>
+    <link>/author/madeleine-f-jennewein/</link>
+      <atom:link href="/author/madeleine-f-jennewein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Madeleine F Jennewein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Madeleine F Jennewein</title>
+      <link>/author/madeleine-f-jennewein/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of a SARS-CoV-2-Infected Individual Reveals Development of Potent Neutralizing Antibodies with Limited Somatic Mutation.</title>
+      <link>/publication/32561270/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32561270/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

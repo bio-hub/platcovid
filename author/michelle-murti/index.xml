@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michelle Murti | PlatCOVID</title>
+    <link>/author/michelle-murti/</link>
+      <atom:link href="/author/michelle-murti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michelle Murti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Michelle Murti</title>
+      <link>/author/michelle-murti/</link>
+    </image>
+    
+    <item>
+      <title>Surveillance of persons-who tested negative for COVID-19 in Ontario, January 22-February 22, 2020.</title>
+      <link>/publication/32558821/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32558821/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

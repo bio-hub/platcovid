@@ -33,7 +33,7 @@ Synonymous :nelfinavir
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;nelfinavir&lt;/em&gt; gene in 8 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;nelfinavir&lt;/em&gt; gene in 20 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -109,6 +109,102 @@ We also screened 136 safe-in-man broad-spectrum antivirals against the SARS-CoV-
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 A recent in silico study has shown that the fluoroquinolones, ciprofloxacin and moxifloxacin, may inhibit SARS-CoV-2 replication by exhibiting stronger capacity for binding to its main protease than chloroquine and nelfinavir, a protease inhibitor antiretroviral drug.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32698693&#34; target=&#34;_blank&#34;&gt;32698693&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among them are nelfinavir, tipranavir and licochalcone-D, which has shown better binding characteristics with both the proteases compared to lopinavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32705942&#34; target=&#34;_blank&#34;&gt;32705942&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Amongst these drugs, Ritonavir has been used in clinical trials with patients affected by COVID-19 and Nelfinavir showed anti-SARS-CoV-2 activity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32720578&#34; target=&#34;_blank&#34;&gt;32720578&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Compound A38 has the highest G-score (-7.83) when compared to all the standard compounds which are proposed for COVID-19 treatment such as ritonavir (-7.48), lopinavir (-6.94), nelfinavir (-5.93), hydroxychloroquine (-5.47) and mataquine (-5.37).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32737681&#34; target=&#34;_blank&#34;&gt;32737681&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From the screening of approved drug library, three antiviral agents ritonavir, nelfinavir and saquinavir were predicted to be the most potent Mpro inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32752938&#34; target=&#34;_blank&#34;&gt;32752938&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Tetracycline, dihydroergotamine, ergotamine, dutasteride, nelfinavir, and paliperidone formed stable interactions with 3CLpro based on MD simulation results.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32820005&#34; target=&#34;_blank&#34;&gt;32820005&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+No significant anti-SARS-CoV-2 activity was found for several compounds reportedly active against SARS-CoV-2 such as lopinavir, nelfinavir, nitazoxanide, favipiravir, and hydroxychroloquine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32863430&#34; target=&#34;_blank&#34;&gt;32863430&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The in silico data demonstrated that, despite their molecular differences, all HPIs presented a similar behavior for the parameters analyzed, with the exception of Nelfinavir that showed better results for most of the molecular dynamics parameters in comparison with the N3 inhibitor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32948420&#34; target=&#34;_blank&#34;&gt;32948420&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our obtained results has uncovered khainaoside C, 6-O-Caffeoylarbutin, khainaoside B, khainaoside C and vitexfolin A as potent modulators of COVID-19 possessing more binding energies than nelfinavir against COVID-19 Mpro, Nsp15, SARS-CoV-2 spike S2 subunit, spike open state and closed state structure respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33015628&#34; target=&#34;_blank&#34;&gt;33015628&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Classification of eight drug molecules (atazanavir, darunavir, fosamprenavir (amprenavir-metabolised product), saquinavir, lopinavir, ritonavir, nelfinavir, and indinavir) based on their molecular structures was completed and reported. […] The binding scores of the drugs on protease followed the order saquinavir &amp;gt; nelfinavir &amp;gt; lopinavir = indinavir &amp;gt; darunavir &amp;gt; amprenavir &amp;gt; ritonavir &amp;gt; atazanavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33022567&#34; target=&#34;_blank&#34;&gt;33022567&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We report these two compounds (ZINC000621278586 and ZINC000621285995) as potent SARS-CoV-2 Mpro inhibitors with high affinity (
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33036293&#34; target=&#34;_blank&#34;&gt;33036293&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The average binding affinities of the compounds 3a, 3b, and 3c (-8.1 ± 0.33 kcal/mol, -8.0 ± 0.35 kcal/mol, and -8.2 ± 0.21 kcal/mol, respectively) are better than that of the positive control Nelfinavir (-6.9 ± 0.51 kcal/mol).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33046764&#34; target=&#34;_blank&#34;&gt;33046764&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Seven HIV inhibitors, darunavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, and tipranavir, were used as the potential lead drugs to investigate access to the drug binding sites in Mpro.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

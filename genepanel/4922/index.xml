@@ -360,7 +360,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of NTS gene in 2 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of NTS gene in 5 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -388,6 +388,30 @@ We enrolled quarantined people with RT-PCR-confirmed SARS-CoV-2 infection, colle
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Combining the advantages of targeted amplification and long-read, real-time nanopore sequencing, herein, nanopore targeted sequencing (NTS) is developed to detect SARS-CoV-2 and other respiratory viruses simultaneously within 6-10 h, with a limit of detection of ten standard plasmid copies per reaction. […] Compared with its specificity for five common respiratory viruses, the specificity of NTS for SARS-CoV-2 reaches 100%. […] Parallel testing with approved real-time reverse transcription-polymerase chain reaction kits for SARS-CoV-2 and NTS using 61 nucleic acid samples from suspected COVID-19 cases show that NTS identifies more infected patients (22/61) as positive, while also effectively monitoring for mutated nucleic acid sequences, categorizing types of SARS-CoV-2, and detecting other respiratory viruses in the test sample. […] NTS is thus suitable for COVID-19 diagnosis; moreover, this platform can be further extended for diagnosing other viruses and pathogens.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32605374&#34; target=&#34;_blank&#34;&gt;32605374&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+We are proposing a new hypothesis that SARS-CoV-2 mediated inflammation of nucleus tractus solitarius (NTS) may be responsible for the cytokine storm in COVID 19. […] The inflamed NTS may result in a dysregulated cholinergic anti-inflammatory pathway and hypothalamic-pituitary-adrenal axis.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32614178&#34; target=&#34;_blank&#34;&gt;32614178&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 mediated inflammation of the nucleus tractus solitarius (NTS) may play a role in the acute exacerbation of pulmonary edema and microvascular clotting in COVID-19 patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32910175&#34; target=&#34;_blank&#34;&gt;32910175&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, not all recovered patients develop adequate antibody titers for donation and the relationship between avidity and neutralizing titers is currently not well understood. […] SARS-CoV-2 anti-spike and anti-nucleocapsid IgG titers and avidity were measured in a longitudinal cohort of COVID-19 hospitalized patients (n=16 individuals) and a cross-sectional sample of convalescent plasma donors (n=130). […] Higher NTs had a stronger positive correlation with anti-spike IgG avidity (spearman’s rho=0.386;p&amp;amp;0.001), than with anti-nucleocapsid IgG avidity (spearman’s rho=0.211;p=0.026).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

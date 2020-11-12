@@ -33,7 +33,7 @@ Synonymous : &lt;em&gt;None&lt;/em&gt;
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;guanine&lt;/em&gt; gene in 7 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;guanine&lt;/em&gt; gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -101,6 +101,54 @@ In the present contribution we study, by all-atom equilibrium and enhanced sampl
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 One of the attractive drug targets is guanine-N7 methyltransferase which plays the main role in capping the 5’-ends of viral genomic RNA and sub genomic RNAs, to escape the host’s innate immunity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32679620&#34; target=&#34;_blank&#34;&gt;32679620&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Presenting antigens on synthetic Biotin-PA nanofibers generated a higher immune response than the free antigens delivered with a cytosine-phosphate-guanine oligodeoxynucleotides (CpG ODN) (TLR9 agonist) adjuvant.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32730589&#34; target=&#34;_blank&#34;&gt;32730589&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Additionally, we show a new pattern of relative absent words (RAWs), characterized by the progressive increase of GC content (Guanine and Cytosine) according to the decrease of RAWs length, contrarily to the virus and host genome distributions.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32791468&#34; target=&#34;_blank&#34;&gt;32791468&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+G-quadruplex is a non-canonical nucleic acid structure formed by the folding of guanine rich DNA or RNA.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32845720&#34; target=&#34;_blank&#34;&gt;32845720&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The tight control of Rho GTPase function by Guanine nucleotide Exchange Factors (GEFs) and GTPase Activating Proteins (GAPs) strongly suggests that localized control of these Rho regulators may contribute to TNT assembly and disassembly.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32923004&#34; target=&#34;_blank&#34;&gt;32923004&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+SARS-CoV-2 nonstructural protein 14 (NSP14) carrying RNA cap guanine N7-methyltransferase and 3’-5’ exoribonuclease activities could be a potential drug target for intervention.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32938769&#34; target=&#34;_blank&#34;&gt;32938769&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The bifunctional nsp14 contains 3’-to-5’ exoribonuclease (ExoN) and guanine-N7-methyltransferase (N7-MTase) domains. […] Our study strongly suggests CoV nsp14 ExoN to have an additional function, which apparently is critical for primary viral RNA synthesis and thus differs from the proofreading function that - based on previous MHV and SARS-CoV studies - was proposed to boost longer-term replication fidelity.IMPORTANCE The bifunctional nsp14 subunit of the coronavirus replicase contains 3’-to-5’ exoribonuclease (ExoN) and guanine-N7-methyltransferase domains.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -33,7 +33,7 @@ Synonymous :1,3-dimethyl-7h-purine-2,6-dione | 1,3-dimethylxanthine | teofilina 
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;theophylline&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;theophylline&lt;/em&gt; gene in 8 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,22 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 ZINC00003118440 is a theophylline derivative under the drug class ‘bronchodilEtors’ and further screening with approved bronchodilators was also studied to identify their ability to bind to the RNA binding region on the N protein. […] Hence this study suggests two important class of compounds, theophylline and pyrimidone derivaties as possible inhibitors of RNA binding to the N terminal domain of N protein of coronavirus, thus opening new avenues for in vitro validations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32729392&#34; target=&#34;_blank&#34;&gt;32729392&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Molecular docking on 40 derivatives of standard drugs (Remdesivir, Lopinavir and Theophylline) led to the identification of R10, R2 and L9 as potential inhibitors of 3CLpro, PLpro and Spike protein, respectively. […] Moreover, physicochemical and ADMET properties of R10, R2 and L9 along with Remdesivir, Lopinavir and Theophylline were determined.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33043128&#34; target=&#34;_blank&#34;&gt;33043128&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Ion-pairing a lifesaving drug such as theophylline with a targeting moiety could have a significant impact on medical emergencies such as status asthmaticus or COVID-19 induced pneumomediastinum. […] This study aims to investigate if inserting theophylline, when ion-paired to the polyamine transporter substrate spermine, into a cyclodextrin (CD), to form a triplex, could direct the bronchodilator to the lungs selectively after intravenous administration. […] In vivo, the triplex produces a 2.4-fold and 2.2-fold increase in theophylline in the lungs 20 min after injection in rats and mice, respectively (p &amp;lt; 0.05). […] The lung targeting is selective with no increase in uptake into the brain or the heart where the side-effects of theophylline are treatment-limiting. […] Selectively doubling the concentration of theophylline in the lungs could improve the benefit-risk ratio of this narrow therapeutic index medicine, which continues to be important in critical care.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -33,7 +33,7 @@ Synonymous :simeprevir
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;simeprevir&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;simeprevir&lt;/em&gt; gene in 20 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,94 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Moreover, paritaprevir and simeprevir from FDA-approved protease inhibitors were identified as potential inhibitors of SARS-CoV-2 3CLpro. […] Importantly, the identified FDA-approved anti-hepatitis-C virus (HCV) drugs paritaprevir and simeprevir could be ready for clinical trials to treat infected patients and help curb COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32640381&#34; target=&#34;_blank&#34;&gt;32640381&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Caffeic acid and ferulic acid were found to inhibit SARS-CoV-2 membrane protein while the anti-viral agent’s simeprevir and grazoprevir showed a high binding affinity for nucleocapsid protein.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32686993&#34; target=&#34;_blank&#34;&gt;32686993&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among the predicted drugs compounds, clemizole, monorden, spironolactone and tanespimycin showed high binding energies; among the studied repurposing compounds, remdesivir, simeprevir and valinomycin showed high binding energies; among the predicted acidic compounds, acetylursolic acid and hardwickiic acid gave high binding energies; while among the studied anthraquinones and glycosides compounds, ellagitannin and friedelanone showed high binding energies against 3-Chymotrypsin-like protease (3CLpro), Papain-like protease (PLpro), helicase (nsp13), RNA-dependent RNA polymerase (nsp12), 2’-O-ribose methyltransferase (nsp16) of SARS-CoV-2 and DNA-PK and CK2alpha in human.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32692306&#34; target=&#34;_blank&#34;&gt;32692306&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several promising approved drugs, including Simeprevir, Ergotamine, Bromocriptine and Tadalafil, stand out as the best candidates based on their binding energy, fitting score and noncovalent interactions at the binding sites of the receptor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32720571&#34; target=&#34;_blank&#34;&gt;32720571&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Among 76 prescription antiviral drugs, four drugs (Raltegravir, Simeprevir, Cobicistat, and Daclatasvir) that are previously used for human immunodeficiency virus (HIV), hepatitis C virus (HCV), Ebola, and Marburg virus show higher binding energy and strong interaction with active sites of the receptor proteins.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32777300&#34; target=&#34;_blank&#34;&gt;32777300&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The result indicates that simeprevir (Hepatitis C virus NS3/4A protease inhibitor) and pyronaridine (antimalarial agent) could fit well to the binding pocket of the main protease and because of some other beneficial features including broad-spectrum antiviral properties and ADME profile, they might be a promising drug candidate for repurposing to the treatment of COVID-19. […] Simeprevir and pyronaridine were selected by the combination of virtual screening and molecular dynamics simulation approaches as a potential candidate for treatment of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32807895&#34; target=&#34;_blank&#34;&gt;32807895&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our data showed that Simeprevir and Lumacaftor bind the receptor-binding domain of the Spike protein with high affinity and prevent ACE2 interaction.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32837118&#34; target=&#34;_blank&#34;&gt;32837118&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Some drugs such as lopinavir, simeprevir, hydroxychloroquine, chloroquine, and amprenavir have been recommended for COVID-19 treatment by some researchers, but these drugs were not effective enough against this virus. […] Also, molecular dynamics (MD) simulation indicates that binding of the combination therapy of simeprevir and the candidate studied compounds to the receptors was stable and had no major effect on the flexibility of the protein throughout the simulations and provided a suitable basis for our study. […] So, this study suggested that caulerpin and its derivatives could be used as a combination therapy along with lopinavir, simeprevir, hydroxychloroquine, chloroquine, and amprenavir for disrupting the stability of SARS-CoV2 receptor proteins to increase the antiviral activity of these drugs.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32837954&#34; target=&#34;_blank&#34;&gt;32837954&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+According to the results, glecaprevir, paritaprevir, simeprevir, ledipasvir, glycyrrhizic acid, TMC-310911, and hesperidin showed highly favorably free binding energies with all tested target proteins.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32873185&#34; target=&#34;_blank&#34;&gt;32873185&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Approved drugs viz, Cobicistat, Larotrectinib and Simeprevir were identified as potential candidates for repurposing. […] In order to analyse the stability of the binding interactions, the known cysteine protease inhibitors viz, Simeprevir, calpain inhibitor IV and the cathepsin F inhibitor in complex Mpro were subjected to molecular dynamics simulations at 100 ns. […] Based on the results Simeprevir was found to be a strong inhibitor of SARS-CoV-2 Mpro.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32875166&#34; target=&#34;_blank&#34;&gt;32875166&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Simeprevir (SMV), Paritaprevir (PTV) and Grazoprevir (GZR) were the common leads identified which show higher binding affinity to both nsp13 helicase and nsp14 as compared to the control inhibitors and therefore, they might be potential dual-target inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32885740&#34; target=&#34;_blank&#34;&gt;32885740&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two candidate drugs, Simeprevir and Paritaprevir, achieved the lowest binding free energies for NSP15, with a value of -259.522 ± 17.579 and -154.051 ± 33.628 kJ/mol, respectively. […] Taken together, we propose that Simeprevir and Paritaprevir are promising drug candidates to inhibit NSP15 and may act as potential therapeutic agents against SARS-CoV-2.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

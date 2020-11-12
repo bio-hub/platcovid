@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/5266&#34; target=&#34;_blank&#34;&gt;5266&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=5266&#34; target=&#34;_blank&#34;&gt; 20q13.12&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/176705&#39; target=&#39;_blank&#39;&gt;176705&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/114480&#39; target=&#39;_blank&#39;&gt;114480&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/610704&#39; target=&#39;_blank&#39;&gt;610704&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -542,7 +542,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of PI3 gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of PI3 gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -562,6 +562,14 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Total 219 core target proteins were predicted, such as NFKB1, STAT1, RAF1, IL2, JAK1, IL6, TNF, BCL2 and other important targets, and 221 core target pathways were enriched, including cancer pathway, Kaposi’s sarcoma-associated herpes virus infection, chemokine signal pathway, PI3 K-AKT signal pathway, EB virus infection, virus carcinogenesis and T cell receptor signaling pathways, a collection of which were highly related to cytokine storms.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33026649&#34; target=&#34;_blank&#34;&gt;33026649&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+They includes small molecules targeting the ULK1/Atg1 complex involved in the induction stage of autophagy (ULK1 inhibitor SBI0206965), the ATG14/Beclin1/VPS34 complex involved in the nucleation step of autophagy (class III PI3-kinase inhibitor VPS34-IN1), plus a widely-used autophagy inhibitor that persistently inhibiting class I and temporary inhibiting class III PI3-kinase (3-MA) and a clinically approved autophagy inhibitor that suppresses autophagy by inhibiting lysosomal acidification and prevents the formation of autophagolysosome (HCQ). […] We showed that inhibition of the class III PI3-kinase involved in the initiation step of both canonical and non-canonical autophagy potently suppressed SARS-CoV-2 at nano-molar level. […] Taken together, class III PI3-kinase may be a possible target for COVID-19 therapeutics development.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

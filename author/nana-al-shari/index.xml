@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NANA Al-Shar&#39;i | PlatCOVID</title>
+    <link>/author/nana-al-shari/</link>
+      <atom:link href="/author/nana-al-shari/index.xml" rel="self" type="application/rss+xml" />
+    <description>NANA Al-Shar&#39;i</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NANA Al-Shar&#39;i</title>
+      <link>/author/nana-al-shari/</link>
+    </image>
+    
+    <item>
+      <title>Tackling COVID-19: identification of potential main protease inhibitors via structural analysis, virtual screening, molecular docking and MM-PBSA calculations.</title>
+      <link>/publication/32734828/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32734828/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laurent Goix | PlatCOVID</title>
+    <link>/author/laurent-goix/</link>
+      <atom:link href="/author/laurent-goix/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laurent Goix</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Laurent Goix</title>
+      <link>/author/laurent-goix/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 epidemic in the Seine-Saint-Denis Department of Greater Paris: one month and three waves for a tsunami.</title>
+      <link>/publication/32516161/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32516161/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical features of 1487 COVID-19 patients with outpatient management in the Greater Paris: the COVID-call study.</title>
+      <link>/publication/32474850/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32474850/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

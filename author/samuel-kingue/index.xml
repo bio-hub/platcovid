@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel Kingue | PlatCOVID</title>
+    <link>/author/samuel-kingue/</link>
+      <atom:link href="/author/samuel-kingue/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samuel Kingue</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Samuel Kingue</title>
+      <link>/author/samuel-kingue/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 pandemic: do we need systematic screening of patients with cardiovascular risk factors in Low and Middle-Income Countries (LMICs) for preventing death?</title>
+      <link>/publication/32528622/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32528622/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thromboembolic risks in patients with COVID-19: major concern to consider in our management.</title>
+      <link>/publication/32528621/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32528621/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

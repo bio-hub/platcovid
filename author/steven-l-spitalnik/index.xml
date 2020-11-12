@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steven L Spitalnik | PlatCOVID</title>
+    <link>/author/steven-l-spitalnik/</link>
+      <atom:link href="/author/steven-l-spitalnik/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steven L Spitalnik</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Steven L Spitalnik</title>
+      <link>/author/steven-l-spitalnik/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the efficacy and safety of human anti-SARS-CoV-2 convalescent plasma in severely ill adults with COVID-19: A structured summary of a study protocol for a randomized controlled trial.</title>
+      <link>/publication/32513308/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32513308/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 infection alters kynurenine and fatty acid metabolism, correlating with IL-6 levels and renal status.</title>
+      <link>/publication/32559180/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32559180/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical use of Convalescent Plasma in the COVID-19 pandemic; a transfusion-focussed gap analysis with recommendations for future research priorities.</title>
+      <link>/publication/32542847/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32542847/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guidance for the Procurement of COVID-19 Convalescent Plasma: Differences between High and Low-Middle Income Countries.</title>
+      <link>/publication/32533868/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32533868/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAZ Feng, M Chen, T Liang, M Shen, H Chen, XQ Xie | PlatCOVID</title>
+    <link>/author/naz-feng-m-chen-t-liang-m-shen-h-chen-xq-xie/</link>
+      <atom:link href="/author/naz-feng-m-chen-t-liang-m-shen-h-chen-xq-xie/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAZ Feng, M Chen, T Liang, M Shen, H Chen, XQ Xie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAZ Feng, M Chen, T Liang, M Shen, H Chen, XQ Xie</title>
+      <link>/author/naz-feng-m-chen-t-liang-m-shen-h-chen-xq-xie/</link>
+    </image>
+    
+    <item>
+      <title>Virus-CKB: an integrated bioinformatics platform and analysis resource for COVID-19 research.</title>
+      <link>/publication/32715315/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32715315/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

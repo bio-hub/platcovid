@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/5199&#34; target=&#34;_blank&#34;&gt;5199&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=5199&#34; target=&#34;_blank&#34;&gt; Xp11.23&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/312060&#39; target=&#39;_blank&#39;&gt;312060&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/300383&#39; target=&#39;_blank&#39;&gt;300383&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/618358&#39; target=&#39;_blank&#39;&gt;618358&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/609689&#39; target=&#39;_blank&#39;&gt;609689&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -388,7 +388,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CFP gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of CFP gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -408,6 +408,14 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The proportion of deaths (case fatality proportion [CFP]; number of deaths/ total number of cases) is commonly used to estimate the severity of a disease. […] If the CFP is used for purposes of comparison, the existence of heterogeneity in the detection and registration of cases and deaths has to be taken into account. […] In the early phase of an epidemic, when case numbers rise rapidly, the CFP suffers from bias. […] For these reasons, variants have been proposed: the “confirmed CFP” (number of deaths/total number of confirmed cases), and the “delay-adjusted CFP,” which considers the delay between infection with the disease and death from the disease. […] Age-adjusted analysis of the CFP shows that the differences between countries decrease but do not dis - appear completely.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32894685&#34; target=&#34;_blank&#34;&gt;32894685&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Trusted organizations such as the Cornell Farmworker Program (CFP) mobilized to provide information, PPE, and other needed supports during the coronavirus pandemic.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ícaro Raony | PlatCOVID</title>
+    <link>/author/icaro-raony/</link>
+      <atom:link href="/author/icaro-raony/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ícaro Raony</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Ícaro Raony</title>
+      <link>/author/icaro-raony/</link>
+    </image>
+    
+    <item>
+      <title>Psycho-Neuroendocrine-Immune Interactions in COVID-19: Potential Impacts on Mental Health.</title>
+      <link>/publication/32574266/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32574266/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

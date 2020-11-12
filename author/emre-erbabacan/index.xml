@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emre Erbabacan | PlatCOVID</title>
+    <link>/author/emre-erbabacan/</link>
+      <atom:link href="/author/emre-erbabacan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emre Erbabacan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Emre Erbabacan</title>
+      <link>/author/emre-erbabacan/</link>
+    </image>
+    
+    <item>
+      <title>Perioperative Anaesthetic Management of Confirmed or Suspected COVID-19 Patients.</title>
+      <link>/publication/32551444/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32551444/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

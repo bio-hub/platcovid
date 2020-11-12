@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chien-Te Tseng | PlatCOVID</title>
+    <link>/author/chien-te-tseng/</link>
+      <atom:link href="/author/chien-te-tseng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chien-Te Tseng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Chien-Te Tseng</title>
+      <link>/author/chien-te-tseng/</link>
+    </image>
+    
+    <item>
+      <title>Potent neutralization of SARS-CoV-2 by human antibody heavy-chain variable domains isolated from a large library with a new stable scaffold.</title>
+      <link>/publication/32544372/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32544372/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

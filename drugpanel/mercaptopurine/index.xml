@@ -33,7 +33,7 @@ Synonymous :6 mp | 6-mercaptopurine | 6-mp | 6-thiohypoxanthine | 6-thioxopurine
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;mercaptopurine&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;mercaptopurine&lt;/em&gt; gene in 1 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,22 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Using network proximity analyses of drug targets and HCoV-host interactions in the human interactome, we prioritize 16 potential anti-HCoV repurposable drugs (e.g., melatonin, mercaptopurine, and sirolimus) that are further validated by enrichment analyses of drug-gene signatures and HCoV-induced transcriptomics data in human cell lines. […] We further identify three potential drug combinations (e.g., sirolimus plus dactinomycin, mercaptopurine plus melatonin, and toremifene plus emodin) captured by the “&lt;i&gt;Complementary Exposure&lt;/i&gt;” pattern: the targets of the drugs both hit the HCoV-host subnetwork, but target separate neighborhoods in the human interactome network.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32597315&#34; target=&#34;_blank&#34;&gt;32597315&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The binding patterns of these drugs were superior to the previously identified SARS CoV PLpro inhibitor, 6-mercaptopurine (6-MP), suggesting a potential for repurposing these drugs to treat COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32850963&#34; target=&#34;_blank&#34;&gt;32850963&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The other ligand, chemotherapy drug 6-mercaptopurine (6MP), showed little to no stable intermolecular interaction with PLpro and quickly dissociated or remained highly mobile.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

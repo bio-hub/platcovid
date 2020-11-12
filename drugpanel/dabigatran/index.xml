@@ -33,7 +33,7 @@ Synonymous :dabigatran
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;dabigatran&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;dabigatran&lt;/em&gt; gene in 3 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,14 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Plasma samples for DOAC measurement were collected 2to 4 days after starting antiviral treatment, at 12 hours from the last dose intake in patients on dabigatran and apixaban, and at 24 hours in those on rivaroxaban and edoxaban.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33014097&#34; target=&#34;_blank&#34;&gt;33014097&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Not all anticoagulants have the same risk of hepatotoxicity; dabigatran has shown a good efficacy and safety profile and could have a lower risk of hepatotoxicity. […] Therefore, dabigatran may be considered as a first-line choice for oral anticoagulation at discharge after COVID-19 infection.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -33,7 +33,7 @@ Synonymous :celecoxib | célécoxib | celecoxibum | p-(5-p-tolyl-3-(trifluoromet
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;celecoxib&lt;/em&gt; gene in 2 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;celecoxib&lt;/em&gt; gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,30 @@ Among them, 8 drugs (bedaquiline, brequinar, celecoxib, clofazimine, conivaptan,
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Seven possible SARS-CoV-2 M-pro inhibitors were predicted using this approach: Perampanel, Carprofen, Celecoxib, Alprazolam, Trovafloxacin, Sarafloxacin and ethyl biscoumacetate. […] Carprofen and Celecoxib have been selected by the COVID Moonshot initiative for in vitro testing; they show 3.97 and 11.90% M-pro inhibition at 50 µM, respectively.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32966814&#34; target=&#34;_blank&#34;&gt;32966814&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+AR12 is a derivative of celecoxib which no-longer acts against COX2 but instead inhibits the ATPase activity of multiple chaperone proteins, in particular GRP78.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33007455&#34; target=&#34;_blank&#34;&gt;33007455&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Coronavirus-triggered pulmonary and systemic disease, i.e. systemic inflammatory response to virally triggered lung injury, named COVID-19, and ongoing discussions on refining immunomodulation in COVID-19 without COX2 inhibition prompted us to search the related literature to show a potential target (COX2) and a weapon (celecoxib). […] Celecoxib has properties that should be evaluated in randomized controlled studies and is also available for off-label use.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33015819&#34; target=&#34;_blank&#34;&gt;33015819&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The drug interactions involving drugs prescribed in dentistry are all moderate drug interactions and are (according to drug group): (1) antibiotics: azithromycin, clavulanate, doxycycline, erythromycin, levofloxacin; (2) antifungals: clotrimazole, fluconazole, itraconazole, ketoconazole; (3) non-steroidal anti-inflammatories (NAIDS): celecoxib diclofenac, etodolac, flurbiprofen, ibuprofen, ketoprofen, ketorolac, mefenamic acid, naproxen, piroxicam.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

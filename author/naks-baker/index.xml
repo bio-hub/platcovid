@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAKS Baker | PlatCOVID</title>
+    <link>/author/naks-baker/</link>
+      <atom:link href="/author/naks-baker/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAKS Baker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAKS Baker</title>
+      <link>/author/naks-baker/</link>
+    </image>
+    
+    <item>
+      <title>Microbe hunting in the modern era: reflecting on a decade of microbial genomic epidemiology.</title>
+      <link>/publication/33022254/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/33022254/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

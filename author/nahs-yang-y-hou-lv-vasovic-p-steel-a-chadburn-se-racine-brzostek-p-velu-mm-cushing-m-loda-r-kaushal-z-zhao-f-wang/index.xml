@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAHS Yang, Y Hou, LV Vasovic, P Steel, A Chadburn, SE Racine-Brzostek, P Velu, MM Cushing, M Loda, R Kaushal, Z Zhao, F Wang | PlatCOVID</title>
+    <link>/author/nahs-yang-y-hou-lv-vasovic-p-steel-a-chadburn-se-racine-brzostek-p-velu-mm-cushing-m-loda-r-kaushal-z-zhao-f-wang/</link>
+      <atom:link href="/author/nahs-yang-y-hou-lv-vasovic-p-steel-a-chadburn-se-racine-brzostek-p-velu-mm-cushing-m-loda-r-kaushal-z-zhao-f-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAHS Yang, Y Hou, LV Vasovic, P Steel, A Chadburn, SE Racine-Brzostek, P Velu, MM Cushing, M Loda, R Kaushal, Z Zhao, F Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAHS Yang, Y Hou, LV Vasovic, P Steel, A Chadburn, SE Racine-Brzostek, P Velu, MM Cushing, M Loda, R Kaushal, Z Zhao, F Wang</title>
+      <link>/author/nahs-yang-y-hou-lv-vasovic-p-steel-a-chadburn-se-racine-brzostek-p-velu-mm-cushing-m-loda-r-kaushal-z-zhao-f-wang/</link>
+    </image>
+    
+    <item>
+      <title>Routine laboratory blood tests predict SARS-CoV-2 infection using machine learning.</title>
+      <link>/publication/32821907/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32821907/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tomás Palanques-Pastor | PlatCOVID</title>
+    <link>/author/tomas-palanques-pastor/</link>
+      <atom:link href="/author/tomas-palanques-pastor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tomás Palanques-Pastor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Tomás Palanques-Pastor</title>
+      <link>/author/tomas-palanques-pastor/</link>
+    </image>
+    
+    <item>
+      <title>Involvement of interleukin 6 in SARS-CoV-2 infection: siltuximab as a therapeutic option against COVID-19.</title>
+      <link>/publication/32499314/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32499314/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -33,7 +33,7 @@ Synonymous :saquinavir
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;saquinavir&lt;/em&gt; gene in 8 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;saquinavir&lt;/em&gt; gene in 15 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -93,6 +93,102 @@ As a result, Saquinavir, and five drugs (TCM5280805, TCM5280445, TCM5280343, TCM
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Eight compounds (Nilotinib, Saquinavir, Tipranavir, Lonafarnib, Tegobuvir, Olysio, Filibuvir and Cepharanthine) were selected for binding free energy calculations based on virtual screening and docking scores.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32661494&#34; target=&#34;_blank&#34;&gt;32661494&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results show that the most potent inhibitors of the SARS-CoV-2 3CL protease include saquinavir, tadalafil, rivaroxaban, sildenafil, dasatinib, etc.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32667665&#34; target=&#34;_blank&#34;&gt;32667665&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Furthermore, we implemented a coexpression drug repositioning analysis, cogena, and identified two antiviral drugs (saquinavir and ribavirin) and several other candidate drugs (such as dinoprost, dipivefrine, dexamethasone and (-)-isoprenaline).
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32696718&#34; target=&#34;_blank&#34;&gt;32696718&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Assessing evidences from molecular docking studies, it was clearly seen that, Epirubicin, Vapreotida, and Saquinavir exhibited better binding affinity against SARS-CoV-2 Main Protease than other drug molecules among the 23 potential inhibitors. […] Our overall prediction findings indicate that Epirubicin, Vapreotida, and Saquinavir may inhibit COVID-19 by synergistic interactions in the active cavity and those results can pave the way in drug discovery although it has to be further validated by in-vitro and in-vivo investigations.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32737681&#34; target=&#34;_blank&#34;&gt;32737681&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+From the screening of approved drug library, three antiviral agents ritonavir, nelfinavir and saquinavir were predicted to be the most potent Mpro inhibitors.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32786890&#34; target=&#34;_blank&#34;&gt;32786890&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results showed that the antimalarial drug Metaquine and anti-HIV antiretroviral Saquinavir interacted with all the studied receptors, indicating that they are potential candidates for multitarget drugs for COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32793181&#34; target=&#34;_blank&#34;&gt;32793181&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The results reveal that quinoline,1,2,3,4-tetrahydro-1-[(2-phenylcyclopropyl)sulfonyl]-trans-(8CI) and saquinavir strongly interact with the active site (Cys-His catalytic dyad), thereby are predicted to hinder the activity of SARS-CoV-2 3CLpro. […] In conclusion, owing to their ability to target functional macromolecules of SARS-CoV-2, along with positive ADMET properties, quinoline,1,2,3,4-tetrahydro-1-[(2-phenylcyclopropyl)sulfonyl]-trans-(8CI), saquinavir, elvitegravir, oxolinic acid, and rilapladib are suggested for the treatment of COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32798373&#34; target=&#34;_blank&#34;&gt;32798373&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Saquinavir and Beclabuvir were identified as the best novel candidates for COVID-19 therapy by using Virtual Screening of drugs approved for other clinical indications.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32909528&#34; target=&#34;_blank&#34;&gt;32909528&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Based on virtual screening technology and molecular dynamics simulation, we found 23 approved clinical drugs such as Viomycin, Capastat, Carfilzomib and Saquinavir, which showed high affinity with the 3CLpro active sites.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32923004&#34; target=&#34;_blank&#34;&gt;32923004&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The calculated binding free energies of Saquinavir, Hypericin, Baicalein and Bromocriptine for the N-terminus of the homology model were -37.2711±3.2160, -30.1746±3.1914, -23.8953±4.4800, -34.1350±4.3683 kcal/mol, respectively, while the calculated binding free energies were -60.2757±4.7708, -30.9955±2.9975, -46.3099±3.5689, -59.8104±3.5389 respectively when binding to the C-terminus. […] Thus, the compounds including Saquinavir, Hypericin, Baicalein and Bromocriptine, could bind the N-terminus and C-terminus of the homology model of the SARS-CoV-2 Nsp14, providing as a candidate drug against SARS-CoV-2 for further study.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33015628&#34; target=&#34;_blank&#34;&gt;33015628&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Classification of eight drug molecules (atazanavir, darunavir, fosamprenavir (amprenavir-metabolised product), saquinavir, lopinavir, ritonavir, nelfinavir, and indinavir) based on their molecular structures was completed and reported. […] The binding scores of the drugs on protease followed the order saquinavir &amp;gt; nelfinavir &amp;gt; lopinavir = indinavir &amp;gt; darunavir &amp;gt; amprenavir &amp;gt; ritonavir &amp;gt; atazanavir.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33025993&#34; target=&#34;_blank&#34;&gt;33025993&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Bromocriptine and saquinavir are other approved drugs that also demonstrate stability in the active site of Mpro, albeit their relative binding energies are low compared to the N3 inhibitor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33046764&#34; target=&#34;_blank&#34;&gt;33046764&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Seven HIV inhibitors, darunavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, and tipranavir, were used as the potential lead drugs to investigate access to the drug binding sites in Mpro.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

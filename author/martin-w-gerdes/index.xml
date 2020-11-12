@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin W Gerdes | PlatCOVID</title>
+    <link>/author/martin-w-gerdes/</link>
+      <atom:link href="/author/martin-w-gerdes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin W Gerdes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Martin W Gerdes</title>
+      <link>/author/martin-w-gerdes/</link>
+    </image>
+    
+    <item>
+      <title>Statistical Explorations and Univariate Timeseries Analysis on COVID-19 Datasets to Understand the Trend of Disease Spreading and Death.</title>
+      <link>/publication/32486055/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32486055/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

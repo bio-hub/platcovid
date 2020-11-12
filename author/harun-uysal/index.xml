@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Harun Uysal | PlatCOVID</title>
+    <link>/author/harun-uysal/</link>
+      <atom:link href="/author/harun-uysal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Harun Uysal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Harun Uysal</title>
+      <link>/author/harun-uysal/</link>
+    </image>
+    
+    <item>
+      <title>&#39;&#39;Determining Host Factors Contributing to Disease Severity in a Family Cluster of 29 Hospitalized SARS-CoV-2 Patients: Could Genetic Factors Be Relevant in the Clinical Course of COVID-19?&#39;&#39;.</title>
+      <link>/publication/32492209/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32492209/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#39;&#39;Tociluzumab challenge: A series of cytokine storm therapy experience in hospitalized Covid-19 pneumonia patients&#39;&#39;.</title>
+      <link>/publication/32484930/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32484930/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

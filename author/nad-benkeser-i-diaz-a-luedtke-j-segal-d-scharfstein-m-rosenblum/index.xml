@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAD Benkeser, I Díaz, A Luedtke, J Segal, D Scharfstein, M Rosenblum | PlatCOVID</title>
+    <link>/author/nad-benkeser-i-diaz-a-luedtke-j-segal-d-scharfstein-m-rosenblum/</link>
+      <atom:link href="/author/nad-benkeser-i-diaz-a-luedtke-j-segal-d-scharfstein-m-rosenblum/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAD Benkeser, I Díaz, A Luedtke, J Segal, D Scharfstein, M Rosenblum</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAD Benkeser, I Díaz, A Luedtke, J Segal, D Scharfstein, M Rosenblum</title>
+      <link>/author/nad-benkeser-i-diaz-a-luedtke-j-segal-d-scharfstein-m-rosenblum/</link>
+    </image>
+    
+    <item>
+      <title>Improving precision and power in randomized trials for COVID-19 treatments using covariate adjustment, for binary, ordinal, and time-to-event outcomes.</title>
+      <link>/publication/32978962/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32978962/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/cangrelor/</link>
+      <atom:link href="/drugpanel/cangrelor/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/cangrelor/</link>
+    </image>
+    
+    <item>
+      <title>CANGRELOR</title>
+      <link>/drugpanel/cangrelor/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/cangrelor/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db06441&#39; target=&#39;_blank&#39;&gt;db06441&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=cangrelor&#34; target=&#34;_blank&#34;&gt;cangrelor&lt;/a&gt; &lt;br&gt;
+Synonymous :[dichloro-[[[(2r,3s,4r,5r)-3,4-dihydroxy-5-[6-(2-methylsulfanylethylamino)-2-(3,3,3-trifluoropropylsulfanyl)purin-9-yl]oxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-hydroxyphosphoryl]methyl]phosphonic acid | cangrelor
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;cangrelor&lt;/em&gt; gene in 12 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32741313&#34; target=&#34;_blank&#34;&gt;32741313&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our studies have identified six potential inhibitors of Mpro enzyme, out of which four are commercially available FDA approved drugs (Cobicistat, Iopromide, Cangrelor, and Fortovase) and two are from Specs database of natural compounds (Hopeaphenol and Cyclosieversiodide-A). […] While Cobicistat and Fortovase are known as HIV drugs, Iopromide is a contrast agent and Cangrelor is an anti-platelet drug.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32866780&#34; target=&#34;_blank&#34;&gt;32866780&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+These are antidiabetic (acarbose), vitamins (riboflavin and levomefolic acid), anti-platelet agents (cangrelor), aminoglycoside antibiotics (Kanamycin, amikacin) bronchodilator (fenoterol), immunomodulator (lamivudine), and anti-neoplastic agents (mitoxantrone and vidarabine). […] However, while considering the relative side chain fluctuations when compared to the S1-RBD: ACE2 complex riboflavin, fenoterol, cangrelor and vidarabine emerged out as molecules with prolonged relative stability. […] We identified 4 already approved drugs (riboflavin, fenoterol, cangrelor and vidarabine) as possible agents for repurposing as inhibitors of S1:ACE2 interaction.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32980406&#34; target=&#34;_blank&#34;&gt;32980406&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+As result, cangrelor, fludarabine, folic acid and polydatin were determined to be the most potent drugs which have potency to inhibit both the wild type and mutant SARS-CoV-2 helicase.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

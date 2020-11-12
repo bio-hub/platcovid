@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/51548&#34; target=&#34;_blank&#34;&gt;51548&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=51548&#34; target=&#34;_blank&#34;&gt; 19p13.3&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/606211&#39; target=&#39;_blank&#39;&gt;606211&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/171490&#39; target=&#39;_blank&#39;&gt;171490&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -850,7 +850,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of SIRT6 gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of SIRT6 gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -870,6 +870,14 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 SIRT4 is a tumor suppressor, in contrastto SIRT5 that promotes cell proliferation causing colorectal cancer; SIRT6 attenuates herpes virus associated with Kaposi’s Sarcoma (KSHV) in immune compromised patients. […] It is concluded that SIRT1, SIRT2 and SIRT4 are involved in the development of cancer, the suppression of SIRT5 and SIRT7 promotes the apoptosis of cancer cells and SIRT6 attenuates the replication of KSHV, in addition to the molecular pathology pathway of COVID-19 is associated with the inhibition of SIRT1 activity that may be related to inflammatory processes. […] La SIRT4 es un supresor de tumores, en contraste con la SIRT5 que promueve la proliferación celular provocando el cáncer colorrectal; la SIRT6 atenúa al herpes virus asociado al Sarcoma de Kaposi (KSHV) en pacientes inmuno comprometidos. […] Se concluye que las SIRT1, SIRT2 y SIRT4 están involucradas en el desarrollo del cáncer, la supresión de SIRT5 y SIRT7 promueve la apoptosis de células cancerígenas y la SIRT6 atenúa la replicación de KSHV, además la vía de patología molecular de la COVID-19 está asociada a la inhibición de la actividad de SIRT1 que puede estar relacionada a procesos inflamatorios.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33013423&#34; target=&#34;_blank&#34;&gt;33013423&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Several genes were differentially expressed in younger and older smokers, and patients with COPD and IPF compared to non-smokers which were part of the mitochondrial biogenesis/function (HSPD1, FEN1, COX18, COX10, UCP2 &amp;amp; 3), cellular senescence (PCNA, PTEN, KLOTHO, CDKN1C, TNKS2, NFATC1 &amp;amp; 2, GADD45A), and telomere replication/maintenance (PARP1, SIRT6, NBN, TERT, RAD17, SLX4, HAT1) target genes.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wen-Hao Zhang | PlatCOVID</title>
+    <link>/author/wen-hao-zhang/</link>
+      <atom:link href="/author/wen-hao-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wen-Hao Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Wen-Hao Zhang</title>
+      <link>/author/wen-hao-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Serum calcium as a biomarker of clinical severity and prognosis in patients with coronavirus disease 2019.</title>
+      <link>/publication/32589164/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32589164/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

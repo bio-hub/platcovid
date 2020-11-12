@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gary D Lopaschuk | PlatCOVID</title>
+    <link>/author/gary-d-lopaschuk/</link>
+      <atom:link href="/author/gary-d-lopaschuk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gary D Lopaschuk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Gary D Lopaschuk</title>
+      <link>/author/gary-d-lopaschuk/</link>
+    </image>
+    
+    <item>
+      <title>SARS-CoV-2 perturbs the renin-angiotensin system and energy metabolism.</title>
+      <link>/publication/32469255/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32469255/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

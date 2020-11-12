@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NACE Rudd | PlatCOVID</title>
+    <link>/author/nace-rudd/</link>
+      <atom:link href="/author/nace-rudd/index.xml" rel="self" type="application/rss+xml" />
+    <description>NACE Rudd</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NACE Rudd</title>
+      <link>/author/nace-rudd/</link>
+    </image>
+    
+    <item>
+      <title>GSK-3 Inhibition as a Therapeutic Approach Against SARs CoV2: Dual Benefit of Inhibiting Viral Replication While Potentiating the Immune Response.</title>
+      <link>/publication/32695123/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32695123/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

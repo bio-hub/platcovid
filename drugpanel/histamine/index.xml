@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PlatCOVID</title>
+    <link>/drugpanel/histamine/</link>
+      <atom:link href="/drugpanel/histamine/index.xml" rel="self" type="application/rss+xml" />
+    <description>PlatCOVID</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>PlatCOVID</title>
+      <link>/drugpanel/histamine/</link>
+    </image>
+    
+    <item>
+      <title>HISTAMINE</title>
+      <link>/drugpanel/histamine/info/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/drugpanel/histamine/info/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;hr /&gt;
+&lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
+DrugBank ID: &lt;a href=&#39;https://www.drugbank.ca/drugs/db05381&#39; target=&#39;_blank&#39;&gt;db05381&lt;/a&gt; &lt;br&gt;
+DrugCentral: &lt;a href=&#34;http://drugcentral.org/?q=histamine&#34; target=&#34;_blank&#34;&gt;histamine&lt;/a&gt; &lt;br&gt;
+Synonymous :1h-imidazole-4-ethanamine | 2-(4-imidazolyl)ethylamine | 4-imidazoleethylamine | 5-imidazoleethylamine | beta-aminoethylglyoxaline | beta-aminoethylimidazole
+&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;drug-sentece-context&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
+&lt;br&gt;
+&lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;histamine&lt;/em&gt; gene in 13 abstracts.
+&lt;/p&gt;
+&lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+pmid
+&lt;/th&gt;
+&lt;th style=&#34;text-align:center;position: sticky; top:0; background-color: #FFFFFF;&#34;&gt;
+sentence
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32499303&#34; target=&#34;_blank&#34;&gt;32499303&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The over-the-counter histamine-2 receptor antagonist famotidine is a putative therapy for COVID-19.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32013309&#34; target=&#34;_blank&#34;&gt;32013309&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Viral activate MCs release early inflammatory chemical copounds including histamine and protease; while late activation provoke the generation of pro-inflammatory IL-1 family members including IL-1, IL-6 and IL-33.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32780184&#34; target=&#34;_blank&#34;&gt;32780184&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The 49th annual meeting of the European Histamine Research Society (EHRS) was planned to be held at ‘Die Wolfsburg’, Mühlheim an der Ruhr near Düsseldorf in Germany. […] The Online Symposium covered a range of interesting and inspiring topics around the molecular and clinical pharmacology of histamine, with nine exciting presentations delivered by young and senior members of the Society across both days.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32852340&#34; target=&#34;_blank&#34;&gt;32852340&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Individuals taking histamine-2 receptor antagonists were not at elevated risk. […] We found evidence of an independent, dose-response relationship between the use of antisecretory medications and COVID-19 positivity; individuals taking PPIs twice daily have higher odds for reporting a positive test when compared with those using lower-dose PPIs up to once daily, and those taking the less potent histamine-2 receptor antagonists are not at increased risk.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32871242&#34; target=&#34;_blank&#34;&gt;32871242&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Combinations of Histamine-1 and Histamine-2 receptor antagonists have been effective in urticaria, and might reduce the histamine-mediated pulmonary cytokine storm in COVID-19. […] Can a combination of Histamine-1 and Histamine-2 receptor blockers improve COVID-19 inpatient outcomes? […] Of all patients, including those with Do Not Resuscitate directives, receiving the dual-histamine receptor blockade for at least 48 h, the combination drug treatment resulted in a 16.4% rate of intubation, a 7.3% rate of intubation after a minimum of 48 h of treatment, a 15.5% rate of inpatient mortality, and 11.0 days duration of hospitalization. […] This physician-sponsored cohort study of cetirizine and famotidine provides proof-of-concept of a safe and effective method to reduce the progression in symptom severity, presumably by minimizing the histamine-mediated cytokine storm. […] Further clinical studies in COVID-19 are warranted of the repurposed off-label combination of two historically-safe histamine receptor blockers.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32945158&#34; target=&#34;_blank&#34;&gt;32945158&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In this pathologic environment, the activation of mast cells (MCs) causes the release of histamine, proteases, cytokines, chemokines and arachidonic acid compounds, such as prostaglandin D2 and leukotrienes, all of which are involved in the inflammatory network. […] Histamine is stored endogenously within the secretory granules of MCs and is released into the vessels after cell stimulation. […] Histamine is involved in the expression of chemokine IL-8 and cytokine IL-6, an effect that can be inhibited by histamine receptor antagonists. […] Vannier et al., 1993), it was found that histamine as well as IL-1 are implicated in the pathogenesis of pulmonary inflammatory reaction, after micorganism immune cell activation. […] IL-1 in combination with histamine can cause a strong increase of IL-1 levels and, consequently, a higher degree of inflammation. […] However, it has been reported that histamine alone has no effect on IL-1 production. […] Furthermore, histamine enhances IL-1-induced IL-6 gene expression and protein synthesis via H2 receptors in peripheral monocytes. […] Therefore, since MCs are large producers of histamine in inflammatory reactions, this vasoactive amine, by increasing the production of IL-1, can amplify the inflammatory process in the lung infected with SARS-CoV-2. […] Here, we have proposed for the first time an emerging role for histamine released by MCs which in combination with IL-1 can cause an increase in lung inflammation induced by the viral infection SARS-CoV-2.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/33007575&#34; target=&#34;_blank&#34;&gt;33007575&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+In order to identify a novel potent inhibitor, we performed blind docking studies on the main virus protease Mpro with eight approved drugs belonging to four pharmacological classes such as: anti-malarial, anti-bacterial, anti-infective and anti-histamine.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

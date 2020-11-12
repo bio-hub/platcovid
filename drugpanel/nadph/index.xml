@@ -33,7 +33,7 @@ Synonymous :dihydronicotinamide-adenine dinucleotide phosphate | reduced nicotin
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;nadph&lt;/em&gt; gene in 1 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;nadph&lt;/em&gt; gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -53,6 +53,22 @@ sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The signalling mechanism whereby these stimuli evoke TF expression entails activation of NADPH oxidase, upstream from activation of the NF-kappaB transcription factor that drives the induced transcription of the TF gene. […] When single-stranded RNA viruses are taken up into cellular endosomes, they stimulate endosomal formation and activation of NADPH oxidase complexes via RNA-responsive toll-like receptor 7. […] It is therefore proposed that SARS-CoV-2 infection of endothelial cells evokes the expression of TF which is contingent on endosomal NADPH oxidase activation.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32811354&#34; target=&#34;_blank&#34;&gt;32811354&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+The overexpression of glutathione, glutathione peroxidase, and superoxide dismutase, and down-regulation of NADPH oxidase are induced by VD to reduce the oxidative stress.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32990980&#34; target=&#34;_blank&#34;&gt;32990980&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+However, it may also facilitate viral entry by increasing ACE2 as the main SARS-CoV-2 receptor and mediates ROS production through NADPH oxidase, as a double-edged sword effect.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

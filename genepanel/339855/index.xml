@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/339855&#34; target=&#34;_blank&#34;&gt;339855&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=339855&#34; target=&#34;_blank&#34;&gt; 3q22.2&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/604945&#39; target=&#39;_blank&#39;&gt;604945&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/618858&#39; target=&#39;_blank&#39;&gt;618858&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/616214&#39; target=&#39;_blank&#39;&gt;616214&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/613370&#39; target=&#39;_blank&#39;&gt;613370&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/606176&#39; target=&#39;_blank&#39;&gt;606176&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/176730&#39; target=&#39;_blank&#39;&gt;176730&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/125852&#39; target=&#39;_blank&#39;&gt;125852&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -514,7 +514,7 @@ Medium
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of KY gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of KY gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -534,6 +534,14 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 The most productive researchers were: Yuen KY, Drosten C, Baric RS.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32411751&#34; target=&#34;_blank&#34;&gt;32411751&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Moreover, Professors Yuen KY and Peiris JSM made great achievements in coronavirus research.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

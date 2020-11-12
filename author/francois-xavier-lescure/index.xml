@@ -5,12 +5,20 @@
     <link>/author/francois-xavier-lescure/</link>
       <atom:link href="/author/francois-xavier-lescure/index.xml" rel="self" type="application/rss+xml" />
     <description>François-Xavier Lescure</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
       <title>François-Xavier Lescure</title>
       <link>/author/francois-xavier-lescure/</link>
     </image>
+    
+    <item>
+      <title>Epidemiological Observations on the Association Between Anosmia and COVID-19 Infection: Analysis of Data From a Self-Assessment Web Application.</title>
+      <link>/publication/32496206/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32496206/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Clinical efficacy of hydroxychloroquine in patients with covid-19 pneumonia who require oxygen: observational comparative study using routine care data.</title>

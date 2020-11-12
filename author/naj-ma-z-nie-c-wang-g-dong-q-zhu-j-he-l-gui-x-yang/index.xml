@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAJ Ma, Z Nie, C Wang, G Dong, Q Zhu, J He, L Gui, X Yang | PlatCOVID</title>
+    <link>/author/naj-ma-z-nie-c-wang-g-dong-q-zhu-j-he-l-gui-x-yang/</link>
+      <atom:link href="/author/naj-ma-z-nie-c-wang-g-dong-q-zhu-j-he-l-gui-x-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAJ Ma, Z Nie, C Wang, G Dong, Q Zhu, J He, L Gui, X Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAJ Ma, Z Nie, C Wang, G Dong, Q Zhu, J He, L Gui, X Yang</title>
+      <link>/author/naj-ma-z-nie-c-wang-g-dong-q-zhu-j-he-l-gui-x-yang/</link>
+    </image>
+    
+    <item>
+      <title>Active contour regularized semi-supervised learning for COVID-19 CT infection segmentation with limited annotations.</title>
+      <link>/publication/33045699/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/33045699/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

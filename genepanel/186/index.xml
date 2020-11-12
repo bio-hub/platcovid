@@ -26,11 +26,11 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/186&#34; target=&#34;_blank&#34;&gt;186&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=186&#34; target=&#34;_blank&#34;&gt; Xq23&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/300034&#39; target=&#39;_blank&#39;&gt;300034&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/613228&#39; target=&#39;_blank&#39;&gt;613228&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/208400&#39; target=&#39;_blank&#39;&gt;208400&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
-&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene belongs to the G-protein coupled receptor 1 family, and functions as a receptor for angiotensin II. It is an intergral membrane protein that is highly expressed in fetus, but scantily in adult tissues, except brain, adrenal medulla, and atretic ovary. This receptor has been shown to mediate programmed cell death and this apoptotic function may play an important role in developmental biology and pathophysiology. Mutations in this gene are been associated with X-linked cognitive disability. Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) and SARS-CoV-2 infection result in down-regulation of ACE2 (angiotensin converting enzyme-2) receptors which triggers serious inflammatory lesions, primarily in the lungs. The inflammatory reaction is mediated by angiotensin II derivatives; however, while the ACE2-angiotensin II-angiotensin AT1 receptor pathway contributes to the pathophysiology of ARDS (acute respiratory distress syndrome), the activation of the ACE-2-angiotensin(1-7)-angiotensin AT2 receptor and the ACE-2-angiotensin(1-7)-Mas receptor pathways have been shown to be protective. [provided by RefSeq, Jun 2020] &lt;br&gt;&lt;br&gt;
+&lt;strong&gt;Summary Entrez&lt;/strong&gt; &lt;br&gt;The protein encoded by this gene belongs to the G-protein coupled receptor 1 family, and functions as a receptor for angiotensin II. It is an intergral membrane protein that is highly expressed in fetus and in neonates, but scantily in adult tissues, except brain, adrenal medulla, and atretic ovary. This receptor has been shown to mediate programmed cell death and this apoptotic function may play an important role in developmental biology and pathophysiology. Mutations in this gene are been associated with X-linked cognitive disability. Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV) and SARS-CoV-2 infection results in down-regulation of angiotensin converting enzyme-2 (ACE2) receptors, the effects of which, triggers serious inflammatory lesions in the tissues involved, primarily in the lungs. The inflammatory reaction appears to be mediated by angiotensin II derivatives, including the angiotensin AT2 receptor which has been found to be upregulated in bronchoalveolar lavage samples from Coronavirus disease 2019 (COVID19) patients. [provided by RefSeq, Jul 2020] &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
 &lt;hr /&gt;
 </description>
@@ -206,7 +206,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of AGTR2 gene in 1 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of AGTR2 gene in 2 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -226,6 +226,14 @@ Gene Context Sentence
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Other receptors such as ANPEP, AGTR2 are expressed at low level in the conjunctiva.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32750889&#34; target=&#34;_blank&#34;&gt;32750889&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Here we found that AGTR2 (angiotensin II receptor type 2), a G-protein coupled receptor, has interaction with ACE2 and is highly expressed in lung with a high tissue specificity. […] More importantly, simulation of 3D structure based protein-protein interaction reveals that AGTR2 shows a higher binding affinity with the Spike protein of SARS-CoV-2 than ACE2 (energy: -8.2 vs. -5.1 [kcal/mol]). […] A number of compounds, biologics and traditional Chinese medicine that could decrease the expression level of AGTR2 were predicted. […] Finally, we suggest that AGTR2 could be a putative novel gene for the the entry of SARS-CoV-2 into human cells, which could provide different insight for the research of SARS-COV-2 proteins with their receptors.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valerio Cozza | PlatCOVID</title>
+    <link>/author/valerio-cozza/</link>
+      <atom:link href="/author/valerio-cozza/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valerio Cozza</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Valerio Cozza</title>
+      <link>/author/valerio-cozza/</link>
+    </image>
+    
+    <item>
+      <title>I-ACTSS-COVID-19-the Italian acute care and trauma surgery survey for COVID-19 pandemic outbreak.</title>
+      <link>/publication/32583216/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32583216/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intra-abdominal hypertension as a trigger of gut failure in SARS-CoV-2 infection: Effect of open abdomen (OA) and negative pressure therapy (NPT) on respiratory and gastrointestinal (GI) function.</title>
+      <link>/publication/32531539/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32531539/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

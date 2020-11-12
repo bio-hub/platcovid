@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhe Chen | PlatCOVID</title>
+    <link>/author/zhe-chen/</link>
+      <atom:link href="/author/zhe-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhe Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhe Chen</title>
+      <link>/author/zhe-chen/</link>
+    </image>
+    
+    <item>
+      <title>Clinical characteristics of 17 patients with COVID-19 and systemic autoimmune diseases: a retrospective study.</title>
+      <link>/publication/32546598/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32546598/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical Characteristics of Critically Ill Patients Co-infected with SARS-CoV-2 and the Influenza Virus in Wuhan, China.</title>
+      <link>/publication/32470606/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32470606/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prognostic Symptoms on COVID-19 Severity.</title>
+      <link>/publication/32544071/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32544071/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

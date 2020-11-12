@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAS Choi, M Ki | PlatCOVID</title>
+    <link>/author/nas-choi-m-ki/</link>
+      <atom:link href="/author/nas-choi-m-ki/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAS Choi, M Ki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAS Choi, M Ki</title>
+      <link>/author/nas-choi-m-ki/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing the effects of social distancing on the COVID-19 pandemic in Korea using mathematical modeling.</title>
+      <link>/publication/32898942/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32898942/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the reproductive number and the outbreak size of COVID-19 in Korea.</title>
+      <link>/publication/32164053/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32164053/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

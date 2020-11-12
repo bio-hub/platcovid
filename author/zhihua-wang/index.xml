@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhihua Wang | PlatCOVID</title>
+    <link>/author/zhihua-wang/</link>
+      <atom:link href="/author/zhihua-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhihua Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhihua Wang</title>
+      <link>/author/zhihua-wang/</link>
+    </image>
+    
+    <item>
+      <title>Improved Clinical Symptoms and Mortality on Severe/Critical COVID-19 Patients Utilizing Convalescent Plasma Transfusion.</title>
+      <link>/publication/32573724/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32573724/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical characteristics and risk factors associated with COVID-19 disease severity in patients with cancer in Wuhan, China: a multicentre, retrospective, cohort study.</title>
+      <link>/publication/32479790/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32479790/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -26,7 +26,7 @@
 &lt;p align=&#34;left&#34; style=&#34;font-size:16px&#34;&gt;
 &lt;p&gt;ENTREZID: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/4318&#34; target=&#34;_blank&#34;&gt;4318&lt;/a&gt; | Type: Protein Coding |
 Map: &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/genome/gdv/browser/gene/?id=4318&#34; target=&#34;_blank&#34;&gt; 20q13.12&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
-OMIM: &lt;a href=&#39;https://omim.org/entry/613073&#39; target=&#39;_blank&#39;&gt;613073&lt;/a&gt; | &lt;a href=&#39;https://omim.org/entry/120361&#39; target=&#39;_blank&#39;&gt;120361&lt;/a&gt;
+OMIM: &lt;a href=&#39;https://omim.org/entry/601340&#39; target=&#39;_blank&#39;&gt;601340&lt;/a&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;p align=&#34;justify&#34; style=&#34;font-size:16px&#34;&gt;
@@ -500,7 +500,7 @@ NA
 &lt;h2&gt;Gene Context Sentence&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of MMP9 gene in 2 abstracts.
+&lt;strong&gt;Table 2.&lt;/strong&gt; Analysis of context sentence of MMP9 gene in 4 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -528,6 +528,22 @@ This is often accompanied by chronic low-grade inflammation, driven by the activ
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 Interestingly, matrix metalloproteinases (MMPs), such as MMP2, MMP8 and MMP9, were altered both at the protein and mRNA transcript levels in female and male KO mice, but WT mice exposed to PG alone showed a sex-dependent phenotype.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32595353&#34; target=&#34;_blank&#34;&gt;32595353&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Our results are in accordance with the literature on response of IL6 family of cytokines and their importance, in addition, we find that matrix metalloproteinase 2 (MMP2) and matrix metalloproteinase 9 (MMP9) with keratan sulfate synthesis pathway may play a key role in the infection. […] We hypothesize that MMP9 inhibitors have potential to prevent “cytokine storm” in severely affected patients.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32679150&#34; target=&#34;_blank&#34;&gt;32679150&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Two drugs interacted directly with the hub-bottleneck node i.e. matrix metallopeptidase 9 (MMP9), a host protein corresponding to its upregulated gene. […] MMP9 showed functional annotations associated with neutrophil mediated immunoinflammation. […] Moreover, literature survey revealed that angiotensin converting enzyme 2, a membrane receptor of SARS-CoV-2 virus, might have functional cooperativity with MMP9 and a possible interaction with both drugs. […] The present study reveals that between chloroquine and melatonin, melatonin appears to be more promising repurposed drug against MMP9 for better immunocompromisation in COVID-19.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

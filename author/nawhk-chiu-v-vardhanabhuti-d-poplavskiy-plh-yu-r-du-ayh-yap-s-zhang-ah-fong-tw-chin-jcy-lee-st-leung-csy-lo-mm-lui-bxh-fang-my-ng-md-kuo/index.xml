@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NAWHK Chiu, V Vardhanabhuti, D Poplavskiy, PLH Yu, R Du, AYH Yap, S Zhang, AH Fong, TW Chin, JCY Lee, ST Leung, CSY Lo, MM Lui, BXH Fang, MY Ng, MD Kuo | PlatCOVID</title>
+    <link>/author/nawhk-chiu-v-vardhanabhuti-d-poplavskiy-plh-yu-r-du-ayh-yap-s-zhang-ah-fong-tw-chin-jcy-lee-st-leung-csy-lo-mm-lui-bxh-fang-my-ng-md-kuo/</link>
+      <atom:link href="/author/nawhk-chiu-v-vardhanabhuti-d-poplavskiy-plh-yu-r-du-ayh-yap-s-zhang-ah-fong-tw-chin-jcy-lee-st-leung-csy-lo-mm-lui-bxh-fang-my-ng-md-kuo/index.xml" rel="self" type="application/rss+xml" />
+    <description>NAWHK Chiu, V Vardhanabhuti, D Poplavskiy, PLH Yu, R Du, AYH Yap, S Zhang, AH Fong, TW Chin, JCY Lee, ST Leung, CSY Lo, MM Lui, BXH Fang, MY Ng, MD Kuo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>NAWHK Chiu, V Vardhanabhuti, D Poplavskiy, PLH Yu, R Du, AYH Yap, S Zhang, AH Fong, TW Chin, JCY Lee, ST Leung, CSY Lo, MM Lui, BXH Fang, MY Ng, MD Kuo</title>
+      <link>/author/nawhk-chiu-v-vardhanabhuti-d-poplavskiy-plh-yu-r-du-ayh-yap-s-zhang-ah-fong-tw-chin-jcy-lee-st-leung-csy-lo-mm-lui-bxh-fang-my-ng-md-kuo/</link>
+    </image>
+    
+    <item>
+      <title>Detection of COVID-19 Using Deep Learning Algorithms on Chest Radiographs.</title>
+      <link>/publication/32969949/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32969949/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

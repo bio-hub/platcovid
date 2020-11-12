@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marine Driessen | PlatCOVID</title>
+    <link>/author/marine-driessen/</link>
+      <atom:link href="/author/marine-driessen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marine Driessen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Marine Driessen</title>
+      <link>/author/marine-driessen/</link>
+    </image>
+    
+    <item>
+      <title>A snapshot of the Covid-19 pandemic among pregnant women in France.</title>
+      <link>/publication/32505805/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32505805/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

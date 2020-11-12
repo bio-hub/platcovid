@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marina N Tautan | PlatCOVID</title>
+    <link>/author/marina-n-tautan/</link>
+      <atom:link href="/author/marina-n-tautan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marina N Tautan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Marina N Tautan</title>
+      <link>/author/marina-n-tautan/</link>
+    </image>
+    
+    <item>
+      <title>Assessing the relationship between surface levels of PM2.5 and PM10 particulate matter impact on COVID-19 in Milan, Italy.</title>
+      <link>/publication/32512362/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32512362/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the relationship between ground levels of ozone (O&lt;sub&gt;3&lt;/sub&gt;) and nitrogen dioxide (NO&lt;sub&gt;2&lt;/sub&gt;) with coronavirus (COVID-19) in Milan, Italy.</title>
+      <link>/publication/32559534/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32559534/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

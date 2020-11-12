@@ -33,7 +33,7 @@ Synonymous :maraviroc | maravirocum
 &lt;h2&gt;Drug Sentece Context&lt;/h2&gt;
 &lt;br&gt;
 &lt;p style=&#34;font-size:12px&#34; align=&#34;center&#34;&gt;
-&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;maraviroc&lt;/em&gt; gene in 3 abstracts.
+&lt;strong&gt;Table 1.&lt;/strong&gt; Analysis of context sentence of &lt;em&gt;maraviroc&lt;/em&gt; gene in 6 abstracts.
 &lt;/p&gt;
 &lt;table class=&#34;table table-striped&#34; style=&#34;width: auto !important; margin-left: auto; margin-right: auto;&#34;&gt;
 &lt;thead&gt;
@@ -61,6 +61,14 @@ Using well-defined computational methods, we identified Glecaprevir and Maraviro
 &lt;/td&gt;
 &lt;td style=&#34;text-align:center;&#34;&gt;
 In addition to the selected compounds, 4 nucleoside analogs of anti-viral (Raltgravir, Maraviroc and Favipiravir) and anti-inflammatory (Prednisolone) drugs were selected for further investigations. […] The results showed that Raltegravir and Maraviroc among other compounds can bind strongly to the active site of the protein compared to sinefungin, and can be potential candidates to inhibit NSP-16. […] Also, the MD simulation results suggested that the Maraviroc and Raltegravir are more effective drug candidates than Sinefungin for inhibiting the enzyme. […] It is concluded that Raltegravir and Maraviroc which may be used in the treatment of COVID-19 after Invitro and invivo studies and clinical trial for final confirmation of drug effectiveness.Communicated by Ramaswamy H.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+&lt;a href=&#34;/publication/32739404&#34; target=&#34;_blank&#34;&gt;32739404&lt;/a&gt;
+&lt;/td&gt;
+&lt;td style=&#34;text-align:center;&#34;&gt;
+Interestingly, the CCR5-specific antagonist maraviroc did not show any anti-SARS-CoV-2 activity.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;

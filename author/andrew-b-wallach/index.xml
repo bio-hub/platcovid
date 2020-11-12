@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew B Wallach | PlatCOVID</title>
+    <link>/author/andrew-b-wallach/</link>
+      <atom:link href="/author/andrew-b-wallach/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew B Wallach</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Andrew B Wallach</title>
+      <link>/author/andrew-b-wallach/</link>
+    </image>
+    
+    <item>
+      <title>A Phone Call Away: New York&#39;s Hotline And Public Health In The Rapidly Changing COVID-19 Pandemic.</title>
+      <link>/publication/32525707/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32525707/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staffing Up For The Surge: Expanding The New York City Public Hospital Workforce During The COVID-19 Pandemic.</title>
+      <link>/publication/32525704/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32525704/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staying Connected In The COVID-19 Pandemic: Telehealth At The Largest Safety-Net System In The United States.</title>
+      <link>/publication/32525705/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32525705/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

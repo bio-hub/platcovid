@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ayse Banu Demir | PlatCOVID</title>
+    <link>/author/ayse-banu-demir/</link>
+      <atom:link href="/author/ayse-banu-demir/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ayse Banu Demir</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Ayse Banu Demir</title>
+      <link>/author/ayse-banu-demir/</link>
+    </image>
+    
+    <item>
+      <title>Evidence for mutations in SARS-CoV-2 Italian isolates potentially affecting virus transmission.</title>
+      <link>/publication/32492183/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32492183/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

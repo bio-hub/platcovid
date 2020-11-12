@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jameel M Inal | PlatCOVID</title>
+    <link>/author/jameel-m-inal/</link>
+      <atom:link href="/author/jameel-m-inal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jameel M Inal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>BioHub - UFPE</copyright><lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7e12209333f22d741aca7d462871821f_9877_512x512_fill_lanczos_center_2.png</url>
+      <title>Jameel M Inal</title>
+      <link>/author/jameel-m-inal/</link>
+    </image>
+    
+    <item>
+      <title>Decoy ACE2-expressing extracellular vesicles that competitively bind SARS-CoV-2 as a possible COVID-19 therapy.</title>
+      <link>/publication/32542396/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/32542396/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
